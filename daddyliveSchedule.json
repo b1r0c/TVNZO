@@ -3342,7 +3342,7 @@
                     },
                     {
                         "channel_name": "SuperSport Laliga",
-                        "channel_id": "412"
+                        "channel_id": "415"
                     },
                     {
                         "channel_name": "beIN Sports MENA 1",
@@ -3413,7 +3413,12 @@
             {
                 "time": "19:00",
                 "event": "Major League Soccer : New York City vs Chicago Fire",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "MLS Season Pass",
+                        "channel_id": "154"
+                    }
+                ]
             },
             {
                 "time": "19:15",
