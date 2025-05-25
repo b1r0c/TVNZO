@@ -646,7 +646,12 @@
             {
                 "time": "10:00",
                 "event": "Portugal - Campeonato de Portugal : Le\u00e7a vs Paredes",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Canal 11 Portugal",
+                        "channel_id": "540"
+                    }
+                ]
             },
             {
                 "time": "11:00",
@@ -4177,6 +4182,18 @@
                     {
                         "channel_name": "Sky Sport 5 NZ",
                         "channel_id": "592"
+                    },
+                    {
+                        "channel_name": "SONY TEN 1",
+                        "channel_id": "885"
+                    },
+                    {
+                        "channel_name": "SONY TEN 2",
+                        "channel_id": "886"
+                    },
+                    {
+                        "channel_name": "SONY TEN 3",
+                        "channel_id": "887"
                     },
                     {
                         "channel_name": "beIN Sports 2 Malaysia",
