@@ -1,5 +1,17 @@
 {
     "Wednesday 28th May 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "23:00",
+                "event": "2025 Modified World Championship at Mississippi Thunder Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "107"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
