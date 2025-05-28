@@ -2468,6 +2468,10 @@
                 "event": "Boxing : Jose Eduardo Nunez vs Masanori Rikiishi",
                 "channels": [
                     {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "55"
+                    },
+                    {
                         "channel_name": "ESPN 2 MX",
                         "channel_id": "926"
                     }
