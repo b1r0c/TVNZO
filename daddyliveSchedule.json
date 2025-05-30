@@ -847,7 +847,11 @@
                         "channel_id": "942"
                     },
                     {
-                        "channel_name": "beIN Sports MAX 5 France (CH-495) } Match Football 3 Russia",
+                        "channel_name": "beIN Sports MAX 5 France",
+                        "channel_id": "495"
+                    },
+                    {
+                        "channel_name": "Match Football 3 Russia",
                         "channel_id": "138"
                     }
                 ]
