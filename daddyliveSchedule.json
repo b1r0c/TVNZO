@@ -5501,7 +5501,41 @@
                 ]
             },
             {
-                "time": "16:00",
+                "time": "18:00",
+                "event": "PGA Tour The Memorial Tournament",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports Golf UK",
+                        "channel_id": "70"
+                    },
+                    {
+                        "channel_name": "GOLF Channel USA",
+                        "channel_id": "318"
+                    },
+                    {
+                        "channel_name": "Movistar Golf",
+                        "channel_id": "528"
+                    },
+                    {
+                        "channel_name": "SuperSport Golf",
+                        "channel_id": "422"
+                    },
+                    {
+                        "channel_name": "Sport KLUB Golf Croatia",
+                        "channel_id": "710"
+                    },
+                    {
+                        "channel_name": "Sky Sport 4 NZ",
+                        "channel_id": "591"
+                    },
+                    {
+                        "channel_name": "Ziggo Sport 6 NL",
+                        "channel_id": "901"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
                 "event": "LPGA Tour U.S. Women's Open presented by Ally",
                 "channels": [
                     {
@@ -5543,40 +5577,6 @@
                     {
                         "channel_name": "ESPN3 Brazil",
                         "channel_id": "83"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "PGA Tour The Memorial Tournament",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports Golf UK",
-                        "channel_id": "70"
-                    },
-                    {
-                        "channel_name": "GOLF Channel USA",
-                        "channel_id": "318"
-                    },
-                    {
-                        "channel_name": "Movistar Golf",
-                        "channel_id": "528"
-                    },
-                    {
-                        "channel_name": "SuperSport Golf",
-                        "channel_id": "422"
-                    },
-                    {
-                        "channel_name": "Sport KLUB Golf Croatia",
-                        "channel_id": "710"
-                    },
-                    {
-                        "channel_name": "Sky Sport 4 NZ",
-                        "channel_id": "591"
-                    },
-                    {
-                        "channel_name": "Ziggo Sport 6 NL",
-                        "channel_id": "901"
                     }
                 ]
             }
