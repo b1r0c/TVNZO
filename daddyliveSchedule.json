@@ -1322,10 +1322,10 @@
                 ]
             }
         ],
-        "Tennis WTA - ROLAND GARROS</span>": [
+        "Tennis ATP - ROLAND GARROS</span>": [
             {
                 "time": "12:30",
-                "event": "WTA - ROLAND GARROS : Musetti L. vs Alcaraz C.",
+                "event": "ATP - ROLAND GARROS : Musetti L. vs Alcaraz C.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream 16",
@@ -1355,7 +1355,7 @@
             },
             {
                 "time": "17:00",
-                "event": "WTA - ROLAND GARROS : Sinner J. vs Djokovic N.",
+                "event": "ATP - ROLAND GARROS : Sinner J. vs Djokovic N.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream 16",
@@ -1408,10 +1408,10 @@
                 ]
             }
         ],
-        "Tennis MIXED DOUBLES - ROLAND GARROS</span>": [
+        "Tennis WTA DOUBLES - ROLAND GARROS</span>": [
             {
                 "time": "11:30",
-                "event": "MIXED DOUBLES - ROLAND GARROS : Danilina A./Krunic A. vs Eikeri U./Hozumi E.",
+                "event": "WTA DOUBLES - ROLAND GARROS : Danilina A./Krunic A. vs Eikeri U./Hozumi E.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream 3",
@@ -1429,7 +1429,7 @@
             },
             {
                 "time": "13:00",
-                "event": "MIXED DOUBLES - ROLAND GARROS : Andreeva M./Shnaider D. vs Errani S./Paolini J.",
+                "event": "WTA DOUBLES - ROLAND GARROS : Andreeva M./Shnaider D. vs Errani S./Paolini J.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream 3",
@@ -2339,7 +2339,7 @@
                 "channels": [
                     {
                         "channel_name": "BKFC PPV",
-                        "channel_id": "595"
+                        "channel_id": "59"
                     },
                     {
                         "channel_name": "Match Box Russia",
@@ -3190,7 +3190,12 @@
             {
                 "time": "18:00",
                 "event": "GREEK LEAGUE : Olympiacos vs Panathinaikos",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Sport klub HD Croatia",
+                        "channel_id": "453"
+                    }
+                ]
             },
             {
                 "time": "18:45",
