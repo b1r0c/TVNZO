@@ -4650,6 +4650,26 @@
                 ]
             },
             {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Busan IPark vs Ansan Greeners",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Gyeongnam vs Hwaseong",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Jeonnam Dragons vs Seoul E-Land",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Portugal - Camp. Nacional (F) : Rio Ave (F) vs Famalicao (F)",
+                "channels": []
+            },
+            {
                 "time": "12:00",
                 "event": "Maurice Revello Tournament : Japan U20 vs Mexico U20",
                 "channels": [
@@ -5064,6 +5084,11 @@
                         "channel_id": "29"
                     }
                 ]
+            },
+            {
+                "time": "17:00",
+                "event": "CE U21 2027 - Qualifiers - Gr.C : Faroe Islands U21 vs Estonia U21",
+                "channels": []
             },
             {
                 "time": "17:00",
@@ -5526,6 +5551,11 @@
                 ]
             },
             {
+                "time": "19:00",
+                "event": "Venezuela - Primera Division : Deportivo Tachira vs Academia Puerto Cabello",
+                "channels": []
+            },
+            {
                 "time": "19:15",
                 "event": "Italy - Serie C : Pescara vs Ternana",
                 "channels": [
@@ -5797,6 +5827,11 @@
             },
             {
                 "time": "23:30",
+                "event": "Venezuela - Primera Division : Carabobo vs Metropolitanos",
+                "channels": []
+            },
+            {
+                "time": "23:30",
                 "event": "NWSL : Bay FC vs Portland Thorns FC",
                 "channels": [
                     {
@@ -5938,6 +5973,54 @@
                     {
                         "channel_name": "Sky Sports Mix UK",
                         "channel_id": "449"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - ROLAND GARROS</span>": [
+            {
+                "time": "13:00",
+                "event": "WTA - ROLAND GARROS : Sabalenka A. vs Gauff C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 16",
+                        "channel_id": "1516"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 5",
+                        "channel_id": "1505"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP DOUBLES - ROLAND GARROS</span>": [
+            {
+                "time": "14:30",
+                "event": "ATP DOUBLES - ROLAND GARROS : Granollers M./Zeballos H. vs Salisbury J./Skupski N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 16",
+                        "channel_id": "1516"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 5",
+                        "channel_id": "1505"
                     }
                 ]
             }
@@ -6202,6 +6285,216 @@
                         "channel_id": "82"
                     }
                 ]
+            },
+            {
+                "time": "02:30",
+                "event": "UTR (M) - Lovedale (AUS) : Jayden Court vs Jera Staley",
+                "channels": []
+            },
+            {
+                "time": "02:30",
+                "event": "UTR (M) - Lovedale (AUS) : Jeremy Zhang vs Arjun Mehrotra",
+                "channels": []
+            },
+            {
+                "time": "02:30",
+                "event": "UTR (M) - Lovedale (AUS) : Nikita Volonski vs Eric Tripathi",
+                "channels": []
+            },
+            {
+                "time": "03:40",
+                "event": "UTR (M) - Lovedale (AUS) : Duncan McCall vs Noah Brownrigg",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "UTR (M) - Glifada (GRE) : Obrad Markovski vs Michalis Sakellaridis",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Ahaus (GER) : Aaron James Williams vs David Petrovic",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (F) - Ahaus (GER) : Isabel Heupgen vs Sara Gvozdenovic",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (F) - Ahaus (GER) : Laurie Barendse vs Almudena Sanz-Llaneza Fernandez",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Ahaus (GER) : Ruben Hartig vs Idriss Haddouch",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "UTR (M) - Glifada (GRE) : Gabriel Matuszewski vs Vladimir Holban",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "UTR (F) - Ahaus (GER) : Anastasia Sysoeva vs Leonie Moeller",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "UTR (F) - Ahaus (GER) : Charlotte van Zonneveld vs Daria Yesypchuk",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "UTR (M) - Ahaus (GER) : Marcel Zielinski vs Tim Hammes",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "UTR (M) - Ahaus (GER) : Vitek Horak vs Gheorghe Claudiu Schinteie",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Prostejov (CEH) : Hugo Dellien vs Chun Hsin Tseng",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "UTR (M) - Glifada (GRE) : Ioannis Xilas vs Roman Postolka",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ITF (F) - Troisdorf (GER) : Mara Guth vs Oana Georgeta Simion",
+                "channels": []
+            },
+            {
+                "time": "09:20",
+                "event": "UTR (M) - Ahaus (GER) : Amadatus Admiraal vs Tim Gennes",
+                "channels": []
+            },
+            {
+                "time": "09:20",
+                "event": "UTR (F) - Ahaus (GER) : Annika Barth vs Chanel Janssen",
+                "channels": []
+            },
+            {
+                "time": "09:20",
+                "event": "UTR (F) - Ahaus (GER) : Tamila Gadamauri vs Vivien Sandberg",
+                "channels": []
+            },
+            {
+                "time": "09:20",
+                "event": "UTR (M) - Ahaus (GER) : Twan van Zijl vs Benjamin Dhoe",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Heilbronn (GER) : Facundo Mena vs Marko Topo",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Heilbronn (GER) : Guy Den Ouden vs Emilio Nava",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Heilbronn (GER) - Double : J.Schnaitter/M.Wallner vs M.Bortolotti/C.Rodriguez",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Birmingham (MBR) : Otto Virtanen vs Brandon Holt",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Heilbronn (GER) - Double : V.Kirkov/B.Stevens vs F.Passaro/M.Sharipov",
+                "channels": []
+            },
+            {
+                "time": "10:05",
+                "event": "WTA 125 - Birmingham (MBR) : Jessika Ponchet vs Linda Fruhvirtova",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "UTR (M) - Glifada (GRE) : John Hallquist Lithen vs Constantinos Djakouris",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "Challenger - Prostejov (CEH) - Double : L.Pokorny/D.Svrcina vs P.Nouza/P.Rikl",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "UTR (F) - Ahaus (GER) : Anna Ozerova vs Paula Schaefer",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "UTR (M) - Ahaus (GER) : Cornelius Alexander Shalmi vs Lars Wagenaar",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "UTR (F) - Ahaus (GER) : Emily Welker vs Valentina Khrebtova",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "UTR (M) - Ahaus (GER) : Jimmy Yang vs Alexander Skripaev",
+                "channels": []
+            },
+            {
+                "time": "11:05",
+                "event": "WTA 125 - Makarska (CRO) - Double : O.Kalashnikova/E.Pridankina vs M.Skoch/J.Maleckova",
+                "channels": []
+            },
+            {
+                "time": "11:40",
+                "event": "UTR (M) - Ahaus (GER) : Younes Lalami Laaroussi vs Piet Steveker",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "WTA French Open : Aryna Sabalenka vs Cori Gauff",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Challenger - Heilbronn (GER) : Marco Trungelliti vs Ignacio Buse",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "WTA 125 - Makarska (CRO) : Victoria Jimenez Kasintseva vs Lola Radivojevic",
+                "channels": []
+            },
+            {
+                "time": "14:10",
+                "event": "ATP - Roland Garros - Double : M.Granollers/H.Zeballos vs J.Salisbury/N.Skupski",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ITF (F) - Santo Domingo (DOM) - Double : R.Lacasse/A.C.Zamburek vs H.Kuwata/S.Yamalapalli",
+                "channels": []
+            },
+            {
+                "time": "16:05",
+                "event": "WTA 125 - Makarska (CRO) : Maya Joint vs Sara Bejlek",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "ITF (F) - Santo Domingo (DOM) - Double : R.Pereira/C.Romero vs E.Burgic Bucko/M.F.Navarro",
+                "channels": []
             }
         ],
         "Motorsport</span>": [
@@ -8859,7 +9152,7 @@
             },
             {
                 "time": "16:00",
-                "event": "- Germany 2nd Bundesliga : ASV Hamm-Westfalen vs TuSEM Essen",
+                "event": "Germany 2nd Bundesliga : ASV Hamm-Westfalen vs TuSEM Essen",
                 "channels": [
                     {
                         "channel_name": "DYN DE",
@@ -8869,7 +9162,7 @@
             },
             {
                 "time": "16:00",
-                "event": "- Germany 2nd Bundesliga : VfL Eintracht Hagen vs TUS N-L\u00fcbbecke",
+                "event": "Germany 2nd Bundesliga : VfL Eintracht Hagen vs TUS N-L\u00fcbbecke",
                 "channels": [
                     {
                         "channel_name": "DYN DE",
@@ -8879,7 +9172,7 @@
             },
             {
                 "time": "16:00",
-                "event": "- Germany 2nd Bundesliga : Die Eulen Ludwigshafen vs TV H\u00fcttenberg",
+                "event": "Germany 2nd Bundesliga : Die Eulen Ludwigshafen vs TV H\u00fcttenberg",
                 "channels": [
                     {
                         "channel_name": "DYN DE",
@@ -8889,7 +9182,7 @@
             },
             {
                 "time": "16:00",
-                "event": "- Germany 2nd Bundesliga : HSG Nordhorn-Lingen vs TSV Bayer Dormagen",
+                "event": "Germany 2nd Bundesliga : HSG Nordhorn-Lingen vs TSV Bayer Dormagen",
                 "channels": [
                     {
                         "channel_name": "DYN DE",
@@ -8899,7 +9192,7 @@
             },
             {
                 "time": "16:00",
-                "event": "- Germany 2nd Bundesliga : VfL L\u00fcbeck-Schwartau - HSC 2000 Coburg",
+                "event": "Germany 2nd Bundesliga : VfL L\u00fcbeck-Schwartau - HSC 2000 Coburg",
                 "channels": [
                     {
                         "channel_name": "DYN DE",
@@ -8909,7 +9202,7 @@
             },
             {
                 "time": "16:00",
-                "event": "- Germany 2nd Bundesliga : TUS Ferndorf vs TSV GWD Minden",
+                "event": "Germany 2nd Bundesliga : TUS Ferndorf vs TSV GWD Minden",
                 "channels": [
                     {
                         "channel_name": "DYN DE",
@@ -8919,7 +9212,7 @@
             },
             {
                 "time": "16:00",
-                "event": "- Germany 2nd Bundesliga : HC Elbflorenz Dresden vs HSG Konstanz",
+                "event": "Germany 2nd Bundesliga : HC Elbflorenz Dresden vs HSG Konstanz",
                 "channels": [
                     {
                         "channel_name": "DYN DE",
@@ -8929,7 +9222,7 @@
             },
             {
                 "time": "16:00",
-                "event": "- Germany 2nd Bundesliga : Dessau-Ro\u00dflauer HV 2006 vs Bergischer HC",
+                "event": "Germany 2nd Bundesliga : Dessau-Ro\u00dflauer HV 2006 vs Bergischer HC",
                 "channels": [
                     {
                         "channel_name": "DYN DE",
@@ -8939,7 +9232,7 @@
             },
             {
                 "time": "16:00",
-                "event": "- Germany 2nd Bundesliga : HBW Balingen/Weilstetten vs TV Grosswallstadt",
+                "event": "Germany 2nd Bundesliga : HBW Balingen/Weilstetten vs TV Grosswallstadt",
                 "channels": [
                     {
                         "channel_name": "DYN DE",
@@ -9040,8 +9333,23 @@
         ],
         "Ice Hockey</span>": [
             {
+                "time": "05:30",
+                "event": "Australia - AIHL : Central Coast Rhinos vs Melbourne Ice",
+                "channels": []
+            },
+            {
+                "time": "06:45",
+                "event": "Australia - AIHL : Brisbane Lightning vs Melbourne Mustangs",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Australia - AIHL : Perth Thunder vs Adelaide Adrenaline",
+                "channels": []
+            },
+            {
                 "time": "19:00",
-                "event": "ECHL : Hockey Toledo Walleye vs. Trois-Rivi\u00e8res Lions",
+                "event": "ECHL : Hockey Toledo Walleye vs Trois-Rivi\u00e8res Lions",
                 "channels": [
                     {
                         "channel_name": "TVA Sports 2",
@@ -9051,7 +9359,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Hockey AHL : Charlotte Checkers vs. Laval Rocket",
+                "event": "Hockey AHL : Charlotte Checkers vs Laval Rocket",
                 "channels": [
                     {
                         "channel_name": "RDS CA",
