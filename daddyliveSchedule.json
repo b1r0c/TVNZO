@@ -10,6 +10,174 @@
                         "channel_id": "162"
                     }
                 ]
+            },
+            {
+                "time": "16:00",
+                "event": "AMA Supercross Championship Lakewood",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "Full Contact Contender : FCC 42",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "WOW 20: La Noche De Los Campeones",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "2025 Main Character Jiu-Jitsu 7",
+                "channels": [
+                    {
+                        "channel_name": "Flotv",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "WWE Worlds Collide PPV",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Pauldo vs. Burgos: ProBox Fight Night",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Fight Night at Fenway : Thomas O'Toole vs. Vaughn Alexander",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "GCW: Tournament of Survival X",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "2024 ARCA East at Five Flags Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Most Valuable Promotions : Beatriz Ferreira vs. Maria Ferreyra",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "House of Glory: Mike Santana Presents Puerto Rican Weekend 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Armored MMA 2025: Medieval Cage Fighting Championship, Hall of Fame Village",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Armored MMA: Medieval Cage Fighting Championship",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars Beaver Dam",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "WWE Money In The Bank PPV",
+                "channels": [
+                    {
+                        "channel_name": "Peacock PPV I",
+                        "channel_id": "159"
+                    },
+                    {
+                        "channel_name": "Peacock PPV II",
+                        "channel_id": "160"
+                    },
+                    {
+                        "channel_name": "Peacock PPV III",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "GCW: Deathmatch Hall Of Fame 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "168"
+                    }
+                ]
             }
         ],
         "TV Shows</span>": [
