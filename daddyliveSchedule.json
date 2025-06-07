@@ -1,5 +1,17 @@
 {
     "Saturday 07th June 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "14:00",
+                "event": "Top Boxing Generation : Yanis Kurylenko vs. Andrii Boryshpolets II",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "162"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:30",
