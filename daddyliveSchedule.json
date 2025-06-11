@@ -1,5 +1,57 @@
 {
     "Wednesday 11th June 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "22:15",
+                "event": "Millbridge Speedway Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "358 Modified Special Utica",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "DIRTcar Summer Nationals Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2025 IMCA Clash at the Creek at 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "00:55",
+                "event": "2025 NARC 410 Sprints at Southern Oregon Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "76"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "15:00",
@@ -2423,8 +2475,8 @@
                 "event": "MLB : Baltimore Orioles vs Detroit Tigers",
                 "channels": [
                     {
-                        "channel_name": "MLB League Pass (CH-3)",
-                        "channel_id": "906"
+                        "channel_name": "MLB League Pass",
+                        "channel_id": "3"
                     },
                     {
                         "channel_name": "FanDuel Sports Network Detroit",
