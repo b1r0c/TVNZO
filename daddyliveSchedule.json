@@ -20,6 +20,156 @@
                         "channel_id": "69"
                     }
                 ]
+            },
+            {
+                "time": "18:00",
+                "event": "AKO 9: Jean Do Santos vs Emmanuel Nworie",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "2025 SK Modified 80 at Stafford Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "77"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Mr. Sportsman at Autodrome Granby",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "86"
+                    }
+                ]
+            },
+            {
+                "time": "22:20",
+                "event": "2025 NAPA ASCoC Ohio Sprint Speedweek at Attica Raceway Park",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "IRA Sprints Jacksonville Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Weekly Racing at Utica-Rome Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "107"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 Appalachian Mountain LM Speedweek at Bedford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Williams Grove Speedway Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars Knoxville",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "DIRTcar Summer Nationals Late Models Tri City",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2025 USAC Salute to Levi Jones at Red Hill Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2025 IMCA Weekly Racing at Marshalltown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "NARC 410 Sprints Cottage Grove Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Combat FC 10 UFC",
+                "channels": [
+                    {
+                        "channel_name": "Fight Pass",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "LFA 210: Lawrence vs. Reyes",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "156"
+                    }
+                ]
             }
         ],
         "TV Shows</span>": [
