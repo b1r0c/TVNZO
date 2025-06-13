@@ -1,5 +1,27 @@
 {
     "Friday 13th June 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "15:00",
+                "event": "UAE Warriors 60",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "2025 PDRA North vs South Shootout",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "69"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "15:00",
