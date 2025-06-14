@@ -4996,7 +4996,7 @@
         "Tennis ATP - HERTOGENBOSCH</span>": [
             {
                 "time": "12:30",
-                "event": "Diallo G. vs Humbert U.",
+                "event": "ATP - HERTOGENBOSCH : Diallo G. vs Humbert U.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -5010,7 +5010,7 @@
             },
             {
                 "time": "14:00",
-                "event": "Opelka R. vs Bergs Z.",
+                "event": "ATP - HERTOGENBOSCH : Opelka R. vs Bergs Z.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -5026,7 +5026,7 @@
         "Tennis ATP - STUTTGART</span>": [
             {
                 "time": "10:00",
-                "event": "Auger-Aliassime F. vs Fritz T.",
+                "event": "ATP - STUTTGART : Auger-Aliassime F. vs Fritz T.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -5040,7 +5040,7 @@
             },
             {
                 "time": "12:00",
-                "event": "Zverev A. vs Shelton B.",
+                "event": "ATP - STUTTGART : Zverev A. vs Shelton B.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -5056,7 +5056,7 @@
         "Tennis WTA - HERTOGENBOSCH</span>": [
             {
                 "time": "09:00",
-                "event": "Mertens E. vs Alexandrova E.",
+                "event": "WTA - HERTOGENBOSCH : Mertens E. vs Alexandrova E.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -5066,7 +5066,7 @@
             },
             {
                 "time": "10:30",
-                "event": "Ruse G. vs Cocciaretto E.",
+                "event": "WTA - HERTOGENBOSCH : Ruse G. vs Cocciaretto E.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -5078,7 +5078,7 @@
         "Tennis WTA - LONDON</span>": [
             {
                 "time": "12:30",
-                "event": "Maria T. vs Keys M.",
+                "event": "WTA - LONDON : Maria T. vs Keys M.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -5096,7 +5096,7 @@
             },
             {
                 "time": "14:00",
-                "event": "Zheng Q. vs Anisimova A.",
+                "event": "WTA - LONDON : Zheng Q. vs Anisimova A.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
