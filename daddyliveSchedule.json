@@ -2564,8 +2564,20 @@
                 "event": "NASCAR Cup Series: Viva Mexico 250",
                 "channels": [
                     {
+                        "channel_name": "Amazon Prime",
+                        "channel_id": "68"
+                    },
+                    {
                         "channel_name": "TSN3",
                         "channel_id": "113"
+                    },
+                    {
+                        "channel_name": "Viaplay Sports 1 UK",
+                        "channel_id": "451"
+                    },
+                    {
+                        "channel_name": "FOX Sports 506 AU",
+                        "channel_id": "824"
                     },
                     {
                         "channel_name": "TV3 Sport Denmark",
