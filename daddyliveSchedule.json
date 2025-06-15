@@ -1,5 +1,87 @@
 {
     "Sunday 15th June 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:00",
+                "event": "2025 NAPA ASCoC Ohio Sprint Speedweek at Millstream Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "21:15",
+                "event": "2025 Short Track Super Series at Devil's Bowl Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "2025 Appalachian Mountain LM Speedweek at Bridgeport Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "DIRTcar Summer Nationals Sycamore",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Anthony Pettis FC 17: Milwaukee Fight Night 8",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "77"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "FSW: Sweet 16th Anniversary",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "86"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2025 NARC 410 Sprints at Grays Harbor Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Husets Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "106"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
