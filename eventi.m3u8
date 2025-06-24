@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
-https://exemple.m3u8
-
