@@ -280,12 +280,12 @@
                         "channel_id": "535"
                     },
                     {
-                        "channel_name": "Sat.1 DE",
-                        "channel_id": "729"
-                    },
-                    {
                         "channel_name": "DAZN1 France",
                         "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "ProSieben (PRO7) DE",
+                        "channel_id": "730"
                     },
                     {
                         "channel_name": "TRT 1 Turkey",
@@ -350,6 +350,10 @@
                         "channel_id": "9"
                     },
                     {
+                        "channel_name": "DAZN Portugal FIFA Mundial de Clubes",
+                        "channel_id": "918"
+                    },
+                    {
                         "channel_name": "TRT Spor Turkey",
                         "channel_id": "889"
                     },
@@ -386,6 +390,10 @@
                     {
                         "channel_name": "beIN Sports 1 France",
                         "channel_id": "116"
+                    },
+                    {
+                        "channel_name": "Sat.1 DE",
+                        "channel_id": "729"
                     },
                     {
                         "channel_name": "W9 France",
