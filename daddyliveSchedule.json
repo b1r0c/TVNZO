@@ -3740,6 +3740,250 @@
                 ]
             }
         ],
+        "Tennis WIMBLEDON - QUALIFYING</span>": [
+            {
+                "time": "06:30",
+                "event": "WIMBLEDON - QUALIFYING : Peniston R. vs Landaluce M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "WIMBLEDON - QUALIFYING : Budkov Kjaer N. vs Mannarino A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "09:30",
+                "event": "WIMBLEDON - QUALIFYING : Townsend T. vs Inoue H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "WIMBLEDON - QUALIFYING : Parrizas-Diaz N. vs Fruhvirtova L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - MALLORCA</span>": [
+            {
+                "time": "07:30",
+                "event": "ATP - MALLORCA : Moutet C. vs Altmaier D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - MALLORCA : Shelton B. vs Tien L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - MALLORCA : Tomic B. vs Bautista-Agut R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - EASTBOURNE</span>": [
+            {
+                "time": "06:30",
+                "event": "ATP - EASTBOURNE : Sonego L. vs Humbert U.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - EASTBOURNE : Mensik J. vs Opelka R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - EASTBOURNE : Evans D. vs Paul T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - EASTBOURNE : Fritz T. vs Fonseca J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - BAD HOMBURG</span>": [
+            {
+                "time": "06:00",
+                "event": "WTA - BAD HOMBURG : Alexandrova E. vs Sakkari M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "WTA - BAD HOMBURG : Svitolina E. vs Haddad Maia B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - BAD HOMBURG : Noskova L. vs Vekic D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - BAD HOMBURG : Andreeva M. vs Tauson C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - EASTBOURNE</span>": [
+            {
+                "time": "06:30",
+                "event": "WTA - EASTBOURNE : Birrell K. vs Pavlyuchenkova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 6",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "WTA - EASTBOURNE : Burrage J. vs Krejcikova B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "WTA - EASTBOURNE : Joint M. vs Raducanu E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "WTA - EASTBOURNE : Sramkova R. vs Gracheva V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 5",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "WTA - EASTBOURNE : Sun L. vs Blinkova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 6",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "09:30",
+                "event": "WTA - EASTBOURNE : Rakhimova K. vs Stearns P.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 5",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - EASTBOURNE : Eala A. vs Ostapenko J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "WTA - EASTBOURNE : Yastremska D. vs Jones F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "09:30",
