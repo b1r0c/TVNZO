@@ -7,7 +7,7 @@
                 "channels": [
                     {
                         "channel_name": "Dirtvision",
-                        "channel_id": "55"
+                        "channel_id": "108"
                     }
                 ]
             },
@@ -17,7 +17,7 @@
                 "channels": [
                     {
                         "channel_name": "Dirtvision",
-                        "channel_id": "59"
+                        "channel_id": "109"
                     }
                 ]
             },
@@ -27,7 +27,7 @@
                 "channels": [
                     {
                         "channel_name": "UFC Fight Pass",
-                        "channel_id": "68"
+                        "channel_id": "110"
                     }
                 ]
             }
@@ -3155,6 +3155,11 @@
                 ]
             },
             {
+                "time": "23:00",
+                "event": "MLS Next Pro : Philadelphia Union II vs New England Revolution II",
+                "channels": []
+            },
+            {
                 "time": "00:00",
                 "event": "Ecuador Serie B : Nueve de Octubre vs Gualaceo",
                 "channels": [
@@ -3317,6 +3322,26 @@
                 ]
             },
             {
+                "time": "04:30",
+                "event": "India - Bengal Pro T20 League : Shrachi Rarh Tigers vs Rashmi Medinipur Wizards",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "India - Bengal Pro T20 League : Lux Shyam Kolkata Tigers vs Servotech Siliguri Strikers",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "India - Bengal Pro T20 League : Adamas Howrah Warriors vs Murshidabad Kings",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "List-Academy (A) Series : West indies A vs Sri Lanka A",
+                "channels": []
+            },
+            {
                 "time": "14:00",
                 "event": "1st Test | Day 2 : West Indies vs Australia",
                 "channels": [
@@ -3346,6 +3371,26 @@
             }
         ],
         "Badminton</span>": [
+            {
+                "time": "07:20",
+                "event": "Italian Open - Qualifiers : Christopher Vittoriani vs Milan Dratva",
+                "channels": []
+            },
+            {
+                "time": "07:20",
+                "event": "Italian Open (F) - Qualifiers : Leila Zarrouk vs Madhumitha Sundarapandian",
+                "channels": []
+            },
+            {
+                "time": "08:45",
+                "event": "Italian Open - Qualifiers : Arthur Wakhevitsch vs Luca Zhou",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Italian Open - Double : T.Gardon/E.Goulin vs M.Datko/A.Sonnenschein",
+                "channels": []
+            },
             {
                 "time": "21:30",
                 "event": "PSA Squash: World Tour 2025",
@@ -3463,6 +3508,116 @@
                         "channel_id": "144"
                     }
                 ]
+            },
+            {
+                "time": "06:00",
+                "event": "UTR (F) - Skopje (MKD) : Anastasija Arsic vs Letizia Corsini",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "UTR (M) - Skopje (MKD) : Balsa Djokovic vs Jakub Prachar",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "UTR (M) - Skopje (MKD) : Jonasz Dziopak vs Obrad Markovski",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "UTR (F) - Skopje (MKD) : Petra Sedlackova vs Denise Hrdinkova",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "UTR (M) - Skopje (MKD) : Samuel Rovai vs Oscar Lacides",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "ATP - Mallorca (SPA) : Gabriel Diallo vs Tallon Griekspoor",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - Eastbourne (MBR) : Billy Harris vs Ugo Humbert",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - Mallorca (SPA) - Double : P.Martinez/J.Munar vs S.Doumbia/F.Reboul",
+                "channels": []
+            },
+            {
+                "time": "10:40",
+                "event": "ATP - Mallorca (SPA) : Hamad Medjedovic vs Felix Auger-Aliassime",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Milan (ITA) : Dino Prizmic vs Christoph Negritu",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Milan (ITA) : Rafael Jodar vs Arthur Gea",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "ATP - Eastbourne (MBR) : Jenson Brooksby vs Daniel Evans",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - Eastbourne (MBR) - Double : J.Cash/L.Glasspool vs J.Salisbury/N.Skupski",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - Mallorca (SPA) - Double : S.Gonzalez/A.Krajicek vs S.Doumbia/F.Reboul",
+                "channels": []
+            },
+            {
+                "time": "12:10",
+                "event": "Challenger - Milan (ITA) - Double : M.C.Romios/R.Seggerman vs I.Liutarevich/M.Veldheer",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - Mallorca (SPA) : Learner Tien vs Corentin Moutet",
+                "channels": []
+            },
+            {
+                "time": "13:10",
+                "event": "ATP - Eastbourne (MBR) - Double : H.Heliovaara/H.Patten vs A.Behar/J.Vliegen",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "Challenger - Milan (ITA) : Marco Cecchinato vs Max Houkes",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "Challenger - Milan (ITA) - Double : B.Bayldon/M.Hermans vs A.Merino/C.Negritu",
+                "channels": []
+            },
+            {
+                "time": "14:40",
+                "event": "Challenger - Milan (ITA) : Jacopo Vasami vs Luka Mikrut",
+                "channels": []
+            },
+            {
+                "time": "14:40",
+                "event": "ATP - Eastbourne (MBR) : Jakub Mensik vs Alejandro Davidovich Fokina",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "ATP - Mallorca (SPA) : Alex Michelsen vs Roberto Bautista Agut",
+                "channels": []
             }
         ],
         "Motorsport</span>": [
@@ -3798,6 +3953,10 @@
                 "time": "09:30",
                 "event": "AFL : Port Adelaide Power vs Carlton Blues",
                 "channels": [
+                    {
+                        "channel_name": "Fox Soccer Plus",
+                        "channel_id": "756"
+                    },
                     {
                         "channel_name": "TNT Sports 2 UK",
                         "channel_id": "32"
