@@ -1,5 +1,137 @@
 {
     "Saturday 28th June 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "14:00",
+                "event": "AMA Supercross Championship Southwick",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "WWE Night of Champions",
+                "channels": [
+                    {
+                        "channel_name": "Netflix PPV",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Polaris 32: Women's Squads",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "Superbikes Motoamerica Ridge Motorsports",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Weekly Racing Fonda Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "DIRTcar Summer Nationals Late Modles Highland",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Millbridge Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Late Models Normal",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "World of Outlaws Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "American Sprint Car Series Tulsa",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "WR Texas Title Tournament 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "173"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "FSW: Scars Stripes 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Armored MMA 2025: Medieval Cage Fighting Championship, Portland O",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "175"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
@@ -2757,6 +2889,10 @@
                 "event": "Boxing : Jean Pascal vs Michal Cieslak",
                 "channels": [
                     {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "176"
+                    },
+                    {
                         "channel_name": "TVP Sport Poland",
                         "channel_id": "128"
                     },
@@ -2774,6 +2910,14 @@
                 "time": "00:00",
                 "event": "Boxing : Jake Paul vs Julio Cesar Chavez Jr",
                 "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "177"
+                    },
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "178"
+                    },
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "69"
