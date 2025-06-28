@@ -5498,6 +5498,62 @@
                 ]
             }
         ],
+        "Tennis ATP - MALLORCA</span>": [
+            {
+                "time": "09:30",
+                "event": "ATP - MALLORCA : Moutet C. vs Griekspoor T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - EASTBOURNE</span>": [
+            {
+                "time": "10:30",
+                "event": "ATP - EASTBOURNE : Fritz T. vs Brooksby J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - BAD HOMBURG</span>": [
+            {
+                "time": "06:00",
+                "event": "WTA - BAD HOMBURG : Pegula J. vs Swiatek I.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 15",
+                        "channel_id": "1515"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - EASTBOURNE</span>": [
+            {
+                "time": "09:00",
+                "event": "WTA - EASTBOURNE : Joint M. vs Eala A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "09:30",
