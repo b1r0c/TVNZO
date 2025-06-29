@@ -1,5 +1,107 @@
 {
     "Sunday 29th June 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "16:30",
+                "event": "500 Sprint Car Tour Winchester",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "2025 NASCAR Whelen Modified Tour at White Mountain Motorsports Park",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "107"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "Superbikes Motoamerica Ridge Motorsports",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "2025 USAC AMSOIL National Sprint Cars at Millstream Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Super DIRTcar Series Cornwall",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Tuff-N-Uff 145",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "17:38",
+                "event": "04:0 PA Speedweek Lincoln",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Independence Day Celebration at Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "DIRTcar Summer Nationals Late Models Clarksville",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "World of Outlaws Late Models Nodak",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "155"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "13:00",
@@ -3209,8 +3311,8 @@
                 "event": "European Championship (W) Final : Spain W vs Belgium W",
                 "channels": [
                     {
-                        "channel_name": "TVE La 2 Spain",
-                        "channel_id": "536"
+                        "channel_name": "TVE La 1 Spain",
+                        "channel_id": "533"
                     },
                     {
                         "channel_name": "TMC France",
