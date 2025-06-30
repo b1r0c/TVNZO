@@ -1,5 +1,57 @@
 {
     "Monday 30th June 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:00",
+                "event": "2025 Summer Shootout at Charlotte Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Wild Thing Kart Series at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "DIRTcar Summer Nationals Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 BC39 Kickoff Party at Prime 47",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "22:55",
+                "event": "2025 Pennsylvania Sprint Speedweek at Lincoln Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "76"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "19:00",
