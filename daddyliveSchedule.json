@@ -1,5 +1,57 @@
 {
     "Tuesday 01st July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:00",
+                "event": "2025 Summer Shootout at Charlotte Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "2025 USAC BC39 at The Dirt Track at Indianapolis Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Millbridge Speedway Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "DIRTcar Summer Nationals Late Models Benton",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvison",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "The Ultimate Fighter 33",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "76"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "19:00",
