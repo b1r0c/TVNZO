@@ -1,5 +1,57 @@
 {
     "Wednesday 02nd July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:30",
+                "event": "2025 CARS Tour at Caraway Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "2025 USAC BC39 at The Dirt Track at Indianapolis Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 Short Track Super Series at Fonda Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 Pennsylvania Sprint Speedweek at Port Royal Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "DIRTcar Summer Nationals Late Models Spoon",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "77"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
