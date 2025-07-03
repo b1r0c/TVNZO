@@ -492,6 +492,31 @@
                 ]
             },
             {
+                "time": "19:15",
+                "event": "Iceland - Lengjudeildin : Grindavik vs Njardvik",
+                "channels": []
+            },
+            {
+                "time": "19:15",
+                "event": "Iceland - Lengjudeildin : Keflavik vs UMF Selfoss",
+                "channels": []
+            },
+            {
+                "time": "20:30",
+                "event": "Ecuador - Serie B : CA Vinotinto vs Leones del Norte",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "Bolivia - Copa Division Profesional : The Strongest vs CDT Real Oruro",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "USL Championship : Loudoun United vs Orange County",
+                "channels": []
+            },
+            {
                 "time": "23:30",
                 "event": "MLS : New York City FC v Toronto FC",
                 "channels": [
@@ -510,6 +535,11 @@
                         "channel_id": "643"
                     }
                 ]
+            },
+            {
+                "time": "00:00",
+                "event": "Ecuador - Serie B : Vargas Torres vs Imbabura",
+                "channels": []
             },
             {
                 "time": "00:10",
@@ -536,6 +566,11 @@
                 ]
             },
             {
+                "time": "00:45",
+                "event": "MLS Next Pro : North Texas vs Minnesota United II",
+                "channels": []
+            },
+            {
                 "time": "02:00",
                 "event": "Club Friendly : Cruz Azul vs Once Caldas",
                 "channels": [
@@ -544,6 +579,16 @@
                         "channel_id": "643"
                     }
                 ]
+            },
+            {
+                "time": "02:00",
+                "event": "MLS Next Pro : Tacoma Defiance vs The Town FC",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "MLS Next Pro : Ventura County FC vs Vancouver Whitecaps II",
+                "channels": []
             }
         ],
         "Cricket</span>": [
@@ -2743,6 +2788,46 @@
             {
                 "time": "10:00",
                 "event": "Canada Open - Double : C.W.Chiang/H.Yi Wu vs M.Cattoen/L.Renoir",
+                "channels": []
+            },
+            {
+                "time": "18:20",
+                "event": "Canada Open (F) : Amalie Schulz vs Shuo Yun Sung",
+                "channels": []
+            },
+            {
+                "time": "18:20",
+                "event": "Canada Open : Tien Chen Chou vs Ping-Hsien Huang",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Canada Open (F) : Clara Azurmendi vs Ling Ching Wong",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Canada Open (F) : Manami Suizu vs Wen Yu Zhang",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "Canada Open - Double : C.Grimley/M.Grimley vs J.Maio/W.Villeger",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "Canada Open (F) : Michelle Li vs Ting Yu Liang",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "Canada Open (F) : Nozomi Okuhara vs Kaloyana Nalbantova",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Canada Open - Double \tC.W.Chiang/H.Yi Wu - M.Cattoen/L.Renoir",
                 "channels": []
             }
         ],
