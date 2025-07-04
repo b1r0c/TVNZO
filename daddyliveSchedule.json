@@ -1,5 +1,127 @@
 {
     "Friday 04th July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "18:00",
+                "event": "GCW: Backyard Wrestling 7",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "NCL 55: Project: NORTH",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "2025 Lucas Oil Late Model Dirt Series at Atomic Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "2025 The Mira Vision Challenge at Autodrome Granby",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Attica Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Williams Grove Speedway Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 USAC Bill Gardner Sprintacular at Lincoln Park Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 NAPA All Star Circuit of Champions at Stateline Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Pro Wrestling Revolution: Lucha Libre - San Jose, February 2025 (en Espa\u00f1ol)",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "American Sprint Car Series Belleville",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "DIRTcar Summer Nationals Late Models Red Hil",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "161"
+                    }
+                ]
+            }
+        ],
         "Tv Shows</span>": [
             {
                 "time": "13:00",
@@ -1041,7 +1163,7 @@
         ],
         "Tennis ATP - WIMBLEDON</span>": [
             {
-                "time": "12:08",
+                "time": "14:01",
                 "event": "ATP - WIMBLEDON : Wimbledon Press Conferences",
                 "channels": [
                     {
