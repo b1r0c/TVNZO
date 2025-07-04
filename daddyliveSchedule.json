@@ -3782,10 +3782,6 @@
                         "channel_id": "355"
                     },
                     {
-                        "channel_name": "Sky Sports Golf UK",
-                        "channel_id": "70"
-                    },
-                    {
                         "channel_name": "Telecinco Spain",
                         "channel_id": "532"
                     },
@@ -5708,7 +5704,11 @@
                 "event": "National Rugby League Women : Canterbury-Bankstown Bulldogs W vs Newcastle Knights W",
                 "channels": [
                     {
-                        "channel_name": "Fox Soccer Plus (CH-756) [ Sky Sports Mix UK",
+                        "channel_name": "Fox Soccer Plus",
+                        "channel_id": "756"
+                    },
+                    {
+                        "channel_name": "Sky Sports Mix UK",
                         "channel_id": "449"
                     },
                     {
@@ -5744,7 +5744,11 @@
                 "event": "Super League Rugby : Leigh Centurions vs Wigan Warriors",
                 "channels": [
                     {
-                        "channel_name": "Fox Soccer Plus (CH-756) [ Sky Sports Action UK",
+                        "channel_name": "Fox Soccer Plus",
+                        "channel_id": "756"
+                    },
+                    {
+                        "channel_name": "Sky Sports Action UK",
                         "channel_id": "37"
                     },
                     {
