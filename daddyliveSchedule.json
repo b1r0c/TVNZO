@@ -1,5 +1,127 @@
 {
     "Saturday 05th July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "15:30",
+                "event": "AMA Supercross Championship Buchanan",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "2025 American Flat Track at DuQuoin Mile",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "2025 Mustang Cup at Ozarks International Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "2025 Lucas Oil Late Model Dirt Series at Muskingum County Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Weekly Racing at Fonda Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "2025 Supermodified Twin 40's at Oswego Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "2025 USAC Bill Gardner Sprintacular at Lincoln Park Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "DIRTcar Summer Nationals Late Modles Tri State",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "World of Outlaws Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Maple Leaf Pro Wrestling: Northern Rising & Resurrection Pack",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "GCW: The Top Play 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Bare Knuckle Boxing (BKB 43): Bolton Brawl",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "162"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
