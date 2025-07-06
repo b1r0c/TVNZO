@@ -395,7 +395,7 @@
             },
             {
                 "time": "23:30",
-                "event": "Major League Soccer : C United vs Atlanta United",
+                "event": "Major League Soccer : DC United vs Atlanta United",
                 "channels": [
                     {
                         "channel_name": "MLS Season Pass",
@@ -5350,6 +5350,21 @@
                 ]
             },
             {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Gimpo vs Busan IPark",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Hwaseong vs Bucheon",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Seongnam vs Cheonan City",
+                "channels": []
+            },
+            {
                 "time": "12:00",
                 "event": "Sweden - Allsvenskan : IFK G\u00f6teborg vs Sirius",
                 "channels": [
@@ -5400,6 +5415,11 @@
                         "channel_id": "6"
                     }
                 ]
+            },
+            {
+                "time": "13:00",
+                "event": "Uruguay - Segunda Division : La Luz FC vs Fenix",
+                "channels": []
             },
             {
                 "time": "14:00",
@@ -5976,6 +5996,11 @@
                 ]
             },
             {
+                "time": "21:00",
+                "event": "Venezuela - Primera Division : Caracas vs Deportivo Rayo Zuliano",
+                "channels": []
+            },
+            {
                 "time": "21:30",
                 "event": "Brasileir\u00e3o S\u00e9rie B : Botafogo-SP vs Novorizontino",
                 "channels": [
@@ -5996,6 +6021,11 @@
                 ]
             },
             {
+                "time": "22:00",
+                "event": "Venezuela - Primera Division : Academia Anzoategui vs Universidad Central Venezuela",
+                "channels": []
+            },
+            {
                 "time": "22:10",
                 "event": "Argentina - Primera Nacional : Almirante Brown vs Temperley",
                 "channels": [
@@ -6012,6 +6042,10 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "26"
+                    },
+                    {
+                        "channel_name": "FOX Deportes",
+                        "channel_id": "643"
                     }
                 ]
             },
@@ -6022,16 +6056,6 @@
                     {
                         "channel_name": "NESN USA",
                         "channel_id": "762"
-                    }
-                ]
-            },
-            {
-                "time": "22:30",
-                "event": "Peru - Primera Division : Deportivo Garcilaso vs Universitario",
-                "channels": [
-                    {
-                        "channel_name": "FOX Deportes",
-                        "channel_id": "643"
                     }
                 ]
             },
@@ -6104,6 +6128,11 @@
                         "channel_id": "141"
                     }
                 ]
+            },
+            {
+                "time": "23:30",
+                "event": "Venezuela - Primera Division - Clausura : Zamora vs Deportivo Tachira",
+                "channels": []
             },
             {
                 "time": "00:30",
@@ -6188,6 +6217,500 @@
                     {
                         "channel_name": "Willow Cricket",
                         "channel_id": "346"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - WIMBLEDON</span>": [
+            {
+                "time": "01:24",
+                "event": "ATP - WIMBLEDON : Wimbledon Press Conferences",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 26",
+                        "channel_id": "1526"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - WIMBLEDON : Khachanov K. vs Majchrzak K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 22",
+                        "channel_id": "1522"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - WIMBLEDON : Fritz T. vs Thompson J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "ATP - WIMBLEDON : Jarry N. vs Norrie C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "ATP - WIMBLEDON : Rublev A. vs Alcaraz C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 11",
+                        "channel_id": "1511"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 31",
+                        "channel_id": "1531"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "ATP - WIMBLEDON : Wimbledon Highlight Show",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 25",
+                        "channel_id": "1525"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - WIMBLEDON</span>": [
+            {
+                "time": "10:00",
+                "event": "WTA - WIMBLEDON : Sierra S. vs Siegemund L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 22",
+                        "channel_id": "1522"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - WIMBLEDON : Kartal S. vs Pavlyuchenkova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 11",
+                        "channel_id": "1511"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 31",
+                        "channel_id": "1531"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - WIMBLEDON : Sabalenka A. vs Mertens E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 11",
+                        "channel_id": "1511"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 31",
+                        "channel_id": "1531"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "WTA - WIMBLEDON : Noskova L. vs Anisimova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP DOUBLES - WIMBLEDON</span>": [
+            {
+                "time": "10:00",
+                "event": "ATP DOUBLES - WIMBLEDON : Arevalo M./Pavic M. vs Nouza P./Rikl P.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 23",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "ATP DOUBLES - WIMBLEDON : Erler A./Frantzen C. vs Matos R./Melo M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 17",
+                        "channel_id": "1517"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 37",
+                        "channel_id": "1537"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "ATP DOUBLES - WIMBLEDON : Krawietz K./Puetz T. vs Hijikata R./Pel D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 14",
+                        "channel_id": "1514"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 34",
+                        "channel_id": "1534"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "ATP DOUBLES - WIMBLEDON : Nys H./Roger-Vasselin E. vs Pavlasek A./Zielinski J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 12",
+                        "channel_id": "1512"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 32",
+                        "channel_id": "1532"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA DOUBLES - WIMBLEDON</span>": [
+            {
+                "time": "11:30",
+                "event": "WTA DOUBLES - WIMBLEDON : Cirstea S./Kalinskaya A. vs Andreeva M./Shnaider D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 14",
+                        "channel_id": "1514"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 34",
+                        "channel_id": "1534"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "WTA DOUBLES - WIMBLEDON : Hsieh S-W./Ostapenko J. vs Alexandrova E./Zhang S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 17",
+                        "channel_id": "1517"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 37",
+                        "channel_id": "1537"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "WTA DOUBLES - WIMBLEDON : Siniakova/Townsend vs Melichar-Martinez/Samsonova",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 23",
+                        "channel_id": "1523"
+                    }
+                ]
+            }
+        ],
+        "Tennis MIXED DOUBLES - WIMBLEDON</span>": [
+            {
+                "time": "11:30",
+                "event": "MIXED DOUBLES - WIMBLEDON : Vavassori A./Errani S. vs Withrow J./Khromacheva I.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 18",
+                        "channel_id": "1518"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 38",
+                        "channel_id": "1538"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "MIXED DOUBLES - WIMBLEDON : Lammons N./Panova A. vs Skupski N./Krawczyk D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 12",
+                        "channel_id": "1512"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 32",
+                        "channel_id": "1532"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "MIXED DOUBLES - WIMBLEDON : Paris J./Silva E. vs Galloway R./Sutjiadi A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 18",
+                        "channel_id": "1518"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 38",
+                        "channel_id": "1538"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "MIXED DOUBLES - WIMBLEDON : Stevenson D./Lumsden M. vs Pavic M./Babos T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 23",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "MIXED DOUBLES - WIMBLEDON : Salisbury J./Stefani L. vs Molteni A./Muhammad A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 22",
+                        "channel_id": "1522"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "MIXED DOUBLES - WIMBLEDON : Bhambri Y./Jiang X. vs Arevalo M./Zhang S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 18",
+                        "channel_id": "1518"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 38",
+                        "channel_id": "1538"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "MIXED DOUBLES - WIMBLEDON : Verbeek S./Siniakova K. vs Gonzalez S./Mihalikova T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 12",
+                        "channel_id": "1512"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 32",
+                        "channel_id": "1532"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "MIXED DOUBLES - WIMBLEDON : Zielinski J./Hsieh S-W. vs King E./Townsend T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 17",
+                        "channel_id": "1517"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 37",
+                        "channel_id": "1537"
+                    }
+                ]
+            }
+        ],
+        "Tennis BOYS & GIRLS - WIMBLEDON</span>": [
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 4",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 5",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 5",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 6",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 6",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 7",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 8",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 9",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 9",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 10",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 11",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 13",
+                        "channel_id": "1513"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 12",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 12",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 14",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 14",
+                        "channel_id": "1514"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 15",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 15",
+                        "channel_id": "1515"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 16",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 16",
+                        "channel_id": "1516"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 17",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 17",
+                        "channel_id": "1517"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 18",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 18",
+                        "channel_id": "1518"
                     }
                 ]
             }
@@ -6500,6 +7023,146 @@
                         "channel_id": "765"
                     }
                 ]
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Olomouc (CHE) : Daniel Bien - Simon Malis",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (F) - Olomouc (CHE) : Izabela Heinzova - Nikola Koprivova",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Olomouc (CHE) : Tomas Quesada Perez - Elisha Thornton",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Trieste (ITA) - Qualifiers : Alessandro Pecci - Stefanos Sakellaridis",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Trieste (ITA) - Qualifiers : Daniel Michalski - Francesco Forti",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Trieste (ITA) - Qualifiers : Filippo Romano - Jakub Paul",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Troyes (FRA) : Jan Choinski - Calvin Hemery",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Brasov (ROM) : Francesco Maestrelli - Luka Pavlovic",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Trieste (ITA) - Qualifiers : Andrea Collarini - M.Z.F.Mreule",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Trieste (ITA) - Qualifiers : Andrea Guerrieri - Lukas Pokorny",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Trieste (ITA) - Qualifiers : Juan Carlos Prado Angelo - Andrea Picchione",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Trieste (ITA) - Qualifiers : Carlo Alberto Caniato - Matej Dodig",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Trieste (ITA) - Qualifiers : Lorenzo Carboni - Milos Karol",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Denis Yevseyev - Sebastian Gima",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Gerard Campana Lee - Federico Bondioli",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Michael Vrbensky - Matthew Dellavedova",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Trieste (ITA) - Qualifiers : Raul Brancaccio - Pietro Pampanin",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Trieste (ITA) - Qualifiers : Sumit Nagal - Luca Castagnola",
+                "channels": []
+            },
+            {
+                "time": "11:40",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Hynek Barton - Egor Agafonov",
+                "channels": []
+            },
+            {
+                "time": "11:40",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Matei Cristian Onofrei - Florent Bax",
+                "channels": []
+            },
+            {
+                "time": "11:40",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Radu Albot - Dragos Nicolae Cazacu",
+                "channels": []
+            },
+            {
+                "time": "12:50",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Matheus Pucinelli de Almeida - Dan Alexandru Tomescu",
+                "channels": []
+            },
+            {
+                "time": "12:50",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Oriol Roca Batalla - Max Alcala Gurri",
+                "channels": []
+            },
+            {
+                "time": "12:50",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Zdenek Kolar - Nicholas David Ionel",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Branko Djuric - Gabi Adrian Boitan",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Daniel Uta - Tom Paris",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Marko Topo - Kalin Ivanovski",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "UTR (F) - Kaohsiung (TWN) : Ange Oby Kajuru - Kyoka Kubo",
+                "channels": []
             }
         ],
         "Motorsport</span>": [
@@ -6680,7 +7343,15 @@
                         "channel_id": "929"
                     },
                     {
-                        "channel_name": "Arena Sport 2 Premium (CH-135) } Bandsports Brasil (CH-275) } beIN Sports 1 Malaysia",
+                        "channel_name": "Arena Sport 2 Premium",
+                        "channel_id": "135"
+                    },
+                    {
+                        "channel_name": "Bandsports Brasil",
+                        "channel_id": "275"
+                    },
+                    {
+                        "channel_name": "beIN Sports 1 Malaysia",
                         "channel_id": "712"
                     },
                     {
@@ -6794,7 +7465,11 @@
                         "channel_id": "260"
                     },
                     {
-                        "channel_name": "Sport Klub 3 Croatia (CH-103) } Band Tv Brasil",
+                        "channel_name": "Sport Klub 3 Croatia",
+                        "channel_id": "103"
+                    },
+                    {
+                        "channel_name": "Band Tv Brasil",
                         "channel_id": "29"
                     },
                     {
@@ -6810,7 +7485,11 @@
                         "channel_id": "272"
                     },
                     {
-                        "channel_name": "Fox Sports 1 MX (CH-929) } beIN Sports 1 Malaysia",
+                        "channel_name": "Fox Sports 1 MX",
+                        "channel_id": "929"
+                    },
+                    {
+                        "channel_name": "beIN Sports 1 Malaysia",
                         "channel_id": "712"
                     },
                     {
@@ -6910,7 +7589,15 @@
                         "channel_id": "272"
                     },
                     {
-                        "channel_name": "Fox Sports 1 MX (CH-929) } Band Tv Brasil (CH-29) } beIN Sports 1 Malaysia",
+                        "channel_name": "Fox Sports 1 MX",
+                        "channel_id": "929"
+                    },
+                    {
+                        "channel_name": "Band Tv Brasil",
+                        "channel_id": "29"
+                    },
+                    {
+                        "channel_name": "beIN Sports 1 Malaysia",
                         "channel_id": "712"
                     },
                     {
@@ -7686,6 +8373,16 @@
                 ]
             },
             {
+                "time": "15:40",
+                "event": "Basketball: FIBA AmeriCup (W): for 7th place",
+                "channels": [
+                    {
+                        "channel_name": "Sport Klub 4 Croatia",
+                        "channel_id": "104"
+                    }
+                ]
+            },
+            {
                 "time": "17:00",
                 "event": "WNBA Basketball : Seattle Storm vs New York Liberty",
                 "channels": [
@@ -7722,6 +8419,16 @@
                     {
                         "channel_name": "Sport Klub 3 Croatia",
                         "channel_id": "103"
+                    }
+                ]
+            },
+            {
+                "time": "18:10",
+                "event": "Basketball: FIBA AmeriCup (W): for 5th place",
+                "channels": [
+                    {
+                        "channel_name": "Sport Klub 4 Croatia",
+                        "channel_id": "104"
                     }
                 ]
             },
@@ -7926,6 +8633,18 @@
                         "channel_id": "950"
                     }
                 ]
+            }
+        ],
+        "Ice Hockey</span>": [
+            {
+                "time": "04:00",
+                "event": "Australia - AIHL : Melbourne Mustangs - Newcastle North Stars",
+                "channels": []
+            },
+            {
+                "time": "06:45",
+                "event": "Australia - AIHL : Adelaide Adrenaline - Brisbane Lightning",
+                "channels": []
             }
         ],
         "GAA</span>": [
@@ -8158,16 +8877,6 @@
                 ]
             },
             {
-                "time": "15:40",
-                "event": "Basketball: FIBA AmeriCup (W): for 7th place",
-                "channels": [
-                    {
-                        "channel_name": "Sport Klub 4 Croatia",
-                        "channel_id": "104"
-                    }
-                ]
-            },
-            {
                 "time": "17:00",
                 "event": "Golden League : Final",
                 "channels": [
@@ -8186,16 +8895,6 @@
                     {
                         "channel_name": "Sport 3 Israel",
                         "channel_id": "142"
-                    }
-                ]
-            },
-            {
-                "time": "18:10",
-                "event": "Basketball: FIBA AmeriCup (W): for 5th place",
-                "channels": [
-                    {
-                        "channel_name": "Sport Klub 4 Croatia",
-                        "channel_id": "104"
                     }
                 ]
             },
