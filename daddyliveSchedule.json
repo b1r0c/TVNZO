@@ -2629,7 +2629,7 @@
         "Boxing</span>": [
             {
                 "time": "14:00",
-                "event": "RCC Boxing Night : Kurbanov vs. Pavel Sosulin",
+                "event": "RCC Boxing Night : Kurbanov vs Pavel Sosulin",
                 "channels": [
                     {
                         "channel_name": "Match Box Russia",
@@ -4037,7 +4037,7 @@
             },
             {
                 "time": "22:30",
-                "event": "NBA Summer League : Los Angeles Lakers vs. Golden State Warriors",
+                "event": "NBA Summer League : Los Angeles Lakers vs Golden State Warriors",
                 "channels": [
                     {
                         "channel_name": "NBC Sports Bay Area",
@@ -4713,7 +4713,7 @@
             },
             {
                 "time": "11:30",
-                "event": "Women's Rugby : South Africa vs. Canada",
+                "event": "Women's Rugby : South Africa vs Canada",
                 "channels": [
                     {
                         "channel_name": "TSN3",
@@ -6223,7 +6223,7 @@
         ],
         "Tennis ATP - WIMBLEDON</span>": [
             {
-                "time": "01:24",
+                "time": "01:54",
                 "event": "ATP - WIMBLEDON : Wimbledon Press Conferences",
                 "channels": [
                     {
@@ -7026,142 +7026,142 @@
             },
             {
                 "time": "07:00",
-                "event": "UTR (M) - Olomouc (CHE) : Daniel Bien - Simon Malis",
+                "event": "UTR (M) - Olomouc (CHE) : Daniel Bien vs Simon Malis",
                 "channels": []
             },
             {
                 "time": "07:00",
-                "event": "UTR (F) - Olomouc (CHE) : Izabela Heinzova - Nikola Koprivova",
+                "event": "UTR (F) - Olomouc (CHE) : Izabela Heinzova vs Nikola Koprivova",
                 "channels": []
             },
             {
                 "time": "07:00",
-                "event": "UTR (M) - Olomouc (CHE) : Tomas Quesada Perez - Elisha Thornton",
+                "event": "UTR (M) - Olomouc (CHE) : Tomas Quesada Perez vs Elisha Thornton",
                 "channels": []
             },
             {
                 "time": "08:00",
-                "event": "Challenger - Trieste (ITA) - Qualifiers : Alessandro Pecci - Stefanos Sakellaridis",
+                "event": "Challenger - Trieste (ITA) - Qualifiers : Alessandro Pecci vs Stefanos Sakellaridis",
                 "channels": []
             },
             {
                 "time": "08:00",
-                "event": "Challenger - Trieste (ITA) - Qualifiers : Daniel Michalski - Francesco Forti",
+                "event": "Challenger - Trieste (ITA) - Qualifiers : Daniel Michalski vs Francesco Forti",
                 "channels": []
             },
             {
                 "time": "08:00",
-                "event": "Challenger - Trieste (ITA) - Qualifiers : Filippo Romano - Jakub Paul",
+                "event": "Challenger - Trieste (ITA) - Qualifiers : Filippo Romano vs Jakub Paul",
                 "channels": []
             },
             {
                 "time": "08:00",
-                "event": "Challenger - Troyes (FRA) : Jan Choinski - Calvin Hemery",
+                "event": "Challenger - Troyes (FRA) : Jan Choinski vs Calvin Hemery",
                 "channels": []
             },
             {
                 "time": "09:00",
-                "event": "Challenger - Brasov (ROM) : Francesco Maestrelli - Luka Pavlovic",
+                "event": "Challenger - Brasov (ROM) : Francesco Maestrelli vs Luka Pavlovic",
                 "channels": []
             },
             {
                 "time": "09:10",
-                "event": "Challenger - Trieste (ITA) - Qualifiers : Andrea Collarini - M.Z.F.Mreule",
+                "event": "Challenger - Trieste (ITA) - Qualifiers : Andrea Collarini vs M.Z.F.Mreule",
                 "channels": []
             },
             {
                 "time": "09:10",
-                "event": "Challenger - Trieste (ITA) - Qualifiers : Andrea Guerrieri - Lukas Pokorny",
+                "event": "Challenger - Trieste (ITA) - Qualifiers : Andrea Guerrieri vs Lukas Pokorny",
                 "channels": []
             },
             {
                 "time": "09:10",
-                "event": "Challenger - Trieste (ITA) - Qualifiers : Juan Carlos Prado Angelo - Andrea Picchione",
+                "event": "Challenger - Trieste (ITA) - Qualifiers : Juan Carlos Prado Angelo vs Andrea Picchione",
                 "channels": []
             },
             {
                 "time": "10:20",
-                "event": "Challenger - Trieste (ITA) - Qualifiers : Carlo Alberto Caniato - Matej Dodig",
+                "event": "Challenger - Trieste (ITA) - Qualifiers : Carlo Alberto Caniato vs Matej Dodig",
                 "channels": []
             },
             {
                 "time": "10:20",
-                "event": "Challenger - Trieste (ITA) - Qualifiers : Lorenzo Carboni - Milos Karol",
+                "event": "Challenger - Trieste (ITA) - Qualifiers : Lorenzo Carboni vs Milos Karol",
                 "channels": []
             },
             {
                 "time": "10:30",
-                "event": "Challenger - Iasi (ROM) - Qualifiers : Denis Yevseyev - Sebastian Gima",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Denis Yevseyev vs Sebastian Gima",
                 "channels": []
             },
             {
                 "time": "10:30",
-                "event": "Challenger - Iasi (ROM) - Qualifiers : Gerard Campana Lee - Federico Bondioli",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Gerard Campana Lee vs Federico Bondioli",
                 "channels": []
             },
             {
                 "time": "10:30",
-                "event": "Challenger - Iasi (ROM) - Qualifiers : Michael Vrbensky - Matthew Dellavedova",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Michael Vrbensky vs Matthew Dellavedova",
                 "channels": []
             },
             {
                 "time": "11:30",
-                "event": "Challenger - Trieste (ITA) - Qualifiers : Raul Brancaccio - Pietro Pampanin",
+                "event": "Challenger - Trieste (ITA) - Qualifiers : Raul Brancaccio vs Pietro Pampanin",
                 "channels": []
             },
             {
                 "time": "11:30",
-                "event": "Challenger - Trieste (ITA) - Qualifiers : Sumit Nagal - Luca Castagnola",
+                "event": "Challenger - Trieste (ITA) - Qualifiers : Sumit Nagal vs Luca Castagnola",
                 "channels": []
             },
             {
                 "time": "11:40",
-                "event": "Challenger - Iasi (ROM) - Qualifiers : Hynek Barton - Egor Agafonov",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Hynek Barton vs Egor Agafonov",
                 "channels": []
             },
             {
                 "time": "11:40",
-                "event": "Challenger - Iasi (ROM) - Qualifiers : Matei Cristian Onofrei - Florent Bax",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Matei Cristian Onofrei vs Florent Bax",
                 "channels": []
             },
             {
                 "time": "11:40",
-                "event": "Challenger - Iasi (ROM) - Qualifiers : Radu Albot - Dragos Nicolae Cazacu",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Radu Albot vs Dragos Nicolae Cazacu",
                 "channels": []
             },
             {
                 "time": "12:50",
-                "event": "Challenger - Iasi (ROM) - Qualifiers : Matheus Pucinelli de Almeida - Dan Alexandru Tomescu",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Matheus Pucinelli de Almeida vs Dan Alexandru Tomescu",
                 "channels": []
             },
             {
                 "time": "12:50",
-                "event": "Challenger - Iasi (ROM) - Qualifiers : Oriol Roca Batalla - Max Alcala Gurri",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Oriol Roca Batalla vs Max Alcala Gurri",
                 "channels": []
             },
             {
                 "time": "12:50",
-                "event": "Challenger - Iasi (ROM) - Qualifiers : Zdenek Kolar - Nicholas David Ionel",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Zdenek Kolar vs Nicholas David Ionel",
                 "channels": []
             },
             {
                 "time": "14:00",
-                "event": "Challenger - Iasi (ROM) - Qualifiers : Branko Djuric - Gabi Adrian Boitan",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Branko Djuric vs Gabi Adrian Boitan",
                 "channels": []
             },
             {
                 "time": "14:00",
-                "event": "Challenger - Iasi (ROM) - Qualifiers : Daniel Uta - Tom Paris",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Daniel Uta vs Tom Paris",
                 "channels": []
             },
             {
                 "time": "14:00",
-                "event": "Challenger - Iasi (ROM) - Qualifiers : Marko Topo - Kalin Ivanovski",
+                "event": "Challenger - Iasi (ROM) - Qualifiers : Marko Topo vs Kalin Ivanovski",
                 "channels": []
             },
             {
                 "time": "01:00",
-                "event": "UTR (F) - Kaohsiung (TWN) : Ange Oby Kajuru - Kyoka Kubo",
+                "event": "UTR (F) - Kaohsiung (TWN) : Ange Oby Kajuru vs Kyoka Kubo",
                 "channels": []
             }
         ],
@@ -7998,7 +7998,7 @@
         "Baseball</span>": [
             {
                 "time": "22:00",
-                "event": "Minor League Baseball",
+                "event": "Minor League Baseball : Iowa Cubs vs Omaha Storm Chasers",
                 "channels": [
                     {
                         "channel_name": "MASN USA",
@@ -8638,12 +8638,12 @@
         "Ice Hockey</span>": [
             {
                 "time": "04:00",
-                "event": "Australia - AIHL : Melbourne Mustangs - Newcastle North Stars",
+                "event": "Australia - AIHL : Melbourne Mustangs vs Newcastle North Stars",
                 "channels": []
             },
             {
                 "time": "06:45",
-                "event": "Australia - AIHL : Adelaide Adrenaline - Brisbane Lightning",
+                "event": "Australia - AIHL : Adelaide Adrenaline vs Brisbane Lightning",
                 "channels": []
             }
         ],
