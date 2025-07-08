@@ -607,12 +607,8 @@
                         "channel_id": "22"
                     },
                     {
-                        "channel_name": "Viaplay Sports 1 UK",
-                        "channel_id": "451"
-                    },
-                    {
-                        "channel_name": "Premier Sports 1 Ireland",
-                        "channel_id": "771"
+                        "channel_name": "Viaplay Sports 2 UK",
+                        "channel_id": "550"
                     }
                 ]
             },
@@ -624,11 +620,6 @@
             {
                 "time": "18:00",
                 "event": "UEFA - Champions League - Qualifiers : Drita vs Differdange 03",
-                "channels": []
-            },
-            {
-                "time": "18:00",
-                "event": "FIFA Club World Cup 2025 : Fluminense vs Chelsea",
                 "channels": []
             },
             {
@@ -1030,7 +1021,7 @@
         ],
         "Tennis ATP - WIMBLEDON</span>": [
             {
-                "time": "09:53",
+                "time": "18:23",
                 "event": "ATP - WIMBLEDON : Wimbledon Press Conferences",
                 "channels": [
                     {
@@ -2178,12 +2169,16 @@
                 "event": "Swedish Elitserien League Speedway : The Wolves vs. The Dacks Malilla",
                 "channels": [
                     {
-                        "channel_name": "Viaplay Sports 2 UK",
-                        "channel_id": "550"
+                        "channel_name": "Viaplay Sports 1 UK",
+                        "channel_id": "451"
                     },
                     {
                         "channel_name": "Eleven Sports 1 Poland",
                         "channel_id": "71"
+                    },
+                    {
+                        "channel_name": "Premier Sports 1 Ireland",
+                        "channel_id": "771"
                     }
                 ]
             }
