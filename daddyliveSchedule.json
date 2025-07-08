@@ -1,5 +1,67 @@
 {
     "Tuesday 08th July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:30",
+                "event": "2025 Slinger Nationals at Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Short Track Super Series New Egypt",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "DIRTcar Summer Nationals Late Models Shadyhill",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Millbridge Speedway Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2025 USAC NOS Energy Drink National Midgets at Sweet Springs",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "The Ultimate Fighter 33 Episode 7",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "77"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "18:00",
@@ -1021,7 +1083,7 @@
         ],
         "Tennis ATP - WIMBLEDON</span>": [
             {
-                "time": "18:23",
+                "time": "19:56",
                 "event": "ATP - WIMBLEDON : Wimbledon Press Conferences",
                 "channels": [
                     {
