@@ -1,5 +1,145 @@
 {
     "Friday 11th July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "16:30",
+                "event": "Island Knockouts: Part I",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "2025 Weekly Racing at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "DIRTcar Summer Nationals Late Models Crystal Motor",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "2025 ARCA West at Sonoma Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "World of Outlaws Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Weekly Racing at Utica-Rome Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Pro Wrestling Revolution: Lucha Libre - San Jose, April 2025 (en Espa\u00f1ol)",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars Wilmot",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "IMCA Weekly Racing Marshalltown",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "American Sprint Car Series Lakeside",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Boxing : Katie Taylor vs. Amanda Serrano III",
+                "channels": [
+                    {
+                        "channel_name": "PPV Feed I",
+                        "channel_id": "160"
+                    },
+                    {
+                        "channel_name": "PPV Feed II",
+                        "channel_id": "161"
+                    },
+                    {
+                        "channel_name": "PPV Feed III",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "GCW: Boss of All Bosses 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "House of Glory: Texas 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "164"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "18:00",
@@ -2395,6 +2535,10 @@
                     {
                         "channel_name": "Match Box Russia",
                         "channel_id": "395"
+                    },
+                    {
+                        "channel_name": "Sky Sport+",
+                        "channel_id": "36"
                     },
                     {
                         "channel_name": "Nova Sports 5 Greece",
