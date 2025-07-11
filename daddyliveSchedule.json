@@ -5291,6 +5291,36 @@
                 ]
             },
             {
+                "time": "11:00",
+                "event": "Champions League : Noppon Saengkham vs Patrick Whelan",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Champions League : Tom Ford vs Simon Blackwell",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Champions League : Allan Taylor vs Nutcharut Wongharuthai",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Champions League : Liu Hongyu vs Ian Burns",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Champions League : Allan Taylor vs Simon Blackwell",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Champions League : Liu Hongyu vs Patrick Whelan",
+                "channels": []
+            },
+            {
                 "time": "16:00",
                 "event": "Championship League Snooker Snooker, F?rsta rundan",
                 "channels": [
@@ -5299,6 +5329,36 @@
                         "channel_id": "589"
                     }
                 ]
+            },
+            {
+                "time": "16:00",
+                "event": "Champions League : Noppon Saengkham vs Ian Burns",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Champions League : Tom Ford vs Nutcharut Wongharuthai",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Champions League : Ian Burns vs Patrick Whelan",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Champions League : Nutcharut Wongharuthai vs Simon Blackwell",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Champions League : Noppon Saengkham vs Liu Hongyu",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Champions League : Tom Ford vs Allan Taylor",
+                "channels": []
             }
         ],
         "Am. Football</span>": [
