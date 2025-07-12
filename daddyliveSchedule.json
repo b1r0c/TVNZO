@@ -1,5 +1,157 @@
 {
     "Saturday 12th July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "15:00",
+                "event": "AMA Supercross Championship Millville",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "SENSHI 27",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "AEW All In Texas",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "ProBox Fight Night : Vladimir Hernandez vs. Francisco Veron",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Volusia Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Weekly Racing Fonda",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "DIRTcar Summer Nationals Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Land of Legends Late Model",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "World of Outlaws Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "22:55",
+                "event": "IMCA Weekly Racing 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "173"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "IWC: Wipeout 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Battleground Championship Wrestling: Hot Summer Nights 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "BKFC 78 Hollywood: Leonardo Perdomo vs Arnold Adams",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "177"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Shamrock FC 365",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "178"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "15:00",
@@ -3658,6 +3810,14 @@
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "55"
+                    },
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "179"
+                    },
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "180"
                     }
                 ]
             }
