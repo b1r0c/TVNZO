@@ -7397,6 +7397,150 @@
                 ]
             }
         ],
+        "Tennis ATP - WIMBLEDON</span>": [
+            {
+                "time": "15:00",
+                "event": "ATP - WIMBLEDON : Sinner J. vs Alcaraz C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 11",
+                        "channel_id": "1511"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 31",
+                        "channel_id": "1531"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 22",
+                        "channel_id": "1522"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 23",
+                        "channel_id": "1523"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 24",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA DOUBLES - WIMBLEDON</span>": [
+            {
+                "time": "12:00",
+                "event": "WTA DOUBLES - WIMBLEDON Hsieh S-W./Ostapenko J. vs Kudermetova V./Mertens E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 11",
+                        "channel_id": "1511"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 31",
+                        "channel_id": "1531"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 22",
+                        "channel_id": "1522"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 23",
+                        "channel_id": "1523"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 24",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    }
+                ]
+            }
+        ],
+        "Tennis BOYS & GIRLS - WIMBLEDON</span>": [
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : No. 1 Court",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : No. 3 Court",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 4",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 8",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 12",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 12",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 18",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 18",
+                        "channel_id": "1518"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "BOYS & GIRLS - WIMBLEDON : Boys' Final: Ivanov I. vs Karki R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "11:00",
