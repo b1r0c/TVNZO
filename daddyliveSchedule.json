@@ -1,5 +1,27 @@
 {
     "Tuesday 15th July 2025 - Schedule Time UK GMT": {
+        "Live Shows</span>": [
+            {
+                "time": "18:00",
+                "event": "Beyond the Gates Season 1, Episode 90",
+                "channels": [
+                    {
+                        "channel_name": "CBSNY USA",
+                        "channel_id": "767"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "2025 All-Star Red Carpet Show Live",
+                "channels": [
+                    {
+                        "channel_name": "MLB Network USA",
+                        "channel_id": "399"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "15:00",
