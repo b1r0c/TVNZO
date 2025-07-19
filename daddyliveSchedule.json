@@ -4139,6 +4139,10 @@
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "160"
+                    },
+                    {
+                        "channel_name": "DAZN PPV SD",
+                        "channel_id": "190"
                     }
                 ]
             },
