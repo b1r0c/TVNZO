@@ -9947,7 +9947,15 @@
                         "channel_id": "308"
                     },
                     {
-                        "channel_name": "Sky Sports Action UK (CH-37) } #Vamos Spain (CH-521) } Sky Sports Main Event",
+                        "channel_name": "Sky Sports Action UK",
+                        "channel_id": "37"
+                    },
+                    {
+                        "channel_name": "#Vamos Spain",
+                        "channel_id": "521"
+                    },
+                    {
+                        "channel_name": "Sky Sports Main Event",
                         "channel_id": "38"
                     },
                     {
