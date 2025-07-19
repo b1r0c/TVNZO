@@ -1,5 +1,207 @@
 {
     "Saturday 19th July 2025 - Schedule Time UK GMT": {
+        "PPV Feed</span>": [
+            {
+                "time": "15:00",
+                "event": "Freedom Stage | Tomorrowland Belgium 2025 PPV",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "MainStage | Tomorrowland Belgium 2025 PPV",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "wXw: Broken Rules 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "Monster Energy AMA Supercross Championship Washougal",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "Boxing Bund Deutscher Berufsboxer : Simon Zachenhuber vs Paulinus Ndjolonimu",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "2025 17th Annual Hampton Heat at Langley Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "21:15",
+                "event": "Supermodified 50 Oswego Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Empire Super Sprints at Fonda Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Weekly Racing at Port Royal Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Dirtvision: Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "180"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Dirtvision : Land of Legends Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "181"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "World of Outlaws Sprint Cars Eldora",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "173"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Dirtvision: Sharon Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "182"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Knoxville Raceway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Southern Nationals Screven Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "GCW: Bash at the Ballpark 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 Lucas Oil Silver Dollar Nationals at Huset's Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "177"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "Xtreme Outlaw Midgets Spoon River",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "178"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "Dirtvision : Spoon River Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "183"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "American Sprint Car Series Tri State",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "179"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "11:00",
