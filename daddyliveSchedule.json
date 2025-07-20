@@ -1,5 +1,67 @@
 {
     "Sunday 20th July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "15:00",
+                "event": "PPV EVENT - Freedom Stage | Tomorrowland Belgium",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "PPV EVENT - MainStage | Tomorrowland Belgium 2025 LIVE",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "19:15",
+                "event": "2025 NASCAR Whelen Modified Tour at Monadnock Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 MARS Late Models at Quincy Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "2025 Late Models at Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "TNA: Slammiversary 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "77"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "13:00",
