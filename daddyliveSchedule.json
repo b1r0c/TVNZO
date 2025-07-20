@@ -7746,6 +7746,120 @@
                 ]
             }
         ],
+        "Tennis HOPMAN CUP</span>": [
+            {
+                "time": "15:30",
+                "event": "HOPMAN CUP : Bronzetti L. vs Andreescu B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 6",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "HOPMAN CUP : Cobolli F. vs Auger-Aliassime F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 6",
+                        "channel_id": "1506"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - BASTAD</span>": [
+            {
+                "time": "12:00",
+                "event": "ATP - BASTAD : Darderi L. vs De Jong J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - GSTAAD</span>": [
+            {
+                "time": "09:30",
+                "event": "ATP - GSTAAD : Cerundolo J. M. vs Bublik A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - UMAG :</span>": [
+            {
+                "time": "15:30",
+                "event": "ATP - UMAG : Collignon R. vs Kopriva V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "ATP - UMAG : Dodig M. vs Passaro F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - LOS CABOS :</span>": [
+            {
+                "time": "02:30",
+                "event": "ATP - LOS CABOS : Shapovalov D. vs Walton A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "ATP - LOS CABOS : Rublev A. vs Kovacevic A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - HAMBURG :</span>": [
+            {
+                "time": "12:00",
+                "event": "WTA - HAMBURG : Bondar A. vs Boisson L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - IASI :</span>": [
+            {
+                "time": "14:30",
+                "event": "WTA - IASI : Teichmann J. vs Begu I.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "08:30",
