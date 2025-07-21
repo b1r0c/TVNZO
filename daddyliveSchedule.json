@@ -912,12 +912,62 @@
         ],
         "Tennis ATP - WASHINGTON</span>": [
             {
-                "time": "14:30",
-                "event": "ATP - WASHINGTON : TBD",
+                "time": "11:30",
+                "event": "ATP - WASHINGTON : Arnaldi M. vs Altmaier D.",
                 "channels": [
                     {
-                        "channel_name": "Tennis Stream 9",
-                        "channel_id": "1509"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - WASHINGTON : Bonzi B. vs Marozsan F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - WASHINGTON : Quinn E. vs O'Connell C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - WASHINGTON : Evans D. vs Bergs Z.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - WASHINGTON : Zhukayev B. vs Muller A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - WASHINGTON : McDonald M. vs Smith C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
                     }
                 ]
             }
@@ -996,12 +1046,22 @@
         ],
         "Tennis WTA - WASHINGTON</span>": [
             {
-                "time": "14:30",
-                "event": "WTA - WASHINGTON : TBD",
+                "time": "11:30",
+                "event": "WTA - WASHINGTON : Potapova A. vs Mboko V.",
                 "channels": [
                     {
-                        "channel_name": "Tennis Stream 4",
-                        "channel_id": "1504"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - WASHINGTON : Fernandez L. vs Joint M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
                     }
                 ]
             }
