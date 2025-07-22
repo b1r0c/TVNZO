@@ -1,5 +1,37 @@
 {
     "Tuesday 22nd July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:00",
+                "event": "2025 Summer Shootout at Charlotte Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Millbridge Sprints Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "WR Revolver Remix, Episode 29",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "68"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "17:00",
