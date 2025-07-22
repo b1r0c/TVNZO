@@ -2739,7 +2739,11 @@
                         "channel_id": "427"
                     },
                     {
-                        "channel_name": "Sky Sports Action UK (CH-37) } Sky Sports Main Event",
+                        "channel_name": "Sky Sports Action UK",
+                        "channel_id": "37"
+                    },
+                    {
+                        "channel_name": "Sky Sports Main Event",
                         "channel_id": "38"
                     },
                     {
