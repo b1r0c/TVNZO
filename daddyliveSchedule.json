@@ -1,5 +1,57 @@
 {
     "Wednesday 23rd July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "22:00",
+                "event": "Millbridge Sprints Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 USAC Silver Crown at Lucas Oil Indianapolis Raceway Park",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "World of Outlaws Sprint Cars Baps",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 Short Track Super Series at Le RPM Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "77"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "2025 FloRacing Night in America at Fairbury Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "86"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
@@ -1336,7 +1388,7 @@
         ],
         "Tennis ATP - WASHINGTON</span>": [
             {
-                "time": "09:12",
+                "time": "20:11",
                 "event": "ATP - WASHINGTON : Michelsen A. vs Evans D.",
                 "channels": [
                     {
@@ -1346,7 +1398,7 @@
                 ]
             },
             {
-                "time": "09:12",
+                "time": "20:11",
                 "event": "ATP - WASHINGTON : Muller A. vs Moutet C.",
                 "channels": [
                     {
@@ -1540,7 +1592,7 @@
         ],
         "Tennis WTA - WASHINGTON</span>": [
             {
-                "time": "09:12",
+                "time": "20:11",
                 "event": "WTA - WASHINGTON : Williams V. vs Stearns P.",
                 "channels": [
                     {
