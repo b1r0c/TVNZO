@@ -1393,7 +1393,7 @@
         ],
         "Tennis ATP - WASHINGTON</span>": [
             {
-                "time": "00:49",
+                "time": "03:08",
                 "event": "ATP - WASHINGTON : Michelsen A. vs Evans D.",
                 "channels": [
                     {
@@ -1403,7 +1403,7 @@
                 ]
             },
             {
-                "time": "00:49",
+                "time": "03:08",
                 "event": "ATP - WASHINGTON : Muller A. vs Moutet C.",
                 "channels": [
                     {
@@ -1597,7 +1597,7 @@
         ],
         "Tennis WTA - WASHINGTON</span>": [
             {
-                "time": "00:49",
+                "time": "03:08",
                 "event": "WTA - WASHINGTON : Williams V. vs Stearns P.",
                 "channels": [
                     {
@@ -4141,6 +4141,260 @@
                     {
                         "channel_name": "Willow Xtra",
                         "channel_id": "598"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - KITZBUHEL</span>": [
+            {
+                "time": "09:00",
+                "event": "ATP - KITZBUHEL : Rinderknech A. vs Hanfmann Y.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - KITZBUHEL : Cazaux A. vs Struff J-L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - KITZBUHEL : Bublik A. vs Shevchenko A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - KITZBUHEL : Seyboth Wild T. vs Van De Zandschulp B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - UMAG</span>": [
+            {
+                "time": "14:30",
+                "event": "ATP - UMAG : Llamas Ruiz P. vs Ugo Carabelli C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "ATP - UMAG : Prizmic D. vs Darderi L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "ATP - UMAG : Dzumhur D. vs Droguet T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - WASHINGTON</span>": [
+            {
+                "time": "15:00",
+                "event": "ATP - WASHINGTON : Medvedev D. vs Wu Y.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 9",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - WASHINGTON : Nakashima B. vs Norrie C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - WASHINGTON : De Minaur A. vs Lehecka J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - WASHINGTON : Evans D. vs Moutet C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 11",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - WASHINGTON : Davidovich Fokina A. vs Tien L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 11",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "ATP - WASHINGTON : Shelton B. vs Diallo G.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 9",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "ATP - WASHINGTON : Cobolli F. vs TBD",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 9",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "ATP - WASHINGTON : Fritz T. vs Arnaldi M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - PRAGUE</span>": [
+            {
+                "time": "09:00",
+                "event": "WTA - PRAGUE : Ponchet J. vs Valentova T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - PRAGUE : Bouzkova M. vs Li A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - PRAGUE : Noskova L. vs Siniakova K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - PRAGUE : Wang Xin. vs Bejlek S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - WASHINGTON</span>": [
+            {
+                "time": "17:00",
+                "event": "WTA - WASHINGTON : Raducanu E. vs Osaka N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 15",
+                        "channel_id": "1515"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "WTA - WASHINGTON : Townsend T. VS Kenin S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "WTA - WASHINGTON : Pegula J. VS Fernandez L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "WTA - WASHINGTON : Olmos G./Sutjiadi A. vs Raducanu E./Rybakina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 5",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "WTA - WASHINGTON : Williams V. vs Frech M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
                     }
                 ]
             }
