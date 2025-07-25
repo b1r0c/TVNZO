@@ -1,5 +1,177 @@
 {
     "Friday 25th July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "14:30",
+                "event": "PPV - MainStage | Tomorrowland 2025 LIVE",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "PPV - Freedom Stage | Tomorrowland Belgium 2025 LIVE",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "Hall Of Fame Fight Night: Shane Mosley vs Matt Floyd",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "2025 Limited Late Model 30 at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "World of Outlaws Late Models Fairbury",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Attica Raceway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 USAC Indiana Sprint Week at Lincoln Park Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 IRA Sprints at Mississippi Thunder Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 Porsche Sprint Challenge at Lauguna Seca",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "World of Outlaws Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Weekly Racing at Utica-Rome Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "173"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 Southern Nationals at North Georgia Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "Xtreme Outlaw Midgets Arrowhead",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "XR Big Deal Ogilvie Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "American Sprint Car Series Windy Hollow",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "177"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "Jackson Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "178"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Cage Fury Fighting Championships : CFFC: BJJ 14",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "179"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "21:00",
