@@ -4083,6 +4083,31 @@
             },
             {
                 "time": "10:00",
+                "event": "South Korea - K League 2 : Busan IPark vs Bucheon",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Cheonan City vs Gyeongnam",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Cheongju vs Gimpo",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Chungnam Asan vs Hwaseong",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 1 : Gimcheon Sangmu vs Jeju SK",
+                "channels": []
+            },
+            {
+                "time": "10:00",
                 "event": "K League 1 : Suwon FC vs Anyang",
                 "channels": [
                     {
@@ -4388,6 +4413,11 @@
                         "channel_id": "105"
                     }
                 ]
+            },
+            {
+                "time": "13:00",
+                "event": "Uruguay - Segunda Division : Colon FC vs CA Artigas",
+                "channels": []
             },
             {
                 "time": "13:30",
@@ -4936,6 +4966,16 @@
                 ]
             },
             {
+                "time": "16:00",
+                "event": "Slovakia - 1. liga : Dunajska Streda vs Zemplin Michalovce",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Slovakia - 1. liga : Komarno vs Trencin",
+                "channels": []
+            },
+            {
                 "time": "16:15",
                 "event": "Belgium - Pro League : Zulte-Waregem vs Mechelen",
                 "channels": [
@@ -5028,6 +5068,11 @@
                         "channel_id": "746"
                     }
                 ]
+            },
+            {
+                "time": "18:00",
+                "event": "Uruguay - Segunda Division : Uruguay Montevideo vs Rentistas",
+                "channels": []
             },
             {
                 "time": "18:00",
@@ -5334,6 +5379,11 @@
                         "channel_id": "387"
                     }
                 ]
+            },
+            {
+                "time": "20:00",
+                "event": "USL League One : Oakland Roots vs Orange County",
+                "channels": []
             },
             {
                 "time": "20:00",
@@ -5805,6 +5855,41 @@
             },
             {
                 "time": "23:00",
+                "event": "USL League One : Charlotte Independence vs Richmond Kickers",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "USL League One : Chattanooga Red Wolves vs One Knoxville",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Uruguay - Segunda Division : Club Oriental vs La Luz FC",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "USL League One : Greenville Triumph vs FC Naples",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "USL League One : Indy Eleven vs Tulsa",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "USL League One : Lexington vs Louisville City",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "USL League One : Miami FC vs South Georgia Tormenta",
+                "channels": []
+            },
+            {
+                "time": "23:00",
                 "event": "Club Friendly : Eintracht Frankfurt vs Aston Villa",
                 "channels": [
                     {
@@ -5858,6 +5943,11 @@
                         "channel_id": "643"
                     }
                 ]
+            },
+            {
+                "time": "23:30",
+                "event": "USL League One : North Carolina FC vs Loudoun United",
+                "channels": []
             },
             {
                 "time": "23:30",
@@ -6000,6 +6090,11 @@
                         "channel_id": "132"
                     }
                 ]
+            },
+            {
+                "time": "01:00",
+                "event": "Mexico - League MX - Apertura : Monterrey vs Atlas",
+                "channels": []
             },
             {
                 "time": "01:20",
@@ -6228,6 +6323,116 @@
                         "channel_id": "654"
                     }
                 ]
+            },
+            {
+                "time": "03:10",
+                "event": "UTR (M) - Bali (IDN) : Azuma Visaya vs Koray Kirci",
+                "channels": []
+            },
+            {
+                "time": "03:10",
+                "event": "UTR (M) - Bali (IDN) : Jonathan Irwanto vs Tomas Quesada Perez",
+                "channels": []
+            },
+            {
+                "time": "03:10",
+                "event": "UTR (M) - Bali (IDN) : Max Basing vs Anthony Susanto",
+                "channels": []
+            },
+            {
+                "time": "03:30",
+                "event": "UTR (F) - Tokyo (JAP) : Yuna Ohashi vs Yukiko Ikedo",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "UTR (M) - Bali (IDN) : Dmitrii Shirokii vs Elie Azoulay",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "UTR (M) - Bali (IDN) : Stefan Storch vs N.A.Barki",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (F) - Budapesta (UNG) : Julita Saner vs Daryna Shoshyna",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Budapesta (UNG) : Mark Havlicek vs Peter Sallay",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Budapesta (UNG) : Samuel Rovai vs Alfred Almasi",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "UTR (M) - Budapesta (UNG) : Andras Necz vs Barnabas Sift",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "UTR (M) - Budapesta (UNG) : Mate Valkusz vs Adam Jilly",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "ITF (M) - Ollersbach (AUT) : Tom Gentzsch vs Filip Jeff Planinsek",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "ATP - Kitzbuhel (AUT) - Double : N.Oberleitner/J.Schwarzler vs P.Nouza/P.Rikl",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "UTR (M) - Budapesta (UNG) : Rafael KIS Balazs vs Marcell Bartakovics",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Tampere (FIN) : Hynek Barton vs Nicolai Budkov Kjaer",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "Challenger - Tampere (FIN) : Sumit Nagal vs Sascha Wayenburg",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Tennis \tATP - Kitzbuhel (AUT) : Alexander Bublik vs Arthur Cazaux",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Challenger - Zug (ELV) : Stefanos Sakellaridis vs Harold Mayot",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "Challenger - Zug (ELV) : Jakub Paul vs Lukas Klein",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Challenger - Segovia (SPA) : Edas Butvilas vs George Loffhagen",
+                "channels": []
+            },
+            {
+                "time": "15:40",
+                "event": "Challenger - Zug (ELV) - Double : G.Blancaneaux/H.Mayot vs J.Sung Nam/T.Yuzuki",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "Challenger - Segovia (SPA) : Aryan Shah vs Nicolas Alvarez Varona",
+                "channels": []
             }
         ],
         "Field Hockey</span>": [
@@ -6300,6 +6505,10 @@
                     {
                         "channel_name": "Canal+ Formula 1",
                         "channel_id": "273"
+                    },
+                    {
+                        "channel_name": "M4 Sports Hungary",
+                        "channel_id": "265"
                     },
                     {
                         "channel_name": "Viaplay F1 NL",
@@ -6414,6 +6623,10 @@
                     {
                         "channel_name": "Canal+ Formula 1",
                         "channel_id": "273"
+                    },
+                    {
+                        "channel_name": "M4 Sports Hungary",
+                        "channel_id": "265"
                     },
                     {
                         "channel_name": "Sky Sport 4 NZ",
@@ -6558,6 +6771,10 @@
                         "channel_id": "273"
                     },
                     {
+                        "channel_name": "M4 Sports Hungary",
+                        "channel_id": "265"
+                    },
+                    {
                         "channel_name": "Sky Sport 4 NZ",
                         "channel_id": "591"
                     },
@@ -6636,6 +6853,10 @@
                     {
                         "channel_name": "Canal+ Formula 1",
                         "channel_id": "273"
+                    },
+                    {
+                        "channel_name": "M4 Sports Hungary",
+                        "channel_id": "265"
                     },
                     {
                         "channel_name": "Sky Sport 4 NZ",
@@ -6786,7 +7007,7 @@
                 "event": "NASCAR Cup Series Brickyard 400, Qualifying",
                 "channels": [
                     {
-                        "channel_name": "Trutv USA",
+                        "channel_name": "truTV USA",
                         "channel_id": "341"
                     }
                 ]
@@ -6998,6 +7219,41 @@
                 ]
             },
             {
+                "time": "16:00",
+                "event": "UFC FN : Martin Buday vs Marcus Buchecha",
+                "channels": []
+            },
+            {
+                "time": "16:20",
+                "event": "UFC FN : Mohammed Yahya vs Steven Nguyen",
+                "channels": []
+            },
+            {
+                "time": "16:40",
+                "event": "UFC FN : Ibo Aslan vs Billy Elekana",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "UFC FN : Amanda Ribas vs Tabatha Ricci",
+                "channels": []
+            },
+            {
+                "time": "17:20",
+                "event": "UFC FN : Davey Grant vs Damon Blackshear",
+                "channels": []
+            },
+            {
+                "time": "17:40",
+                "event": "UFC FN : Muslim Salikhov vs Carlos Leal Miranda",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "UFC FN : Bryce Mitchell vs Said Nurmagomedov",
+                "channels": []
+            },
+            {
                 "time": "19:00",
                 "event": "UFC Fight Night Main Card : Robert Whittaker vs Reinier de Ridder",
                 "channels": [
@@ -7070,6 +7326,31 @@
                         "channel_id": "146"
                     }
                 ]
+            },
+            {
+                "time": "19:00",
+                "event": "UFC FN : Nikita Krylov vs Bogdan Guskov",
+                "channels": []
+            },
+            {
+                "time": "19:20",
+                "event": "UFC FN : Assu Almabayev vs Jose Ochoa",
+                "channels": []
+            },
+            {
+                "time": "19:40",
+                "event": "UFC FN : Sharaputdin Magomedov vs Marc Andre Barriault",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "UFC FN : Petr Yan vs Marcus Mcghee",
+                "channels": []
+            },
+            {
+                "time": "20:20",
+                "event": "UFC FN : Robert Whittaker vs Reinier de Ridder",
+                "channels": []
             },
             {
                 "time": "01:00",
@@ -7706,12 +7987,16 @@
                         "channel_id": "16"
                     },
                     {
-                        "channel_name": "Sportsnet One",
-                        "channel_id": "411"
-                    },
-                    {
                         "channel_name": "FOXNY USA",
                         "channel_id": "768"
+                    },
+                    {
+                        "channel_name": "FOX USA",
+                        "channel_id": "54"
+                    },
+                    {
+                        "channel_name": "Sportsnet One",
+                        "channel_id": "411"
                     }
                 ]
             },
@@ -8032,6 +8317,18 @@
                         "channel_id": "540"
                     }
                 ]
+            }
+        ],
+        "Ice Hockey</span>": [
+            {
+                "time": "06:45",
+                "event": "Australia - AIHL : Brisbane Lightning vs Adelaide Adrenaline",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Australia - AIHL : Melbourne Mustangs vs Newcastle North Stars",
+                "channels": []
             }
         ],
         "Cycling</span>": [
