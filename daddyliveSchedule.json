@@ -2853,7 +2853,7 @@
         ],
         "Tennis ATP - WASHINGTON</span>": [
             {
-                "time": "21:43",
+                "time": "22:51",
                 "event": "ATP - WASHINGTON : Shelton B. vs Tiafoe F.",
                 "channels": [
                     {
@@ -2863,7 +2863,7 @@
                 ]
             },
             {
-                "time": "21:43",
+                "time": "22:51",
                 "event": "ATP - WASHINGTON : Davidovich Fokina A. vs Fritz T.",
                 "channels": [
                     {
@@ -2907,7 +2907,7 @@
         ],
         "Tennis WTA - WASHINGTON</span>": [
             {
-                "time": "21:43",
+                "time": "22:51",
                 "event": "WTA - WASHINGTON : Kalinskaya A. vs Tauson C.",
                 "channels": [
                     {
@@ -2921,7 +2921,7 @@
                 ]
             },
             {
-                "time": "21:43",
+                "time": "22:51",
                 "event": "WTA - WASHINGTON : Raducanu E./Rybakina E. vs Townsend T./Zhang S.",
                 "channels": [
                     {
@@ -7810,8 +7810,8 @@
                 ]
             },
             {
-                "time": "21:43",
-                "event": "4:30 ATP/WTA Tennis Canada, ATP/WTA 1st Round",
+                "time": "23:00",
+                "event": "ATP/WTA Tennis Canada, ATP/WTA 1st Round",
                 "channels": [
                     {
                         "channel_name": "Tennis Channel USA",
