@@ -4732,7 +4732,7 @@
         "Volleyball</span>": [
             {
                 "time": "13:45",
-                "event": "Women's Volleyball: Nations League match for 3rd place",
+                "event": "Nations League Women 3rd place : Poland W vs Japan W",
                 "channels": [
                     {
                         "channel_name": "Polsat Sport 1 Poland",
@@ -4754,11 +4754,15 @@
             },
             {
                 "time": "18:00",
-                "event": "Women's Volleyball: Nations League final match",
+                "event": "Nations League Women final match : Italy W vs Brazil W",
                 "channels": [
                     {
                         "channel_name": "Polsat Sport 1 Poland",
                         "channel_id": "47"
+                    },
+                    {
+                        "channel_name": "CBS Sports Network USA",
+                        "channel_id": "308"
                     },
                     {
                         "channel_name": "Arena Premium 3 Serbia",
@@ -4771,16 +4775,6 @@
                     {
                         "channel_name": "Sport Klub 3 Croatia",
                         "channel_id": "103"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "FIVB Volleyball Women's Nations League Final: Teams TBA",
-                "channels": [
-                    {
-                        "channel_name": "CBS Sports Network USA",
-                        "channel_id": "308"
                     }
                 ]
             }
