@@ -4614,6 +4614,160 @@
                 ]
             }
         ],
+        "Tennis ATP - TORONTO</span>": [
+            {
+                "time": "15:00",
+                "event": "ATP - TORONTO : Davidovich Fokina A. vs Mensik J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - TORONTO : Fils A. vs Lehecka J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - TORONTO : Rublev A. vs Sonego L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - TORONTO : Tiafoe F. vs Vukic A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "ATP - TORONTO : Cobolli F. vs Marozsan F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "ATP - TORONTO : Diallo G. vs Fritz T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "ATP - TORONTO : Nakashima B. vs Shelton B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - MONTREAL</span>": [
+            {
+                "time": "16:30",
+                "event": "WTA - MONTREAL : Tauson C. vs Starodubtseva Y.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - MONTREAL : Osaka N. vs Ostapenko J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - MONTREAL : Sevastova A. vs Pegula J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - MONTREAL : Keys M. vs McNally C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "WTA - MONTREAL : Bencic B. vs Muchova K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "WTA - MONTREAL : Lys E. vs Swiatek I.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "WTA - MONTREAL : Kalinskaya A. vs Svitolina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "WTA - MONTREAL : Anisimova A. vs Raducanu E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "15:00",
