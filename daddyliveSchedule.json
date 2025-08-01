@@ -1,5 +1,207 @@
 {
     "Friday 01st Aug July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "16:00",
+                "event": "SuperBikes Motoamerica Virginia",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "GCW: ID Showcase 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "NCL 56: Thunderstruck 3",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "2025 NAPA SK 5K at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "22:20",
+                "event": "2025 NASCAR Dirt Modifieds at Autodrome Granby",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 USAC Indiana Sprint Week at Bloomington Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Thunder on the Thruway at Utica-Rome Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "22:50",
+                "event": "World of Outlaws Late Models Cedar Lake",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "EFW: Adrenaline 10",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Williams Grove Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "360 Knoxville Nationals",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "23:20",
+                "event": "500 Sprint Car Tour Kalamazoo",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Belleville 305 Nationals",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "2025 IMCA Weekly Racing at Marshalltown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "House of Glory: High Intensity 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "GCW: Hit Em Up 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Budo Striking Vol 30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Urijah Faber's A1 Combat 29: Maximov vs. Indio",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "Budo Sento Championship Vol 30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "169"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "18:00",
