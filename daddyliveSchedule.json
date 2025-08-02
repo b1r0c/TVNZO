@@ -1,5 +1,257 @@
 {
     "Saturday 02nd August 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "13:00",
+                "event": "2025 PDRA Northern Nationals",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "SuperBikes Motoamerica Virginia",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "Memphis Wrestling, Episode 232 - Justin Credible gets Extreme",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "173"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "GCW: Josh Barnett's Bloodsport XIV",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "True Grit Wrestling: Wrestlefest 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "1750"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Rage Kombat: Inferno",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "2025 NASCAR Modified Bubba 150 at Riverhead Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "177"
+                    }
+                ]
+            },
+            {
+                "time": "21:15",
+                "event": "2025 Supermodified Twin 40's at Oswego Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "178"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "500 Sprint Car Tour Owosso",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "179"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Weekly Racing at Port Royal Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "180"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 NASCAR Weekly Racing at Berlin Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "181"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Weekly Racing at Fonda Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Land of Legends Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "22:20",
+                "event": "2025 NASCAR Weekly Racing at Jennerstown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Sharon Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 Family Fireworks Night at Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "2025 USAC Indiana Sprint Week at Tri-State Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 IMCA Weekly Racing at 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Dirtvision : Knoxville Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Dead & Compnay 60 Years Of The Grateful Dead Concert PPV",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "Dirtvision : I-55 Federated Auto Parts Raceway Park",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Lariato Pro Wrestling, Episode 1",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "GCW: Emo Fight 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "170"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "15:00",
@@ -4373,6 +4625,14 @@
                     {
                         "channel_name": "WWE PPV",
                         "channel_id": "76"
+                    },
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "155"
+                    },
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "145"
                     }
                 ]
             }
