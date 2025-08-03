@@ -3889,6 +3889,14 @@
                     {
                         "channel_name": "WWE PPV",
                         "channel_id": "76"
+                    },
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "161"
+                    },
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "162"
                     }
                 ]
             }
@@ -4981,7 +4989,7 @@
         ],
         "Volleyball</span>": [
             {
-                "time": "08:38",
+                "time": "20:14",
                 "event": "Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia",
                 "channels": [
                     {
@@ -5007,7 +5015,7 @@
                 ]
             },
             {
-                "time": "08:38",
+                "time": "20:14",
                 "event": "Men's Volleyball: Nations League match for Final : Poland vs Italy",
                 "channels": [
                     {
