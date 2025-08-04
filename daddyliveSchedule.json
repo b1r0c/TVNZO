@@ -5031,7 +5031,7 @@
         ],
         "Volleyball</span>": [
             {
-                "time": "21:42",
+                "time": "01:48",
                 "event": "Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia",
                 "channels": [
                     {
@@ -5057,7 +5057,7 @@
                 ]
             },
             {
-                "time": "21:42",
+                "time": "01:48",
                 "event": "Men's Volleyball: Nations League match for Final : Poland vs Italy",
                 "channels": [
                     {
@@ -6353,7 +6353,36 @@
                 "channels": []
             }
         ],
-        "Motorsport</span>": [
+        "Tennis - Toronto (CAN)</span>": [
+            {
+                "time": "23:00",
+                "event": "Tennis - Toronto (CAN) : Alexander Zverev vs Alexei Popyrin",
+                "channels": []
+            },
+            {
+                "time": "00:10",
+                "event": "Tennis - Toronto (CAN) : Alex Michelsen vs Karen Khachanov",
+                "channels": []
+            }
+        ],
+        "Tennis - Montreal (CAN)</span>": [
+            {
+                "time": "22:00",
+                "event": "Tennis - Montreal (CAN) : Marta Kostyuk vs Elena Rybakina",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Tennis - Montreal (CAN) : Victoria Mboko vs Jessica Bouzas Maneiro",
+                "channels": []
+            }
+        ],
+        "Tennis - Toronto (CAN) - Double</span>": [
+            {
+                "time": "20:30",
+                "event": "Tennis - Toronto (CAN) - Double : G.Andreozzi/S.Arends vs J.Cash/L.Glasspool",
+                "channels": []
+            },
             {
                 "time": "18:30",
                 "event": "British Premiership Belle Vue Aces - Ipswich Witches",
