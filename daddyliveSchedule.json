@@ -772,6 +772,10 @@
                 "event": "UEFA Champions League : Rangers vs Viktoria Plze\u0148",
                 "channels": [
                     {
+                        "channel_name": "Rangers TV",
+                        "channel_id": "69"
+                    },
+                    {
                         "channel_name": "Oneplay Sport CZ",
                         "channel_id": "1027"
                     }
