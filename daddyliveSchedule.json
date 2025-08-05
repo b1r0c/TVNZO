@@ -2573,6 +2573,10 @@
                     {
                         "channel_name": "CBC Sport azerbaijan",
                         "channel_id": "11"
+                    },
+                    {
+                        "channel_name": "MRT3 Macedonia",
+                        "channel_id": "13"
                     }
                 ]
             },
@@ -2583,26 +2587,10 @@
                     {
                         "channel_name": "Cablenet Sports 1",
                         "channel_id": "8"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "UEFA Champions League : Dynamo Kyiv vs Paphos",
-                "channels": [
+                    },
                     {
                         "channel_name": "2+2 Ukraine",
                         "channel_id": "12"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "UEFA Champions League : \u0160kendija 79 vs Qaraba\u011f",
-                "channels": [
-                    {
-                        "channel_name": "MRT3 Macedonia",
-                        "channel_id": "13"
                     }
                 ]
             },
