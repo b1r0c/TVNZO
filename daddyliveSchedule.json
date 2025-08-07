@@ -8,6 +8,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "106"
+                    },
+                    {
+                        "channel_name": "Event PPV 2",
+                        "channel_id": "5000"
                     }
                 ]
             },
@@ -16,8 +20,22 @@
                 "event": "Knoxville Nationals",
                 "channels": [
                     {
-                        "channel_name": "Diervision",
+                        "channel_name": "DIRTVision",
                         "channel_id": "107"
+                    },
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "5001"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Fast Lane Motorsports Northland Super Stock Series",
+                "channels": [
+                    {
+                        "channel_name": "MYRacePaas",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -26,7 +44,7 @@
                 "event": "Dirtvision : Action Track USA",
                 "channels": [
                     {
-                        "channel_name": "Diervision",
+                        "channel_name": "DIRTVision",
                         "channel_id": "108"
                     }
                 ]
@@ -38,6 +56,20 @@
                     {
                         "channel_name": "Floracing",
                         "channel_id": "109"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5003"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2025 Salute to Veterans | Night #3",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5004"
                     }
                 ]
             }
@@ -470,6 +502,10 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "69"
+                    },
+                    {
+                        "channel_name": "MLS Season Pass",
+                        "channel_id": "5006"
                     }
                 ]
             },
@@ -3157,6 +3193,31 @@
                 ]
             },
             {
+                "time": "16:00",
+                "event": "UEFA - Europa League - Qualifiers : Fredrikstad vs Midtjylland",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "UEFA - Conference League - Qualifiers : Milsami vs SS Virtus",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "UEFA - Conference League - Qualifiers : Rosenborg vs Hammarby IF",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Lithuania - A Lyga : \u017dalgiris vs S\u016bduva",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 4 Croatia",
+                        "channel_id": "104"
+                    }
+                ]
+            },
+            {
                 "time": "16:30",
                 "event": "UEFA Europa League : AEK Larnaca vs Legia Warszawa",
                 "channels": [
@@ -3199,6 +3260,10 @@
                     {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143"
+                    },
+                    {
+                        "channel_name": "SpursPlay",
+                        "channel_id": "5007"
                     }
                 ]
             },
@@ -3211,6 +3276,11 @@
                         "channel_id": "12"
                     }
                 ]
+            },
+            {
+                "time": "16:30",
+                "event": "Lithuania - Cup : Hegelmann vs FA Siauliai",
+                "channels": []
             },
             {
                 "time": "17:00",
@@ -3277,6 +3347,16 @@
                 ]
             },
             {
+                "time": "17:00",
+                "event": "UEFA Conference League : Riga vs Beitar Jerusalem",
+                "channels": [
+                    {
+                        "channel_name": "Sport 1 Israel",
+                        "channel_id": "140"
+                    }
+                ]
+            },
+            {
                 "time": "17:30",
                 "event": "UEFA Europa League : PAOK vs Wolfsberger AC",
                 "channels": [
@@ -3295,24 +3375,9 @@
                 ]
             },
             {
-                "time": "16:00",
-                "event": "Lithuania - A Lyga : \u017dalgiris vs S\u016bduva",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 4 Croatia",
-                        "channel_id": "104"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "UEFA Conference League : Riga vs Beitar Jerusalem",
-                "channels": [
-                    {
-                        "channel_name": "Sport 1 Israel",
-                        "channel_id": "140"
-                    }
-                ]
+                "time": "18:00",
+                "event": "Interclub friendly : Cadiz vs Al Ettifaq",
+                "channels": []
             },
             {
                 "time": "18:00",
@@ -3467,6 +3532,21 @@
                         "channel_id": "388"
                     }
                 ]
+            },
+            {
+                "time": "18:00",
+                "event": "UEFA - Conference League - Qualifiers : Differdange 03 vs Levadia Tallinn",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "UEFA - Conference League - Qualifiers : Vikingur Gota vs Linfield",
+                "channels": []
+            },
+            {
+                "time": "18:15",
+                "event": "UEFA - Conference League - Qualifiers : Lausanne Sport vs Astana",
+                "channels": []
             },
             {
                 "time": "18:30",
@@ -3627,6 +3707,11 @@
                 ]
             },
             {
+                "time": "19:00",
+                "event": "UEFA - Conference League - Qualifiers : Larne vs Santa Clara",
+                "channels": []
+            },
+            {
                 "time": "20:00",
                 "event": "Argentina - Primera Divisi\u00f3n : Godoy Cruz vs Gimnasia La Plata",
                 "channels": [
@@ -3665,6 +3750,11 @@
                         "channel_id": "85"
                     }
                 ]
+            },
+            {
+                "time": "22:00",
+                "event": "Colombia - Cup : Jaguares de Cordoba vs Independiente Medellin",
+                "channels": []
             },
             {
                 "time": "23:00",
@@ -3741,6 +3831,11 @@
                         "channel_id": "756"
                     }
                 ]
+            },
+            {
+                "time": "02:00",
+                "event": "CONCACAF - Cup Americii Centrale : CSD Municipal vs Sporting San Miguelito",
+                "channels": []
             },
             {
                 "time": "03:15",
@@ -3919,6 +4014,246 @@
                         "channel_id": "612"
                     }
                 ]
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Bonn (GER) : Jerome Kym vs Raphael Collignon",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Grodzisk Mazowiecki (POL) : Jie Cui vs Harold Mayot",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Grodzisk Mazowiecki (POL) - Double : T.Loof/A.Reymond vs D.Poljak/A.Wang",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "Challenger - Bonn (GER) : Geoffrey Blancaneaux vs Joao Lucas Reis Silva",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "Challenger - Grodzisk Mazowiecki (POL) : Petr Brunclik vs Giulio Zeppieri",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "Challenger - Grodzisk Mazowiecki (POL) : Ugo Blanchet vs Marc Andrea Huesler",
+                "channels": []
+            },
+            {
+                "time": "11:20",
+                "event": "Challenger - Bonn (GER) : Vilius Gaubas vs Martin Krumich",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Cordenons (ITA) - Double : A.Paulson/M.Vrbensky vs I.Liutarevich/G.Ricca",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Cordenons (ITA) : Gonzalo Bueno vs Jay Clarke",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Challenger - Bonn (GER) - Double : A.Merino/C.Negritu vs G.Campana Lee/A.Matusevich",
+                "channels": []
+            },
+            {
+                "time": "12:40",
+                "event": "Challenger - Cordenons (ITA) : Nicolas Kicker vs Oleg Prihodko",
+                "channels": []
+            },
+            {
+                "time": "12:40",
+                "event": "Challenger - Cordenons (ITA) - Double : Z.Kolar/N.Serdarusic vs A.Jecan/B.Pavel",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "UTR (F) - Denton (USA) : Alina Shcherbinina vs Klara Kajabova",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "UTR (F) - Denton (USA) : Anna Grigoreva vs Saniya Singh",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "UTR (M) - Cordoba (ARG) : Santiago Russo vs A.L.Lingua Lavallen",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "Challenger - Grodzisk Mazowiecki (POL) - Double : U.Blanchet/K.Jacquet vs J.Sung Nam/T.Yuzuki",
+                "channels": []
+            },
+            {
+                "time": "13:50",
+                "event": "Challenger - Cordenons (ITA) : Lukas Neumayer vs Gabriele Piraino",
+                "channels": []
+            },
+            {
+                "time": "14:10",
+                "event": "UTR (F) - Denton (USA) : Lexie Weir vs Susana Souhrada",
+                "channels": []
+            },
+            {
+                "time": "14:10",
+                "event": "UTR (F) - Denton (USA) : Lizanne Boyer vs Esther Lovato",
+                "channels": []
+            },
+            {
+                "time": "14:10",
+                "event": "UTR (F) - Denton (USA) : Meghna Arun Kumar vs Jordan Fenton",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Challenger - Bonn (GER) : Joel Josef Schwarzler vs Federico Coria",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "UTR (F) - Athens (USA) : Ahmani Guichard vs Mary Boyce Deatherage",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "UTR (F) - Athens (USA) : Alana Boyce vs Paula Dougherty",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "UTR (F) - Athens (USA) : Ava Esposito Cogan vs Alice Xu",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "UTR (F) - Denton (USA) : Julia Rocha De Macedo Moraes vs Alina Shcherbinina",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "UTR (F) - Denton (USA) : Saniya Singh vs Elena Daskalova",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "UTR (F) - Athens (USA) : Zoe Hammond vs Brooklyn Olson",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Challenger - Cordenons (ITA) : Carlos Taberner vs Max Alcala Gurri",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Challenger - Grodzisk Mazowiecki (POL) : Federico Cina vs Aslan Karatsev",
+                "channels": []
+            },
+            {
+                "time": "17:10",
+                "event": "UTR (F) - Athens (USA) : Lillie Murphy vs Alejandra Cruz",
+                "channels": []
+            },
+            {
+                "time": "17:10",
+                "event": "UTR (F) - Athens (USA) : Olivia Carneiro vs Emily Deming",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "UTR (M) - Athens (USA) : Cooper Johnson vs Pablo Perez Ramos",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "UTR (M) - Athens (USA) : Henry Jefferson vs Felipe Pinzon Moreno",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "UTR (M) - Athens (USA) : Nikita Samuel Filin vs Jordan Reznik",
+                "channels": []
+            },
+            {
+                "time": "18:40",
+                "event": "UTR (M) - Athens (USA) : Davis Taylor vs Sebastian Sec",
+                "channels": []
+            },
+            {
+                "time": "18:40",
+                "event": "UTR (M) - Athens (USA) : Derrick Chen vs Harry Pugh",
+                "channels": []
+            },
+            {
+                "time": "18:40",
+                "event": "UTR (M) - Athens (USA) : Magnus Johnson vs Zhengqing Ji",
+                "channels": []
+            },
+            {
+                "time": "18:40",
+                "event": "UTR (M) - Athens (USA) : Tanapatt Nirundorn vs Joaquin Benoit",
+                "channels": []
+            },
+            {
+                "time": "19:10",
+                "event": "UTR (F) - Boise (USA) : Yinong MA vs Stanislava Bobrovnikova",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "UTR (F) - Athens (USA) : Hayden Mulberry vs Alice Xu",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "UTR (M) - Boise (USA) : Michael Seversen vs Xavier Calvelo",
+                "channels": []
+            },
+            {
+                "time": "20:40",
+                "event": "UTR (M) - Boise (USA) : Jason Shuler vs Hardy Owen",
+                "channels": []
+            },
+            {
+                "time": "20:40",
+                "event": "UTR (M) - Boise (USA) : Nikola Parichkov vs Idriss Haddouch",
+                "channels": []
+            },
+            {
+                "time": "20:40",
+                "event": "UTR (M) - Boise (USA) : Redd Owen vs Oscar Oberoi Jensen",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "UTR (M) - Athens (USA) : Felipe Pinzon Moreno vs Santiago Giamichelle",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "UTR (M) - Athens (USA) : Jordan Reznik vs Cooper Johnson",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "UTR (M) - Athens (USA) : Nikita Samuel Filin vs Pablo Perez Ramos",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "UTR (M) - Boise (USA) : Xavier Calvelo vs Daniel Hammond",
+                "channels": []
             }
         ],
         "Motorsport</span>": [
