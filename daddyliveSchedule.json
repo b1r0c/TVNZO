@@ -1,5 +1,103 @@
 {
     "Thursday 07th Aug 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "22:00",
+                "event": "Xtreme Outlaw Midgets Lindas",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "69"
+                    },
+                    {
+                        "channel_name": "PPV Events 2",
+                        "channel_id": "5002"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Knoxville Nationals",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "76"
+                    },
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "5003"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Weekly Racing at Thunder Road Speedbowl",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "77"
+                    },
+                    {
+                        "channel_name": "FLORacing",
+                        "channel_id": "5004"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Lucas Oil North/South 100 at Florence Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "86"
+                    },
+                    {
+                        "channel_name": "FLORacing",
+                        "channel_id": "5005"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Fast Lane Super Stock Series Special",
+                "channels": [
+                    {
+                        "channel_name": "MyRacePass",
+                        "channel_id": "5006"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2025 Weekly Racing | Night #15",
+                "channels": [
+                    {
+                        "channel_name": "IMCATV",
+                        "channel_id": "5007"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2025 Factory Stock Frenzy | Night #1 - Qualifying",
+                "channels": [
+                    {
+                        "channel_name": "SpeedSportTV",
+                        "channel_id": "5008"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "DRC Street Stock Tour Sheyenne Speedway in Lisbon",
+                "channels": [
+                    {
+                        "channel_name": "DRCTV",
+                        "channel_id": "5009"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "15:00",
