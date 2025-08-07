@@ -476,7 +476,17 @@
                 ]
             },
             {
-                "time": "18:00",
+                "time": "16:00",
+                "event": "UEFA Conference League : Araz vs Omonia Nicosia",
+                "channels": [
+                    {
+                        "channel_name": "Cytavision Sports 4 Cyprus",
+                        "channel_id": "914"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
                 "event": "UEFA Conference League : Aris vs AEK Athens",
                 "channels": [
                     {
@@ -486,16 +496,6 @@
                     {
                         "channel_name": "Cosmote Sport 2 Greece",
                         "channel_id": "623"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "UEFA Conference League : Araz vs Omonia Nicosia",
-                "channels": [
-                    {
-                        "channel_name": "Cytavision Sports 4 Cyprus",
-                        "channel_id": "914"
                     }
                 ]
             },
