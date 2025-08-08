@@ -1279,6 +1279,10 @@
                     {
                         "channel_name": "Sport 5 Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "ScottishTV",
+                        "channel_id": "5003"
                     }
                 ]
             },
@@ -2503,6 +2507,10 @@
                     {
                         "channel_name": "Sport 5 PLUS Israel",
                         "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "WWE Feed",
+                        "channel_id": "5007"
                     }
                 ]
             }
@@ -3015,6 +3023,10 @@
                     {
                         "channel_name": "TSN2",
                         "channel_id": "112"
+                    },
+                    {
+                        "channel_name": "NFL Sunday Ticket",
+                        "channel_id": "5004"
                     }
                 ]
             },
@@ -3025,6 +3037,10 @@
                     {
                         "channel_name": "NFL Network USA",
                         "channel_id": "405"
+                    },
+                    {
+                        "channel_name": "NFL Sunday Ticket",
+                        "channel_id": "5005"
                     }
                 ]
             },
@@ -3035,6 +3051,10 @@
                     {
                         "channel_name": "NFL Sunday Ticket",
                         "channel_id": "20"
+                    },
+                    {
+                        "channel_name": "NFL Pass",
+                        "channel_id": "5006"
                     }
                 ]
             }
