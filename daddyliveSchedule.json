@@ -1,5 +1,117 @@
 {
     "Saturday 09th Aug 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "17:00",
+                "event": "AMA Supercross Championship Crawfordsville",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "WR: Jerry Lynn Invitational, Part 1",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "21:15",
+                "event": "Mr Supermodified Oswego",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 Thunder on the Thruway at Fonda Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "World of Outlaws Knoxville",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Lucas Oil North/South 100 at Florence Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Bxng Next Generation Atlantic City",
+                "channels": [
+                    {
+                        "channel_name": "Bxng Tv",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "22:55",
+                "event": "2025 IMCA Weekly Racing at 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "USAC Silver Crown Salem",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "IWC: Alwayz Ready 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "WR: Jerry Lynn Invitational, Part 2",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "164"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "15:00",
