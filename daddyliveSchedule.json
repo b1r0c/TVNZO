@@ -7016,6 +7016,56 @@
                 ]
             },
             {
+                "time": "04:40",
+                "event": "Australia - NPL - NSW (F) : Bulls FC Academy (F) vs Sydney Olympic (F)",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "Australia - NPL - NSW : Marconi Stallions vs APIA Leichhardt",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "Australia - Cup : Nunawading City vs Wellington Phoenix",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "Australia - NPL (F) - Queensland : Souths United (F) vs Gold Coast United (F)",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "Australia - NPL - NSW : St George Saints vs NWS Spirit",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "Australia - NPL - NSW - North : Lambton Jaffas vs Maitland",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Australia - NPL - Queensland : St. George Willawong vs Sunshine Coast Wanderers",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Australia - NPL - NSW - North : Valentine vs Weston Workers Bears",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Australia - NPL - NSW - North : Belmont Swansea United vs Newcastle Olympic",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Australia - NPL - Queensland : Olympic FC vs Peninsula Power",
+                "channels": []
+            },
+            {
                 "time": "08:30",
                 "event": "Slovakia - 2. Futbalov\u00e1 Liga : Petr\u017ealka akad\u00e9mia vs Mal\u017eenice",
                 "channels": [
@@ -7024,6 +7074,11 @@
                         "channel_id": "13"
                     }
                 ]
+            },
+            {
+                "time": "08:30",
+                "event": "Austria - 2.League : Admira Wacker vs Amstetten",
+                "channels": []
             },
             {
                 "time": "09:00",
@@ -7072,6 +7127,16 @@
                         "channel_id": "128"
                     }
                 ]
+            },
+            {
+                "time": "09:00",
+                "event": "Japan - J2 League : Iwaki vs Jubilo Iwata",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Japan - J1 League : Sanfrecce Hiroshima vs Shimizu S-Pulse",
+                "channels": []
             },
             {
                 "time": "10:00",
@@ -7134,6 +7199,66 @@
                 ]
             },
             {
+                "time": "10:00",
+                "event": "South Korea - K League 1 : Daejeon Citizen vs Suwon FC",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J2 League : Ehime vs Sagan Tosu",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J1 League : FC Tokyo vs Kashima Antlers",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J1 League : Gamba Osaka vs Fagiano Okayama",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Jeonnam Dragons vs Cheonan City",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J1 League : Kashiwa Reysol vs Shonan Bellmare",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J1 League : Machida Zelvia vs Vissel Kobe",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J2 League : Montedio Yamagata vs Mito Hollyhock",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J1 League : Nagoya Grampus vs Kyoto Sanga",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Portugal - League Revelacao U23 - Serie B : Portimonense U23 vs Torreense U23",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Seoul E-Land vs Hwaseong",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J2 League : Vegalta Sendai vs Tokushima Vortis",
+                "channels": []
+            },
+            {
                 "time": "10:15",
                 "event": "Netherlands - Eredivisie : PEC Zwolle vs Twente",
                 "channels": [
@@ -7152,6 +7277,11 @@
                         "channel_id": "379"
                     }
                 ]
+            },
+            {
+                "time": "10:30",
+                "event": "South Korea - K League 2 : Cheongju vs Bucheon",
+                "channels": []
             },
             {
                 "time": "11:00",
@@ -7182,6 +7312,16 @@
                         "channel_id": "260"
                     }
                 ]
+            },
+            {
+                "time": "11:00",
+                "event": "China - League 1 : Suzhou Dongwu vs Shijiazhuang Gongfu",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "China - Super League : Tianjin Jinmen Tiger vs Qingdao West Coast",
+                "channels": []
             },
             {
                 "time": "11:30",
@@ -7362,6 +7502,26 @@
                 ]
             },
             {
+                "time": "11:30",
+                "event": "China - League 1 : Guandong GZ Power vs Guangxi Pingguo Haliao",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "China - League 1 : Jiangxi Dingnan United vs Foshan Nanshi",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "China - League 1 : Qingdao Red Lions vs Shanghai Jiading Huilong",
+                "channels": []
+            },
+            {
+                "time": "11:35",
+                "event": "China - Super League : Zhejiang Professional vs Beijing Guoan",
+                "channels": []
+            },
+            {
                 "time": "12:00",
                 "event": "African Nations Championship : Kenya vs Morocco",
                 "channels": [
@@ -7458,6 +7618,26 @@
                 ]
             },
             {
+                "time": "12:00",
+                "event": "Estonia - Esiliiga A : Flora Tallinn U21 vs Tallinna Kalev II",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Denmark - 1.Division : Lyngby vs Hvidovre",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Estonia - Esiliiga A : Tartu JK Welco Elekter vs Tartu Tammeka U21",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "China - Super League : Wuhan Three Towns vs Meizhou Hakka",
+                "channels": []
+            },
+            {
                 "time": "12:30",
                 "event": "Russia - Premier League : Orenburg vs Krasnodar",
                 "channels": [
@@ -7550,6 +7730,41 @@
                 ]
             },
             {
+                "time": "12:30",
+                "event": "Malawi - Super League : Chitipa United vs Blue Eagles",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Malawi - Super League : Civil Sporting vs Mighty Wanderers",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Norway - 1.Division : Lillestrom vs Aalesund",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Malawi - Super League : Mzuzu City Hammers vs Silver Strikers",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Malawi - Super League : Nyasa Big Bullets vs Karonga United",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Poland - II League : Swit Szczecin vs Warta Poznan",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Poland - I League : Wisla Krakow vs Pogon Grodzisk Mazowiecki",
+                "channels": []
+            },
+            {
                 "time": "12:45",
                 "event": "Poland Ekstraklasa : Rak\u00f3w Cz\u0119stochowa vs Zag\u0142\u0119bie Lubin",
                 "channels": [
@@ -7634,6 +7849,16 @@
                 ]
             },
             {
+                "time": "13:00",
+                "event": "Malaysia - Super League : Penang FC vs Terengganu",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Brazil - Cup Paulista - Gr.4 : Portuguesa Santista SP vs Taubate",
+                "channels": []
+            },
+            {
                 "time": "13:30",
                 "event": "Turkey - 1. Lig : Band\u0131rmaspor vs Sakaryaspor",
                 "channels": [
@@ -7652,6 +7877,36 @@
                         "channel_id": "78"
                     }
                 ]
+            },
+            {
+                "time": "13:45",
+                "event": "Romania - SuperLiga : Csikszereda Miercurea Ciuc vs CFR Cluj",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Lithuania - 1 Lyga : Ekranas vs Panevezys B",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Denmark - 1.Division : HB Koge vs Aalborg BK",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Iceland - Urvalsdeild : IF Vestri vs Fram Reykjavik",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Brazil - Cup Paulista - Gr.3 : Primavera SP vs XV de Piracicaba",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Belgium - Challenger Pro League : Club Brugge U23 vs Francs Borains",
+                "channels": []
             },
             {
                 "time": "14:00",
@@ -8122,6 +8377,66 @@
                 ]
             },
             {
+                "time": "15:00",
+                "event": "Portugal - League 3 - Gr.A : Amarante vs Varzim SC",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Norway - Eliteserien : Bryne vs KFUM Oslo",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Norway - 1.Division : Hodd vs Start",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Norway - 1.Division : Kongsvinger vs Stabaek",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Norway - 1.Division : Lyn FK vs Ranheim",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Norway - 1.Division : Mjondalen vs Sogndal",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Norway - 1.Division : Moss vs Asane",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Norway - 1.Division : Odd BK vs Raufoss",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Poland - I League : Odra Opole vs GKS Tychy",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Norway - 1.Division : Skeid vs Egersund",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Slovakia - 1. liga : FC Kosice vs Trencin",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Club Friendly : Toulouse vs Sevilla",
+                "channels": []
+            },
+            {
                 "time": "15:25",
                 "event": "Lithuania - A Lyga : Hegelmann Litauen vs Dainava",
                 "channels": [
@@ -8226,6 +8541,16 @@
                         "channel_id": "143"
                     }
                 ]
+            },
+            {
+                "time": "15:30",
+                "event": "Poland - Ekstraklasa : Jagiellonia Bialystok vs Cracovia",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "Interclub friendly : Sunderland vs Rayo Vallecano",
+                "channels": []
             },
             {
                 "time": "15:30",
@@ -8416,6 +8741,21 @@
                 ]
             },
             {
+                "time": "16:00",
+                "event": "Estonia - Meistriliiga : Nomme Kalju vs Parnu Vaprus",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Lithuania - A Lyga : Banga Gargzdai vs Riteriai",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Portugal League U23 - Serie B : Estrela Amadora U23 vs Sporting Lisabona U23",
+                "channels": []
+            },
+            {
                 "time": "16:30",
                 "event": "Belgium Pro League : Standard Li\u00e8ge vs Genk",
                 "channels": [
@@ -8549,6 +8889,11 @@
             },
             {
                 "time": "17:00",
+                "event": "Slovakia - 1. liga : Spartak Trnava vs Tatran Presov",
+                "channels": []
+            },
+            {
+                "time": "17:00",
                 "event": "Israel - Toto Cup Ligat Al : Maccabi Bnei Raina vs Bnei Sakhnin",
                 "channels": [
                     {
@@ -8628,6 +8973,16 @@
                         "channel_id": "6"
                     }
                 ]
+            },
+            {
+                "time": "17:30",
+                "event": "Poland - II League : Zaglebie Sosnowiec vs Unia Skierniewice",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Poland - I League : Znicz Pruszkow vs Poland Varsovia",
+                "channels": []
             },
             {
                 "time": "18:00",
@@ -8736,6 +9091,26 @@
                         "channel_id": "756"
                     }
                 ]
+            },
+            {
+                "time": "18:00",
+                "event": "Montenegro - 1.CFL : Bokelj Kotor vs Mladost DG",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Montenegro - 1.CFL : Mornar Bar vs Arsenal Tivat",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Montenegro - 1.CFL : OFK Petrovac vs Jezero Plav",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Prva Crnogorska Liga : Buducnost vs Sutjeska",
+                "channels": []
             },
             {
                 "time": "18:15",
@@ -8878,6 +9253,11 @@
                         "channel_id": "945"
                     }
                 ]
+            },
+            {
+                "time": "19:00",
+                "event": "Montenegro - 1.CFL : Jedinstvo Bijelo Polje vs Decic Tuzi",
+                "channels": []
             },
             {
                 "time": "19:00",
@@ -9121,6 +9501,11 @@
             },
             {
                 "time": "21:00",
+                "event": "Venezuela - Primera Division - Clausura : Metropolitanos vs Deportivo La Guaira",
+                "channels": []
+            },
+            {
+                "time": "21:00",
                 "event": "Women's Soccer League1 Canada Women's : Teams TBA",
                 "channels": [
                     {
@@ -9198,6 +9583,11 @@
                 ]
             },
             {
+                "time": "22:00",
+                "event": "Venezuela - Primera Division - Clausura : Estudiantes de Merida vs Caracas",
+                "channels": []
+            },
+            {
                 "time": "22:04",
                 "event": "Colombia Primera A : Fortaleza CEIF vs Deportivo Pereira",
                 "channels": [
@@ -9256,6 +9646,16 @@
                 ]
             },
             {
+                "time": "23:00",
+                "event": "MLS Next Pro : Huntsville City vs Carolina Core",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "MLS Next Pro : St.Louis City II vs Colorado Rapids II",
+                "channels": []
+            },
+            {
                 "time": "23:15",
                 "event": "Panama Liga Paname\u00f1a de F\u00fatbol : \u00c1rabe Unido vs Sporting San Miguelito",
                 "channels": [
@@ -9284,6 +9684,11 @@
                         "channel_id": "5"
                     }
                 ]
+            },
+            {
+                "time": "00:00",
+                "event": "MLS Next Pro : New England Revolution II vs Columbus Crew II",
+                "channels": []
             },
             {
                 "time": "00:00",
@@ -9322,6 +9727,11 @@
                         "channel_id": "392"
                     }
                 ]
+            },
+            {
+                "time": "00:30",
+                "event": "Venezuela - Primera Division : Academia Puerto Cabello vs Universidad Central Venezuela",
+                "channels": []
             },
             {
                 "time": "02:00",
@@ -9372,6 +9782,16 @@
                 ]
             },
             {
+                "time": "07:30",
+                "event": "Namibia - T20 Richelieu Franchise : Npl Bears vs Eavion Eagles",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "India - Andhra T20 League : Kakinada Kings vs Vijayawada Sunshiners",
+                "channels": []
+            },
+            {
                 "time": "09:00",
                 "event": "1st T20 : Australia vs South Africa",
                 "channels": [
@@ -9406,6 +9826,16 @@
                         "channel_id": "357"
                     }
                 ]
+            },
+            {
+                "time": "12:00",
+                "event": "Namibia - T20 Richelieu Franchise : Paratus Jets vs Pupkewitz Motors Wildcats",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "India - Andhra T20 League : Bhimavaram Bulls vs Royals of Rayalaseema",
+                "channels": []
             },
             {
                 "time": "13:00",
@@ -9454,6 +9884,11 @@
                 ]
             },
             {
+                "time": "15:00",
+                "event": "T20 Series : Ireland (F) vs Pakistan (F)",
+                "channels": []
+            },
+            {
                 "time": "16:30",
                 "event": "The Hundred Women : Trent Rockets vs Northern Superchargers",
                 "channels": [
@@ -9484,6 +9919,334 @@
                     {
                         "channel_name": "Magenta Sport 318",
                         "channel_id": "29"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - CINCINNATI</span>": [
+            {
+                "time": "15:00",
+                "event": "ATP - CINCINNATI : Comesana F. vs Darderi L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1516"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - CINCINNATI : De Minaur A. vs Opelka R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - CINCINNATI : Lehecka J. vs Boyer T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - CINCINNATI : Bautista-Agut R. vs Norrie C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - CINCINNATI : Mensik J. vs Quinn E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - CINCINNATI : Tien L. vs Rublev A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - CINCINNATI : Brooksby J. vs Cazaux A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - CINCINNATI : Dzumhur D. vs Alcaraz C",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - CINCINNATI : Nardi L. vs Shapovalov D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - CINCINNATI : Popyrin A. vs Landaluce M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1516"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - CINCINNATI : Walton A. vs Medvedev D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "ATP - CINCINNATI : Griekspoor T. vs Medjedovic H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1516"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "ATP - CINCINNATI : Khachanov K. vs Royer V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "ATP - CINCINNATI : Nakashima B. vs Blockx A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "ATP - CINCINNATI : Shelton B. vs Ugo Carabelli C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "ATP - CINCINNATI : Basavareddy N. vs Zverev A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - CINCINNATI</span>": [
+            {
+                "time": "15:00",
+                "event": "WTA - CINCINNATI : Kudermetova V. vs Bencic B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - CINCINNATI : Paolini J. vs Sakkari M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - CINCINNATI : Sevastova A. vs Krueger A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - CINCINNATI : Yastremska D. vs Tomova V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - CINCINNATI : Linette M. vs Sramkova R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - CINCINNATI : Navarro E. vs Seidel E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - CINCINNATI : Tauson C. vs Tomljanovic A",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - CINCINNATI : Wang Xin. vs Gauff C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - CINCINNATI : Osorio C. vs Ostapenko J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "WTA - CINCINNATI : Birrell K. vs Pegula J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "WTA - CINCINNATI : Kasatkina D. vs Bronzetti L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "WTA - CINCINNATI : Kenin S. vs Gracheva V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "WTA - CINCINNATI : McNally C. vs Kessler M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "WTA - CINCINNATI : Noskova L. vs Jovic l.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "WTA - CINCINNATI : Krejcikova B. vs Svitolina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "WTA - CINCINNATI : Garcia C. vs Muchova K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
                     }
                 ]
             }
@@ -9602,6 +10365,246 @@
                         "channel_id": "612"
                     }
                 ]
+            },
+            {
+                "time": "07:00",
+                "event": "Challenger - Sofia (BGR) - Qualifiers : Anas Mazdrashki vs Maxime Chazal",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Challenger - Hersonissos (GRE) - Qualifiers : Fabrizio Andaloro vs Peter Makk",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Challenger - Sofia (BGR) - Qualifiers : Franco Agamenone vs Stefan Latinovic",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Challenger - Hersonissos (GRE) - Qualifiers : Rigele Te vs Amit Vales",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Challenger - Sofia (BGR) - Qualifiers : Viktor Kirov vs Kirill Kivattsev",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Challenger - Hersonissos (GRE) - Qualifiers : Vladimir Holban vs Hazem Naw",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Tody (ITA) - Qualifiers : Andrea de Marchi vs Alberto Bronzetti",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Tody (ITA) - Qualifiers : Andrea Guerrieri vs Giorgio Tabacco",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Tody (ITA) - Qualifiers : David Jorda Sanchis vs Lorenzo Angelini",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "Challenger - Hersonissos (GRE) - Qualifiers : Christos Antonopoulos vs Ilya Ivashka",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "Challenger - Sofia (BGR) - Qualifiers : Georgi Georgiev vs Tadeas Paroulek",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "Challenger - Hersonissos (GRE) - Qualifiers : Ioannis Kountourakis vs Orel Kimhi",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "Challenger - Sofia (BGR) - Qualifiers : Olle Wallin vs Nikita Mashtakov",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "Challenger - Sofia (BGR) - Qualifiers : Petr Nesterov vs Viktor Markov",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Tody (ITA) - Qualifiers : Gabriele Bosio vs Sebastian Dominko",
+                "channels": []
+            },
+            {
+                "time": "09:20",
+                "event": "Challenger - Hersonissos (GRE) - Qualifiers : Aoran Wang vs Theo Papamalamis",
+                "channels": []
+            },
+            {
+                "time": "09:20",
+                "event": "Challenger - Hersonissos (GRE) - Qualifiers : Axel Nefve vs Leo Raquillet",
+                "channels": []
+            },
+            {
+                "time": "09:20",
+                "event": "Challenger - Hersonissos (GRE) - Qualifiers : Luca Castagnola vs Demetris Azoides",
+                "channels": []
+            },
+            {
+                "time": "09:20",
+                "event": "Challenger - Sofia (BGR) - Qualifiers : Yanaki Milev vs Sebastian Gima",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Tody (ITA) - Qualifiers : Tanguy Genier vs Gabriele Maria Noce",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Challenger - Hersonissos (GRE) - Qualifiers : Pietro Orlando Fellin vs Matas Vasiliauskas",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Bonn (GER) : Jurij Rodionov vs Timofey Skatov",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Grodzisk Mazowiecki (POL) : Kamil Majchrzak vs Dino Prizmic",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Tody (ITA) - Qualifiers : Andrea Picchione vs Jan Hrazdil",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Challenger - Sofia (BGR) - Qualifiers : Dali Blanch vs Nitin Kumar Sinha",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Challenger - Sofia (BGR) - Qualifiers : S.D.Prajwal Dev vs Sergey Fomin",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Challenger - Hersonissos (GRE) - Qualifiers : Arthur Reymond vs David Poljak",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Challenger - Hersonissos (GRE) - Qualifiers : Enzo Wallart vs Mitsuki Wei K.Leong",
+                "channels": []
+            },
+            {
+                "time": "13:10",
+                "event": "Challenger - Sofia (BGR) - Qualifiers : Branko Djuric vs Jacopo Bilardo",
+                "channels": []
+            },
+            {
+                "time": "13:10",
+                "event": "Challenger - Sofia (BGR) - Qualifiers : Eric Vanshelboim vs Thomas Faurel",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Tody (ITA) - Qualifiers : Facundo Juarez vs Kody Pearson",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "Challenger - Sofia (BGR) - Qualifiers : Dusan Obradovic vs Stefan Adrian Andreescu",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - Cincinnati (USA) : Alex de Minaur vs Reilly Opelka",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - Cincinnati (USA) : Francisco Comesana vs Luciano Darderi",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - Cincinnati (USA) : Jiri Lehecka vs Tristan Boyer",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Challenger - Cordenons (ITA) : Lukas Neumayer vs Dusan Lajovic",
+                "channels": []
+            },
+            {
+                "time": "16:10",
+                "event": "ATP - Cincinnati (USA) : Jakub Mensik vs Ethan Quinn",
+                "channels": []
+            },
+            {
+                "time": "16:10",
+                "event": "ATP - Cincinnati (USA) : Learner Tien vs Andrey Rublev",
+                "channels": []
+            },
+            {
+                "time": "16:10",
+                "event": "ATP - Cincinnati (USA) : Roberto Bautista Agut vs Cameron Norrie",
+                "channels": []
+            },
+            {
+                "time": "17:20",
+                "event": "ATP - Cincinnati (USA) : Adam Walton vs Daniil Medvedev",
+                "channels": []
+            },
+            {
+                "time": "17:20",
+                "event": "ATP - Cincinnati (USA) : Alexei Popyrin vs Martin Landaluce",
+                "channels": []
+            },
+            {
+                "time": "17:20",
+                "event": "ATP - Cincinnati (USA) : Damir Dzumhur vs Carlos Alcaraz",
+                "channels": []
+            },
+            {
+                "time": "17:20",
+                "event": "ATP - Cincinnati (USA) : Jenson Brooksby vs Arthur Cazaux",
+                "channels": []
+            },
+            {
+                "time": "17:20",
+                "event": "ATP - Cincinnati (USA) : Luca Nardi vs Denis Shapovalov",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - Cincinnati (USA) : Brandon Nakashima vs Alexander Blockx",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - Cincinnati (USA) : Karen Khachanov vs Valentin Royer",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - Cincinnati (USA) : Tallon Griekspoor vs Hamad Medjedovic",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "ATP - Cincinnati (USA) : Ben Shelton vs Camilo Ugo Carabelli",
+                "channels": []
             }
         ],
         "Motorsport</span>": [
