@@ -2856,7 +2856,11 @@
                         "channel_id": "398"
                     },
                     {
-                        "channel_name": "Arena Sport 2 Slovakia (CH-14) } Ring bg",
+                        "channel_name": "Arena Sport 2 Slovakia",
+                        "channel_id": "14"
+                    },
+                    {
+                        "channel_name": "Ring bg",
                         "channel_id": "471"
                     },
                     {
