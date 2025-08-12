@@ -1,5 +1,57 @@
 {
     "Tuesday 12th Aug 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "22:00",
+                "event": "Super DIRTcar Series Ransomville",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Millbridge Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 NAPA All Star Circuit of Champions at Wayne County Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 Weekly Racing at Utica-Rome Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "77"
+                    }
+                ]
+            },
+            {
+                "time": "23:25",
+                "event": "2025 IMCA Captain of the Creek at 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "86"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "18:00",
