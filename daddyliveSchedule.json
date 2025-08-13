@@ -4385,6 +4385,130 @@
                 ]
             }
         ],
+        "Tennis ATP - CINCINNATI</span>": [
+            {
+                "time": "15:00",
+                "event": "ATP - CINCINNATI : Tiafoe F. vs Rune H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - CINCINNATI : Auger-Aliassime F. vs Bonzi B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - CINCINNATI : Sinner J. vs Mannarino A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - CINCINNATI : Fritz T. vs Atmane T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "ATP - CINCINNATI : Comesana F. vs Rublev A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "ATP - CINCINNATI : Khachanov K. vs Zverev A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "ATP - CINCINNATI : Lehecka J. vs Shelton or Bautista-Agut",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "ATP - CINCINNATI : Nardi L. vs Alcaraz C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - CINCINNATI</span>": [
+            {
+                "time": "15:00",
+                "event": "WTA - CINCINNATI : Swiatek 1. vs Cirstea S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - CINCINNATI : Rybakina E. vs Keys M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "WTA - CINCINNATI : Sabalenka A. vs Bouzas Maneiro J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "WTA - CINCINNATI : Alexandrova E. vs Kalinskaya A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "15:00",
