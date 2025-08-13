@@ -1,5 +1,47 @@
 {
     "Wednesday 13th Aug 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:00",
+                "event": "2025 Tekton 250 Battle at Berlin at Berlin Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "86"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Millbridge Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Late Models Highland",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "23:25",
+                "event": "2025 IMCA Captain of the Creek at 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "107"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
@@ -1373,16 +1415,26 @@
             },
             {
                 "time": "16:30",
-                "event": "ATP - CINCINNATI : Auger-Aliassime F. vs Bonzi B.",
+                "event": "ATP - CINCINNATI : Nakashima B. vs Zverev A.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1511"
+                        "channel_id": "1510"
                     }
                 ]
             },
             {
-                "time": "16:30",
+                "time": "17:00",
+                "event": "ATP - CINCINNATI : Shelton B. vs Bautista-Agut R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
                 "event": "ATP - CINCINNATI : Sinner J. vs Mannarino A.",
                 "channels": [
                     {
@@ -1392,18 +1444,18 @@
                 ]
             },
             {
-                "time": "18:00",
-                "event": "ATP - CINCINNATI : Fritz T. vs Atmane T.",
+                "time": "19:00",
+                "event": "ATP - CINCINNATI : Auger-Aliassime F. vs Bonzi B.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1510"
+                        "channel_id": "1511"
                     }
                 ]
             },
             {
-                "time": "19:30",
-                "event": "ATP - CINCINNATI : Comesana F. vs Rublev A.",
+                "time": "20:30",
+                "event": "ATP - CINCINNATI : Fritz T. vs Atmane T.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1422,12 +1474,12 @@
                 ]
             },
             {
-                "time": "22:30",
-                "event": "ATP - CINCINNATI : Lehecka J. vs Shelton or Bautista-Agut",
+                "time": "22:00",
+                "event": "ATP - CINCINNATI : Comesana F. vs Rublev A.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1510"
+                        "channel_id": "1511"
                     }
                 ]
             },
@@ -1445,7 +1497,7 @@
         "Tennis WTA - CINCINNATI</span>": [
             {
                 "time": "15:00",
-                "event": "WTA - CINCINNATI : Swiatek 1. vs Cirstea S.",
+                "event": "WTA - CINCINNATI : Swiatek I. vs Cirstea S.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1454,7 +1506,27 @@
                 ]
             },
             {
+                "time": "16:00",
+                "event": "WTA - CINCINNATI : Tauson C vs Kudermetova V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
                 "time": "16:30",
+                "event": "WTA - CINCINNATI : Linette M. vs Pegula J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
                 "event": "WTA - CINCINNATI : Rybakina E. vs Keys M.",
                 "channels": [
                     {
