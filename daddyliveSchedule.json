@@ -4342,6 +4342,90 @@
                 ]
             }
         ],
+        "Tennis ATP - CINCINNATI</span>": [
+            {
+                "time": "19:00",
+                "event": "ATP - CINCINNATI : Sinner J. vs Auger-Aliassime F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "ATP - CINCINNATI : Shelton B. vs Lehecka J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "ATP - CINCINNATI : Rune H. vs Atmane T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - CINCINNATI</span>": [
+            {
+                "time": "15:00",
+                "event": "WTA - CINCINNATI : Bronzetti L. vs Gauff C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "WTA - CINCINNATI : Paolini J. vs Krejcikova B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "WTA - CINCINNATI : Seidel E. vs Gracheva V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "WTA - CINCINNATI : Errani S./Paolini J. vs Stearns P./Vondrousova M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "WTA - CINCINNATI : Kudermetova V. vs Linette M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "15:00",
