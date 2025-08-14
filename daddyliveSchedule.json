@@ -742,6 +742,10 @@
                     {
                         "channel_name": "Cosmote Sport 2 Greece",
                         "channel_id": "623"
+                    },
+                    {
+                        "channel_name": "UPL.TV",
+                        "channel_id": "9000"
                     }
                 ]
             },
@@ -1345,12 +1349,42 @@
         ],
         "Tennis ATP - CINCINNATI</span>": [
             {
+                "time": "15:00",
+                "event": "ATP - CINCINNATI : Cabral F./Miedler L. vs Nys H./Roger-Vasselin E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - CINCINNATI : Doumbia S./Nakashima B. vs Salisbury J./Skupski N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
                 "time": "19:00",
                 "event": "ATP - CINCINNATI : Sinner J. vs Auger-Aliassime F.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "ATP - CINCINNATI : Arevalo M./Pavic M. vs Melo M./Zverev A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
                     }
                 ]
             },
@@ -1387,6 +1421,16 @@
                 ]
             },
             {
+                "time": "15:00",
+                "event": "WTA - CINCINNATI : McNally C./Noskova L. vs Dabrowski G./Routliffe E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
                 "time": "17:00",
                 "event": "WTA - CINCINNATI : Paolini J. vs Krejcikova B.",
                 "channels": [
@@ -1397,12 +1441,32 @@
                 ]
             },
             {
+                "time": "17:00",
+                "event": "WTA - CINCINNATI : Kichenok L./Perez E. vs Melichar-Martinez/Samsonova",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
                 "time": "19:00",
                 "event": "WTA - CINCINNATI : Seidel E. vs Gracheva V.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "WTA - CINCINNATI : Krejcikova B./Ostapenko J. vs Guo H./Panova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
                     }
                 ]
             },
