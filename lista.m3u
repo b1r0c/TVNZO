@@ -1978,13 +1978,13 @@ https://vavoo.to/play/3832171692/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/84139639/index.m3u8
+https://vavoo.to/play/1425667375/index.m3u8
 
 #EXTINF:-1 tvg-id="la.5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1425667375/index.m3u8
+https://vavoo.to/play/84139639/index.m3u8
 
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-name="LA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -2158,13 +2158,13 @@ https://vavoo.to/play/1232565681/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1574975196/index.m3u8
+https://vavoo.to/play/2251241999/index.m3u8
 
 #EXTINF:-1 tvg-id="real.time.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2251241999/index.m3u8
+https://vavoo.to/play/1574975196/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="REGGIO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -2224,13 +2224,13 @@ https://vavoo.to/play/2209352147/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2290395046/index.m3u8
+https://vavoo.to/play/2455610203/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RSI LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2455610203/index.m3u8
+https://vavoo.to/play/2290395046/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RSI LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -2710,12 +2710,6 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="coppaitaliasassuolovscatanzaro" tvg-name="Soccer | Coppa Italia : Sassuolo vs Catanzaro (18:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Sassuolo_vs_Catanzaro.png" group-title="Eventi Live",Soccer | Coppa Italia : Sassuolo vs Catanzaro (18:30)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium854/mono.m3u8
-
 #EXTINF:-1 tvg-id="coppaitalialeccevsjuvestabia" tvg-name="Soccer | Coppa Italia : Lecce vs Juve Stabia (20:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Lecce_vs_Juve Stabia.png" group-title="Eventi Live",Soccer | Coppa Italia : Lecce vs Juve Stabia (20:45)
 https://thedaddy.click/stream/stream-9.php
 
@@ -2730,12 +2724,6 @@ https://new.newkso.ru/wind/premium870/mono.m3u8
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium854/mono.m3u8
-
-#EXTINF:-1 tvg-id="saudiarabiasnookermasterssemifinal" tvg-name="Snooker | Saudi Arabia Snooker Masters | Semi-Final (19:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Saudi Arabia Snooker Masters | Semi-Final (19:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium879/mono.m3u8
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
