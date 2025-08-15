@@ -1,5 +1,177 @@
 {
     "Friday 15th Aug 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:30",
+                "event": "2025 Open Modified 80 at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Mr. Modified at Autodrome Granb",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "107"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "ProBox Fight Night :  Yaqubov vs. William Foster III",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 NAPA All Star Circuit of Champions at Bloomington Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Attica Sprint Cars Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Williams Grove Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Late Models Maquoketa",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars Ogilvie",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2025 Season Championship at Marshalltown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2025 Quarter Mile Mania at Flying H Drag Strip",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "American Sprint Car Series Wakeeney",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "East vs West 19 - Strongest Arm on Earth",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5003"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "TNA: Emergence 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "2025 Lucas Oil Topless 100 at Batesville Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "2025 Kubota High Limit Racing at Tulare Thunderbowl Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "1591"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Pro League Network : PLN Friday Night Fights Finale",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "JCW: 2-Day War! Night 2",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "161"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "18:00",
