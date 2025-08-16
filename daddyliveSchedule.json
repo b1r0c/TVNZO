@@ -2,22 +2,192 @@
     "Saturday 16th Aug 2025 - Schedule Time UK GMT": {
         "PPV Events</span>": [
             {
-                "time": "13:30",
-                "event": "American Flat Track Episode 10",
+                "time": "14:30",
+                "event": "AMA Supercross Championship New Berlin",
                 "channels": [
                     {
-                        "channel_name": "Fox Sports 1 USA",
-                        "channel_id": "39"
+                        "channel_name": "Peacock",
+                        "channel_id": "204"
                     }
                 ]
             },
             {
-                "time": "13:30",
-                "event": "Bmerican Flat Track Episode 10",
+                "time": "15:00",
+                "event": "USAC Bettenhausen 100 Illinois",
                 "channels": [
                     {
-                        "channel_name": "Fox Sports 2 USA",
-                        "channel_id": "39"
+                        "channel_name": "Floracing",
+                        "channel_id": "205"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "2025 American Flat Track at Peoria TT",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "206"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "Queensberry Promotions : Moses Itauma vs. Dillian Whyte",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "207"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "wXw: Shortcut to the Top 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "208"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "2025 CARS Tour at Anderson Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "2025 NASCAR Weekly Racing at Le RPM Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "21:15",
+                "event": "2025 Championship Night at Oswego Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "21:15",
+                "event": "Baldwin Evans Jarzombek 77 Riverhead",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 NASCAR Weekly Racing at Berlin Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Championship Night at Fonda Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Millbridge Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Land of Legends Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "American Sprint Car Series El Paso",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "IRA Sprints Wilmot",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Late Models Maquoketa",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "173"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars Jackson",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "BKB 44: Denver Brawl V",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Redneck Brawl 10",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "176"
                     }
                 ]
             }
