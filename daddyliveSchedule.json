@@ -12,12 +12,12 @@
                 ]
             },
             {
-                "time": "21:00",
-                "event": "FanDuel Racing Live",
+                "time": "13:30",
+                "event": "Bmerican Flat Track Episode 10",
                 "channels": [
                     {
-                        "channel_name": "Altitude Sports",
-                        "channel_id": "923"
+                        "channel_name": "Fox Sports 2 USA",
+                        "channel_id": "39"
                     }
                 ]
             }
