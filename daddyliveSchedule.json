@@ -10080,6 +10080,68 @@
                 ]
             }
         ],
+        "Tennis ATP - CINCINNATI</span>": [
+            {
+                "time": "15:00",
+                "event": "ATP - CINCINNATI : Mektic N./Ram R. vs Cash J./Glasspool L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - CINCINNATI : Salisbury J./Skupski N. vs Musetti L./Sonego L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "ATP - CINCINNATI : Sinner J. vs Atmane T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "ATP - CINCINNATI : Zverev A. vs Alcaraz C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - CINCINNATI</span>": [
+            {
+                "time": "23:30",
+                "event": "WTA - CINCINNATI : Errani S./Paolini J. vs Guo H./Panova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "15:00",
