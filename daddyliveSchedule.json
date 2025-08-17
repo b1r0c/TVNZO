@@ -152,6 +152,46 @@
                 ]
             },
             {
+                "time": "23:00",
+                "event": "Whynot Motorsports Park",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5011"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Richmond Raceway",
+                "channels": [
+                    {
+                        "channel_name": "SpeetSportTV",
+                        "channel_id": "5015"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Maquoketa Speedway",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "5017"
+                    }
+                ]
+            },
+            {
+                "time": "23:10",
+                "event": "NASCAR Weekly Racing at Le RPM Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FLORacing",
+                        "channel_id": "5014"
+                    }
+                ]
+            },
+            {
                 "time": "23:15",
                 "event": "World of Outlaws Late Models Maquoketa",
                 "channels": [
@@ -173,6 +213,36 @@
             },
             {
                 "time": "23:30",
+                "event": "CARS Tour at Anderson Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FLORacing",
+                        "channel_id": "5013"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Grundy County Speedway",
+                "channels": [
+                    {
+                        "channel_name": "TrackTV",
+                        "channel_id": "5016"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Jackson Motorplex",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "5018"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
                 "event": "BKB 44: Denver Brawl V",
                 "channels": [
                     {
@@ -188,6 +258,36 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "00:10",
+                "event": "Lucas Oil Topless 100 at Batesville Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FLORacing",
+                        "channel_id": "5012"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Kubota High Limit Racing at Placerville Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FLORacing",
+                        "channel_id": "5002"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "CARS Tour West at Colorado National Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FLORacing",
+                        "channel_id": "5019"
                     }
                 ]
             }
