@@ -8819,6 +8819,21 @@
                 ]
             },
             {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Cheonan City vs Busan IPark",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 1 : Gimcheon Sangmu vs FC Seoul",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 1 : Gwangju vs Daejeon Citizen",
+                "channels": []
+            },
+            {
                 "time": "10:15",
                 "event": "Netherlands - Eredivisie : Go Ahead Eagles vs Ajax",
                 "channels": [
@@ -10580,6 +10595,11 @@
             },
             {
                 "time": "16:00",
+                "event": "Portugal - League 3 - Gr.B : Lusitano Evora vs Mafra",
+                "channels": []
+            },
+            {
+                "time": "16:00",
                 "event": "Denmark - Super Liga : Randers vs Br\u00f8ndby",
                 "channels": [
                     {
@@ -10826,6 +10846,11 @@
             },
             {
                 "time": "17:00",
+                "event": "Portugal - League 3 - Gr.B : Academica Coimbra vs UD Santarem",
+                "channels": []
+            },
+            {
+                "time": "17:00",
                 "event": "Serbia - Super Liga : Ba\u010dka Topola vs OFK Beograd",
                 "channels": [
                     {
@@ -10889,6 +10914,11 @@
                         "channel_id": "623"
                     }
                 ]
+            },
+            {
+                "time": "17:00",
+                "event": "Slovakia - 1. liga : Trencin vs Zilina",
+                "channels": []
             },
             {
                 "time": "17:00",
@@ -11420,6 +11450,11 @@
             },
             {
                 "time": "19:00",
+                "event": "Portugal - League 3 - Gr.B : Os Belenenses vs Atletico CP",
+                "channels": []
+            },
+            {
+                "time": "19:00",
                 "event": "Italy - Coppa Italia Serie C : Crotone vs Catania",
                 "channels": [
                     {
@@ -11583,6 +11618,11 @@
                         "channel_id": "387"
                     }
                 ]
+            },
+            {
+                "time": "19:30",
+                "event": "Venezuela - Primera Division : Deportivo Rayo Zuliano vs Academia Puerto Cabello",
+                "channels": []
             },
             {
                 "time": "19:30",
@@ -11961,6 +12001,11 @@
                         "channel_id": "642"
                     }
                 ]
+            },
+            {
+                "time": "22:00",
+                "event": "Venezuela - Primera Division : Deportivo La Guaira vs Deportivo Tachira",
+                "channels": []
             },
             {
                 "time": "22:00",
@@ -12405,6 +12450,116 @@
                         "channel_id": "39"
                     }
                 ]
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Belgrad (SRB) : Aaron Gil Garcia vs Lautaro A.Corthey",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Budapest (UNG) : Edison Ambarzumjan vs Alex Blanchar",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (F) - Budapesta (UNG) : Greta Fenyves vs Natalie Salkova",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (F) - Belgrad (SRB) : Julia Terziyska vs Lara Stojanovski",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Budapest (UNG) : Rafael KIS Balazs vs Sean Hodkin",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (F) - Belgrad (SRB) : Victoria Borodulina vs Stella Remander",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "UTR (F) - Belgrad (SRB) : Ksenia Laskutova vs Sara Gvozdenovic",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "UTR (M) - Budapest (UNG) : Botond Kisantal vs Stefan Cooper",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "UTR (M) - Budapest (UNG) : Oskari Eerola vs Peter Goldsteiner",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "UTR (M) - Cordoba (ARG) : A.L.Lingua Lavallen vs Elias Grubert",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "UTR (M) - Cordoba (ARG) : A.L.Lingua Lavallen vs Fantino Alberca de Las Casas",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "UTR (M) - Norman (USA) : Asahi Harazaki vs Alejandro Melero Kretzer",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "UTR (M) - Norman (USA) : Michael Fernandez vs Andrea Sandrone",
+                "channels": []
+            },
+            {
+                "time": "18:10",
+                "event": "ATP - Winston-Salem (USA) : Botic van de Zandschulp vs Adam Walton",
+                "channels": []
+            },
+            {
+                "time": "18:10",
+                "event": "ATP - Winston-Salem (USA) : Sebastian Ofner vs Vit Kopriva",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "ATP - Winston-Salem (USA) : David Goffin vs Pedro Martinez",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "ATP - Winston-Salem (USA) : Kamil Majchrzak vs Nicolas Jarry",
+                "channels": []
+            },
+            {
+                "time": "19:20",
+                "event": "ATP - Winston-Salem (USA) : Yunchaokete Bu vs Chun Hsin Tseng",
+                "channels": []
+            },
+            {
+                "time": "20:10",
+                "event": "ATP - Winston-Salem (USA) : Hamad Medjedovic vs Arthur Rinderknech",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "UTR (F) - Budapesta (UNG) : Hannah Read vs MA Dolores Carbo Chova",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "ATP - Winston-Salem (USA) : Yoshihito Nishioka vs Pablo Carreno-Busta",
+                "channels": []
+            },
+            {
+                "time": "23:40",
+                "event": "ATP - Winston-Salem (USA) : Mackenzie McDonald vs Brandon Holt",
+                "channels": []
             }
         ],
         "Motorsport</span>": [
@@ -14306,6 +14461,11 @@
             }
         ],
         "Ice Hockey</span>": [
+            {
+                "time": "04:00",
+                "event": "Australia - AIHL : Melbourne Ice vs Canberra Brave",
+                "channels": []
+            },
             {
                 "time": "08:00",
                 "event": "Club Friendlies : Metallurg Magnitogorsk vs Admiral Vladivostok",
