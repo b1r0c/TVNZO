@@ -22,12 +22,42 @@
                 ]
             },
             {
+                "time": "22:00",
+                "event": "The Strongest Man On Earth 2025: Day 2",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5010"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Weedsport Speedway",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "5001"
+                    }
+                ]
+            },
+            {
                 "time": "23:30",
                 "event": "Husets Sprint Cars",
                 "channels": [
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Dubuque Fairgrounds Speedway",
+                "channels": [
+                    {
+                        "channel_name": "DonerightTV",
+                        "channel_id": "5003"
                     }
                 ]
             },
@@ -4149,7 +4179,12 @@
             {
                 "time": "20:30",
                 "event": "WTA - CLEVELAND : Scott K. vs Kudermetova P.",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
             }
         ],
         "Tennis</span>": [
@@ -6867,6 +6902,11 @@
         ],
         "Soccer</span>": [
             {
+                "time": "10:00",
+                "event": "Australia - NPL - Northern NSW : Edgeworth Eagles vs Weston Workers Bears",
+                "channels": []
+            },
+            {
                 "time": "14:00",
                 "event": "Romania - Liga II : Sepsi vs Corvinul Hunedoara",
                 "channels": [
@@ -8167,6 +8207,206 @@
                         "channel_id": "612"
                     }
                 ]
+            },
+            {
+                "time": "07:00",
+                "event": "Challenger - Sofia (BGR) - Qualifiers : Alex Molcan vs Filip Pieczonka",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Challenger - Hersonissos (GRE) - Qualifiers : Enzo Wallart vs Hayato Matsuoka",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Challenger - Hersonissos (GRE) - Qualifiers : Filippo Moroni vs Amit Vales",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Challenger - Sofia (BGR) - Qualifiers : Franco Roncadelli vs Jozef Kovalik",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Budapest (UNG) : Gergely Madarasz vs Botond Kisantal",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Challenger - Hersonissos (GRE) - Qualifiers : Harry Wendelken vs Leo Raquillet",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Challenger - Hersonissos (GRE) - Qualifiers : Pietro Orlando Fellin vs Orel Kimhi",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Challenger - Sofia (BGR) - Qualifiers : Svyatoslav Gulin vs Dali Blanch",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "Challenger - Sofia (BGR) - Qualifiers : David Jorda Sanchis vs Petr Nesterov",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "UTR (M) - Budapest (UNG) : Edison Ambarzumjan vs Rafael KIS Balazs",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "Challenger - Sofia (BGR) - Qualifiers : Federico Bondioli vs Franco Agamenone",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "Challenger - Hersonissos (GRE) - Qualifiers : Luca Castagnola vs Massimo Giunta",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "Challenger - Hersonissos (GRE) - Qualifiers : Luca Potenza vs Mitsuki Wei K.Leong",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "Challenger - Sofia (BGR) - Qualifiers : Nino Serdarusic vs Sergey Fomin",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "Challenger - Augsburg (GER) - Qualifiers : Boris Arias vs Matyas Cerny",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "Challenger - Augsburg (GER) - Qualifiers : Nikolai Barsukov vs Benito Sanchez Martinez",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Augsburg (GER) : Alexander Ritschard vs Rudolf Molleker",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Augsburg (GER) : Max Schoenhaus vs Jakub Nicod",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Augsburg (GER) : Mika Petkovic vs Hynek Barton",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Augsburg (GER) : Nikolas Sanchez Izquierdo vs Raul Brancaccio",
+                "channels": []
+            },
+            {
+                "time": "09:20",
+                "event": "Challenger - Sofia (BGR) : Duje Ajdukovic vs Joel Josef Schwarzler",
+                "channels": []
+            },
+            {
+                "time": "09:20",
+                "event": "Challenger - Sofia (BGR) : Filip Cristian Jianu vs Matej Dodig",
+                "channels": []
+            },
+            {
+                "time": "09:40",
+                "event": "Challenger - Augsburg (GER) - Qualifiers : Imanol Lopez Morillo vs Nino Ehrenschneider",
+                "channels": []
+            },
+            {
+                "time": "09:40",
+                "event": "Challenger - Augsburg (GER) - Qualifiers : Tadeas Paroulek vs Maik Steiner",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Challenger - Sofia (BGR) : Alexander Donski vs Daniel Michalski",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Challenger - Sofia (BGR) : Aryan Shah vs Marat Sharipov",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Challenger - Sofia (BGR) : Frederico Ferreira Silva vs Tiago Pereira",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Challenger - Hersonissos (GRE) : Lucas Poullain vs Matteo Martineau",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Challenger - Hersonissos (GRE) : Moez Echargui vs Jay Dylan Hara Friend",
+                "channels": []
+            },
+            {
+                "time": "11:40",
+                "event": "Challenger - Hersonissos (GRE) : Laurent Lokoli vs Christian Langmo",
+                "channels": []
+            },
+            {
+                "time": "11:40",
+                "event": "Challenger - Hersonissos (GRE) : Vadym Ursu vs Ioannis Xilas",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Challenger - Hersonissos (GRE) : Stuart Parker vs Marek Gengel",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "Challenger - Augsburg (GER) : Andrej Martin vs Diego Dedura-Palomero",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - Winston-Salem (USA) : Hugo Gaston vs Marton Fucsovics",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - Winston-Salem (USA) : Roman Safiullin vs Christopher O'Connell",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "ATP Cincinnati : Jannik Sinner vs Carlos Alcaraz Garfia",
+                "channels": []
+            },
+            {
+                "time": "19:10",
+                "event": "ATP - Winston-Salem (USA) : Aleksandar Kovacevic vs Filip Misolic",
+                "channels": []
+            },
+            {
+                "time": "19:10",
+                "event": "ATP - Winston-Salem (USA) - Double : R.Arneodo/R.Bopanna vs L.Darderi/A.Muller",
+                "channels": []
+            },
+            {
+                "time": "20:20",
+                "event": "ATP - Winston-Salem (USA) - Double : F.Cabral/L.Miedler vs A.Goransson/S.Verbeek",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "ATP - Winston-Salem (USA) : Francisco Comesana vs Mattia Bellucci",
+                "channels": []
             }
         ],
         "Golf</span>": [
