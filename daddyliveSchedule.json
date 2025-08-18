@@ -1539,10 +1539,10 @@
                 ]
             }
         ],
-        "ATP - CINCINNATI</span>": [
+        "Tennis ATP - CINCINNATI</span>": [
             {
                 "time": "19:00",
-                "event": "ATP - CINCINNATI : Sinner J. vs Alcaraz C.",
+                "event": "ATP - CINCINNATI Final : Sinner J. vs Alcaraz C.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1555,7 +1555,7 @@
                 ]
             }
         ],
-        "US OPEN - QUALIFYING</span>": [
+        "Tennis US OPEN - QUALIFYING</span>": [
             {
                 "time": "15:00",
                 "event": "US OPEN - QUALIFYING : Stadium 17",
@@ -1687,7 +1687,7 @@
                 ]
             }
         ],
-        "ATP - WINSTON SALEM</span>": [
+        "Tennis ATP - WINSTON SALEM</span>": [
             {
                 "time": "18:00",
                 "event": "ATP - WINSTON SALEM : Collignon R. vs Basavareddy N.",
@@ -1789,10 +1789,10 @@
                 ]
             }
         ],
-        "WTA - CINCINNATI</span>": [
+        "Tennis WTA - CINCINNATI</span>": [
             {
                 "time": "22:00",
-                "event": "WTA - CINCINNATI : Swiatek I. vs Paolini J.",
+                "event": "WTA - CINCINNATI  Final : Swiatek I. vs Paolini J.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1805,7 +1805,7 @@
                 ]
             }
         ],
-        "WTA - CLEVELAND</span>": [
+        "Tennis WTA - CLEVELAND</span>": [
             {
                 "time": "15:00",
                 "event": "WTA - CLEVELAND : Cirstea S. vs Uchijima M.",
@@ -1907,7 +1907,7 @@
                 ]
             }
         ],
-        "WTA - MONTERREY</span>": [
+        "Tennis WTA - MONTERREY</span>": [
             {
                 "time": "21:00",
                 "event": "WTA - MONTERREY : Bouzas Maneiro J. vs Rakhimova K.",
