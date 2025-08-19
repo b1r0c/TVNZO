@@ -20,6 +20,16 @@
                         "channel_id": "59"
                     }
                 ]
+            },
+            {
+                "time": "22:15",
+                "event": "Brewerton Speedway",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "5001"
+                    }
+                ]
             }
         ],
         "TV Shows</span>": [
