@@ -456,222 +456,67 @@
             {
                 "time": "18:30",
                 "event": "England - League Two : Newport County vs Salford City",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "55"
-                    }
-                ]
+                "channels": []
             },
             {
                 "time": "18:45",
                 "event": "England - League One : AFC Wimbledon vs Cardiff City",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "36"
-                    }
-                ]
+                "channels": []
             },
             {
                 "time": "18:45",
                 "event": "England - League Cup : Tranmere Rovers vs Burton Albion",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "59"
-                    }
-                ]
+                "channels": []
             },
             {
                 "time": "18:45",
                 "event": "England - League One : Northampton Town vs Lincoln City",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "68"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "England - League One : Port Vale vs Stevenage",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "69"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "England - League One : Plymouth Argyle vs Leyton Orient",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "76"
-                    }
-                ]
+                "channels": []
             },
             {
                 "time": "18:45",
                 "event": "England - League One : Wycombe Wanderers vs Exeter City",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "77"
-                    }
-                ]
+                "channels": []
             },
             {
                 "time": "18:45",
                 "event": "England - League One : Huddersfield Town vs Doncaster Rovers",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "86"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "England - League One : Luton Town vs Wigan Athletic",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "105"
-                    }
-                ]
+                "channels": []
             },
             {
                 "time": "18:45",
                 "event": "England - League One : Stockport County vs Bradford City",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "106"
-                    }
-                ]
+                "channels": []
             },
             {
                 "time": "18:45",
                 "event": "England - League One : Mansfield Town vs Blackpool",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "107"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "England - League One : Peterborough United vs Barnsley",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "108"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "England - League One : Rotherham United vs Burton Albion",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "109"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "England - League Two : Fleetwood Town vs Crewe Alexandra",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "110"
-                    }
-                ]
+                "channels": []
             },
             {
                 "time": "18:45",
                 "event": "England - League Two : Crawley Town vs Milton Keynes Dons",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "151"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "England - League Two : Accrington Stanley vs Tranmere Rovers",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "152"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "England - League Two : Harrogate Town vs Barrow",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "153"
-                    }
-                ]
+                "channels": []
             },
             {
                 "time": "18:45",
                 "event": "England - League Two : Gillingham vs Chesterfield",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "154"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "England - League Two : Colchester United vs Cambridge United",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "155"
-                    }
-                ]
+                "channels": []
             },
             {
                 "time": "18:45",
                 "event": "England - League Two : Bristol Rovers vs Oldham Athletic",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "156"
-                    }
-                ]
+                "channels": []
             },
             {
                 "time": "18:45",
                 "event": "England - League Two : Swindon Town vs Barnet",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "157"
-                    }
-                ]
+                "channels": []
             },
             {
                 "time": "18:45",
                 "event": "England - League Two : Cheltenham Town vs Bromley",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "158"
-                    }
-                ]
+                "channels": []
             },
             {
                 "time": "09:30",
