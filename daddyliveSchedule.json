@@ -1,5 +1,143 @@
 {
     "Thursday 21st Aug 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:00",
+                "event": "2025 PDRA Thunder Valley Throwdown",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "55"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5000"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Short Track Super Series at New Egypt Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "2025 USAC Sprint Car Smackdown at Kokomo Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "68"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5001"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 Flying Tiger Triple Crown #3 at Thunder Road Speedbowl",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "69"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5003"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Airborne Park Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5002"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Grand Rapids Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5004"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "World of Outlaws Sooner State Showdown",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Kossuth County Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5005"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "KRA Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5006"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Sheyenne Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5007"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Black Hills Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5008"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "2025 Kubota HLR Gold Cup Race of Champions at Silver Dollar Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "77"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5009"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "18:00",
@@ -1313,10 +1451,10 @@
                 ]
             }
         ],
-        "ATP - WINSTON SALEM</span>": [
+        "Tennis ATP - WINSTON SALEM</span>": [
             {
                 "time": "18:00",
-                "event": "Korda S. vs Kecmanovic M.",
+                "event": "ATP - WINSTON SALEM : Korda S. vs Kecmanovic M.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1326,7 +1464,7 @@
             },
             {
                 "time": "20:00",
-                "event": "Munar J. vs Fucsovics M.",
+                "event": "ATP - WINSTON SALEM : Munar J. vs Fucsovics M.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1336,7 +1474,7 @@
             },
             {
                 "time": "22:30",
-                "event": "Medjedovic H. vs Mpetshi Perricard G.",
+                "event": "ATP - WINSTON SALEM : Medjedovic H. vs Mpetshi Perricard G.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1346,7 +1484,7 @@
             },
             {
                 "time": "00:00",
-                "event": "Bu Y. vs Van De Zandschulp B.",
+                "event": "ATP - WINSTON SALEM : Bu Y. vs Van De Zandschulp B.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1355,10 +1493,10 @@
                 ]
             }
         ],
-        "WTA - CLEVELAND</span>": [
+        "Tennis WTA - CLEVELAND</span>": [
             {
                 "time": "15:00",
-                "event": "Gibson T. vs Wang Xin.",
+                "event": "WTA - CLEVELAND : Gibson T. vs Wang Xin.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1368,7 +1506,7 @@
             },
             {
                 "time": "15:00",
-                "event": "Li A. vs Jovic I.",
+                "event": "WTA - CLEVELAND : Li A. vs Jovic I.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1378,7 +1516,7 @@
             },
             {
                 "time": "15:00",
-                "event": "Sierra S. vs Jacquemot E.",
+                "event": "WTA - CLEVELAND : Sierra S. vs Jacquemot E.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1388,7 +1526,7 @@
             },
             {
                 "time": "15:45",
-                "event": "Boulter K. vs Golubic V.",
+                "event": "WTA - CLEVELAND : Boulter K. vs Golubic V.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1398,7 +1536,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Sierra or Jacquemot vs Li or Jovic",
+                "event": "WTA - CLEVELAND : Sierra or Jacquemot vs Li or Jovic",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1408,7 +1546,7 @@
             },
             {
                 "time": "20:00",
-                "event": "Boulter or Golubic vs Gibson or Wang",
+                "event": "WTA - CLEVELAND : Boulter or Golubic vs Gibson or Wang",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1418,7 +1556,7 @@
             },
             {
                 "time": "00:00",
-                "event": "Samsonova L. vs Cirstea S.",
+                "event": "WTA - CLEVELAND : Samsonova L. vs Cirstea S.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1427,10 +1565,10 @@
                 ]
             }
         ],
-        "WTA - MONTERREY</span>": [
+        "Tennis WTA - MONTERREY</span>": [
             {
                 "time": "21:00",
-                "event": "Shnaider D. vs Mertens E.",
+                "event": "WTA - MONTERREY : Shnaider D. vs Mertens E.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1440,7 +1578,7 @@
             },
             {
                 "time": "23:00",
-                "event": "Parks A. vs Sramkova R.",
+                "event": "WTA - MONTERREY : Parks A. vs Sramkova R.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1450,7 +1588,7 @@
             },
             {
                 "time": "01:00",
-                "event": "Noskova L. vs Alexandrova E.",
+                "event": "WTA - MONTERREY : Noskova L. vs Alexandrova E.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1460,7 +1598,7 @@
             },
             {
                 "time": "02:30",
-                "event": "Ruzic A. vs Bouzkova M.",
+                "event": "WTA - MONTERREY : Ruzic A. vs Bouzkova M.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
