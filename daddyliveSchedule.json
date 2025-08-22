@@ -3613,6 +3613,21 @@
                 ]
             },
             {
+                "time": "16:00",
+                "event": "Austria - 2.League : Amstetten vs St. Polten",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Austria - 2.League : Austria Lustenau vs Stripfing/Weiden",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Austria - 2.League : First Vienna vs Liefering",
+                "channels": []
+            },
+            {
                 "time": "16:30",
                 "event": "United Arab Emirates - UAE Pro League : Al Sharjah vs Al Jazira",
                 "channels": [
@@ -4045,6 +4060,11 @@
                         "channel_id": "583"
                     }
                 ]
+            },
+            {
+                "time": "18:30",
+                "event": "Austria - 2.League : Admira Wacker vs WSC Hertha Wels",
+                "channels": []
             },
             {
                 "time": "18:30",
@@ -4665,6 +4685,11 @@
                 ]
             },
             {
+                "time": "21:00",
+                "event": "Venezuela - Primera Division : Yaracuyanos vs Deportivo Rayo Zuliano",
+                "channels": []
+            },
+            {
                 "time": "22:00",
                 "event": "Brazil - Serie B : Athletic Club vs Chapecoense",
                 "channels": [
@@ -4719,6 +4744,11 @@
                         "channel_id": "387"
                     }
                 ]
+            },
+            {
+                "time": "23:30",
+                "event": "Venezuela - Primera Division - Clausura : Portuguesa vs Academia Anzoategui",
+                "channels": []
             },
             {
                 "time": "00:00",
@@ -4897,6 +4927,194 @@
                 ]
             }
         ],
+        "Tennis US OPEN - QUALIFYING</span>": [
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 5",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 4",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 6",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1525"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 8",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 9",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 10",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 11",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 12",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 13",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 14",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 15",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1518"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 16",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1519"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - WINSTON SALEM</span>": [
+            {
+                "time": "20:00",
+                "event": "ATP - WINSTON SALEM : Korda S. vs Fucsovics M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "ATP - WINSTON SALEM : Bu or Van De Zandschulp vs Mpetshi Perricard G.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - CLEVELAND</span>": [
+            {
+                "time": "21:30",
+                "event": "WTA - CLEVELAND : Cirstea S. vs Zakharova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "WTA - CLEVELAND : Li A. vs Wang or Golubic",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - MONTERREY</span>": [
+            {
+                "time": "01:00",
+                "event": "WTA - MONTERREY : Shnaider D. vs Parks A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "WTA - MONTERREY : Noskova or Alexandrova vs Ruzic or Bouzkova",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "20:00",
@@ -5029,6 +5247,181 @@
                         "channel_id": "308"
                     }
                 ]
+            },
+            {
+                "time": "06:00",
+                "event": "UTR PTT Budapest Men 04 : Lautaro A.Corthey vs Zeteny Paragi",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "UTR PTT Budapest Women 04 : MA Dolores Carbo Chova vs Melissa Boyden",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "UTR PTT Budapest Women 04 : Stella Kovacicova vs Ana Cristiana Mocanu",
+                "channels": []
+            },
+            {
+                "time": "07:15",
+                "event": "UTR PTT Budapest Men 04 : Edouard Aubert vs Botond Kisantal",
+                "channels": []
+            },
+            {
+                "time": "07:15",
+                "event": "UTR (M) - Budapest (UNG) : Gergely Madarasz vs David Kovarik",
+                "channels": []
+            },
+            {
+                "time": "07:15",
+                "event": "UTR PTT Budapest Women 04 : Julia Terziyska vs Victoria Borodulina",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Hersonissos (GRE) - Double : F.Andaloro/M.Giunta vs M.Rosenkranz/H.Wendelken",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Sofia (BGR) : Joel Josef Schwarzler vs Marat Sharipov",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ITF (M) - Muttenz (ELV) : Johan Nikles vs Sebastian Fanselow",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ITF (M) - Muttenz (ELV) : Kai Wehnelt vs Alexander Weis",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Hersonissos (GRE) : Moez Echargui vs Robin Bertrand",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ITF (M) - Muttenz (ELV) : Noah Karma vs Henry Bernet",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Hersonissos (GRE) : Rafael Jodar vs Dan Added",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ITF (M) - Muttenz (ELV) : Tanguy Genier vs Carlo Alberto Caniato",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "UTR PTT Budapest Men 04 : Rafael KIS Balazs vs Peter Goldsteiner",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Augsburg (GER) - Double : B.Arias/J.C.Prado Angelo vs J.Barnat/F.Duda",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ITF (M) - Muttenz (ELV) : Lucas Gerch vs Flynn Thomas",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ITF (M) - Muttenz (ELV) : Maximilian Figl vs Maxime Janvier",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ITF (M) - Muttenz (ELV) : Maximilian Neuchrist vs Jeffrey V.D. Schulenburg",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ITF (M) - Muttenz (ELV) : Michele Ribecai vs Arthur Bellegy",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Sofia (BGR) : Matej Dodig vs Alex Molcan",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "ITF (M) - Ueberlingen (GER) : Dominik Kellovsky vs Niklas Schell",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "Challenger - Augsburg (GER) : Zdenek Kolar vs Cedrik-Marcel Stebe",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Sofia (BGR) - Double : M.Hermans/T.Pereira vs A.Jecan/B.Pavel",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "UTR PTT Budapest Women 04 : Terezia Perhacova vs Eszter Dorka Finak",
+                "channels": []
+            },
+            {
+                "time": "10:59",
+                "event": "ITF (M) - Ueberlingen (GER) : Louis Wessels vs Christian Djonov",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "ITF (M) - Ueberlingen (GER) : Oscar Otte vs Marvin Moeller",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Hersonissos (GRE) - Double : V.Cornea/P.Niklas-Salminen vs S.Sakellaridis/Pe.Tsitsipas",
+                "channels": []
+            },
+            {
+                "time": "11:19",
+                "event": "ITF (M) - Ueberlingen (GER) : Arthur Nagel vs Gregor Ramskogler",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Sofia (BGR) - Double : F.Agamenone/F.Roncadelli vs D.Pichler/N.Serdarusic",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Challenger - Augsburg (GER) - Double : D.Masur/B.Sanchez Martinez vs M.Schoenhaus/H.Squire",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Luca Van Assche vs Yibing Wu",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Patrick Maloney vs Daniel Elahi Galan",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - Winston-Salem (USA) - Double : J.Salisbury/N.Skupski vs F.Cabral/L.Miedler",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "ATP - Winston-Salem (USA) : Sebastian Korda vs Marton Fucsovics",
+                "channels": []
             }
         ],
         "Motorsport</span>": [
@@ -5433,7 +5826,12 @@
             {
                 "time": "16:00",
                 "event": "SPEEDWAY Ekstraliga : Rybnik vs Zielona Gora",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Eleven Sports 2 Poland",
+                        "channel_id": "72"
+                    }
+                ]
             },
             {
                 "time": "18:30",
@@ -6385,7 +6783,7 @@
             },
             {
                 "time": "22:00",
-                "event": "CEBL : TBA vs Niagara River Lions",
+                "event": "CEBL : Scarborough Shooting Stars vs Niagara River Lions",
                 "channels": [
                     {
                         "channel_name": "TSN4",
@@ -6399,7 +6797,7 @@
             },
             {
                 "time": "23:30",
-                "event": "WNBA : Seattle Storm vs Dallas Wings",
+                "event": "WNBA : Seattle Storm W vs Dallas Wings W",
                 "channels": [
                     {
                         "channel_name": "WNBA League Pass",
@@ -6409,7 +6807,7 @@
             },
             {
                 "time": "23:30",
-                "event": "WNBA : Minnesota Lynx vs Indiana Fever",
+                "event": "WNBA : Minnesota Lynx W vs Indiana Fever W",
                 "channels": [
                     {
                         "channel_name": "ION USA",
@@ -6419,7 +6817,7 @@
             },
             {
                 "time": "00:30",
-                "event": "CEBL : Calgary Surge vs Winnipeg Sea Bears",
+                "event": "CEBL : Winnipeg Sea Bears vs Calgary Surge",
                 "channels": [
                     {
                         "channel_name": "TSN4",
@@ -6443,7 +6841,7 @@
             },
             {
                 "time": "02:00",
-                "event": "WNBA : Golden State Valkyries W",
+                "event": "WNBA : Golden State Valkyries W vs Phoenix Mercury W",
                 "channels": [
                     {
                         "channel_name": "ION USA",
