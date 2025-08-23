@@ -1,5 +1,217 @@
 {
     "Saturday 23rd Aug 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "14:00",
+                "event": "AMA Supercross Championship Mechanicsville",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "200"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "2025 Kubota HLR Gold Cup Race of Champions at Silver Dollar Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "2025 School Bus Demolition Derby at Riverhead Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "2025 NAPA All Star Circuit of Champions at Waynesfield Raceway Park",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "2025 Lucas Oil Rumble By The River at Port Royal Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "Millbridge Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Land of Legends Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Sharon Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "22:55",
+                "event": "2025 IMCA Championship Night at 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 Kramer Klash at Lincoln Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars Red River",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Knoxville Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "IRA Sprints LaSalle",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "Championship Night Bowman Gray",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "Mars Late Models Red Hill",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "GCW: Homecoming Weekend 2025, Day 1",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Armored MMA 2025: Medieval Cage Fighting Championship, Nashville, TN",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "173"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "World of Outlaws Late Models Arrowhead",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "American Sprint Car Series Big Sky",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Miura Boxing : Jose Andres Teran vs. Luis Guzman",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Tuff-N-Uff 147",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "177"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "16:00",
