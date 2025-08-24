@@ -2710,30 +2710,6 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieacagliarivsfiorentina" tvg-name="Soccer | Italy - Serie A : Cagliari vs Fiorentina (18:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Cagliari_vs_Fiorentina.png" group-title="Eventi Live",Soccer | Italy - Serie A : Cagliari vs Fiorentina (18:30)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/nfs/premium877/mono.m3u8
-
-#EXTINF:-1 tvg-id="italyserieacomovslazio" tvg-name="Soccer | Italy - Serie A : Como vs Lazio (18:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Como_vs_Lazio.png" group-title="Eventi Live",Soccer | Italy - Serie A : Como vs Lazio (18:30)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium870/mono.m3u8
-
-#EXTINF:-1 tvg-id="italyserieacomovslazio" tvg-name="Soccer | Italy - Serie A : Como vs Lazio (18:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Como_vs_Lazio.png" group-title="Eventi Live",Soccer | Italy - Serie A : Como vs Lazio (18:30)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/zeko/premium871/mono.m3u8
-
-#EXTINF:-1 tvg-id="italyseriebspeziavscarrarese" tvg-name="Soccer | Italy - Serie B : Spezia vs Carrarese (19:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Spezia_vs_Carrarese.png" group-title="Eventi Live",Soccer | Italy - Serie B : Spezia vs Carrarese (19:00)
-https://thedaddy.click/stream/stream-55.php
-
-#EXTINF:-1 tvg-id="italyseriebveneziavsbari1908" tvg-name="Soccer | Italy - Serie B : Venezia vs Bari 1908 (19:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Venezia_vs_Bari 1908.png" group-title="Eventi Live",Soccer | Italy - Serie B : Venezia vs Bari 1908 (19:00)
-https://thedaddy.click/stream/stream-68.php
-
 #EXTINF:-1 tvg-id="italyserieaatalantavspisa" tvg-name="Soccer | Italy - Serie A : Atalanta vs Pisa (20:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Atalanta_vs_Pisa.png" group-title="Eventi Live",Soccer | Italy - Serie A : Atalanta vs Pisa (20:45)
 https://thedaddy.click/stream/stream-77.php
 
