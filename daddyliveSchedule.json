@@ -1,5 +1,55 @@
 {
     "Sunday 24th Aug 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "17:00",
+                "event": "AEW x NJPW Forbidden Door 2025",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "158"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "159"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "GCW: Homecoming Weekend 2025, Day 2",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Alan Kulwicki Memorial at Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Husets Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "153"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
