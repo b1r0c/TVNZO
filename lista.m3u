@@ -4,13 +4,13 @@
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/875922788/index.m3u8
+https://vavoo.to/play/1225653759/index.m3u8
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1225653759/index.m3u8
+https://vavoo.to/play/875922788/index.m3u8
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -220,13 +220,13 @@ https://vavoo.to/play/1785501924/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1230338185/index.m3u8
+https://vavoo.to/play/3134481201/index.m3u8
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",20 MEDIASET (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3134481201/index.m3u8
+https://vavoo.to/play/1230338185/index.m3u8
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",20 MEDIASET (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -970,13 +970,13 @@ https://new.newkso.ru/wind/premium863/mono.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1944682394/index.m3u8
+https://vavoo.to/play/1492183364/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 1 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1492183364/index.m3u8
+https://vavoo.to/play/1944682394/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 10
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1042,25 +1042,25 @@ https://vavoo.to/play/877200714/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/573618724/index.m3u8
+https://vavoo.to/play/153693434/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 3 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/153693434/index.m3u8
+https://vavoo.to/play/573618724/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 4
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3137990890/index.m3u8
+https://vavoo.to/play/2416993844/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 4 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2416993844/index.m3u8
+https://vavoo.to/play/3137990890/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 5
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1174,13 +1174,13 @@ https://vavoo.to/play/1785098768/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3379729817/index.m3u8
+https://vavoo.to/play/3413557893/index.m3u8
 
 #EXTINF:-1 tvg-id="tg.norba.24.it" tvg-name="TG NORBA 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3413557893/index.m3u8
+https://vavoo.to/play/3379729817/index.m3u8
 
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="TGCOM 24" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TGCOM 24
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1270,13 +1270,13 @@ https://vavoo.to/play/1995860185/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2255724318/index.m3u8
+https://vavoo.to/play/11090349/index.m3u8
 
 #EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/11090349/index.m3u8
+https://vavoo.to/play/2255724318/index.m3u8
 
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-name="NICK JR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1336,13 +1336,13 @@ https://vavoo.to/play/2113273064/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2651461317/index.m3u8
+https://vavoo.to/play/1574591400/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1574591400/index.m3u8
+https://vavoo.to/play/2651461317/index.m3u8
 
 #EXTINF:-1 tvg-id="history.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1462,13 +1462,13 @@ https://vavoo.to/play/32417864/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/950030926/index.m3u8
+https://vavoo.to/play/3815726749/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="KISS KISS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-kiss-kiss-tv-it.png?raw=true" group-title="Musica",KISS KISS (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3815726749/index.m3u8
+https://vavoo.to/play/950030926/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="KISS KISS ITALIA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-kiss-kiss-italia-it.png?raw=true" group-title="Musica",KISS KISS ITALIA
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1780,13 +1780,13 @@ https://vavoo.to/play/3156092639/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3008151733/index.m3u8
+https://vavoo.to/play/3803638765/index.m3u8
 
 #EXTINF:-1 tvg-id="dmax.it" tvg-name="DMAX" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Altro",DMAX (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3803638765/index.m3u8
+https://vavoo.to/play/3008151733/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ELIVE TV BRESCIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/%C3%88_live_Brescia_logo.png" group-title="Altro",ELIVE TV BRESCIA
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1888,13 +1888,13 @@ https://vavoo.to/play/2179686828/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2373936189/index.m3u8
+https://vavoo.to/play/4060499455/index.m3u8
 
 #EXTINF:-1 tvg-id="giallo.it" tvg-name="GIALLO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/4060499455/index.m3u8
+https://vavoo.to/play/2373936189/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBUS TELEVISION" tvg-logo="https://ennapress.it/wp-content/uploads/2020/10/globus.png" group-title="Altro",GLOBUS TELEVISION
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -2182,13 +2182,13 @@ https://vavoo.to/play/3075118500/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/4198218214/index.m3u8
+https://vavoo.to/play/2235732004/index.m3u8
 
 #EXTINF:-1 tvg-id="rete.4.it" tvg-name="RETE 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Altro",RETE 4 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2235732004/index.m3u8
+https://vavoo.to/play/4198218214/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RETE ORO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkE5wuUMIVAtANMfpSL4T5bIO73owXBhpvEg&s" group-title="Altro",RETE ORO
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -2224,25 +2224,25 @@ https://vavoo.to/play/2209352147/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2290395046/index.m3u8
+https://vavoo.to/play/2455610203/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RSI LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2455610203/index.m3u8
+https://vavoo.to/play/2290395046/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RSI LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3590183307/index.m3u8
+https://vavoo.to/play/3475299702/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RSI LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3475299702/index.m3u8
+https://vavoo.to/play/3590183307/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RTC TELECALABRIA" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -2746,7 +2746,7 @@ https://thedaddy.click/stream/stream-108.php
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium874/mono.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecsorrentovscavesesky" tvg-name="Soccer | Italy - Serie C : Sorrento vs Cavese Sky (18:00)" tvg-logo="https://www.tivolicalcio1919.it/wp-content/uploads/2022/08/SORRENTO.png" group-title="Eventi Live",Soccer | Italy - Serie C : Sorrento vs Cavese Sky (18:00)
+#EXTINF:-1 tvg-id="italyseriecsorrentovscavesesky" tvg-name="Soccer | Italy - Serie C : Sorrento vs Cavese Sky (18:00)" tvg-logo="https://toppng.com/uploads/preview/sorrento-calcio-vector-logo-11573726814wisvoldsne.png" group-title="Eventi Live",Soccer | Italy - Serie C : Sorrento vs Cavese Sky (18:00)
 https://thedaddy.click/stream/stream-27.php
 
 #EXTINF:-1 tvg-id="italyseriecgiuglianovspotenzacalcio" tvg-name="Soccer | Italy - Serie C : Giugliano vs Potenza Calcio (18:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Giugliano_vs_Potenza Calcio.png" group-title="Eventi Live",Soccer | Italy - Serie C : Giugliano vs Potenza Calcio (18:00)
@@ -2773,7 +2773,7 @@ https://new.newkso.ru/zeko/premium871/mono.m3u8
 #EXTINF:-1 tvg-id="italyseriebspeziavscarrarese" tvg-name="Soccer | Italy - Serie B : Spezia vs Carrarese (19:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Spezia_vs_Carrarese.png" group-title="Eventi Live",Soccer | Italy - Serie B : Spezia vs Carrarese (19:00)
 https://thedaddy.click/stream/stream-55.php
 
-#EXTINF:-1 tvg-id="italyseriebveneziavsbari1908" tvg-name="Soccer | Italy - Serie B : Venezia vs Bari 1908 (19:00)" tvg-logo="https://www.designfootball.com/images/joomgallery/originals/football_crests_8/fc_bari_1908_20160614_2033852757.png" group-title="Eventi Live",Soccer | Italy - Serie B : Venezia vs Bari 1908 (19:00)
+#EXTINF:-1 tvg-id="italyseriebveneziavsbari1908" tvg-name="Soccer | Italy - Serie B : Venezia vs Bari 1908 (19:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Venezia_vs_Bari 1908.png" group-title="Eventi Live",Soccer | Italy - Serie B : Venezia vs Bari 1908 (19:00)
 https://thedaddy.click/stream/stream-68.php
 
 #EXTINF:-1 tvg-id="italyserieaatalantavspisa" tvg-name="Soccer | Italy - Serie A : Atalanta vs Pisa (20:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Atalanta_vs_Pisa.png" group-title="Eventi Live",Soccer | Italy - Serie A : Atalanta vs Pisa (20:45)
@@ -2791,7 +2791,7 @@ https://thedaddy.click/stream/stream-109.php
 #EXTINF:-1 tvg-id="italyseriecpropatriavsprovercelli" tvg-name="Soccer | Italy - Serie C : Pro Patria vs Pro Vercelli (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Pro Patria_vs_Pro Vercelli.png" group-title="Eventi Live",Soccer | Italy - Serie C : Pro Patria vs Pro Vercelli (21:00)
 https://thedaddy.click/stream/stream-26.php
 
-#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovstrapani1905" tvg-name="Soccer | Italy - Serie C : Virtus Casarano vs Trapani 1905 (21:00)" group-title="Eventi Live",Soccer | Italy - Serie C : Virtus Casarano vs Trapani 1905 (21:00)
+#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovstrapani1905" tvg-name="Soccer | Italy - Serie C : Virtus Casarano vs Trapani 1905 (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Virtus Casarano_vs_Trapani 1905.png" group-title="Eventi Live",Soccer | Italy - Serie C : Virtus Casarano vs Trapani 1905 (21:00)
 https://thedaddy.click/stream/stream-108.php
 
 #EXTINF:-1 tvg-id="italyserieccataniavsfoggia" tvg-name="Soccer | Italy - Serie C : Catania vs Foggia (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Catania_vs_Foggia.png" group-title="Eventi Live",Soccer | Italy - Serie C : Catania vs Foggia (21:00)
@@ -2806,7 +2806,7 @@ https://new.newkso.ru/wind/premium874/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecmonopolivscosenza" tvg-name="Soccer | Italy - Serie C : Monopoli vs Cosenza (21:00)" tvg-logo="https://seeklogo.com/images/C/citta-di-cosenza-logo-AA9E7D006B-seeklogo.com.png" group-title="Eventi Live",Soccer | Italy - Serie C : Monopoli vs Cosenza (21:00)
+#EXTINF:-1 tvg-id="italyseriecmonopolivscosenza" tvg-name="Soccer | Italy - Serie C : Monopoli vs Cosenza (21:00)" tvg-logo="https://www.nomads-travel-guide.com/wp-content/uploads/2024/08/Cosenza.jpg" group-title="Eventi Live",Soccer | Italy - Serie C : Monopoli vs Cosenza (21:00)
 https://thedaddy.click/stream/stream-27.php
 
 #EXTINF:-1 tvg-id="italyseriebcatanzarovssüdtirol" tvg-name="Soccer | Italy - Serie B : Catanzaro vs Südtirol (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Catanzaro_vs_Südtirol.png" group-title="Eventi Live",Soccer | Italy - Serie B : Catanzaro vs Südtirol (21:00)
@@ -2827,7 +2827,7 @@ https://new.newkso.ru/nfs/premium575/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="moto2hungariangrandprixrace" tvg-name="Motorsport | Moto2 : Hungarian Grand Prix Race (12:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/yqvtrq1432309315.png" group-title="Eventi Live",Motorsport | Moto2 : Hungarian Grand Prix Race (12:00)
+#EXTINF:-1 tvg-id="moto2hungariangrandprixrace" tvg-name="Motorsport | Moto2 : Hungarian Grand Prix Race (12:00)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Motorsport | Moto2 : Hungarian Grand Prix Race (12:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
@@ -2845,7 +2845,7 @@ https://new.newkso.ru/wind/premium879/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="mxgpnetherlandsworldchampionshiprace1" tvg-name="Motorsport | MXGP | Netherlands World Championship | Race 1 (14:00)" tvg-logo="https://www.mxgp.com/sites/default/files/images/PNG_OK(1).png" group-title="Eventi Live",Motorsport | MXGP | Netherlands World Championship | Race 1 (14:00)
+#EXTINF:-1 tvg-id="mxgpnetherlandsworldchampionshiprace1" tvg-name="Motorsport | MXGP | Netherlands World Championship | Race 1 (14:00)" tvg-logo="https://www.spiralgfx.com/cdn/shop/files/kx_PC23_2_1024x.png?v=1683032056" group-title="Eventi Live",Motorsport | MXGP | Netherlands World Championship | Race 1 (14:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
@@ -2857,31 +2857,31 @@ https://new.newkso.ru/wind/premium879/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium879/mono.m3u8
 
-#EXTINF:-1 tvg-id="mxgpnetherlandsworldchampionshiprace2" tvg-name="Motorsport | MXGP | Netherlands World Championship | Race 2 (17:00)" tvg-logo="https://www.mxgp.com/sites/default/files/images/PNG_OK(1).png" group-title="Eventi Live",Motorsport | MXGP | Netherlands World Championship | Race 2 (17:00)
+#EXTINF:-1 tvg-id="mxgpnetherlandsworldchampionshiprace2" tvg-name="Motorsport | MXGP | Netherlands World Championship | Race 2 (17:00)" tvg-logo="https://www.mxgp.com/sites/default/files/images/MTV_logo_red(2).png" group-title="Eventi Live",Motorsport | MXGP | Netherlands World Championship | Race 2 (17:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium879/mono.m3u8
 
-#EXTINF:-1 tvg-id="thevueltaaespañastage2hilly157km" tvg-name="Cycling | The Vuelta a España: Stage 2 Hilly | 157 km (13:30)" tvg-logo="https://static.flashscore.com/res/image/data/AP31Nk97-Ch6GOzRl.png" group-title="Eventi Live",Cycling | The Vuelta a España: Stage 2 Hilly | 157 km (13:30)
+#EXTINF:-1 tvg-id="thevueltaaespañastage2hilly157km" tvg-name="Cycling | The Vuelta a España: Stage 2 Hilly | 157 km (13:30)" tvg-logo="https://cyclingscoop.com/wp-content/uploads/2025/08/Vuelta-a-Espana.png" group-title="Eventi Live",Cycling | The Vuelta a España: Stage 2 Hilly | 157 km (13:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="tourdebeneluxstage5masculine" tvg-name="Cycling | Tour de Benelux | Stage 5 Masculine (14:00)" tvg-logo="https://tours-mexicocity.com/wp-content/uploads/2024/07/8-600x600.png" group-title="Eventi Live",Cycling | Tour de Benelux | Stage 5 Masculine (14:00)
+#EXTINF:-1 tvg-id="tourdebeneluxstage5masculine" tvg-name="Cycling | Tour de Benelux | Stage 5 Masculine (14:00)" tvg-logo="https://images.seeklogo.com/logo-png/8/2/le-tour-de-france-2000-logo-png_seeklogo-82858.png" group-title="Eventi Live",Cycling | Tour de Benelux | Stage 5 Masculine (14:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium879/mono.m3u8
 
-#EXTINF:-1 tvg-id="worldchampionshipwomenitalywvscubaw" tvg-name="Volleyball | World Championship Women : Italy W vs Cuba W (12:00)" tvg-logo="https://matchpint-cdn.matchpint.cloud/shared/imagenes/teams/9970/logo_1679578320.png" group-title="Eventi Live",Volleyball | World Championship Women : Italy W vs Cuba W (12:00)
+#EXTINF:-1 tvg-id="worldchampionshipwomenitalywvscubaw" tvg-name="Volleyball | World Championship Women : Italy W vs Cuba W (12:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Italy W_vs_Cuba W.png" group-title="Eventi Live",Volleyball | World Championship Women : Italy W vs Cuba W (12:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/nfs/premium877/mono.m3u8
 
-#EXTINF:-1 tvg-id="worldchampionshipwomenitalywvscubaw" tvg-name="Volleyball | World Championship Women : Italy W vs Cuba W (12:00)" tvg-logo="https://matchpint-cdn.matchpint.cloud/shared/imagenes/teams/9970/logo_1679578320.png" group-title="Eventi Live",Volleyball | World Championship Women : Italy W vs Cuba W (12:00)
+#EXTINF:-1 tvg-id="worldchampionshipwomenitalywvscubaw" tvg-name="Volleyball | World Championship Women : Italy W vs Cuba W (12:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Italy W_vs_Cuba W.png" group-title="Eventi Live",Volleyball | World Championship Women : Italy W vs Cuba W (12:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
