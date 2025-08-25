@@ -1,5 +1,27 @@
 {
     "Monday 25th August 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "22:15",
+                "event": "2025 Wild Thing Kart Series at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "2025 Kubota High Limit Racing at Douglas County Dirt Track",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "59"
+                    }
+                ]
+            }
+        ],
         "Soccer</span>": [
             {
                 "time": "11:30",
