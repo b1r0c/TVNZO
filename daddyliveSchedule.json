@@ -4180,6 +4180,16 @@
                 ]
             },
             {
+                "time": "09:00",
+                "event": "Australia - NPL - Tasmania : Launceston United vs Launceston City",
+                "channels": []
+            },
+            {
+                "time": "09:15",
+                "event": "Australia - NPL - Queensland : Brisbane City vs Brisbane U23",
+                "channels": []
+            },
+            {
                 "time": "10:00",
                 "event": "Portugal - Liga Revela\u00e7\u00e3o : Sporting CP U23 vs Santa Clara U23",
                 "channels": [
@@ -4376,6 +4386,11 @@
                 ]
             },
             {
+                "time": "17:00",
+                "event": "Uruguay - Segunda Division : La Luz FC vs Rentistas",
+                "channels": []
+            },
+            {
                 "time": "17:30",
                 "event": "Africa - African Nations Championship : Morocco vs Senegal",
                 "channels": [
@@ -4436,6 +4451,21 @@
                         "channel_id": "413"
                     }
                 ]
+            },
+            {
+                "time": "17:30",
+                "event": "Austria - Cup : Amstetten vs First Vienna",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Austria - Cup : ASK Voitsberg vs Admira Wacker",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Austria - Cup : Union Gurten vs SV Ried",
+                "channels": []
             },
             {
                 "time": "17:45",
@@ -5086,6 +5116,366 @@
                         "channel_id": "612"
                     }
                 ]
+            },
+            {
+                "time": "05:00",
+                "event": "UTR (M) - Bali (IDN) : Andras Necz vs Ajay Malik",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "UTR (M) - Bali (IDN) : Wadym Konowczuk vs Diogo Morais",
+                "channels": []
+            },
+            {
+                "time": "06:10",
+                "event": "UTR (M) - Bali (IDN) : Cian Maguire vs Joao Graca",
+                "channels": []
+            },
+            {
+                "time": "06:10",
+                "event": "UTR (M) - Bali (IDN) : Stefan Storch vs Eric Tripathi",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Olomouc (CHE) : Elisha Thornton vs Daniel Siniakov",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Challenger - Zhangjiagang (CHN) : Masamichi Imamura vs Oliver Crawford",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Manacor (SPA) - Qualifiers : Adria Soriano Barrera vs Stuart Parker",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Como (ITA) : Alexander Ritschard vs Thiago Moura Monteiro",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Como (ITA) : Henri Squire vs Tomasso Compagnucci",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Como (ITA) : Jacopo Berrettini vs Luciano Emanuel Ambrogi",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Manacor (SPA) - Qualifiers : Jakub Paul vs Christian Langmo",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Manacor (SPA) - Qualifiers : Michael Geerts vs Naoya Honda",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Manacor (SPA) - Qualifiers \tSergio Callejon Hernando vs Daniel Masur",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "UTR (F) - Olomouc (CHE) : Valentina Vachkova vs Nikola Koprivova",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "Challenger - Zhangjiagang (CHN) : Alexandr Binda vs Renta Tokuda",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "Challenger - Zhangjiagang (CHN) : Bernard Tomic vs Philip Sekulic",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "Challenger - Zhangjiagang (CHN) : Fajing Sun vs Ye Cong Mo",
+                "channels": []
+            },
+            {
+                "time": "08:15",
+                "event": "UTR (F) - Olomouc (CHE) : Nikola Homolkova vs Aneta Holubova",
+                "channels": []
+            },
+            {
+                "time": "08:15",
+                "event": "UTR (M) - Olomouc (CHE) : Vitek Horak vs Dominik Recek",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Manacor (SPA) : Borna Gojo vs Saba Purtseladze",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Manacor (SPA) - Qualifiers : Clement Chidekh vs Alberto Barroso Campos",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Como (ITA) : Gabi Adrian Boitan vs Oleg Prihodko",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Manacor (SPA) - Qualifiers : Hamish Stewart vs Lucas Poullain",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Como (ITA) : Lorenzo Carboni vs Timofey Skatov",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Manacor (SPA) : Miguel Tobon vs Calvin Hemery",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Como (ITA) : Stefano Travaglia vs Gabriele Pennaforti",
+                "channels": []
+            },
+            {
+                "time": "09:20",
+                "event": "Challenger - Zhangjiagang (CHN) : Filip Peliwo vs Petr Bar Biryukov",
+                "channels": []
+            },
+            {
+                "time": "09:20",
+                "event": "Challenger - Zhangjiagang (CHN) : Ilia Simakin vs Tung-Lin Wu",
+                "channels": []
+            },
+            {
+                "time": "09:20",
+                "event": "Challenger - Zhangjiagang (CHN) : Joshua Charlton vs Rigele Te",
+                "channels": []
+            },
+            {
+                "time": "09:20",
+                "event": "Challenger - Zhangjiagang (CHN) : Moerani Bouzige vs Sho Shimabukuro",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Challenger - Porto (POR) : Daniel Michalski vs Carlos Sanchez Jover",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Challenger - Porto (POR) : Francisco Rocha vs Maxwell Mckennon",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Challenger - Porto (POR) : Mili Poljicak vs Guy Den Ouden",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Como (ITA) : Federico Bondioli vs Giovanni Fonio",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Manacor (SPA) - Double : M.Geerts/S.Martos Gornes vs A.Reymond/L.Sanchez",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Como (ITA) : Marco Cecchinato vs Luka Mikrut",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Manacor (SPA) - Double : P.Kaukovalta/O.Virtanen vs D.Pichler/J.Rodionov",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Como (ITA) : Raul Brancaccio vs Kilian Feldbausch",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Manacor (SPA) : Sascha Wayenburg vs Ryan Peniston",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Challenger - Manacor (SPA) : Harold Mayot vs George Loffhagen",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Challenger - Zhangjiagang (CHN) : Kaito Uesugi vs Tsung-Hao Huang",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Challenger - Zhangjiagang (CHN) : Linang Xiao vs Rio Noguchi",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Challenger - Zhangjiagang (CHN) : Luca Castelnuovo vs Kaichi Uchida",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Challenger - Zhangjiagang (CHN) : Yasutaka Uchiyama vs Yuta Kikuchi",
+                "channels": []
+            },
+            {
+                "time": "10:40",
+                "event": "Challenger - Porto (POR) : Olle Wallin vs Alejandro Moro Canas",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Porto (POR) - Double : I.Sabanov/M.Sabanov vs N.Alvarez Varona/N.Sanchez Izquierdo",
+                "channels": []
+            },
+            {
+                "time": "11:15",
+                "event": "Challenger - Zhangjiagang (CHN) : Denis Yevseyev vs Hiroki Moriya",
+                "channels": []
+            },
+            {
+                "time": "11:15",
+                "event": "Challenger - Zhangjiagang (CHN) : Jie Cui vs Arthur Gea",
+                "channels": []
+            },
+            {
+                "time": "11:15",
+                "event": "Challenger - Zhangjiagang (CHN) : Sanhui Shin vs Woobin Shin",
+                "channels": []
+            },
+            {
+                "time": "11:15",
+                "event": "Challenger - Zhangjiagang (CHN) : Sergey Fomin vs Kokoro Isomura",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Manacor (SPA) - Double : B.Hassan/A.Mies vs S.Parker/J.Paul",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Manacor (SPA) - Double : E.Butvilas/A.Shelbayh vs F.C.Alcantara/T.Loof",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Como (ITA) : Federico Arnaboldi vs Alvaro Guillen Meza",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Manacor (SPA) - Double : M.Gengel/D.Poljak vs M.Karol/P.Niklas-Salminen",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Como (ITA) : Nicolai Budkov Kjaer vs Cedrik-Marcel Stebe",
+                "channels": []
+            },
+            {
+                "time": "11:40",
+                "event": "Challenger - Manacor (SPA) : Federico Cina vs Jay Dylan Hara Friend",
+                "channels": []
+            },
+            {
+                "time": "11:50",
+                "event": "Challenger - Porto (POR) : Dmitry Popko vs Dimitar Kuzmanov",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Challenger - Porto (POR) : Mika Brunold vs Henrique Rocha",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Challenger - Como (ITA) - Double : P.Matuszewski/M.Veldheer vs A.Jecan/B.Pavel",
+                "channels": []
+            },
+            {
+                "time": "12:10",
+                "event": "Challenger - Porto (POR) : David Jorda Sanchis vs Filip Pieczonka",
+                "channels": []
+            },
+            {
+                "time": "12:40",
+                "event": "Challenger - Manacor (SPA) - Double : B.Arias/F.Zeballos vs A.Escoffier/C.Hemery",
+                "channels": []
+            },
+            {
+                "time": "12:40",
+                "event": "Challenger - Manacor (SPA) - Double : M.Martineau/H.Mayot vs C.Chidekh/H.J.Maginley",
+                "channels": []
+            },
+            {
+                "time": "12:40",
+                "event": "Challenger - Como (ITA) - Double : P.Basile/J.Vasami vs I.Liutarevich/G.Ricca",
+                "channels": []
+            },
+            {
+                "time": "12:50",
+                "event": "Challenger - Manacor (SPA) : Justin Engel vs Ivan Ivanov",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - US Open : Anna Bondar vs Elina Svitolina",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - US Open : Darja Semenistaja vs Peyton Stearns",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - US Open : Magdalena Frech vs Talia Gibson",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Challenger - Porto (POR) - Double : S.Duncan/T.Hands vs H.Maia/G.Valdoleiros",
+                "channels": []
+            },
+            {
+                "time": "13:10",
+                "event": "Challenger - Como (ITA) - Double : A.Kalyanpur/P.Somani vs J.Barnat/F.Duda",
+                "channels": []
+            },
+            {
+                "time": "13:10",
+                "event": "Challenger - Porto (POR) : Frederico Ferreira Silva vs Max Alcala Gurri",
+                "channels": []
+            },
+            {
+                "time": "13:20",
+                "event": "Challenger - Porto (POR) - Double : A.Merino/C.Negritu vs J.Jermar/D.Michalski",
+                "channels": []
+            },
+            {
+                "time": "14:20",
+                "event": "Challenger - Porto (POR) : Tiago Torres vs Hynek Barton",
+                "channels": []
             }
         ],
         "Motorsport</span>": [
@@ -5376,12 +5766,12 @@
                         "channel_id": "8"
                     },
                     {
-                        "channel_name": "FanDuel Sports Network Kansas City",
-                        "channel_id": "895"
-                    },
-                    {
                         "channel_name": "Chicago Sports Network",
                         "channel_id": "776"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Kansas City",
+                        "channel_id": "895"
                     }
                 ]
             },
@@ -5502,12 +5892,12 @@
                         "channel_id": "411"
                     },
                     {
-                        "channel_name": "TVA Sports CA",
-                        "channel_id": "833"
-                    },
-                    {
                         "channel_name": "Spectrum SportsNet LA",
                         "channel_id": "764"
+                    },
+                    {
+                        "channel_name": "TVA Sports CA",
+                        "channel_id": "833"
                     },
                     {
                         "channel_name": "FanDuel Sports Network Indiana",
