@@ -8,6 +8,20 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "59"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5001"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Georgetown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -3668,6 +3682,11 @@
                 ]
             },
             {
+                "time": "09:30",
+                "event": "Australia - NPL (F) - Victoria : Preston Lions (F) vs Heidelberg United (F)",
+                "channels": []
+            },
+            {
                 "time": "10:00",
                 "event": "Europe - UEFA Women's Champions League : Manchester United vs PSV",
                 "channels": [
@@ -3676,6 +3695,16 @@
                         "channel_id": "377"
                     }
                 ]
+            },
+            {
+                "time": "10:30",
+                "event": "South Korea - Cup : Bucheon vs Gwangju",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "South Korea - Cup : Gangwon vs Jeonbuk",
+                "channels": []
             },
             {
                 "time": "12:15",
@@ -3723,7 +3752,7 @@
             },
             {
                 "time": "15:00",
-                "event": "Liga Revelacao : Famalicao U23 - Rio Ave U23",
+                "event": "Liga Revelacao : Famalicao U23 vs Rio Ave U23",
                 "channels": [
                     {
                         "channel_name": "Canal 11 Portugal",
@@ -3792,6 +3821,11 @@
                         "channel_id": "183"
                     }
                 ]
+            },
+            {
+                "time": "16:00",
+                "event": "Austria - Cup : Dornbirn vs RB Salzburg",
+                "channels": []
             },
             {
                 "time": "16:30",
@@ -3960,6 +3994,21 @@
                         "channel_id": "30"
                     }
                 ]
+            },
+            {
+                "time": "18:30",
+                "event": "Austria - Cup : Schwaz vs BW Linz",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Austria - Cup : SV Donau vs SCR Altach",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Austria - Cup : SV Horn vs LASK Linz",
+                "channels": []
             },
             {
                 "time": "18:30",
@@ -4872,6 +4921,231 @@
                         "channel_id": "99"
                     }
                 ]
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (F) - Olomouc (CHE) : Nikola Breckova vs Nikola Koprivova",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Olomouc (CHE) : Sebastian Prechtel vs Gabriel Matuszewski",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "Challenger - Zhangjiagang (CHN) : Fajing Sun vs Sanhui Shin",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "Challenger - Zhangjiagang (CHN) : Kokoro Isomura vs Jie Cui",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "Challenger - Zhangjiagang (CHN) - Double : P.Isaro/N.Kaliyanda Poonacha vs Qian Sun/Sheng Tang",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Como (ITA) : Andrej Martin vs Thiago Moura Monteiro",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Como (ITA) : Duje Ajdukovic vs Oleg Prihodko",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Como (ITA) : Jacopo Berrettini vs Lorenzo Carboni",
+                "channels": []
+            },
+            {
+                "time": "08:15",
+                "event": "UTR (F) - Olomouc (CHE) : Nikola Homolkova vs Natalie Salkova",
+                "channels": []
+            },
+            {
+                "time": "08:15",
+                "event": "UTR (M) - Olomouc (CHE) : Vitek Horak vs Patrik Homola",
+                "channels": []
+            },
+            {
+                "time": "08:40",
+                "event": "Challenger - Zhangjiagang (CHN) - Double : M.Imamura/R.Noguchi vs S.Nakagawa/N.Tajima",
+                "channels": []
+            },
+            {
+                "time": "08:40",
+                "event": "Challenger - Zhangjiagang (CHN) : Philip Sekulic vs Renta Tokuda",
+                "channels": []
+            },
+            {
+                "time": "08:40",
+                "event": "Challenger - Zhangjiagang (CHN) - Double : Y.Kusuhara/K.Uchida vs J.Charlton/D.Stevenson",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Como (ITA) : Stefano Travaglia vs Juan Bautista Torres",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Como (ITA) - Double : V.Cornea/S.Rodriguez Taverna vs F.Bondioli/C.A.Caniato",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Challenger - Porto (POR) : Alex Barrena vs Nicolas Alvarez Varona",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "UTR (M) - Olomouc (CHE) : Maxwell Castle vs Dominik Recek",
+                "channels": []
+            },
+            {
+                "time": "09:50",
+                "event": "Challenger - Zhangjiagang (CHN) - Double : F.Reynolds/J.Watt vs R.Ramanathan/F.Sun",
+                "channels": []
+            },
+            {
+                "time": "09:50",
+                "event": "Challenger - Zhangjiagang (CHN) : Hiroki Moriya vs Oliver Crawford",
+                "channels": []
+            },
+            {
+                "time": "09:50",
+                "event": "Challenger - Zhangjiagang (CHN) - Double : J.Cui/R.Te vs C.Chen/L.Xiao",
+                "channels": []
+            },
+            {
+                "time": "09:50",
+                "event": "Challenger - Zhangjiagang (CHN) - Double : K.Isomura/AorWang vs J.Sung Nam/T.Yuzuki",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Manacor (SPA) : Edas Butvilas vs Michael Geerts",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Manacor (SPA) : Eliakim Coulibaly vs Marek Gengel",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Manacor (SPA) : Jakub Paul vs Benjamin Hassan",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "UTR (M) - Olomouc (CHE) : Petr Michnev vs Stepan Baum",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Como (ITA) - Double : A.Martin/O.Prihodko vs F.Arnaboldi/J.Berrettini",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Como (ITA) - Double : G.Bueno/A.Guillen Meza vs D.Cukierman/J.Ingildsen",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Como (ITA) - Double : L.Carboni/R.Piatti vs S.Latinovic/T.Ruehl",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Porto (POR) : Nikolas Sanchez Izquierdo vs Matej Dodig",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Manacor (SPA) : Otto Virtanen vs Hamish Stewart",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Porto (POR) - Double : S.Bangoura/D.Vega Hernandez vs M.Mansilla Diez/B.Pujol Navarro",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "Challenger - Manacor (SPA) : Daniel Masur vs Saba Purtseladze",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "Challenger - Manacor (SPA) : Marc Andrea Huesler vs Adria Soriano Barrera",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "Challenger - Manacor (SPA) : Matteo Martineau vs Jurij Rodionov",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Challenger - Porto (POR) : Gilles Arnaud Bailly vs Pedro Araujo",
+                "channels": []
+            },
+            {
+                "time": "12:10",
+                "event": "Challenger - Porto (POR) - Double : A.Martinez/J.Vance vs E.Grevelius/A.Heinonen",
+                "channels": []
+            },
+            {
+                "time": "12:10",
+                "event": "Challenger - Manacor (SPA) : Abedallah Shelbayh vs Daniel Rincon",
+                "channels": []
+            },
+            {
+                "time": "12:20",
+                "event": "Challenger - Manacor (SPA) : Norbert Gombos vs Alberto Barroso Campos",
+                "channels": []
+            },
+            {
+                "time": "12:20",
+                "event": "Challenger - Manacor (SPA) : Stuart Parker vs John Echeverria",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Challenger - Porto (POR) - Double : F.Rocha/H.Rocha vs A.Barrena/C.Sanchez Jover",
+                "channels": []
+            },
+            {
+                "time": "13:10",
+                "event": "Challenger - Porto (POR) : Alejandro Moro Canas vs Genaro Alberto Olivieri",
+                "channels": []
+            },
+            {
+                "time": "13:20",
+                "event": "Challenger - Porto (POR) - Double : A.Hernandez/D.Martin vs S.Kielan/F.Pieczonka",
+                "channels": []
+            },
+            {
+                "time": "13:20",
+                "event": "Challenger - Manacor (SPA) : Valentin Vacherot vs Martin Landaluce",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "Challenger - Manacor (SPA) - Double : D.Pichler/J.Rodionov vs M.Gengel/D.Poljak",
+                "channels": []
+            },
+            {
+                "time": "14:20",
+                "event": "Challenger - Porto (POR) - Double : T.Luis/T.Torres vs M.Hermans/M.Poljicak",
+                "channels": []
             }
         ],
         "WWE</span>": [
@@ -5612,6 +5886,10 @@
                     {
                         "channel_name": "beIN Sports 1 France",
                         "channel_id": "116"
+                    },
+                    {
+                        "channel_name": "Arena 1 Premium Serbia",
+                        "channel_id": "134"
                     },
                     {
                         "channel_name": "Nova Sports Start Greece",
