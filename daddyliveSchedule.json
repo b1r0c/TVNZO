@@ -1,5 +1,237 @@
 {
     "Friday 29th Aug 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "18:30",
+                "event": "2025 Budweiser International Classic Pole Day at Oswego Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "2025 Polaris World Championships",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "20:15",
+                "event": "2025 Porsche Sprint Challenge at Watkins Glen International",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "2025 CARS Tour at Florence Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "2025 Weekly Racing at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "2025 IRA Sprints at Plymouth Dirt Track",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "107"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "2025 SMART Modifieds at Coastal Plains Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "22:20",
+                "event": "2025 NASCAR Championship Night at Autodrome Granby",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 NAPA All Star Circuit of Champions at Attica Raceway Park",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "2025 ARCA West at Portland International Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Williams Grove Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 Lucas Oil Hillbilly Hundred at Lernerville Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 Fall Clash/Labor Day 55 at Bedford Fairgrounds Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "USAC National Midgets Bloomington",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "Jacksonville Speedway Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Husets Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "MARS Late Models Farmer City Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "ACW Uprising - Awesome Championship Wrestling",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "DBX-3 \u2013 Dirty Boxing Championship 3",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "IMCA Showdown Marshalltown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "American Sprint Car Series Electric City",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "2025 Kubota High Limit Racing at Skagit Nationals",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "Santino Bros. Wrestling: The L.A. Rumble 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "164"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "19:00",
