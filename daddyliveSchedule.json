@@ -3961,6 +3961,16 @@
                 ]
             },
             {
+                "time": "22:00",
+                "event": "NCCAFBS : Campbell vs Rhode Island",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
                 "time": "23:00",
                 "event": "NCCAFBS : Kennesaw State vs Wake Forest",
                 "channels": [
@@ -3987,6 +3997,56 @@
                     {
                         "channel_name": "Fox Sports 1 USA",
                         "channel_id": "39"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCCAFBS : Bethune-Cookman vs FIU",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCCAFBS : Duke's Mayo Classic Appalachian State vs Charlotte",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCCAFBS : New Haven vs Marist",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "NCCAFBS : Western Illinois vs Illinois",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "77"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "NCCAFBS : Wagner vs Kansa",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "86"
                     }
                 ]
             },
