@@ -4999,6 +4999,26 @@
             },
             {
                 "time": "18:00",
+                "event": "Iceland - Lengjudeildin : Fjolnir Reykjavik vs Throttur Reykjavik",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Belgium - Challenger Pro League : Kortrijk vs Francs Borains",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Iceland - Lengjudeildin : Njardvik vs Leiknir Reykjavik",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Belgium - Challenger Pro League : SK Beveren vs Gent B",
+                "channels": []
+            },
+            {
+                "time": "18:00",
                 "event": "Saudi Arabia - Pro League : Al Taawon vs Al Nassr",
                 "channels": [
                     {
@@ -5081,6 +5101,16 @@
             },
             {
                 "time": "18:00",
+                "event": "Netherlands - Eerste Divisie : Emmen vs Den Bosch",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Netherlands - Eerste Divisie : Jong Ajax Amsterdam vs Maastricht",
+                "channels": []
+            },
+            {
+                "time": "18:00",
                 "event": "Netherlands - Eredivisie : Groningen vs Heracles",
                 "channels": [
                     {
@@ -5108,6 +5138,11 @@
                         "channel_id": "888"
                     }
                 ]
+            },
+            {
+                "time": "18:00",
+                "event": "Netherlands - Eerste Divisie : TOP Oss vs Dordrecht",
+                "channels": []
             },
             {
                 "time": "18:15",
@@ -6467,6 +6502,31 @@
                 ]
             },
             {
+                "time": "07:30",
+                "event": "World Cup 2025 : Victor Lai vs Kean Yew Loh",
+                "channels": []
+            },
+            {
+                "time": "08:20",
+                "event": "World Cup 2025 - Double Mixt : P.R.Hoo/S.Y.Cheng vs Zhen Bang Jiang/Ya Xin Wei",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "World Cup 2025 (F) : Akane Yamaguchi vs Yue Han",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "World Cup 2025 : Yuqi Shi vs Hongyang Weng",
+                "channels": []
+            },
+            {
+                "time": "10:50",
+                "event": "World Cup 2025 (F) : Putri Kusuma Wardani vs Pusarla Venkata Sindhu",
+                "channels": []
+            },
+            {
                 "time": "15:00",
                 "event": "Badminton World Cup",
                 "channels": [
@@ -6479,6 +6539,41 @@
                         "channel_id": "810"
                     }
                 ]
+            },
+            {
+                "time": "15:00",
+                "event": "World Cup 2025 (F) : Se Young An vs Yu Jin Sim",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "World Cup 2025 : Tien Chen Chou vs Anders Antonsen",
+                "channels": []
+            },
+            {
+                "time": "15:50",
+                "event": "World Cup 2025 : Jonatan Christie vs Vitidsarn Kunlavut",
+                "channels": []
+            },
+            {
+                "time": "16:40",
+                "event": "World Cup 2025 (F) : Yufei Chen vs Pornpawee Chochuwong",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "World Cup 2025 (F) - Double : Sheng Shu Liu/Ning Tan vs Y.F.Jia/S.X.Zhang",
+                "channels": []
+            },
+            {
+                "time": "18:20",
+                "event": "World Cup 2025 - Double : Bo Yang Chen/Yi Liu vs J.H.Lee/Po-H.Yang",
+                "channels": []
+            },
+            {
+                "time": "18:20",
+                "event": "World Cup 2025 - Double : S.Rankireddy/C.Shetty vs Aaron Chia/Wooi Yik Soh",
+                "channels": []
             }
         ],
         "Motorsport</span>": [
