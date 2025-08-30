@@ -4,13 +4,13 @@
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1225653759/index.m3u8
+https://vavoo.to/play/875922788/index.m3u8
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/875922788/index.m3u8
+https://vavoo.to/play/1225653759/index.m3u8
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -604,13 +604,13 @@ https://vavoo.to/play/2077387085/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/78546677/index.m3u8
+https://vavoo.to/play/2100771782/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2100771782/index.m3u8
+https://vavoo.to/play/78546677/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -910,13 +910,13 @@ https://new.newkso.ru/wind/premium865/mono.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2890008905/index.m3u8
+https://vavoo.to/play/1281264885/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1281264885/index.m3u8
+https://vavoo.to/play/2890008905/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -928,13 +928,13 @@ https://new.newkso.ru/wind/premium864/mono.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3060043751/index.m3u8
+https://vavoo.to/play/1820997555/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV",SKY CINEMA SUSPENSE (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1820997555/index.m3u8
+https://vavoo.to/play/3060043751/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV",SKY CINEMA UNO
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1066,13 +1066,13 @@ https://vavoo.to/play/3137990890/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2909818756/index.m3u8
+https://vavoo.to/play/2255083866/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 5 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2255083866/index.m3u8
+https://vavoo.to/play/2909818756/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 6
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1684,13 +1684,13 @@ https://vavoo.to/play/2454558136/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/996680722/index.m3u8
+https://vavoo.to/play/565256431/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Canale_7.png" group-title="Altro",CANALE 7 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/565256431/index.m3u8
+https://vavoo.to/play/996680722/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro",CANALE 8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -2722,10 +2722,10 @@ https://new.newkso.ru/wind/premium870/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="italyseriectriestinavslecco" tvg-name="Soccer | Italy - Serie C : Triestina vs Lecco (18:00)" tvg-logo="https://leccoheritage.it/wp-content/uploads/2023/05/cropped-12.Logo-icona-Leccoland-home_chi-siamo.png" group-title="Eventi Live",Soccer | Italy - Serie C : Triestina vs Lecco (18:00)
+#EXTINF:-1 tvg-id="italyseriectriestinavslecco" tvg-name="Soccer | Italy - Serie C : Triestina vs Lecco (18:00)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5f58d9051cb9436849201607/1599660320233-3C9BF5897VAZNTXRXA2D/logo_comune_lecco.png" group-title="Eventi Live",Soccer | Italy - Serie C : Triestina vs Lecco (18:00)
 https://thedaddy.click/stream/stream-173.php
 
-#EXTINF:-1 tvg-id="italyseriecrenatevsgianaerminio" tvg-name="Soccer | Italy - Serie C : Renate vs Giana Erminio (18:00)" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/568741.png" group-title="Eventi Live",Soccer | Italy - Serie C : Renate vs Giana Erminio (18:00)
+#EXTINF:-1 tvg-id="italyseriecrenatevsgianaerminio" tvg-name="Soccer | Italy - Serie C : Renate vs Giana Erminio (18:00)" tvg-logo="https://assets-sports.thescore.com/soccer/team/1792/logo.png" group-title="Eventi Live",Soccer | Italy - Serie C : Renate vs Giana Erminio (18:00)
 https://thedaddy.click/stream/stream-174.php
 
 #EXTINF:-1 tvg-id="italyserieccampobassovssassaritorres" tvg-name="Soccer | Italy - Serie C : Campobasso vs Sassari Torres (18:00)" tvg-logo="https://cb1919.com/wp-content/uploads/2023/06/cropped-1D_2023-logo-Campobasso-FC-def-web.png" group-title="Eventi Live",Soccer | Italy - Serie C : Campobasso vs Sassari Torres (18:00)
@@ -2800,7 +2800,7 @@ https://thedaddy.click/stream/stream-105.php
 #EXTINF:-1 tvg-id="italyseriebcesenavsvirtusentella" tvg-name="Soccer | Italy - Serie B : Cesena vs Virtus Entella (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Cesena_vs_Virtus Entella.png" group-title="Eventi Live",Soccer | Italy - Serie B : Cesena vs Virtus Entella (21:00)
 https://thedaddy.click/stream/stream-107.php
 
-#EXTINF:-1 tvg-id="usopenround1day7" tvg-name="Tennis | US Open Round 1 | Day 7 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 7 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day7" tvg-name="Tennis | US Open Round 1 | Day 7 (16:00)" tvg-logo="https://observer.com/wp-content/uploads/sites/2/2023/08/24mb9Kp.png?quality=80" group-title="Eventi Live",Tennis | US Open Round 1 | Day 7 (16:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
@@ -2812,25 +2812,25 @@ https://new.newkso.ru/ddy6/premium576/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/ddy6/premium462/mono.m3u8
 
-#EXTINF:-1 tvg-id="usopenround1day7" tvg-name="Tennis | US Open Round 1 | Day 7 (16:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/059/523/722/non_2x/angry-male-fighter-mascot-logo-on-transparent-background-png.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 7 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day7" tvg-name="Tennis | US Open Round 1 | Day 7 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 7 (16:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/ddy6/premium461/mono.m3u8
 
-#EXTINF:-1 tvg-id="usopenround1day7" tvg-name="Tennis | US Open Round 1 | Day 7 (16:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/059/523/722/non_2x/angry-male-fighter-mascot-logo-on-transparent-background-png.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 7 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day7" tvg-name="Tennis | US Open Round 1 | Day 7 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 7 (16:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/dokko1/premium460/mono.m3u8
 
-#EXTINF:-1 tvg-id="usopenround1day7" tvg-name="Tennis | US Open Round 1 | Day 7 (16:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/059/523/722/non_2x/angry-male-fighter-mascot-logo-on-transparent-background-png.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 7 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day7" tvg-name="Tennis | US Open Round 1 | Day 7 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 7 (16:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="usopenround1day7" tvg-name="Tennis | US Open Round 1 | Day 7 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 7 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day7" tvg-name="Tennis | US Open Round 1 | Day 7 (16:00)" tvg-logo="https://observer.com/wp-content/uploads/sites/2/2023/08/24mb9Kp.png?quality=80" group-title="Eventi Live",Tennis | US Open Round 1 | Day 7 (16:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
@@ -2866,7 +2866,7 @@ https://new.newkso.ru/wind/premium878/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="t100triathlonworldtourfrenchrivieramenandwomen" tvg-name="Triathlon | T100 Triathlon World Tour | French Riviera Men and Women (06:45)" tvg-logo="https://t100triathlon.com/wp-content/uploads/2023/10/t100-broadcaster-sitv.png" group-title="Eventi Live",Triathlon | T100 Triathlon World Tour | French Riviera Men and Women (06:45)
+#EXTINF:-1 tvg-id="t100triathlonworldtourfrenchrivieramenandwomen" tvg-name="Triathlon | T100 Triathlon World Tour | French Riviera Men and Women (06:45)" tvg-logo="https://content.protriathletes.org/content/images/2024/09/dc466e8d-a583-4616-be60-d2235deb2e63.png" group-title="Eventi Live",Triathlon | T100 Triathlon World Tour | French Riviera Men and Women (06:45)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
