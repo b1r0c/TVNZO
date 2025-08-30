@@ -1,5 +1,227 @@
 {
     "Saturday 30th August 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "15:00",
+                "event": "2025 American Flat Track at Springfield Mile",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "214"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "2025 USAC Ted Horn 100 at Du Quoin State Fairgrounds",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "180"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "2025 Polaris World Championships",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "2025 Porsche Sprint Challenge at Watkins Glen International",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "2025 SMART Modified Tour Carteret Clash at Carteret County Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "21:15",
+                "event": "2025 NASCAR Modifieds at Riverhead Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "2025 NASCAR Whelen Modified Tour at Oswego Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "2025 Butch Renninger Memorial at Port Royal Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Volusia Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Land of Legends Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "22:20",
+                "event": "2025 Ohio Wheelman Series at Jennerstown",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "NAPA All Star Sprints Attica",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Labor Day Duel Lincoln Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "IRA Sprints Car Beaver Dam",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 MARS Illinois Dirt Shootout at Fairbury Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Hillbilly Hundred Lernerville Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Bobby Isaac Memorial Hickory Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars Husets",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Labor Day Shootout",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Louie Vermeil Classic Calistoga Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "Amercan Sprint Car Series Electric City",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "FSW: Future Shock 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "173"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
@@ -6793,6 +7015,36 @@
             },
             {
                 "time": "16:00",
+                "event": "NCAA FBS : North Dakota State at The Citadel",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "215"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "NCAA FBS : Richmond at Lehigh",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "216"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "NCAA FBS : Merrimack at Kent State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "217"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
                 "event": "NCAA FBS : FAU at Maryland",
                 "channels": [
                     {
@@ -6812,12 +7064,102 @@
                 ]
             },
             {
+                "time": "17:00",
+                "event": "NCAA FBS : Georgetown at Davidson",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAA FBS : Fordham at Boston College",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAA FBS : William & Mary at Furman",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "181"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAA FBS : Robert Morris at West Virginia",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "182"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAA FBS : Stonehill at Sacred Heart",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "183"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAA FBS : Virginia-Lynchburg at Valparaiso",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "184"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAA FBS : CCSU at UConn",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "185"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAA FBS : Butler at Northern Iowa",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "186"
+                    }
+                ]
+            },
+            {
                 "time": "18:30",
                 "event": "NCAA FBS : Old Dominion at Indiana",
                 "channels": [
                     {
                         "channel_name": "Fox Sports 1",
                         "channel_id": "39"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "NCAA FBS : Cumberland at Tennessee Tech",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "187"
                     }
                 ]
             },
@@ -6838,6 +7180,16 @@
                     {
                         "channel_name": "CBS Sports Network",
                         "channel_id": "308"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "NCAA FBS : Chadron State at Northern Colorado",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "170"
                     }
                 ]
             },
@@ -6902,6 +7254,26 @@
                 ]
             },
             {
+                "time": "19:30",
+                "event": "NCAA FBS : Holy Cross at NIU",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "NCAA FBS : Temple at UMass",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
                 "time": "20:00",
                 "event": "NCAA FBS : Montana State at Oregon",
                 "channels": [
@@ -6922,12 +7294,122 @@
                 ]
             },
             {
+                "time": "20:00",
+                "event": "NCAA FBS : Maine at Liberty",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "188"
+                    }
+                ]
+            },
+            {
                 "time": "20:05",
                 "event": "NCAA FBS : Alabama A&M at Arkansas",
                 "channels": [
                     {
                         "channel_name": "SEC Network",
                         "channel_id": "385"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "NCAA FBS : North Carolina A&T at Tennessee State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "189"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "NCAA FBS : Chattanooga at Memphis",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "190"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "NCAA FBS : Southern at MVSU",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "191"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "NCAA FBS : Murray State at ETSU",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Weber State at James Madison",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Allen at Morehead State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Illinois State at 18 Oklahoma",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Gardner-Webb at Western Carolina",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "178"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : New Hampshire at NC Central",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "179"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Wofford at SC State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "192"
                     }
                 ]
             },
@@ -6952,12 +7434,152 @@
                 ]
             },
             {
+                "time": "22:00",
+                "event": "NCAA FBS : Webber Intl. at Stetson",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "193"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Presbyterian at Mercer",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "194"
+                    }
+                ]
+            },
+            {
                 "time": "23:00",
                 "event": "NCAA FBS : UTSA at Texas A&M",
                 "channels": [
                     {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Louisiana Christian at McNeese",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "181"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Morgan State at South Alabama",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "182"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : LIU at 15 Florida",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "183"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Thomas More at Southern Illinois",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "184"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Nicholls at Troy",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "185"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : North Dakota at 17 Kansas State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "186"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Southeast Missouri at Arkansas State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "187"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Sacramento State at South Dakota State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Charleston So. at Vanderbilt",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Austin Peay at Middle Tennessee",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : North Alabama vs Western Kentucky",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "177"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Eastern Washington at UIW",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "195"
                     }
                 ]
             },
@@ -7022,6 +7644,26 @@
                 ]
             },
             {
+                "time": "23:30",
+                "event": "NCAA FBS : Southeastern La. at Louisiana Tech",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "196"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "NCAA FBS : UAPB at 23 Texas Tech",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "197"
+                    }
+                ]
+            },
+            {
                 "time": "23:45",
                 "event": "NCAA FBS : Georgia State at Ole Miss",
                 "channels": [
@@ -7032,12 +7674,92 @@
                 ]
             },
             {
+                "time": "00:00",
+                "event": "NCAA FBS : Abilene Christian at Tulsa",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "198"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "NCAA FBS : Sul Ross State at UTRGV",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "199"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "NCAA FBS : Lamar at North Texas",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "200"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "NCAA FBS : Rice at Louisiana",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "188"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "NCAA FBS : Eastern Michigan at Texas State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "189"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "NCAA FBS : Portland State at 10 BYU",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "190"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "NCAA FBS : Idaho State at Southern Utah",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "191"
+                    }
+                ]
+            },
+            {
                 "time": "01:00",
                 "event": "NCAA FBS : East Texas A&M at SMU",
                 "channels": [
                     {
                         "channel_name": "ACC Network",
                         "channel_id": "664"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "NCAA FBS : Bryant at New Mexico State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "192"
                     }
                 ]
             },
@@ -7053,15 +7775,35 @@
             },
             {
                 "time": "02:00",
-                "event": "NCAA FBS : Idaho at Washington State The",
+                "event": "NCAA FBS : Idaho at Washington State",
                 "channels": [
                     {
-                        "channel_name": "CW",
+                        "channel_name": "The CW",
                         "channel_id": "300"
                     },
                     {
                         "channel_name": "CW PIX 11 USA",
                         "channel_id": "280"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "NCAA FBS : Northern Arizona at 11 Arizona State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "193"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "NCAA FBS : UC Davis at Utah Tech",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "194"
                     }
                 ]
             },
