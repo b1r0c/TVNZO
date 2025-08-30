@@ -6283,6 +6283,51 @@
                 ]
             },
             {
+                "time": "05:00",
+                "event": "Australia - NPL - Capital : Cooma Tigers vs Queanbeyan City",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "Australia - NPL - South - Playoff : Croydon Kings vs Adelaide City",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "Japan - J2 League : Hokkaido Consadole Sapporo vs Omiya Ardija",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "Australia - NPL - Capital : Yoogali SC vs O'Connor Knights",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "Australia - NPL - Tasmania : Riverside Olympic vs South Hobart",
+                "channels": []
+            },
+            {
+                "time": "06:45",
+                "event": "Australia - NPL - Tasmania : Launceston City vs Glenorchy Knights",
+                "channels": []
+            },
+            {
+                "time": "07:45",
+                "event": "Australia - NPL - Capital : Monaro Panthers vs Gungahlin United",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "China - League 2 - Gr.Promovare : Changchun Xidu vs Guizhou Zhucheng Athletic",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Australia - NPL - Victoria - Playoff : Dandenong Thunder vs Dandenong City",
+                "channels": []
+            },
+            {
                 "time": "08:30",
                 "event": "U19 DFB Nachwuchsliga : Bayern M\u00fcnchen U19 vs FC Augsburg U19",
                 "channels": [
@@ -6305,6 +6350,66 @@
                         "channel_id": "583"
                     }
                 ]
+            },
+            {
+                "time": "08:30",
+                "event": "Australia - NPL - South - Playoff : Adelaide United Tineret vs Metro Stars",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "China - League 2 - Gr.Retrogradare : Shanghai Port B vs Guangzhou Dandelion Alpha FC",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Japan - J3 League : Azul Claro Numazu vs Tochigi City",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Japan - J3 League : FC Osaka vs Sagamihara",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Japan - J3 League : Fukushima United vs Kagoshima United",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Japan - J3 League : Kochi United vs Tegevajaro Miyazaki",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Japan - J3 League : Matsumoto Yamaga vs Vanraure Hachnohe",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Japan - J2 League : Mito Hollyhock vs Renofa Yamaguchi",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Japan - J3 League : Nagano Parceiro vs Giravanz Kitakyushu",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "UEFA - Champions League (F) - Qualifiers : Valur Reykjavik (F) vs Inter Milan (F)",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Japan - J1 League : Yokohama FC vs Tokyo Verdy",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Japan - J2 League : Kataller Toyama vs Roasso Kumamoto",
+                "channels": []
             },
             {
                 "time": "10:00",
@@ -6337,6 +6442,111 @@
                 ]
             },
             {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Ansan Greeners vs Hwaseong",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Spain - Primera Division (F) : Athletic Bilbao (F) vs Granadilla Tenerife (F)",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Busan IPark vs Cheongju",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 1 : Daegu vs Suwon FC",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J3 League : Gifu vs Ryukyu",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Gimpo vs Jeonnam Dragons",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J2 League : Imabari vs Iwaki",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Incheon United vs Chungnam Asan",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J2 League : JEF United Chiba vs Ventforet Kofu",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 1 : Jeju SK vs Gwangju",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J1 League : Kyoto Sanga vs Fagiano Okayama",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Spain - Primera Division (F) : Levante (F) vs Granada (F)",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J2 League : Montedio Yamagata vs Sagan Tosu",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Suwon Bluewings vs Seongnam",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "China - League 2 - Gr.Retrogradare : Taian Tiankuang vs Guangxi Lanhang",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J3 League : Tochigi vs Nara Club",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J2 League : Tokushima Vortis vs Blaublitz Akita",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Portugal - Taca de Portugal : Trofense vs Varzim SC",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 1 : Ulsan HD vs Jeonbuk",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J1 League : Vissel Kobe vs Yokohama F. Marinos",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J3 League : Zwiegen Kanazawa vs Gainare Tottori",
+                "channels": []
+            },
+            {
                 "time": "10:30",
                 "event": "Russia - FNL : Yenisey vs Sokol Saratov",
                 "channels": [
@@ -6355,6 +6565,21 @@
                         "channel_id": "1"
                     }
                 ]
+            },
+            {
+                "time": "10:30",
+                "event": "Poland - II League : Podbeskidzie Bielsko-Biala vs Hutnik Krakow",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "China - League 2 - Gr.Retrogradare : Ganzhou Ruishi FC vs Jiangxi Beidamen",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Thailand - Thai League 1 : Nakhon Ratchasima vs Ratchaburi Mitr Phol",
+                "channels": []
             },
             {
                 "time": "11:00",
@@ -6705,6 +6930,21 @@
                 ]
             },
             {
+                "time": "11:30",
+                "event": "China - League 2 - Gr.Promovare : Guangxi Hengchen vs Shandong Taishan B",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Thailand - Thai League 1 : Lamphun Warrior vs Chonburi FC",
+                "channels": []
+            },
+            {
+                "time": "11:35",
+                "event": "China - Super League : Chengdu Rongcheng vs Shanghai Port",
+                "channels": []
+            },
+            {
                 "time": "12:00",
                 "event": "France - Ligue 2 : Reims vs Le Mans",
                 "channels": [
@@ -6819,6 +7059,46 @@
                 ]
             },
             {
+                "time": "12:00",
+                "event": "Thailand - Thai League 1 : Bangkok United vs BG Pathum United",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "UEFA - Champions League (F) - Qualifiers : FC Minsk (F) vs Austria Viena (F)",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Denmark - 1.Division : Middelfart vs Lyngby",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Estonia - Esiliiga A : Nomme Kalju U21 vs Elva",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Norway - 1.Division : Stabaek vs Start",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Estonia - Esiliiga A : Tartu Tammeka U21 vs Levadia Tallinn U21",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Lithuania - 1 Lyga : Transinvest vs Atmosfera",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "China - Super League : Yunnan Yukun vs Changchun Yatai",
+                "channels": []
+            },
+            {
                 "time": "12:30",
                 "event": "Ukraine Premier League : Kolos Kovalivka vs Epitsentr Dunayivtsi",
                 "channels": [
@@ -6827,6 +7107,21 @@
                         "channel_id": "9000"
                     }
                 ]
+            },
+            {
+                "time": "12:30",
+                "event": "Austria - 2.League : Austria Salzburg vs Amstetten",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Thailand - Thai League 1 : Port FC vs Rayong",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Austria - 2.League : Rapid Viena II vs St. Polten",
+                "channels": []
             },
             {
                 "time": "12:45",
@@ -7147,6 +7442,21 @@
                 ]
             },
             {
+                "time": "13:55",
+                "event": "EAU - League Cup : Al Nasr Dubai vs Al Bataeh",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Norway - 1.Division : Asane vs Sogndal",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Lithuania - A Lyga : Banga Gargzdai vs Kauno Zalgiris",
+                "channels": []
+            },
+            {
                 "time": "14:00",
                 "event": "England - Premier League : Simulcast",
                 "channels": [
@@ -7422,6 +7732,61 @@
             },
             {
                 "time": "14:00",
+                "event": "Belgium - Challenger Pro League : Beerschot VA vs K. Lierse S.K.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Uruguay - Segunda Division : Fenix vs Club Oriental",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Norway - 1.Division : Hodd vs Raufoss",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Albania - Kategoria e Pare : KF Iliria Fushe-K. vs Pogradeci",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Georgia - Erovnuli League : Kolkheti Poti vs Gagra",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Norway - 1.Division : Kongsvinger vs Ranheim",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Norway - 1.Division : Lillestrom vs Skeid",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Norway - 1.Division : Moss vs Mjondalen",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Poland - II League : Slask Wroclaw II vs Stal Stalowa Wola",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Estonia - Meistriliiga : Tallinna Kalev vs Flora Tallinn",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Iceland - Lengjudeildin : Volsungur vs Grindavik",
+                "channels": []
+            },
+            {
+                "time": "14:00",
                 "event": "Norway - OBOS-ligaen : \u00c5sane vs Sogndal",
                 "channels": [
                     {
@@ -7431,8 +7796,33 @@
                 ]
             },
             {
+                "time": "14:00",
+                "event": "Scottish - Championship : Dunfermline Athletic vs Ross County",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Scottish - Championship : Arbroath vs Airdrieonians",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Scottish - Championship : Ayr United vs Queen's Park",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Scottish - Championship : Partick Thistle vs Raith Rovers",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Scottish - Championship : St. Johnstone vs Greenock Morton",
+                "channels": []
+            },
+            {
                 "time": "14:15",
-                "event": "Croatia - Prva NL : Hrvace vs Jarun",
+                "event": "Croatia - Prva NL : Hrvace vs Jarun Zagreb",
                 "channels": [
                     {
                         "channel_name": "MAX Sport 1 Croatia",
@@ -7532,6 +7922,41 @@
             },
             {
                 "time": "15:00",
+                "event": "Montenegro - 1.CFL : Arsenal Tivat vs Jezero Plav",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Lithuania - A Lyga : Riteriai vs DFK Dainava",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Lithuania - 1 Lyga : Jonava vs Neptunas Klaipeda",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Albania - Kategoria e Pare : Korabi Peshkopi vs Besa Kavaje",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Albania - Kategoria e Pare : Laci vs Kastrioti Kruje",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Albania - Kategoria e Pare : Burreli vs Kukesi",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Albania - Kategoria e Pare : Apolonia Fier vs Af Luftetari",
+                "channels": []
+            },
+            {
+                "time": "15:00",
                 "event": "Ukraine Premier League : Metalist 1925 Kharkiv vs Rukh Vynnyky",
                 "channels": [
                     {
@@ -7549,6 +7974,11 @@
                         "channel_id": "265"
                     }
                 ]
+            },
+            {
+                "time": "15:00",
+                "event": "UEFA - Champions League (F) - Qualifiers : Brann (F) vs Braga (F)",
+                "channels": []
             },
             {
                 "time": "15:00",
@@ -7849,6 +8279,16 @@
                 ]
             },
             {
+                "time": "15:30",
+                "event": "San Marino - Campionato Sammarinese : Folgore Falciano vs Cailungo",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "San Marino - Campionato Sammarinese : SS Cosmos vs SP Tre Fiori",
+                "channels": []
+            },
+            {
                 "time": "15:45",
                 "event": "Romania - Liga I : Unirea Slobozia vs Universitatea Cluj",
                 "channels": [
@@ -7871,6 +8311,41 @@
                         "channel_id": "4"
                     }
                 ]
+            },
+            {
+                "time": "16:00",
+                "event": "Georgia - Erovnuli League : Dila Gori vs Telavi",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Montenegro - 1.CFL : Jedinstvo Bijelo Polje vs Mornar Bar",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Slovakia - 1. liga : Komarno vs Skalica",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Estonia - Meistriliiga : Parnu Vaprus vs Paide Linnameeskond",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Lithuania - A Lyga : Suduva vs Hegelmann",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Slovakia - 1. liga : Tatran Presov vs Trencin",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Norway - Eliteserien : Valerenga vs Bryne",
+                "channels": []
             },
             {
                 "time": "16:00",
@@ -8442,6 +8917,11 @@
             },
             {
                 "time": "17:00",
+                "event": "UEFA - Champions League (F) - Qualifiers : Twente (F) vs Breidablik (F)",
+                "channels": []
+            },
+            {
+                "time": "17:00",
                 "event": "Spain - Segunda Division : Real Valladolid vs C\u00f3rdoba",
                 "channels": [
                     {
@@ -8809,6 +9289,16 @@
                 ]
             },
             {
+                "time": "17:30",
+                "event": "Poland - I League : Poland Varsovia vs Pogon Grodzisk Mazowiecki",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Poland - I League : Znicz Pruszkow vs Pogon Siedlce",
+                "channels": []
+            },
+            {
                 "time": "17:45",
                 "event": "Russia - Premier League : Rostov vs Akhmat Grozny",
                 "channels": [
@@ -8961,6 +9451,21 @@
                         "channel_id": "275"
                     }
                 ]
+            },
+            {
+                "time": "18:00",
+                "event": "Austria - 2.League : Stripfing/Weiden vs Kapfenberger",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Austria - 2.League : Sturm Graz II vs FAC Viena",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Montenegro - 1.CFL : Sutjeska Niksic vs Bokelj Kotor",
+                "channels": []
             },
             {
                 "time": "18:00",
@@ -9701,6 +10206,11 @@
                 ]
             },
             {
+                "time": "19:30",
+                "event": "Venezuela - Primera Division - Clausura : Deportivo Rayo Zuliano vs Carabobo",
+                "channels": []
+            },
+            {
                 "time": "20:00",
                 "event": "Argentina - Primera Divisi\u00f3n : Independiente Rivadavia vs Argentinos Juniors",
                 "channels": [
@@ -9781,6 +10291,11 @@
                         "channel_id": "142"
                     }
                 ]
+            },
+            {
+                "time": "22:00",
+                "event": "Venezuela - Primera Division - Clausura : Monagas vs Metropolitanos",
+                "channels": []
             },
             {
                 "time": "22:10",
@@ -9874,6 +10389,11 @@
             },
             {
                 "time": "23:30",
+                "event": "MLS Next Pro : Atlanta United II vs Huntsville City",
+                "channels": []
+            },
+            {
+                "time": "23:30",
                 "event": "USL Championship : Tampa Bay Rowdies vs Pittsburgh Riverhounds",
                 "channels": [
                     {
@@ -9929,6 +10449,11 @@
                         "channel_id": "30"
                     }
                 ]
+            },
+            {
+                "time": "00:30",
+                "event": "Venezuela - Primera Division - Clausura : Deportivo La Guaira vs Portuguesa",
+                "channels": []
             },
             {
                 "time": "00:30",
@@ -10383,6 +10908,106 @@
                         "channel_id": "758"
                     }
                 ]
+            },
+            {
+                "time": "05:00",
+                "event": "UTR (M) - Bali (IDN) : Ajay Malik vs Renaldi Aqila A. Salim",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "UTR (M) - Bali (IDN) : Eric Tripathi vs Yash Yadav",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "UTR (M) - Bali (IDN) : Rodion Malmygin vs Maan Kesarwani",
+                "channels": []
+            },
+            {
+                "time": "06:10",
+                "event": "UTR (M) - Bali (IDN) : Cian Maguire vs Tegar Abdi Satrio Wibowo",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Olomouc (CHE) : Elisha Thornton vs Patrik Homola",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "Challenger - Zhangjiagang (CHN) : Sho Shimabukuro vs Yasutaka Uchiyama",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "UTR (F) - Olomouc (CHE) : Aneta Holubova vs Izabela Heinzova",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "UTR (M) - Olomouc (CHE) : Sebastian Prechtel vs Dominik Recek",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "UTR (F) - Olomouc (CHE) : Sofia Milatova vs Denise Hrdinkova",
+                "channels": []
+            },
+            {
+                "time": "08:40",
+                "event": "Challenger - Zhangjiagang (CHN) : Oliver Crawford vs Kokoro Isomura",
+                "channels": []
+            },
+            {
+                "time": "09:20",
+                "event": "UTR (M) - Olomouc (CHE) : Daniel Siniakov vs Petr Michnev",
+                "channels": []
+            },
+            {
+                "time": "09:50",
+                "event": "Challenger - Zhangjiagang (CHN) - Double : P.Bar Biryukov/A.Binda vs L.Castelnuovo/A.Santillan",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Porto (POR) : Alejandro Moro Canas vs Gilles Arnaud Bailly",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "Challenger - Porto (POR) : Frederico Ferreira Silva vs Guy Den Ouden",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "ITF (M) - Poznan (POL) - Double : C.Gannon/H.Rock vs K.Kivattsev/A.Vatutin",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "ITF (M) - Poznan (POL) - Double : J.Hsu/K.Ozolins vs C.Denolly/M.Erhard",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Porto (POR) - Double : I.Sabanov/M.Sabanov vs S.Kielan/F.Pieczonka",
+                "channels": []
+            },
+            {
+                "time": "14:20",
+                "event": "Challenger - Manacor (SPA) : Jurij Rodionov vs Edas Butvilas",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "Challenger - Manacor (SPA) : Daniel Rincon vs Harold Mayot",
+                "channels": []
+            },
+            {
+                "time": "16:40",
+                "event": "Challenger - Manacor (SPA) - Double : A.Barroso Campos/A.Soriano Barrera vs D.Pichler/J.Rodionov",
+                "channels": []
             }
         ],
         "Badminton</span>": [
@@ -10886,7 +11511,7 @@
             },
             {
                 "time": "21:30",
-                "event": "IndyCar : Borchetta Bourbon Music City Grand Prix - Practice 2",
+                "event": "IndyCar : Borchetta Bourbon Music City Grand Prix - Final Practice",
                 "channels": [
                     {
                         "channel_name": "Fox Sports 2 USA",
@@ -11091,6 +11716,11 @@
                         "channel_id": "32"
                     }
                 ]
+            },
+            {
+                "time": "06:00",
+                "event": "Wuhan Open : Xiao Guodong vs Gary Wilson",
+                "channels": []
             },
             {
                 "time": "11:30",
@@ -12703,6 +13333,11 @@
                 ]
             },
             {
+                "time": "14:00",
+                "event": "Germany - Bundesliga : Eisenach vs Leipzig",
+                "channels": []
+            },
+            {
                 "time": "14:30",
                 "event": "Romania Liga Nationala Women : CSM Bucuresti vs. CS Minaur Baia Mare",
                 "channels": [
@@ -12743,6 +13378,16 @@
                 ]
             },
             {
+                "time": "16:00",
+                "event": "Germany - Bundesliga 2 : Lubbecke vs Dormagen",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Germany - Bundesliga 2 : Ludwigshafen vs Essen",
+                "channels": []
+            },
+            {
                 "time": "16:20",
                 "event": "Austria Supercup : UHK Krems vs. Handball Tirol",
                 "channels": [
@@ -12761,6 +13406,16 @@
                         "channel_id": "167"
                     }
                 ]
+            },
+            {
+                "time": "17:00",
+                "event": "Germany - Bundesliga : Wetzlar vs Flensburg",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Germany - Bundesliga 2 : Elbflorenz Dresden vs Bietigheim",
+                "channels": []
             },
             {
                 "time": "18:00",
