@@ -10660,6 +10660,582 @@
                 ]
             }
         ],
+        "Tennis ATP - US OPEN</span>": [
+            {
+                "time": "15:00",
+                "event": "ATP - US OPEN : Musetti L. vs Cobolli F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - US OPEN : Munar J. vs Bergs Z.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1517"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1537"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - US OPEN : Wong C. vs Rublev A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "ATP - US OPEN : Sinner J. vs Shapovalov D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - US OPEN : Majchrzak K. vs Riedi L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1525"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "ATP - US OPEN : Altmaier D. vs De Minaur A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1517"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1537"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "ATP - US OPEN : Zverev A. vs Auger-Aliassime F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "ATP - US OPEN : Bublik A. vs Paul T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - US OPEN</span>": [
+            {
+                "time": "15:00",
+                "event": "WTA - US OPEN : Noskova L. vs Muchova K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "WTA - US OPEN : Frech M. vs Gauff C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1519"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - US OPEN : Parry D. vs Kostyuk M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1525"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "WTA - US OPEN : Kasatkina D. vs Osaka N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "WTA - US OPEN : Alexandrova E. vs Siegemund L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1525"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "WTA - US OPEN : Anisimova A. vs Cristian J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "WTA - US OPEN : Kalinskaya A. vs Swiatek I.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1519"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "WTA - US OPEN : Haddad Maia B. vs Sakkari M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP DOUBLES - US OPEN</span>": [
+            {
+                "time": "15:00",
+                "event": "ATP DOUBLES - US OPEN : Arribage T./Bonzi B. vs Harper C./Rojer J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1531"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "ATP DOUBLES - US OPEN : Gonzalez M./Molteni A. vs Gonzalez S./Krajicek A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1525"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "ATP DOUBLES - US OPEN : Kecmanovic M./Medjedovic H. vs Granollers/Zeballos",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1532"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "ATP DOUBLES - US OPEN : Pavlasek A./Zielinski J. vs Behar A./Vliegen J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1517"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1527"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "ATP DOUBLES - US OPEN : Arneodo R./Bopanna R. vs Cash R./Tracy J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1532"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "ATP DOUBLES - US OPEN : Luz O./Olivetti A. vs Mannarino A./Ruusuvuori E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1517"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1527"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "ATP DOUBLES - US OPEN : Williams C./Winegar T. vs Nouza P./Rikl P.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1531"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "ATP DOUBLES - US OPEN : Cabral F./Miedler L. vs Barrientos N./Lammons N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1526"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "ATP DOUBLES - US OPEN : Heliovaara H./Patten H. vs Frantzen C./Haase R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1533"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "ATP DOUBLES - US OPEN : Hidalgo D./Kadhe A. vs Arevalo M./Pavic M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1527"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "ATP DOUBLES - US OPEN : Mahut N./Mpetshi Perricard G. vs Krawietz K./Puetz T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1532"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "ATP DOUBLES - US OPEN : Romios M. C./Seggerman R. vs Machac T./Vocel M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1526"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "ATP DOUBLES - US OPEN : Matos R./Melo M. vs Dodig I./Murray J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1527"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "ATP DOUBLES - US OPEN : Borges N./Rinderknech A. vs Holt B./Smith C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1530"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "ATP DOUBLES - US OPEN : Goransson A./Verbeek S. vs Doumbia S./Reboul F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1526"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "ATP DOUBLES - US OPEN : Bhambri Y./Venus M. vs Giron M./Tien L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1517"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1537"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA DOUBLES - US OPEN</span>": [
+            {
+                "time": "15:00",
+                "event": "WTA DOUBLES - US OPEN : Jovic I./Ngounoue C. vs Babos T./Stefani L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1517"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1537"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "WTA DOUBLES - US OPEN : Guo H./Panova A. vs Xu Y./Yang Z.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1530"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA DOUBLES - US OPEN : Kudermetova V./Mertens E. vs Brantmeier/Hamilton",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1531"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA DOUBLES - US OPEN : Bucsa C./Melichar-Martinez N. vs Linette M./Shibahara E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1530"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA DOUBLES - US OPEN : Eikeri U./Hozumi E. vs Fernandez L./Williams V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "WTA DOUBLES - US OPEN : Aoyama S./Wang Y. vs Golubic V./Li A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1533"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "WTA DOUBLES - US OPEN : Hunter S./Krawczyk D. vs Andreeva M./Shnaider D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1531"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "WTA DOUBLES - US OPEN : Siniakova K./Townsend T. vs Parks A./Yastremska D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1532"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "14:00",
@@ -13496,6 +14072,16 @@
         ],
         "Ice Hockey</span>": [
             {
+                "time": "11:00",
+                "event": "Euro Hockey Tour Women : Czech Republic vs. Sweden",
+                "channels": [
+                    {
+                        "channel_name": "SVT 2 Sweden",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
                 "time": "12:00",
                 "event": "Club Friendlies : Malm\u00f6 Redhawks vs Djurg\u00e5rdens IF",
                 "channels": [
@@ -13512,26 +14098,6 @@
                     {
                         "channel_name": "TV4 Hockey",
                         "channel_id": "700"
-                    }
-                ]
-            },
-            {
-                "time": "11:00",
-                "event": "Euro Hockey Tour Women : Czech Republic vs. Sweden",
-                "channels": [
-                    {
-                        "channel_name": "SVT 2 Sweden",
-                        "channel_id": "110"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "Euro Hockey Tour Women : Switzerland vs. Finland",
-                "channels": [
-                    {
-                        "channel_name": "SRF Zwei",
-                        "channel_id": "110"
                     }
                 ]
             },
@@ -13554,6 +14120,16 @@
                 ]
             },
             {
+                "time": "15:00",
+                "event": "Euro Hockey Tour Women : Switzerland vs. Finland",
+                "channels": [
+                    {
+                        "channel_name": "SRF Zwei",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
                 "time": "16:00",
                 "event": "Champions Hockey League : Storhamar Hockey vs. Sparta Prague",
                 "channels": [
@@ -13566,6 +14142,16 @@
                         "channel_id": "171"
                     }
                 ]
+            },
+            {
+                "time": "16:30",
+                "event": "Champions League : Ingolstadt vs KalPa Kuopio",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Champions League : Belfast Giants vs Ilves Tampere",
+                "channels": []
             },
             {
                 "time": "18:15",
