@@ -5304,6 +5304,30 @@
                 ]
             }
         ],
+        "WWE</span>": [
+            {
+                "time": "18:00",
+                "event": "WWE Clash in Paris 2025",
+                "channels": [
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "160"
+                    },
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "161"
+                    },
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "170"
+                    },
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "171"
+                    }
+                ]
+            }
+        ],
         "Golf</span>": [
             {
                 "time": "10:30",
