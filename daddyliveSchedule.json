@@ -1,5 +1,167 @@
 {
     "Sunday 31st August 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "20:00",
+                "event": "2025 Labor Day Duel at Lincoln Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "20:15",
+                "event": "2025 Porsche Sprint Challenge at Watkins Glen International",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "2025 The Cole Cup at Utica-Rome Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "21:15",
+                "event": "Budweiser Intl Classic Osweg",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Volusia Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 NAPA All Star Circuit of Champions at Wayne County Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Baltes Classic at Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Short Track Super Series Afton",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 IRA Sprints at The Hill Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 USAC NOS Energy Drink National Midgets at Angell Park Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 MARS Late Models at Spoon River Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 Labor Day Duel at Lincoln Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "173"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "Labor Day Celebration Slinger",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars Husets",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Labor Day Shootout",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2025 Louie Vermeil Classic at Calistoga Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "177"
+                    }
+                ]
+            }
+        ],
         "Soccer</span>": [
             {
                 "time": "13:00",
