@@ -9853,6 +9853,16 @@
                 ]
             },
             {
+                "time": "04:30",
+                "event": "Australia - NPL - Victoria - Playoff : Oakleigh Cannons vs Preston Lions",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "Australia - Cup : Avondale FC vs Newcastle United Jets",
+                "channels": []
+            },
+            {
                 "time": "08:30",
                 "event": "Romania - Liga II : CS Dinamo Bucure\u0219ti vs FC Bac\u0103u",
                 "channels": [
@@ -9905,6 +9915,41 @@
                         "channel_id": "128"
                     }
                 ]
+            },
+            {
+                "time": "09:55",
+                "event": "Liga Portugal 2 : SC Farense vs Maritimo",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Cheonan City vs Seoul E-Land",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 1 : Daejeon Citizen vs Gimcheon Sangmu",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 1 : FC Seoul vs Anyang",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 1 : Gangwon vs Pohang Steelers",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Gyeongnam vs Bucheon",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Portugal - Taca de Portugal : Rebordosa AC vs Leca FC",
+                "channels": []
             },
             {
                 "time": "10:00",
@@ -10375,6 +10420,10 @@
                     {
                         "channel_name": "2+2 Ukraine",
                         "channel_id": "178"
+                    },
+                    {
+                        "channel_name": "UPL.TV",
+                        "channel_id": "9000"
                     }
                 ]
             },
@@ -10873,6 +10922,11 @@
                 ]
             },
             {
+                "time": "14:00",
+                "event": "Croatia - Prva NL : BSK Bijelo Brdo vs Cibalia Vinkovci",
+                "channels": []
+            },
+            {
                 "time": "14:30",
                 "event": "Portugal - Primeira Liga : Tondela vs Estoril",
                 "channels": [
@@ -10937,6 +10991,11 @@
                 ]
             },
             {
+                "time": "14:30",
+                "event": "Portugal - League 2 : Vizela vs UD Oliveirense",
+                "channels": []
+            },
+            {
                 "time": "14:45",
                 "event": "Netherlands - Eredivisie : NAC Breda vs AZ",
                 "channels": [
@@ -10975,6 +11034,11 @@
                         "channel_id": "379"
                     }
                 ]
+            },
+            {
+                "time": "15:00",
+                "event": "Slovakia - 1. liga : Ruzomberok vs Zilina",
+                "channels": []
             },
             {
                 "time": "15:00",
@@ -11947,6 +12011,11 @@
                         "channel_id": "55"
                     }
                 ]
+            },
+            {
+                "time": "17:00",
+                "event": "Slovakia - 1. liga : Spartak Trnava vs Dunajska Streda",
+                "channels": []
             },
             {
                 "time": "17:00",
@@ -13295,6 +13364,11 @@
                 ]
             },
             {
+                "time": "21:00",
+                "event": "Venezuela - Primera Division : Universidad Central Venezuela vs Zamora",
+                "channels": []
+            },
+            {
                 "time": "21:10",
                 "event": "Colombia - Primera A : Alianza vs Am\u00e9rica de Cali",
                 "channels": [
@@ -13368,6 +13442,11 @@
             },
             {
                 "time": "22:00",
+                "event": "Venezuela - Primera Division : Academia Anzoategui vs Academia Puerto Cabello",
+                "channels": []
+            },
+            {
+                "time": "22:00",
                 "event": "Liga MX : Pumas UNAM vs Atlas",
                 "channels": [
                     {
@@ -13429,6 +13508,11 @@
                         "channel_id": "392"
                     }
                 ]
+            },
+            {
+                "time": "23:30",
+                "event": "Venezuela - Primera Division : Deportivo Tachira vs Estudiantes de Merida",
+                "channels": []
             },
             {
                 "time": "23:30",
@@ -14083,6 +14167,76 @@
                         "channel_id": "99"
                     }
                 ]
+            },
+            {
+                "time": "03:40",
+                "event": "WTA 125K Changsha, China Women Singles : Diletta Cherubini vs Chengyiyi Yuan",
+                "channels": []
+            },
+            {
+                "time": "03:40",
+                "event": "WTA 125K Changsha, China Women Singles : Shuo Feng vs Meiqi Guo",
+                "channels": []
+            },
+            {
+                "time": "03:40",
+                "event": "WTA 125K Changsha, China Women Singles : Sohyun Park vs Rinko Matsuda",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "Challenger - Shanghai (CHN) - Qualifiers : Ajeet Rai vs Kokoro Isomura",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "Challenger - Shanghai (CHN) - Qualifiers : Alexandr Binda vs James Watt",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "Challenger - Shanghai (CHN) - Qualifiers : Filip Peliwo vs Luca Castelnuovo",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "Challenger - Shanghai (CHN) - Qualifiers : Petr Bar Biryukov vs Ramkumar Ramanathan",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Olomouc (CHE) : Adam Jurajda vs Vitek Horak",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Olomouc (CHE) : Maxwell Castle vs Leo Pade",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Zhangjiagang (CHN) : Oliver Crawford vs Sho Shimabukuro",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "UTR (F) - Olomouc (CHE) : Denise Hrdinkova vs Nikola Breckova",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Porto (POR) : Gilles Arnaud Bailly vs Guy Den Ouden",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Challenger - Como (ITA) : Luka Mikrut vs Duje Ajdukovic",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Challenger - Manacor (SPA) : Daniel Rincon vs Jurij Rodionov",
+                "channels": []
             }
         ],
         "Badminton</span>": [
@@ -14963,6 +15117,10 @@
                         "channel_id": "300"
                     },
                     {
+                        "channel_name": "CW PIX 11 USA",
+                        "channel_id": "280"
+                    },
+                    {
                         "channel_name": "FanDuel Sports Network Florida",
                         "channel_id": "892"
                     },
@@ -15019,6 +15177,10 @@
                     {
                         "channel_name": "FanDuel Sports Network Detroit",
                         "channel_id": "891"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Kansas City",
+                        "channel_id": "895"
                     }
                 ]
             },
@@ -15223,6 +15385,11 @@
                         "channel_id": "144"
                     }
                 ]
+            },
+            {
+                "time": "14:00",
+                "event": "Brazil - FPB - Divisao Especial A1 : Pinheiros vs Osasco",
+                "channels": []
             },
             {
                 "time": "15:00",
@@ -15591,6 +15758,21 @@
                 ]
             },
             {
+                "time": "14:30",
+                "event": "Germany - Bundesliga : Minden vs Goppingen",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "Germany - Bundesliga : Stuttgart vs Hamburg",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Germany - Bundesliga 2 : Ferndorf vs Krefeld",
+                "channels": []
+            },
+            {
                 "time": "15:00",
                 "event": "Romania Liga Nationala Women : HC Dunarea Braila vs. SCM Ramnicu Valcea",
                 "channels": [
@@ -15599,6 +15781,11 @@
                         "channel_id": "168"
                     }
                 ]
+            },
+            {
+                "time": "15:00",
+                "event": "Germany - Bundesliga 2 : Lubeck Schwartau vs Dessau-Rosslauer",
+                "channels": []
             },
             {
                 "time": "18:00",
@@ -15684,6 +15871,11 @@
             }
         ],
         "Ice Hockey</span>": [
+            {
+                "time": "04:00",
+                "event": "Australia - AIHL - Playoff : Melbourne Ice vs Canberra Brave",
+                "channels": []
+            },
             {
                 "time": "13:00",
                 "event": "Champions Hockey League : Frolunda HC vs. HC Lausanne",
