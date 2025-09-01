@@ -7506,6 +7506,11 @@
                 ]
             },
             {
+                "time": "16:30",
+                "event": "Latvia - 1.League : Rigas FS II vs Marupes Sc",
+                "channels": []
+            },
+            {
                 "time": "17:00",
                 "event": "Denmark - 1. division : Esbjerg vs HB K\u00f8ge",
                 "channels": [
@@ -7514,6 +7519,11 @@
                         "channel_id": "809"
                     }
                 ]
+            },
+            {
+                "time": "17:00",
+                "event": "Argentina Primera Nacional : Agropecuario Argentino vs Almirante Brown",
+                "channels": []
             },
             {
                 "time": "17:30",
@@ -7732,6 +7742,16 @@
                 ]
             },
             {
+                "time": "23:30",
+                "event": "Venezuela - Primera Division : Caracas FC vs Yaracuyanos",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "Venezuela - Primera Division : Caracas vs Yaracuyanos",
+                "channels": []
+            },
+            {
                 "time": "00:15",
                 "event": "Argentina - Primera Nacional : Ferro Carril Oeste vs Racing C\u00f3rdoba",
                 "channels": [
@@ -7773,6 +7793,26 @@
             }
         ],
         "Cricket</span>": [
+            {
+                "time": "09:00",
+                "event": "India - T20 Kerala League : Thrissur Titans vs Alleppey Ripples",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "ILT20 Development Tournament : Sharjah Warriorz Development vs Mi Emirates Development",
+                "channels": []
+            },
+            {
+                "time": "13:15",
+                "event": "India - T20 Kerala League : Calicut Globstars vs Aries Kollam Sailors",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "India - T20 Uttar Pradesh Premier League : Lucknow Falcons vs Kashi Rudas",
+                "channels": []
+            },
             {
                 "time": "14:30",
                 "event": "Caribbean Premier League : Trinbago Knight Riders vs Saint Kitts and Nevis Patriots",
@@ -8038,6 +8078,356 @@
                         "channel_id": "40"
                     }
                 ]
+            },
+            {
+                "time": "04:30",
+                "event": "WTA 125 - Changsha (CHN) - Qualifiers : Sohyun Park vs Daria Kudashova",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Challenger - Istanbul (TUR) - Qualifiers : Luca Potenza vs Arda Azkara",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Challenger - Istanbul (TUR) - Qualifiers : Michal Krajci vs Mert Alkaya",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Challenger - Istanbul (TUR) - Qualifiers : Vadym Ursu vs Louis Wessels",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "Challenger - Shanghai (CHN) - Qualifiers : Hiroki Moriya vs Yaojie Zeng",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "Challenger - Shanghai (CHN) - Qualifiers : Joshua Charlton vs Renta Tokuda",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "Challenger - Shanghai (CHN) - Qualifiers : Kasidit Samrej vs Masamichi Imamura",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "Challenger - Shanghai (CHN) - Qualifiers : Tsung-Hao Huang vs Sergey Fomin",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Genoa (ITA) - Qualifiers : Andrea Picchione vs Eero Vasa",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Tulln (AUT) - Qualifiers : Dennis Novak vs Jozef Kovalik",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Genoa (ITA) - Qualifiers : Gabriele Piraino vs Tomasso Compagnucci",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Cassis (FRA) - Qualifiers : Justin Engel vs Felix Corwin",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Tulln (AUT) - Qualifiers : Maxim Mrva vs Anton Matusevich",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Cassis (FRA) - Qualifiers : Nicolas Tepmahc vs Maxime Janvier",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Cassis (FRA) - Qualifiers : Olaf Pieczkowski vs Cannon Kingsley",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Tulln (AUT) - Qualifiers : Rudolf Molleker vs Sebastian Gima",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Genoa (ITA) - Qualifiers : Tom Gentzsch vs Federico Bondioli",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "Challenger - Istanbul (TUR) - Qualifiers : J.A.Hernandez Serrano vs Daniel Masur",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "Challenger - Istanbul (TUR) - Qualifiers : Peter Makk vs Miguel Tobon",
+                "channels": []
+            },
+            {
+                "time": "08:35",
+                "event": "WTA 125K Montreux, Switzerland Women Singles : Aliona Bolsova Zadoinov vs Dalila Spiteri",
+                "channels": []
+            },
+            {
+                "time": "08:40",
+                "event": "Challenger - Shanghai (CHN) - Qualifiers : James Watt vs Filip Peliwo",
+                "channels": []
+            },
+            {
+                "time": "08:40",
+                "event": "Challenger - Shanghai (CHN) : Jie Cui vs Yu Hsiou Hsu",
+                "channels": []
+            },
+            {
+                "time": "08:40",
+                "event": "Challenger - Shanghai (CHN) - Qualifiers : Petr Bar Biryukov vs Kokoro Isomura",
+                "channels": []
+            },
+            {
+                "time": "08:40",
+                "event": "Challenger - Shanghai (CHN) : Rigele Te vs Omar Jasika",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Seville (SPA) - Qualifiers : David Jorda Sanchis vs John Sperle",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Seville (SPA) - Qualifiers : Inaki Monte De La Torre vs Jonas Forejtek",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Seville (SPA) - Qualifiers : Robert Strombachs vs Sergi Perez Contri",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "WTA 125 - Montreux (ELV) : Sada Nahimana vs Anouck Vrancken Peeters",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Tulln (AUT) - Qualifiers : David Poljak vs Dan Martin",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Cassis (FRA) - Qualifiers : Filippo Moroni vs Kenny de Schepper",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Genoa (ITA) - Qualifiers : Gianluca Cadenasso vs Giovanni Oradini",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Genoa (ITA) - Qualifiers : Giovanni Fonio vs Gabriele Pennaforti",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Cassis (FRA) - Qualifiers : Hamish Stewart vs Egor Gerasimov",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Tulln (AUT) - Qualifiers : Jakub Nicod vs Kai Wehnelt",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Cassis (FRA) - Qualifiers : Jakub Paul vs David Pichler",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Genoa (ITA) - Qualifiers : Johannes Ingildsen vs Enrico Dalla Valle",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Tulln (AUT) - Qualifiers : Zdenek Kolar vs Martin Krumich",
+                "channels": []
+            },
+            {
+                "time": "09:50",
+                "event": "Challenger - Shanghai (CHN) : James Mccabe vs Fajing Sun",
+                "channels": []
+            },
+            {
+                "time": "09:50",
+                "event": "Challenger - Shanghai (CHN) : Yoshihito Nishioka vs Yi Zhou",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "Challenger - Seville (SPA) - Qualifiers : Max Alcala Gurri vs Dominik Kellovsky",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "Challenger - Seville (SPA) - Qualifiers : Raul Brancaccio vs Carlos Lopez Montagud",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Genoa (ITA) : August Holmgren vs Thiago Agustin Tirante",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Tulln (AUT) : Corentin Denolly vs Sandro Kopp",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Tulln (AUT) : Filip Cristian Jianu vs Alex Barrena",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Genoa (ITA) : Kilian Feldbausch vs Lorenzo Carboni",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Tulln (AUT) : Sumit Nagal vs Mili Poljicak",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "WTA 125 - Montreux (ELV) : Hanne Vandewinkel vs Julia Grabher",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "WTA 125 - Montreux (ELV) : Kaja Juvan vs Kathinka von Deichmann",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Challenger - Istanbul (TUR) : Lukas Klein vs Saba Purtseladze",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Challenger - Istanbul (TUR) : Mats Rosenkranz vs Viktor Durasovic",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "WTA 125 - Montreux (ELV) : Sara Bejlek vs Dominika Salkova",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Challenger - Istanbul (TUR) : Stefanos Sakellaridis vs Christian Langmo",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Cassis (FRA) : Arthur Fery vs Michael Geerts",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Cassis (FRA) : Aryan Shah vs Billy Harris",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Seville (SPA) - Qualifiers : Miguel Damas vs Alex Martinez",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "ITF (F) - Saint-Palais-sur-Mer (FRA) - Qualifiers : Polina Kaibekova vs Marie Mattel",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Cassis (FRA) : Timofey Skatov vs Antoine Escoffier",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Tulln (AUT) : Jelle Sels vs Diego Dedura-Palomero",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Tulln (AUT) : Marco Trungelliti vs Ivan Gakhov",
+                "channels": []
+            },
+            {
+                "time": "11:40",
+                "event": "Challenger - Istanbul (TUR) : Kaya Arinc vs Mert Naci Turker",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ITF (F) - Saint-Palais-sur-Mer (FRA) - Qualifiers : Demi Tran vs Olivia Gram",
+                "channels": []
+            },
+            {
+                "time": "12:10",
+                "event": "Challenger - Cassis (FRA) : Sascha Wayenburg vs Etienne Donnet",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "WTA 125 - Montreux (ELV) : Anouk Koevermans vs Carson Branstine",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "WTA 125 - Montreux (ELV) : Nuria Brancaccio vs Darya Astakhova",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Cassis (FRA) : Tom Paris vs Olle Wallin",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Challenger - Seville (SPA) : Dusan Lajovic vs Elias Ymer",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Challenger - Seville (SPA) : Nicolas Alvarez Varona vs Jaime Faria",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Challenger - Seville (SPA) : Roberto Carballes Baena vs Genaro Alberto Olivieri",
+                "channels": []
+            },
+            {
+                "time": "17:10",
+                "event": "Challenger - Seville (SPA) : Daniel Merida Aguilar vs Christoph Negritu",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "Challenger - Seville (SPA) : Facundo Diaz Acosta vs Pablo Llamas Ruiz",
+                "channels": []
             }
         ],
         "WWE</span>": [
@@ -8730,6 +9120,11 @@
                 ]
             },
             {
+                "time": "20:00",
+                "event": "Brazil - FPB - Divisao Especial A1 : Mogi das Cruzes vs Bauru",
+                "channels": []
+            },
+            {
                 "time": "00:00",
                 "event": "WNBA : Minnesota Lynx W vs Dallas Wings W",
                 "channels": [
@@ -8788,6 +9183,13 @@
                         "channel_id": "128"
                     }
                 ]
+            }
+        ],
+        "Handball</span>": [
+            {
+                "time": "17:30",
+                "event": "Germany - Bundesliga 2 : Coburg vs Eintracht Hagen",
+                "channels": []
             }
         ],
         "Horse Racing</span>": [
