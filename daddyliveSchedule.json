@@ -662,6 +662,174 @@
                 ]
             }
         ],
+        "ATP - US OPEN</span>": [
+            {
+                "time": "15:00",
+                "event": "Lehecka J. vs Alcaraz C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Djokovic N. vs Fritz T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
+        "WTA - US OPEN</span>": [
+            {
+                "time": "15:30",
+                "event": "Pegula J. vs Krejcikova B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Sabalenka A. vs Vondrousova M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
+        "ATP DOUBLES - US OPEN</span>": [
+            {
+                "time": "18:00",
+                "event": "Romboli F./Smith J. P. vs Mektic N./Ram R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "Drzewiecki K./Willis M. vs Machac T./Vocel M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "Salisbury J./Skupski N. vs Nys H./Roger-Vasselin E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Bhambri Y./Venus M. vs Krawietz K./Puetz T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Pavlasek A./Zielinski J. vs Granollers M./Zeballos H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Schnaitter J./Wallner M. vs Doumbia S./Reboul F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "Frantzen C./Haase R. vs Etcheverry T. M./Ugo Carabelli C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "Gonzalez M./Molteni A. vs Cash R./Tracy J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            }
+        ],
+        "WTA DOUBLES - US OPEN</span>": [
+            {
+                "time": "17:30",
+                "event": "Muhammad A./Schuurs D. vs Errani S./Paolini J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Babos T./Stefani L. vs Dabrowski G./Routliffe E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1517"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "Kudermetova V./Mertens E. vs Andreeva M./Shnaider D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1517"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "Siniakova K./Townsend T. vs Fernandez L./Williams V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "14:00",
@@ -1582,7 +1750,7 @@
         ],
         "Floorball</span>": [
             {
-                "time": "07:37",
+                "time": "14:17",
                 "event": "Roller Hockey: European Senior Men's Championship : Portugal vs France",
                 "channels": [
                     {
