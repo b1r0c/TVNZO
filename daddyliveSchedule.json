@@ -1762,7 +1762,7 @@
         ],
         "Floorball</span>": [
             {
-                "time": "20:52",
+                "time": "02:22",
                 "event": "Roller Hockey: European Senior Men's Championship : Portugal vs France",
                 "channels": [
                     {
@@ -3559,6 +3559,21 @@
                 ]
             },
             {
+                "time": "17:00",
+                "event": "Germany - Bundesliga : Bergischer vs Erlangen",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Germany - Bundesliga : Goppingen vs Fuchse Berlin",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Germany - Bundesliga : Kiel vs Wetzlar",
+                "channels": []
+            },
+            {
                 "time": "18:00",
                 "event": "Germany Bundesliga : SC Magdeburg vs. ThSV Eisenach",
                 "channels": [
@@ -3587,6 +3602,11 @@
                         "channel_id": "141"
                     }
                 ]
+            },
+            {
+                "time": "18:00",
+                "event": "Germany - Bundesliga : Hamburg vs Hannover Burgdorf",
+                "channels": []
             },
             {
                 "time": "18:00",
