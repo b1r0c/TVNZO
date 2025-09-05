@@ -4870,6 +4870,52 @@
                 ]
             }
         ],
+        "Tennis ATP - US OPEN</span>": [
+            {
+                "time": "19:00",
+                "event": "ATP - US OPEN : Djokovic N. vs Alcaraz C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "ATP - US OPEN : Osaka N. vs Anisimova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA DOUBLES - US OPEN</span>": [
+            {
+                "time": "16:00",
+                "event": "WTA DOUBLES - US OPEN : Siniakova K./Townsend T. vs Dabrowski G./Routliffe E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "14:00",
