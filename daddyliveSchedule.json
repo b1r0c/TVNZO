@@ -1,5 +1,187 @@
 {
     "Friday 05th September 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:30",
+                "event": "Late Model 50 Stafford Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "Super DIRTcar Series Can Am",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Kubota HLR Tuscarora 50 at Port Royal Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Rebel Evening at Autodrome Granby",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Pro Late Model 100 at Berlin Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 World 100 at Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Attica Sprints - Attica Raceway Park",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 NAPA All Star Circuit of Champions at Freedom Motorsports Park",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "173"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 IRA Sprints/Jerry Richert Memorial at Cedar Lake Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Ring Wars XIX : Euri Cedeno vs. Willie Jones",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "2025 USAC AMSOIL National Sprint Cars at Tri-City Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "Xtreme Outlaw Midgets Doe Run",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "177"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "Jacksonville Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "178"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "American Sprint Car Series Lakeside",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "179"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Northern Nationals Gondik Law Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "180"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "FSW: The Moment of Truth 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "181"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Country Box: Where Music Meets Boxing",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "182"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "World of Outlaws Sprint Cars Vado Speedway Park",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "183"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "17:00",
@@ -2945,6 +3127,10 @@
                 "time": "18:00",
                 "event": "IBF Title Fights : Michael Conlan vs Jack Bateson",
                 "channels": [
+                    {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "165"
+                    },
                     {
                         "channel_name": "Channel 5 UK",
                         "channel_id": "355"
