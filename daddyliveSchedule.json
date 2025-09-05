@@ -2019,6 +2019,10 @@
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
+                        "channel_id": "44"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
                         "channel_id": "1501"
                     },
                     {
@@ -2029,8 +2033,12 @@
             },
             {
                 "time": "23:00",
-                "event": "ATP - US OPEN : Osaka N. vs Anisimova A.",
+                "event": "ATP - US OPEN : Sinner J. vs Auger-Aliassime F.",
                 "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "44"
+                    },
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1501"
@@ -3380,7 +3388,9 @@
                         "channel_id": "901"
                     }
                 ]
-            },
+            }
+        ],
+        "Snooker</span>": [
             {
                 "time": "12:00",
                 "event": "Snooker Northern Ireland Open",
