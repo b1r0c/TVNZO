@@ -12,6 +12,16 @@
                 ]
             },
             {
+                "time": "14:00",
+                "event": "Ice Cage Fighting : ICF 5",
+                "channels": [
+                    {
+                        "channel_name": "PPV Event",
+                        "channel_id": "5000"
+                    }
+                ]
+            },
+            {
                 "time": "15:00",
                 "event": "TNT: Supreme Extreme 2022",
                 "channels": [
