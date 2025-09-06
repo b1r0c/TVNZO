@@ -2277,10 +2277,10 @@
                 ]
             }
         ],
-        "WTA - US OPEN</span>": [
+        "WTA - US OPEN FINAL</span>": [
             {
                 "time": "20:00",
-                "event": "Sabalenka A. vs Anisimova A.",
+                "event": "WTA - US OPEN FINAL : Sabalenka A. vs Anisimova A.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -2292,8 +2292,13 @@
         "ATP DOUBLES - US OPEN</span>": [
             {
                 "time": "16:00",
-                "event": "Granollers M./Zeballos H. vs Salisbury J./Skupski N.",
-                "channels": []
+                "event": "ATP DOUBLES - US OPEN : Granollers M./Zeballos H. vs Salisbury J./Skupski N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
             }
         ],
         "GIRLS</span>": [
@@ -2544,6 +2549,90 @@
                     {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
+                    },
+                    {
+                        "channel_name": "Sky Sports+",
+                        "channel_id": "36"
+                    },
+                    {
+                        "channel_name": "Sky Sports Tennis UK",
+                        "channel_id": "46"
+                    },
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
+                    },
+                    {
+                        "channel_name": "ESPN2 USA",
+                        "channel_id": "45"
+                    },
+                    {
+                        "channel_name": "Sky Sports Main Event",
+                        "channel_id": "38"
+                    },
+                    {
+                        "channel_name": "Sky Sport Austria 1",
+                        "channel_id": "559"
+                    },
+                    {
+                        "channel_name": "Movistar Deportes Spain",
+                        "channel_id": "436"
+                    },
+                    {
+                        "channel_name": "Movistar Deportes 2 Spain",
+                        "channel_id": "438"
+                    },
+                    {
+                        "channel_name": "TSN1",
+                        "channel_id": "111"
+                    },
+                    {
+                        "channel_name": "TSN3",
+                        "channel_id": "113"
+                    },
+                    {
+                        "channel_name": "TSN4",
+                        "channel_id": "114"
+                    },
+                    {
+                        "channel_name": "TSN5",
+                        "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "Sky Sports 1 DE",
+                        "channel_id": "240"
+                    },
+                    {
+                        "channel_name": "Sky Sports 2 DE",
+                        "channel_id": "241"
+                    },
+                    {
+                        "channel_name": "Sky Sports Tennis DE",
+                        "channel_id": "884"
+                    },
+                    {
+                        "channel_name": "Sky Sport Top Event DE",
+                        "channel_id": "556"
+                    },
+                    {
+                        "channel_name": "Sky Sport Tennis Italy",
+                        "channel_id": "576"
+                    },
+                    {
+                        "channel_name": "Sky Sport Arena Italy",
+                        "channel_id": "462"
+                    },
+                    {
+                        "channel_name": "Sky Sport UNO Italy",
+                        "channel_id": "461"
+                    },
+                    {
+                        "channel_name": "Sky Sport MAX Italy",
+                        "channel_id": "460"
+                    },
+                    {
+                        "channel_name": "TV4 Tennis",
+                        "channel_id": "701"
                     }
                 ]
             },
