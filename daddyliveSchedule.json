@@ -1,5 +1,147 @@
 {
     "Saturday 06th September 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "13:30",
+                "event": "AMA Supercross Championship Concord",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "TNT: Supreme Extreme 2022",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "Memphis Wrestling, Episode 237 - Carlito has a Problem",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "173"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "2025 NASCAR Whelen Modified Tour at Riverhead Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "DXCN: Dakila 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "Super DIRTcar Series Weedsport",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Kubota HLR Tuscarora 50 at Port Royal Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 NAPA All Star Circuit of Champions at Michaels Mercer Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Fall Clash at Bridgeport Motorsports Park",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Pro Late Model 100 at Berlin Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 SMART Modified Tour Warrior 100 at Caraway Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Nascar Weekly Racing Jennerstown",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Kubota HLR Tuscarora 50 at Port Royal Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Wrestling Revolver: Clean Slate",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "175"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
