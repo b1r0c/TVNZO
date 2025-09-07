@@ -1,5 +1,57 @@
 {
     "Sunday 07th September 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "17:00",
+                "event": "Top Tier Boxing : Welland vs. Herrera: Ambition",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "17:40",
+                "event": "Championship Night at South Boston Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FLORacing",
+                        "channel_id": "5010"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "2025 Season Finale at Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Wild Thing Kart Series Stafford",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 Fall Clash at Action Track",
+                "channels": [
+                    {
+                        "channel_name": "USA Floracing",
+                        "channel_id": "106"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "14:00",
@@ -1745,7 +1797,7 @@
                 ]
             },
             {
-                "time": "09:01",
+                "time": "17:32",
                 "event": "3:30 Argentina - Primera Nacional : Chaco For Ever vs Chacarita Juniors",
                 "channels": [
                     {
