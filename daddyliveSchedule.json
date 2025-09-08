@@ -6454,6 +6454,11 @@
             },
             {
                 "time": "16:30",
+                "event": "International Friendly U21 : Swiss U21 vs Albania U21",
+                "channels": []
+            },
+            {
+                "time": "16:30",
                 "event": "Russia - FNL : Fakel vs Arsenal Tula",
                 "channels": [
                     {
@@ -7133,6 +7138,331 @@
                         "channel_id": "102"
                     }
                 ]
+            },
+            {
+                "time": "04:00",
+                "event": "Challenger - Guanghzou (CHN) : Christopher O'Connell vs Rigele Te",
+                "channels": []
+            },
+            {
+                "time": "04:55",
+                "event": "Challenger - Guanghzou (CHN) : Yuta Shimizu vs Juan Manuel Cerundolo",
+                "channels": []
+            },
+            {
+                "time": "05:10",
+                "event": "Challenger - Guanghzou (CHN) : Oliver Crawford vs Linang Xiao",
+                "channels": []
+            },
+            {
+                "time": "06:05",
+                "event": "Challenger - Guanghzou (CHN) : Marat Sharipov vs Taro Daniel",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Targu Mures (ROM) - Qualifiers : Cezar Cretu vs Nikita Mashtakov",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Biella (ITA) - Qualifiers : Federico Iannaccone vs Buvaysar Gadamauri",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Biella (ITA) - Qualifiers : Pol Martin Tiffon vs Michele Ribecai",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Targu Mures (ROM) - Qualifiers : Radu Mihai Papoe vs Jan Jermar",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Targu Mures (ROM) - Qualifiers : Stefan Adrian Andreescu vs Mihai Razvan Marinescu",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Biella (ITA) - Qualifiers : Stefan Popovic vs Massimo Giunta",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "Challenger - Szczecin (POL) - Qualifiers : Marvin Moeller vs Jozef Kovalik",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "Challenger - Szczecin (POL) - Qualifiers : Tadeas Paroulek vs Lorenzo Bocchi",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Rennes (FRA) - Qualifiers : Egor Gerasimov vs Cannon Kingsley",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Rennes (FRA) - Qualifiers : Enzo Couacaud vs Robin Catry",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Targu Mures (ROM) - Qualifiers : Emilien Demanet vs Dragos Nicolae Cazacu",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Targu Mures (ROM) - Qualifiers : Jack Loge vs Imanol Lopez Morillo",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Targu Mures (ROM) - Qualifiers : Thomas Faurel vs Stefan Palosi",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Challenger - Biella (ITA) - Qualifiers : Alex Martinez vs Giovanni Oradini",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Challenger - Biella (ITA) - Qualifiers : Damien Wenger vs Maxime Chazal",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Challenger - Biella (ITA) - Qualifiers : Lorenzo Carboni vs Iannis Miletich",
+                "channels": []
+            },
+            {
+                "time": "09:40",
+                "event": "Challenger - Szczecin (POL) - Qualifiers : Alexey Vatutin vs Niels Visker",
+                "channels": []
+            },
+            {
+                "time": "09:40",
+                "event": "Challenger - Szczecin (POL) - Qualifiers : Rudolf Molleker vs Maik Steiner",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "Challenger - Rennes (FRA) - Qualifiers : Maxime Janvier vs Adrien Gobat",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "Challenger - Rennes (FRA) - Qualifiers : Pierre Antoine Faut vs Leo Raquillet",
+                "channels": []
+            },
+            {
+                "time": "10:40",
+                "event": "Challenger - Biella (ITA) : Dennis Novak vs Sandro Kopp",
+                "channels": []
+            },
+            {
+                "time": "10:40",
+                "event": "Challenger - Biella (ITA) : Eric Vanshelboim vs Jelle Sels",
+                "channels": []
+            },
+            {
+                "time": "10:40",
+                "event": "Challenger - Biella (ITA) : Kilian Feldbausch vs Alexander Weis",
+                "channels": []
+            },
+            {
+                "time": "10:50",
+                "event": "Challenger - Szczecin (POL) - Qualifiers : Henri Squire vs Niklas Schell",
+                "channels": []
+            },
+            {
+                "time": "10:50",
+                "event": "Challenger - Szczecin (POL) - Qualifiers : Jakub Nicod vs Michael Vrbensky",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Szczecin (POL) : Luka Pavlovic vs Diego Dedura-Palomero",
+                "channels": []
+            },
+            {
+                "time": "11:20",
+                "event": "Challenger - Rennes (FRA) - Qualifiers : Nikolay Vylegzhanin vs Maxence Bertimon",
+                "channels": []
+            },
+            {
+                "time": "11:20",
+                "event": "Challenger - Rennes (FRA) - Qualifiers : Patrick Brady vs Kenny de Schepper",
+                "channels": []
+            },
+            {
+                "time": "11:50",
+                "event": "Challenger - Biella (ITA) : Gabriele Piraino vs Robert Strombachs",
+                "channels": []
+            },
+            {
+                "time": "11:50",
+                "event": "Challenger - Biella (ITA) : Marko Topo vs Raul Brancaccio",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Challenger - Targu Mures (ROM) : Franco Agamenone vs Max Alcala Gurri",
+                "channels": []
+            },
+            {
+                "time": "12:10",
+                "event": "Challenger - Szczecin (POL) : Francesco Passaro vs Dorian Juszczak",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Challenger - Szczecin (POL) : Hynek Barton vs Roman Andres Burruchaga",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Challenger - Targu Mures (ROM) : Mika Brunold vs Dan Martin",
+                "channels": []
+            },
+            {
+                "time": "13:20",
+                "event": "Challenger - Szczecin (POL) : Dimitar Kuzmanov vs Alan Wazny",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Targu Mures (ROM) : Mili Poljicak vs Nicholas David Ionel",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Rennes (FRA) : Tom Paris vs Sascha Wayenburg",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "Challenger - Rennes (FRA) : Arthur Bouquier vs Marek Gengel",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "UTR (M) - Tallahassee (USA) : Ilija Palavestra vs Maximillian Mroz Maximillian Mroz",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "UTR (M) - Tallahassee (USA) : Kale Mize vs Gabriele Thomas Brancatelli",
+                "channels": []
+            },
+            {
+                "time": "15:40",
+                "event": "UTR (M) - Tallahassee (USA) : Justin Lyons vs Joao Portugal",
+                "channels": []
+            },
+            {
+                "time": "15:40",
+                "event": "UTR (M) - Tallahassee (USA) : Vito Tonejc vs Jan Sebesta",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Challenger - Winston Salem (USA) - Qualifiers : Gavin Goode vs Jangjun Kim",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Challenger - Winston Salem (USA) - Qualifiers : Theo Papamalamis vs Quinn Vandecasteele",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Challenger - Szczecin (POL) : Elias Ymer vs Facundo Diaz Acosta",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Challenger - Rennes (FRA) : Hugo Gaston vs Christoph Negritu",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "UTR (M) - Tallahassee (USA) \tAlexander Kotzen vs Jorge Robinson",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "UTR (M) - Tallahassee (USA) : Benjamin Saltman vs Azariah Rusher",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Challenger - Winston Salem (USA) - Qualifiers : Edward Winter vs Dominick Mosejczuk",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Challenger - Winston Salem (USA) : Antoine Ghibaudo vs Garrett Johns",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Challenger - Winston Salem (USA) : Blaise Bicknell vs Johannus Monday",
+                "channels": []
+            },
+            {
+                "time": "18:40",
+                "event": "Challenger - Winston Salem (USA) : Emon van Loben Sels vs Martin Damm Jr",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "UTR (M) - Ithaca (USA) : Peter Hatton vs Aman Sharma",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "UTR (M) - Ithaca (USA) : Rodrigo Fernandes vs Maximilian Borisov",
+                "channels": []
+            },
+            {
+                "time": "19:40",
+                "event": "Challenger - Winston Salem (USA) : Andre Ilagan vs Trevor Svajda",
+                "channels": []
+            },
+            {
+                "time": "19:40",
+                "event": "Challenger - Winston Salem (USA) : Tyler Zink vs Mitchell Krueger",
+                "channels": []
+            },
+            {
+                "time": "19:50",
+                "event": "Challenger - Winston Salem (USA) : Patrick Maloney vs Luca Pow",
+                "channels": []
+            },
+            {
+                "time": "20:10",
+                "event": "UTR (M) - Ithaca (USA) : Rohan Belday vs Petar Teodorovic",
+                "channels": []
+            },
+            {
+                "time": "20:10",
+                "event": "UTR (M) - Ithaca (USA) : Theodoros Mitsakos vs Eric David Verdes",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "UTR (M) - Ithaca (USA) : Felipe Pinzon Moreno vs Clement Mainguy",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "UTR (M) - Ithaca (USA) : Nathan Gold vs David Saye",
+                "channels": []
             }
         ],
         "Boxing</span>": [
@@ -7689,6 +8019,11 @@
                         "channel_id": "16"
                     }
                 ]
+            },
+            {
+                "time": "17:30",
+                "event": "Germany - Bundesliga 2 : HC Oppenweiler/Backnang vs Coburg",
+                "channels": []
             }
         ],
         "Futsal</span>": [
