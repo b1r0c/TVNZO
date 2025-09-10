@@ -706,6 +706,110 @@
                 ]
             }
         ],
+        "Tennis WTA - GUADALAJARA</span>": [
+            {
+                "time": "20:00",
+                "event": "WTA - GUADALAJARA : Vidmanova D. vs Bartunkova N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "WTA - GUADALAJARA : Stephens S. vs Stefanini L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "WTA - GUADALAJARA : Marino R. vs Maria T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "WTA - GUADALAJARA : Mertens E. vs Jacquemot E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "WTA - GUADALAJARA : Jimenez Kasintseva V. vs Kudermetova V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - SAO PAOLO</span>": [
+            {
+                "time": "18:00",
+                "event": "WTA - SAO PAOLO : Jones F. vs Osuigwe W.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - SAO PAOLO : Rodriguez V. vs Rakotomanga Rajaonah T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "WTA - SAO PAOLO : Tjen J. vs Okalova M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "WTA - SAO PAOLO : Leme Da Silva N. V. vs Sierra S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "WTA - SAO PAOLO : Riera J. vs Eala A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "16:00",
