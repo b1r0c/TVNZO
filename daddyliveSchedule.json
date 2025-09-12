@@ -8,6 +8,10 @@
                     {
                         "channel_name": "Floracing",
                         "channel_id": "59"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -18,6 +22,10 @@
                     {
                         "channel_name": "Floracing",
                         "channel_id": "68"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -38,6 +46,10 @@
                     {
                         "channel_name": "Floracing",
                         "channel_id": "69"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5003"
                     }
                 ]
             }
@@ -1178,6 +1190,10 @@
                     {
                         "channel_name": "Sport 5 Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "NFL Sunday Ticket",
+                        "channel_id": "5004"
                     }
                 ]
             }
