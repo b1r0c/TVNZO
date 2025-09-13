@@ -5554,6 +5554,50 @@
                 ]
             }
         ],
+        "Tennis WTA - GUADALAJARA</span>": [
+            {
+                "time": "22:00",
+                "event": "WTA - GUADALAJARA : Jacquemot E. vs Arango E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "WTA - GUADALAJARA : Jovic I. vs Frech or Bartunkova",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - SAO PAOLO</span>": [
+            {
+                "time": "16:00",
+                "event": "WTA - SAO PAOLO : Tjen J. vs Jones F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "WTA - SAO PAOLO : Zarazua R. vs Rakotomanga Rajaonah T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "04:00",
