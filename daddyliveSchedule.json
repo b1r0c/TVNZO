@@ -1,5 +1,177 @@
 {
     "Saturday 13th September 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "12:30",
+                "event": "2025 PDRA Drag Wars",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "691"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "Superbikes MotoAmerica at Texas",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "Total Kombat O2",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "177"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "2025 American Flat Track at Lake Ozark Short Track",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "178"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "2025 CARS Tour at South Boston Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "179"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "GCW: Rumble on the River 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "21:15",
+                "event": "2025 SMART Modified Tour The Flying VA Classic at Dominion Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "2025 Cecil Palm Tree 66 at Riverhead Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "World of Outlaws Late Models Senoia",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Kubota High Limit Racing at Lernerville Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Short Track Super Series Fonda 200 at Fonda Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "500 Sprint Car Tour Salem Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "173"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Land of Legends Late Model",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Crash Combat Championship VI: Thrall vs Estrada",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Armored MMA 2025: Medieval Cage Fighting Championship, San Antonio, TX",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Bare Knuckle Brawlers: Chingazos",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "180"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "World of Outlaws Sprint Cars Perris",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "181"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "23:00",
