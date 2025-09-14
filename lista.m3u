@@ -4,13 +4,13 @@
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1225653759/index.m3u8
+https://vavoo.to/play/875922788/index.m3u8
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/875922788/index.m3u8
+https://vavoo.to/play/1225653759/index.m3u8
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -64,13 +64,13 @@ https://new.newkso.ru/wind/premium852/mono.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2179822223/index.m3u8
+https://vavoo.to/play/4241820180/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/4241820180/index.m3u8
+https://vavoo.to/play/2179822223/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4k.it" tvg-name="RAI 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Rai",RAI 4K
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -94,13 +94,13 @@ https://vavoo.to/play/3163380543/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1901652742/index.m3u8
+https://vavoo.to/play/1803677691/index.m3u8
 
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1803677691/index.m3u8
+https://vavoo.to/play/1901652742/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -250,13 +250,13 @@ https://vavoo.to/play/80896559/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1534161807/index.m3u8
+https://vavoo.to/play/1101559666/index.m3u8
 
 #EXTINF:-1 tvg-id="canale.5.it" tvg-name="CANALE 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1101559666/index.m3u8
+https://vavoo.to/play/1534161807/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE 34 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 MEDIASET
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -268,13 +268,13 @@ https://vavoo.to/play/1768670187/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/633342961/index.m3u8
+https://vavoo.to/play/663536394/index.m3u8
 
 #EXTINF:-1 tvg-id="italia.1.it" tvg-name="ITALIA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/663536394/index.m3u8
+https://vavoo.to/play/633342961/index.m3u8
 
 #EXTINF:-1 tvg-id="italia.1.it" tvg-name="ITALIA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -286,13 +286,13 @@ https://new.newkso.ru/wind/premium854/mono.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3538009430/index.m3u8
+https://vavoo.to/play/1613543898/index.m3u8
 
 #EXTINF:-1 tvg-id="italia.2.it" tvg-name="ITALIA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",ITALIA 2 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1613543898/index.m3u8
+https://vavoo.to/play/3538009430/index.m3u8
 
 #EXTINF:-1 tvg-id="mediaset.extra.it" tvg-name="MEDIASET EXTRA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Mediaset",MEDIASET EXTRA
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -358,13 +358,13 @@ https://vavoo.to/play/2911178456/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3481346857/index.m3u8
+https://vavoo.to/play/3448075317/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3448075317/index.m3u8
+https://vavoo.to/play/3481346857/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -622,13 +622,13 @@ https://new.newkso.ru/ddy6/premium576/mono.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/210669162/index.m3u8
+https://vavoo.to/play/3192996672/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3192996672/index.m3u8
+https://vavoo.to/play/210669162/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -868,13 +868,13 @@ https://new.newkso.ru/wind/premium867/mono.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2330574729/index.m3u8
+https://vavoo.to/play/1228534500/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-name="SKY CINEMA DUE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film & Serie TV",SKY CINEMA DUE (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1228534500/index.m3u8
+https://vavoo.to/play/2330574729/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-name="SKY CINEMA DUE +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film & Serie TV",SKY CINEMA DUE +24
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -928,13 +928,13 @@ https://new.newkso.ru/wind/premium864/mono.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3060043751/index.m3u8
+https://vavoo.to/play/1820997555/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV",SKY CINEMA SUSPENSE (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1820997555/index.m3u8
+https://vavoo.to/play/3060043751/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV",SKY CINEMA UNO
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -982,13 +982,13 @@ https://vavoo.to/play/1492183364/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/4272937805/index.m3u8
+https://vavoo.to/play/2268489342/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 10 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2268489342/index.m3u8
+https://vavoo.to/play/4272937805/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 12
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1030,13 +1030,13 @@ https://vavoo.to/play/3470758028/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/877200714/index.m3u8
+https://vavoo.to/play/525374356/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 2 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/525374356/index.m3u8
+https://vavoo.to/play/877200714/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 3
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1078,25 +1078,25 @@ https://vavoo.to/play/2255083866/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3939513684/index.m3u8
+https://vavoo.to/play/3251217290/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 6 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3251217290/index.m3u8
+https://vavoo.to/play/3939513684/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 7
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3618643172/index.m3u8
+https://vavoo.to/play/4238969402/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 7 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/4238969402/index.m3u8
+https://vavoo.to/play/3618643172/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1114,13 +1114,13 @@ https://vavoo.to/play/1440779061/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1134113883/index.m3u8
+https://vavoo.to/play/1753260677/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 9 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1753260677/index.m3u8
+https://vavoo.to/play/1134113883/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-name="SKY SERIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film & Serie TV",SKY SERIE
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1138,13 +1138,13 @@ https://new.newkso.ru/wind/premium880/mono.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3420407456/index.m3u8
+https://vavoo.to/play/269503091/index.m3u8
 
 #EXTINF:-1 tvg-id="top.crime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Film & Serie TV",TOP CRIME (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/269503091/index.m3u8
+https://vavoo.to/play/3420407456/index.m3u8
 
 #EXTINF:-1 tvg-id="euronews.it" tvg-name="EURONEWS" tvg-logo="https://play-lh.googleusercontent.com/Mi8GAQIp3x94VcvbxZNsK-CTNhHy1zmo51pmME5KkkK4WgN4aQhM1FlNgLZUMD4VAXhL" group-title="News",EURONEWS
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1210,13 +1210,13 @@ https://vavoo.to/play/3938501125/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3373510242/index.m3u8
+https://vavoo.to/play/3022771961/index.m3u8
 
 #EXTINF:-1 tvg-id="boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3022771961/index.m3u8
+https://vavoo.to/play/3373510242/index.m3u8
 
 #EXTINF:-1 tvg-id="boingplus.it" tvg-name="BOING PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1240,19 +1240,19 @@ https://vavoo.to/play/1744435623/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1907000512/index.m3u8
+https://vavoo.to/play/1987220436/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2178717282/index.m3u8
+https://vavoo.to/play/1907000512/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (3)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1987220436/index.m3u8
+https://vavoo.to/play/2178717282/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",DISCOVERY K2
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1318,13 +1318,13 @@ https://vavoo.to/play/3267376899/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3554841914/index.m3u8
+https://vavoo.to/play/1955739367/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1955739367/index.m3u8
+https://vavoo.to/play/3554841914/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Documentari",DISCOVERY FOCUS
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1384,13 +1384,13 @@ https://vavoo.to/play/3229664409/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1902695925/index.m3u8
+https://vavoo.to/play/1806815496/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1806815496/index.m3u8
+https://vavoo.to/play/1902695925/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.documentaries.it" tvg-name="SKY DOCUMENTARIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1720,13 +1720,13 @@ https://vavoo.to/play/2381583828/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2719953688/index.m3u8
+https://vavoo.to/play/3743894403/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro",CIELO (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3743894403/index.m3u8
+https://vavoo.to/play/2719953688/index.m3u8
 
 #EXTINF:-1 tvg-id="cine34.it" tvg-name="CINE 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Altro",CINE 34
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1858,13 +1858,13 @@ https://vavoo.to/play/3255207570/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3439223610/index.m3u8
+https://vavoo.to/play/2982550433/index.m3u8
 
 #EXTINF:-1 tvg-id="focus.it" tvg-name="FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Altro",FOCUS (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2982550433/index.m3u8
+https://vavoo.to/play/3439223610/index.m3u8
 
 #EXTINF:-1 tvg-id="food.network.it" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1888,13 +1888,13 @@ https://vavoo.to/play/2179686828/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2373936189/index.m3u8
+https://vavoo.to/play/4060499455/index.m3u8
 
 #EXTINF:-1 tvg-id="giallo.it" tvg-name="GIALLO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/4060499455/index.m3u8
+https://vavoo.to/play/2373936189/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBUS TELEVISION" tvg-logo="https://ennapress.it/wp-content/uploads/2020/10/globus.png" group-title="Altro",GLOBUS TELEVISION
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1978,13 +1978,13 @@ https://vavoo.to/play/3832171692/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1425667375/index.m3u8
+https://vavoo.to/play/84139639/index.m3u8
 
 #EXTINF:-1 tvg-id="la.5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/84139639/index.m3u8
+https://vavoo.to/play/1425667375/index.m3u8
 
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-name="LA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -2158,13 +2158,13 @@ https://vavoo.to/play/1232565681/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2251241999/index.m3u8
+https://vavoo.to/play/1574975196/index.m3u8
 
 #EXTINF:-1 tvg-id="real.time.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1574975196/index.m3u8
+https://vavoo.to/play/2251241999/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="REGGIO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -2296,13 +2296,13 @@ https://vavoo.to/play/2002360508/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/322024849/index.m3u8
+https://vavoo.to/play/2130523218/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2130523218/index.m3u8
+https://vavoo.to/play/322024849/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -2830,7 +2830,7 @@ https://new.newkso.ru/wind/premium870/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/nfs/premium877/mono.m3u8
 
-#EXTINF:-1 tvg-id="guadalajarawtasaopaulowtaearlyrounds" tvg-name="Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/wta-logo.png" group-title="Eventi Live",Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)
+#EXTINF:-1 tvg-id="guadalajarawtasaopaulowtaearlyrounds" tvg-name="Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)" tvg-logo="https://logodix.com/logo/1952378.png" group-title="Eventi Live",Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
@@ -2842,13 +2842,7 @@ https://new.newkso.ru/ddy6/premium576/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/ddy6/premium576/mono.m3u8
 
-#EXTINF:-1 tvg-id="worldchampionshipchinamxgprace1" tvg-name="Motorsport | World Championship China | MXGP | Race 1 (07:00)" tvg-logo="https://mxgp.hondaracingcorporation.com/wp-content/uploads/sites/4/2017/07/631736eb4c6436.77655537.png" group-title="Eventi Live",Motorsport | World Championship China | MXGP | Race 1 (07:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium879/mono.m3u8
-
-#EXTINF:-1 tvg-id="worldchampionshipchinamx2race2" tvg-name="Motorsport | World Championship China | MX2 | Race 2 (09:00)" tvg-logo="https://images.seeklogo.com/logo-png/51/2/mx2-logo-png_seeklogo-516358.png" group-title="Eventi Live",Motorsport | World Championship China | MX2 | Race 2 (09:00)
+#EXTINF:-1 tvg-id="worldchampionshipchinamx2race2" tvg-name="Motorsport | World Championship China | MX2 | Race 2 (09:00)" tvg-logo="https://www.level1graphic.com/wp-content/uploads/2024/06/NP_crf5-600x600.png" group-title="Eventi Live",Motorsport | World Championship China | MX2 | Race 2 (09:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
@@ -2872,7 +2866,7 @@ https://new.newkso.ru/nfs/premium575/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="moto2gpsanmarinorace" tvg-name="Motorsport | Moto2 : GP San Marino Race (12:00)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Motorsport | Moto2 : GP San Marino Race (12:00)
+#EXTINF:-1 tvg-id="moto2gpsanmarinorace" tvg-name="Motorsport | Moto2 : GP San Marino Race (12:00)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Motorsport | Moto2 : GP San Marino Race (12:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
@@ -2884,7 +2878,7 @@ https://new.newkso.ru/nfs/premium575/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="worldchampionshipstokyoday2session2" tvg-name="Athletics | World Championships Tokyo | Day 2 | Session 2 (11:30)" tvg-logo="https://archives.bulbagarden.net/media/upload/thumb/f/fc/2023_Pokémon_World_Championships_logo.png/1200px-2023_Pokémon_World_Championships_logo.png" group-title="Eventi Live",Athletics | World Championships Tokyo | Day 2 | Session 2 (11:30)
+#EXTINF:-1 tvg-id="worldchampionshipstokyoday2session2" tvg-name="Athletics | World Championships Tokyo | Day 2 | Session 2 (11:30)" tvg-logo="https://kream-phinf.pstatic.net/MjAyNDA1MjJfNzgg/MDAxNzE2Mzg2ODM2MjEz.rSjUw0qCQdQIRUUpd5b2maOnillucA8B-VBNyFkd84Ug.gmFk0KueyEsg9vw4sq1Qn_88Dkym5dUnqyh1cJR16GYg.PNG/a_96193aabb3db432cbfd8cc55d99fded1.png?type=l" group-title="Eventi Live",Athletics | World Championships Tokyo | Day 2 | Session 2 (11:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
@@ -2926,13 +2920,13 @@ https://new.newkso.ru/wind/premium878/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium879/mono.m3u8
 
-#EXTINF:-1 tvg-id="isucslombardiatrophy2025menfreestylefrombergamo" tvg-name="Ice Skating | ISU CS Lombardia Trophy 2025 - Men - Freestyle (from Bergamo) (15:30)" tvg-logo="https://isuworlds2025.com/wp-content/uploads/2024/11/Worlds-2025-Merchandise-Callout-Box-Transparent-BG.png" group-title="Eventi Live",Ice Skating | ISU CS Lombardia Trophy 2025 - Men - Freestyle (from Bergamo) (15:30)
+#EXTINF:-1 tvg-id="isucslombardiatrophy2025menfreestylefrombergamo" tvg-name="Ice Skating | ISU CS Lombardia Trophy 2025 - Men - Freestyle (from Bergamo) (15:30)" tvg-logo="https://isu-ilagan.edu.ph/website/wp-content/uploads/2021/08/isu-logo.png" group-title="Eventi Live",Ice Skating | ISU CS Lombardia Trophy 2025 - Men - Freestyle (from Bergamo) (15:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/ddy6/premium882/mono.m3u8
 
-#EXTINF:-1 tvg-id="isucslombardiatrophy2025freedancefrombergamo" tvg-name="Ice Skating | ISU CS Lombardia Trophy 2025 - Free Dance (from Bergamo) (17:05)" tvg-logo="https://png.pngtree.com/png-clipart/20250308/original/pngtree-cricket-world-cup-trophy-2025-png-image_20597584.png" group-title="Eventi Live",Ice Skating | ISU CS Lombardia Trophy 2025 - Free Dance (from Bergamo) (17:05)
+#EXTINF:-1 tvg-id="isucslombardiatrophy2025freedancefrombergamo" tvg-name="Ice Skating | ISU CS Lombardia Trophy 2025 - Free Dance (from Bergamo) (17:05)" tvg-logo="https://www.finlandiatrophy.com/wp-content/uploads/sites/5/2024/02/ISU_Icon_blue-300x300.png" group-title="Eventi Live",Ice Skating | ISU CS Lombardia Trophy 2025 - Free Dance (from Bergamo) (17:05)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
