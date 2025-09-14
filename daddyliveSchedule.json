@@ -4212,6 +4212,52 @@
                 ]
             }
         ],
+        "DAVIS CUP</span>": [
+            {
+                "time": "05:30",
+                "event": "Australia vs Belgium",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "Spain vs Denmark",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
+        "WTA - GUADALAJARA</span>": [
+            {
+                "time": "21:00",
+                "event": "Arango E. vs Jovic I.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
+        "WTA - SAO PAOLO</span>": [
+            {
+                "time": "18:00",
+                "event": "Rakotomanga Rajaonah T. vs Tjen J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "04:30",
