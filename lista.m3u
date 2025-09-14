@@ -2734,7 +2734,7 @@ https://new.newkso.ru/ddy6/premium462/mono.m3u8
 #EXTINF:-1 tvg-id="italyseriecperugiavsascoli" tvg-name="Soccer | Italy - Serie C : Perugia vs Ascoli (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Perugia_vs_Ascoli.png" group-title="Eventi Live",Soccer | Italy - Serie C : Perugia vs Ascoli (15:00)
 https://thedaddy.click/stream/stream-4.php
 
-#EXTINF:-1 tvg-id="italyseriecbravssassaritorres" tvg-name="Soccer | Italy - Serie C : Bra vs Sassari Torres (15:00)" group-title="Eventi Live",Soccer | Italy - Serie C : Bra vs Sassari Torres (15:00)
+#EXTINF:-1 tvg-id="italyseriecbravssassaritorres" tvg-name="Soccer | Italy - Serie C : Bra vs Sassari Torres (15:00)" tvg-logo="https://www.tradestockltd.co.uk/wp-content/uploads/2025/01/BRA-LOGO.png" group-title="Eventi Live",Soccer | Italy - Serie C : Bra vs Sassari Torres (15:00)
 https://thedaddy.click/stream/stream-27.php
 
 #EXTINF:-1 tvg-id="italyserieccosenzavscatania" tvg-name="Soccer | Italy - Serie C : Cosenza vs Catania (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Cosenza_vs_Catania.png" group-title="Eventi Live",Soccer | Italy - Serie C : Cosenza vs Catania (15:00)
@@ -2830,7 +2830,7 @@ https://new.newkso.ru/wind/premium870/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/nfs/premium877/mono.m3u8
 
-#EXTINF:-1 tvg-id="guadalajarawtasaopaulowtaearlyrounds" tvg-name="Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)" tvg-logo="https://logodix.com/logo/1952378.png" group-title="Eventi Live",Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)
+#EXTINF:-1 tvg-id="guadalajarawtasaopaulowtaearlyrounds" tvg-name="Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/wta-logo.png" group-title="Eventi Live",Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
@@ -2842,23 +2842,11 @@ https://new.newkso.ru/ddy6/premium576/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/ddy6/premium576/mono.m3u8
 
-#EXTINF:-1 tvg-id="moto2gpsanmarinorace" tvg-name="Motorsport | Moto2 : GP San Marino Race (12:00)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Motorsport | Moto2 : GP San Marino Race (12:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/nfs/premium575/mono.m3u8
-
 #EXTINF:-1 tvg-id="motogpgpsanmarinorace" tvg-name="Motorsport | MotoGP : GP San Marino Race (14:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : GP San Marino Race (14:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/nfs/premium575/mono.m3u8
-
-#EXTINF:-1 tvg-id="worldchampionshipstokyoday2session2" tvg-name="Athletics | World Championships Tokyo | Day 2 | Session 2 (11:30)" tvg-logo="https://archives.bulbagarden.net/media/upload/thumb/f/fc/2023_Pokémon_World_Championships_logo.png/1200px-2023_Pokémon_World_Championships_logo.png" group-title="Eventi Live",Athletics | World Championships Tokyo | Day 2 | Session 2 (11:30)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/ddy6/premium851/mono.m3u8
 
 #EXTINF:-1 tvg-id="mlbchicagocubsvstampabayrays" tvg-name="Baseball | MLB : Chicago Cubs vs Tampa Bay Rays (20:20)" tvg-logo="https://www.pngplay.com/wp-content/uploads/7/Chicago-Cubs-Logo-Transparent-PNG.png" group-title="Eventi Live",Baseball | MLB : Chicago Cubs vs Tampa Bay Rays (20:20)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -2878,7 +2866,7 @@ https://new.newkso.ru/ddy6/premium882/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/ddy6/premium882/mono.m3u8
 
-#EXTINF:-1 tvg-id="vueltaaespanastage21101alalpardomadridflat101km917m" tvg-name="Cycling | Vuelta a Espana Stage 21 - 101 Alalpardo - Madrid Flat | 101 km | 917 m (16:30)" tvg-logo="https://www.hiruhaundiak.com/imagenes_banners/wE6Wtvxr_Enara_fondoblanco.png" group-title="Eventi Live",Cycling | Vuelta a Espana Stage 21 - 101 Alalpardo - Madrid Flat | 101 km | 917 m (16:30)
+#EXTINF:-1 tvg-id="vueltaaespanastage21101alalpardomadridflat101km917m" tvg-name="Cycling | Vuelta a Espana Stage 21 - 101 Alalpardo - Madrid Flat | 101 km | 917 m (16:30)" tvg-logo="http://4.bp.blogspot.com/-uvLmvWBEqrk/TVm1ONc0JUI/AAAAAAAAE9Q/yvDHqgW_78M/s250/escudo%2Bciclista%2Bnavalc%25C3%25A1n%2Bsin%2Bfondo%2B2%2Bcopia.png" group-title="Eventi Live",Cycling | Vuelta a Espana Stage 21 - 101 Alalpardo - Madrid Flat | 101 km | 917 m (16:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
