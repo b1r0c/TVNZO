@@ -9133,6 +9133,84 @@
                 ]
             }
         ],
+        "Tennis WTA - SEOUL</span>": [
+            {
+                "time": "05:00",
+                "event": "WTA - SEOUL : Krueger A. vs Lys E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "WTA - SEOUL : Joint M. vs Fruhvirtova L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "WTA - SEOUL : Ponchet J. vs Seidel E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "WTA - SEOUL : Siniakova K. vs Park S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "08:30",
+                "event": "WTA - SEOUL : Siegemund L. vs Kenin S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - SEOUL : Boisson L. vs Ku Y.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "05:00",
