@@ -5002,6 +5002,461 @@
                         "channel_id": "102"
                     }
                 ]
+            },
+            {
+                "time": "04:00",
+                "event": "ATP - Hangzhou (CHN) - Qualifiers : Gauthier Onclin vs Tristan Boyer",
+                "channels": []
+            },
+            {
+                "time": "04:00",
+                "event": "ATP - Hangzhou (CHN) - Qualifiers : Giulio Zeppieri vs Liam Draxl",
+                "channels": []
+            },
+            {
+                "time": "04:00",
+                "event": "ATP - Hangzhou (CHN) - Qualifiers : Nishesh Basavareddy vs Beibit Zhukayev",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "ATP - Chengdu (CHN) - Qualifiers : Fumin Jiang vs Billy Harris",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "ATP - Chengdu (CHN) - Qualifiers : James Duckworth vs Taro Daniel",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "ATP - Chengdu (CHN) - Qualifiers : Rei Sakamoto vs Nikoloz Basilashvili",
+                "channels": []
+            },
+            {
+                "time": "05:10",
+                "event": "ATP - Hangzhou (CHN) - Qualifiers : Dalibor Svrcina vs Timofey Skatov",
+                "channels": []
+            },
+            {
+                "time": "05:10",
+                "event": "ATP - Hangzhou (CHN) - Qualifiers : Valentin Royer vs Charles Chen",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "UTR (M) - Kalamaria (GRE) : Jannik Maute vs Samuel Constantinou",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "UTR (M) - Kalamaria (GRE) : Joaquin Bianchi vs Dorian Kos",
+                "channels": []
+            },
+            {
+                "time": "06:10",
+                "event": "ATP - Chengdu (CHN) - Qualifiers : Lloyd Harris vs Zachary Svajda",
+                "channels": []
+            },
+            {
+                "time": "06:10",
+                "event": "ATP - Chengdu (CHN) - Qualifiers : Mackenzie McDonald vs James Mccabe",
+                "channels": []
+            },
+            {
+                "time": "06:10",
+                "event": "ATP - Chengdu (CHN) - Qualifiers : Tristan Schoolkate vs Bernard Tomic",
+                "channels": []
+            },
+            {
+                "time": "06:20",
+                "event": "ATP - Hangzhou (CHN) - Qualifiers : Ye Chen vs Brandon Holt",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "ATP - Hangzhou (CHN) - Qualifiers : Eliot Spizzirri vs Chun Hsin Tseng",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Essen (GER) : Daniel Bien vs Sebastian Prechtel",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Essen (GER) : Lars Goran Verwerft vs Bas Bouwman",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (F) - Essen (GER) : Malkia Ngounoue vs Daniela Ciobanu",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "ATP - Hangzhou (CHN) - Qualifiers : Rinky Hijikata vs Christopher Eubanks",
+                "channels": []
+            },
+            {
+                "time": "07:20",
+                "event": "ATP - Chengdu (CHN) - Qualifiers : Alejandro Tabilo vs Rigele Te",
+                "channels": []
+            },
+            {
+                "time": "07:20",
+                "event": "ATP - Chengdu (CHN) - Qualifiers : Nicolai Budkov Kjaer vs Yannick Hanfmann",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Saint-Tropez (FRA) : Alexey Vatutin vs Harold Mayot",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Bad Waltersdorf (AUT) : Daniel Elahi Galan vs Facundo Diaz Acosta",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Targu Mures (ROM) - Qualifiers : Gerard Campana Lee vs Kirill Kivattsev",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Targu Mures (ROM) - Qualifiers : Jack Loge vs John Sperle",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Bad Waltersdorf (AUT) : Luka Pavlovic vs Tadeas Paroulek",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Saint-Tropez (FRA) : Mark Lajal vs Sascha Wayenburg",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Saint-Tropez (FRA) : Moez Echargui vs Ugo Blanchet",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Targu Mures (ROM) - Qualifiers : Radu Mihai Papoe vs Thomas Faurel",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Bad Waltersdorf (AUT) : Vilius Gaubas vs Roman Andres Burruchaga",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "Challenger - Targu Mures (ROM) - Qualifiers : Gabriele Pennaforti vs Dan Alexandru Tomescu",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "Challenger - Targu Mures (ROM) - Qualifiers : Gianluca Cadenasso vs Amaury Raynel",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Targu Mures (ROM) - Qualifiers : Tomasso Compagnucci vs Daniel Uta",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "UTR (F) - Essen (GER) : Julia Victoria Rennert vs Annemarie Lazar",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Challenger - Bad Waltersdorf (AUT) : Matej Dodig vs Zdenek Kolar",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Challenger - Bad Waltersdorf (AUT) : Pedro Martinez vs Marko Topo",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Challenger - Saint-Tropez (FRA) : Rodrigo Pacheco Mendez vs Etienne Donnet",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Challenger - Bad Waltersdorf (AUT) : Thiago Agustin Tirante vs Gabriele Piraino",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Challenger - Saint-Tropez (FRA) : Titouan Droguet vs Luca Potenza",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Challenger - Saint-Tropez (FRA) : Tom Paris vs Gregoire Barrere",
+                "channels": []
+            },
+            {
+                "time": "10:40",
+                "event": "Challenger - Bad Waltersdorf (AUT) : Dennis Novak vs Roberto Carballes Baena",
+                "channels": []
+            },
+            {
+                "time": "10:40",
+                "event": "Challenger - Saint-Tropez (FRA) : Edas Butvilas vs Matteo Gigante",
+                "channels": []
+            },
+            {
+                "time": "10:40",
+                "event": "Challenger - Bad Waltersdorf (AUT) : Kilian Feldbausch vs Hynek Barton",
+                "channels": []
+            },
+            {
+                "time": "10:40",
+                "event": "Challenger - Saint-Tropez (FRA) : Norbert Gombos vs Marek Gengel",
+                "channels": []
+            },
+            {
+                "time": "10:40",
+                "event": "Challenger - Saint-Tropez (FRA) : Pierre Hugues Herbert vs Mikhail Kukushkin",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "UTR (F) - Essen (GER) : Olga Golas vs Anastasiya Kuparev",
+                "channels": []
+            },
+            {
+                "time": "11:50",
+                "event": "Challenger - Saint-Tropez (FRA) : Martin Landaluce vs Federico Cina",
+                "channels": []
+            },
+            {
+                "time": "11:50",
+                "event": "Challenger - Bad Waltersdorf (AUT) : Sebastian Sorger vs Jozef Kovalik",
+                "channels": []
+            },
+            {
+                "time": "11:50",
+                "event": "Challenger - Bad Waltersdorf (AUT) : Thiago Seyboth Wild vs Vit Kopriva",
+                "channels": []
+            },
+            {
+                "time": "11:50",
+                "event": "Challenger - Saint-Tropez (FRA) : Trey Hilderbrand vs Hugo Grenier",
+                "channels": []
+            },
+            {
+                "time": "11:50",
+                "event": "Challenger - Saint-Tropez (FRA) : Valentin Vacherot vs Robin Bertrand",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Challenger - Targu Mures (ROM) : Lorenzo Giustino vs Max Alcala Gurri",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Challenger - Targu Mures (ROM) : Mihai Alexandru Coman vs Sebastian Gima",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Challenger - Bad Waltersdorf (AUT) : Pablo Carreno-Busta vs Lukas Neumayer",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Challenger - Targu Mures (ROM) : Ryan Nijboer vs Miguel Damas",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Challenger - Targu Mures (ROM) : Dimitar Kuzmanov vs Inaki Monte De La Torre",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Challenger - Villa Maria (ARG) : Guido Ivan Justo vs Juan Bautista Torres",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Challenger - Villa Maria (ARG) : Juan Pablo Varillas vs Santiago De La Fuente",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Challenger - Villa Maria (ARG) : Pedro Boscardin Dias vs Juan Carlos Prado Angelo",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Challenger - Saint-Tropez (FRA) - Double : S.Martos Gornes/T.Ruehl vs R.Catry/E.Donnet",
+                "channels": []
+            },
+            {
+                "time": "13:10",
+                "event": "Challenger - Targu Mures (ROM) - Double : A.M.Berge Nourescu/D.F.Pop vs J.Mackinlay/H.Rock",
+                "channels": []
+            },
+            {
+                "time": "13:10",
+                "event": "Challenger - Bad Waltersdorf (AUT) : Cedrik-Marcel Stebe vs Joel Josef Schwarzler",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Targu Mures (ROM) : Alex Marti Pujolras vs Mika Brunold",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Columbus (USA) : Johannus Monday vs Darwin Blanch",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Columbus (USA) : Theo Papamalamis vs Justin Boulais",
+                "channels": []
+            },
+            {
+                "time": "14:10",
+                "event": "Challenger - Villa Maria (ARG) : Lautaro Agustin Falabella vs Juan Manuel La Serna",
+                "channels": []
+            },
+            {
+                "time": "14:10",
+                "event": "Challenger - Villa Maria (ARG) : Luciano Emanuel Ambrogi vs Facundo Bagnis",
+                "channels": []
+            },
+            {
+                "time": "14:10",
+                "event": "Challenger - Villa Maria (ARG) : Matias Soto vs Carlos Maria Zarate",
+                "channels": []
+            },
+            {
+                "time": "14:20",
+                "event": "Challenger - Targu Mures (ROM) - Double : B.Perez/M.Sanchez vs A.C.Dumitru/S.Palosi",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "Challenger - Targu Mures (ROM) - Double : D.Recek/D.Siniakov vs C.S.Bentzel/D.Uta",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "UTR (M) - Lincoln (USA) : Colson Wells vs Karan Raghavendra",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "UTR (M) - Lincoln (USA) : Henry Bilicic vs Niels van der Sijs",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "UTR (F) - Lincoln (USA) : Jaedan Brown vs Isabel Adrover Gallego",
+                "channels": []
+            },
+            {
+                "time": "15:10",
+                "event": "Challenger - Columbus (USA) : Jack Anthrop vs Antoine Ghibaudo",
+                "channels": []
+            },
+            {
+                "time": "15:10",
+                "event": "Challenger - Columbus (USA) : Tyler Zink vs Alexander Bernard",
+                "channels": []
+            },
+            {
+                "time": "15:20",
+                "event": "Challenger - Villa Maria (ARG) : Alex Barrena vs Gonzalo Villanueva",
+                "channels": []
+            },
+            {
+                "time": "15:20",
+                "event": "Challenger - Villa Maria (ARG) : Gonzalo Bueno vs Andrea Collarini",
+                "channels": []
+            },
+            {
+                "time": "15:20",
+                "event": "Challenger - Villa Maria (ARG) : Lautaro Midon vs Hugo Dellien",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Challenger - Saint-Tropez (FRA) : Justin Engel vs Stan Wawrinka",
+                "channels": []
+            },
+            {
+                "time": "16:20",
+                "event": "Challenger - Columbus (USA) : Andre Ilagan vs Sebastian Dominko",
+                "channels": []
+            },
+            {
+                "time": "16:20",
+                "event": "Challenger - Columbus (USA) : Martin Damm Jr vs Aidan Kim",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "Challenger - Villa Maria (ARG) : Facundo Juarez vs Mariano Kestelboim",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "Challenger - Villa Maria (ARG) : Fernando Cavallo vs Federico Agustin Gomez",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Challenger - Columbus (USA) : Abedallah Shelbayh vs Murphy Cassone",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Challenger - Columbus (USA) : Christian Langmo vs Samir Banerjee",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Challenger - Villa Maria (ARG) - Double : P.B.Dias/J.L.R.Silva vs L.Ratti/C.M.Zarate",
+                "channels": []
+            },
+            {
+                "time": "18:40",
+                "event": "Challenger - Columbus (USA) : Alex Rybakov vs Moerani Bouzige",
+                "channels": []
+            },
+            {
+                "time": "18:40",
+                "event": "Challenger - Columbus (USA) : Federico Bondioli vs Andres Martin",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "Challenger - Columbus (USA) - Double : C.J.Lock/T.Mccormick vs S.K.R.Ganta/R.Matsuda",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "Challenger - Columbus (USA) - Double : J.Maginley/A.Perez vs B.Carpico/A.I.Okonkwo",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "Challenger - Villa Maria (ARG) : Nicolas Kicker vs Hernan Casanova",
+                "channels": []
             }
         ],
         "Motorsport</span>": [
@@ -5512,16 +5967,16 @@
                         "channel_id": "777"
                     },
                     {
+                        "channel_name": "TBS USA",
+                        "channel_id": "336"
+                    },
+                    {
                         "channel_name": "truTV USA",
                         "channel_id": "341"
                     },
                     {
                         "channel_name": "Spectrum SportsNet LA",
                         "channel_id": "764"
-                    },
-                    {
-                        "channel_name": "TBS USA",
-                        "channel_id": "336"
                     },
                     {
                         "channel_name": "TVA Sports",
@@ -5647,7 +6102,7 @@
         "Ice Hockey</span>": [
             {
                 "time": "15:30",
-                "event": "- Slovakia Extraliga : HC 05 Banska Bystrica vs. HK Poprad",
+                "event": "Slovakia Extraliga : HC 05 Banska Bystrica vs. HK Poprad",
                 "channels": [
                     {
                         "channel_name": "Sport 1 Czech",
@@ -5794,6 +6249,31 @@
                         "channel_id": "160"
                     }
                 ]
+            },
+            {
+                "time": "17:45",
+                "event": "Swiss - NLA : Ajoie vs Rapperswil Jona Lakers",
+                "channels": []
+            },
+            {
+                "time": "17:45",
+                "event": "Swiss - NLA : Biel Bienne vs Lugano",
+                "channels": []
+            },
+            {
+                "time": "17:45",
+                "event": "Swiss - NLA : EV Zug vs Fribourg Gotteron",
+                "channels": []
+            },
+            {
+                "time": "17:45",
+                "event": "Swiss - NLA : Langenau Tigers vs ZSC Lions",
+                "channels": []
+            },
+            {
+                "time": "17:45",
+                "event": "Swiss - NLA : SC Bern vs Ambri Piotta",
+                "channels": []
             },
             {
                 "time": "17:45",
