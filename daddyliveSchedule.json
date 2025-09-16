@@ -1428,7 +1428,11 @@
                         "channel_id": "7"
                     },
                     {
-                        "channel_name": "Fox Sports 2 Argentina (CH-788) SuperSport Variety 3",
+                        "channel_name": "Fox Sports 2 Argentina",
+                        "channel_id": "788"
+                    },
+                    {
+                        "channel_name": "SuperSport Variety 3",
                         "channel_id": "418"
                     },
                     {
