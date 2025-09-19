@@ -1,5 +1,167 @@
 {
     "Friday 19th Sep 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:00",
+                "event": "2025 Bridge Wars at Cecil County Dragway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "2025 Dirt Duels at New Hampshire Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Night of Champions XII : Kevin Brown vs. Juan Meza Angulo",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "2025 4-Crown Nationals at Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 Lucas Oil Late Model Nationals at Knoxville Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Williams Grove Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Jackson Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2025 IRA Sprints/Jackson Nationals at Jackson Motorplex",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2025 MARS Late Models at Brownstown Bullring",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "American Sprint Car Series Paducah",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Alabama State Championships East Alabama",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Pink Lady Classic Meridian",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "World of Outlaws Sprint Cars Thunderbowl",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Primos Pro Wrestling: Slave to the Deathmatch 16, Night 1",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "107"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "CMLL 92nd Anniversary",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "GCW: Keep in Touch 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "109"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
