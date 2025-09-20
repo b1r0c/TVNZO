@@ -1,5 +1,205 @@
 {
     "Saturday 20th Sep 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "16:00",
+                "event": "Alabam State Championships East Alabama",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "2"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "2025 SMART Modified Tour Mod Squad Nationals At Franklin County",
+                "channels": [
+                    {
+                        "channel_name": "Fkoracing",
+                        "channel_id": "206"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "Full Contact Contender : FCC 43",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "197"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "2025 Monster Truck Throwdown at Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Fkoracing",
+                        "channel_id": "199"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "AEW All Out Toronto 2025",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "200"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "AMA Supercross Championship Las Vegas",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "201"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "2025 INEX Legends National Qualifier at Riverhead Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Fkoracing",
+                        "channel_id": "202"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "Super DIRTcar Series Albany Saratoga",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "203"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "2025 4-Crown Nationals at Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Fkoracing",
+                        "channel_id": "204"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Volusia Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "205"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Fall Clash at Clinton County Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Fkoracing",
+                        "channel_id": "206"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "WWE Wrestlepalooza",
+                "channels": [
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "207"
+                    },
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "208"
+                    },
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "209"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "American Sprint Car Series I55 Federated",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "210"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "IRA Sprints Jackson Nationals",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "211"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "BAD BUNNY \u2013 NO ME QUIERO IR DE AQU\u00cd",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "212"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "World of Outlaws Sprint Cars Thunderbowl",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "213"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Cage Fury 15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "214"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Primos Pro Wrestling: Slave to the Deathmatch 16, Night 2",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "215"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "GCW: Homecoming, Los Angeles 2025",
+                "channels": [
+                    {
+                        "channel_name": "Fkoracing",
+                        "channel_id": "216"
+                    }
+                ]
+            }
+        ],
         "England \u2013 Championship/League One/League Two/Scottish</span>": [
             {
                 "time": "11:30",
