@@ -16,7 +16,7 @@
                 "event": "2025 SMART Modified Tour Mod Squad Nationals At Franklin County",
                 "channels": [
                     {
-                        "channel_name": "Fkoracing",
+                        "channel_name": "FLORacing",
                         "channel_id": "206"
                     }
                 ]
@@ -36,7 +36,7 @@
                 "event": "2025 Monster Truck Throwdown at Slinger Speedway",
                 "channels": [
                     {
-                        "channel_name": "Fkoracing",
+                        "channel_name": "FLORacing",
                         "channel_id": "199"
                     }
                 ]
@@ -66,7 +66,7 @@
                 "event": "2025 INEX Legends National Qualifier at Riverhead Raceway",
                 "channels": [
                     {
-                        "channel_name": "Fkoracing",
+                        "channel_name": "FLORacing",
                         "channel_id": "202"
                     }
                 ]
@@ -86,7 +86,7 @@
                 "event": "2025 4-Crown Nationals at Eldora Speedway",
                 "channels": [
                     {
-                        "channel_name": "Fkoracing",
+                        "channel_name": "FLORacing",
                         "channel_id": "204"
                     }
                 ]
@@ -106,7 +106,7 @@
                 "event": "2025 Fall Clash at Clinton County Speedway",
                 "channels": [
                     {
-                        "channel_name": "Fkoracing",
+                        "channel_name": "FLORacing",
                         "channel_id": "206"
                     }
                 ]
@@ -10605,7 +10605,7 @@
                     },
                     {
                         "channel_name": "beIN Sports MENA 4",
-                        "channel_id": "84"
+                        "channel_id": "94"
                     },
                     {
                         "channel_name": "5Plus Israel",
@@ -13538,6 +13538,184 @@
                     {
                         "channel_name": "ACC Network",
                         "channel_id": "664"
+                    }
+                ]
+            }
+        ],
+        "Tennis LAVER CUP</span>": [
+            {
+                "time": "20:00",
+                "event": "LAVER CUP : Zverev A. vs De Minaur A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "LAVER CUP : Rune H. vs Cerundolo F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "LAVER CUP : Alcaraz C. vs Fritz T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "LAVER CUP : Ruud C./Rune H. vs De Minaur A./Michelsen A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - CHENGDU</span>": [
+            {
+                "time": "05:00",
+                "event": "ATP - CHENGDU : O'Connell C. vs Tabilo A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "ATP - CHENGDU : Giron M. vs Nakashima B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - CHENGDU : Musetti L. vs Basilashvili N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "09:30",
+                "event": "ATP - CHENGDU : Daniel T. vs Shevchenko A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - HANGZHOU</span>": [
+            {
+                "time": "05:30",
+                "event": "ATP - HANGZHOU : Moutet C. vs Etcheverry T. M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "ATP - HANGZHOU : Royer V. vs Tien L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "08:30",
+                "event": "ATP - HANGZHOU : Wu Y. vs Medvedev D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - HANGZHOU : Svrcina D. vs Bublik A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "Tennis BJK CUP</span>": [
+            {
+                "time": "09:00",
+                "event": "BJK CUP : USA vs Italy",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - SEOUL</span>": [
+            {
+                "time": "08:00",
+                "event": "WTA - SEOUL : Swiatek I. vs Alexandrova E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
                     }
                 ]
             }
