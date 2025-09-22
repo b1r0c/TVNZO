@@ -2,7 +2,7 @@
     "Monday 22nd Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "15:30",
+                "time": "17:37",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": [
                     {
@@ -30,7 +30,7 @@
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "15:30",
+                "time": "17:37",
                 "event": "Big Brother Naija 2025",
                 "channels": [
                     {
@@ -720,6 +720,56 @@
                     {
                         "channel_name": "Sportklub HD Croatia",
                         "channel_id": "453"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Franec Ligue 1 : Olympique Marseille vs PSG",
+                "channels": [
+                    {
+                        "channel_name": "DAZN France",
+                        "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "beIN SPORTS USA",
+                        "channel_id": "425"
+                    },
+                    {
+                        "channel_name": "Sky Sport Uno IT",
+                        "channel_id": "461"
+                    },
+                    {
+                        "channel_name": "beIN SPORTS en Espa\u00f1ol",
+                        "channel_id": "372"
+                    },
+                    {
+                        "channel_name": "beIN Sports 4 Turkey",
+                        "channel_id": "67"
+                    },
+                    {
+                        "channel_name": "Canal+ Sport 2 Afrique",
+                        "channel_id": "487"
+                    },
+                    {
+                        "channel_name": "beIN Sports HD 1",
+                        "channel_id": "91"
+                    },
+                    {
+                        "channel_name": "ESPN2 Argentina",
+                        "channel_id": "150"
+                    },
+                    {
+                        "channel_name": "Diema Sport 2 Bulgaria",
+                        "channel_id": "466"
+                    },
+                    {
+                        "channel_name": "5 Plus Israel",
+                        "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "5 Live Israel",
+                        "channel_id": "146"
                     }
                 ]
             },
