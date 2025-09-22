@@ -1,5 +1,41 @@
 {
     "Sunday 21st Sep 2025 - Schedule Time UK GMT": {
+        "Big Brother 27 USA 2025 Live</span>": [
+            {
+                "time": "01:21",
+                "event": "Big Brother 27 Multi Cam",
+                "channels": [
+                    {
+                        "channel_name": "MultiFeed",
+                        "channel_id": "277"
+                    },
+                    {
+                        "channel_name": "BBFeed 1",
+                        "channel_id": "261"
+                    },
+                    {
+                        "channel_name": "BBFeed 2 (CH-262)  BBFeed 3",
+                        "channel_id": "263"
+                    },
+                    {
+                        "channel_name": "BBFeed 4",
+                        "channel_id": "264"
+                    }
+                ]
+            }
+        ],
+        "Big Brother Naija 2025 Live</span>": [
+            {
+                "time": "01:21",
+                "event": "Big Brother Naija 2025",
+                "channels": [
+                    {
+                        "channel_name": "MainFeed",
+                        "channel_id": "230"
+                    }
+                ]
+            }
+        ],
         "PPV Events</span>": [
             {
                 "time": "16:00",
