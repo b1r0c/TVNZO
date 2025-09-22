@@ -2,7 +2,7 @@
     "Monday 22nd Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "07:37",
+                "time": "15:30",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": [
                     {
@@ -30,7 +30,7 @@
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "07:37",
+                "time": "15:30",
                 "event": "Big Brother Naija 2025",
                 "channels": [
                     {
@@ -727,6 +727,10 @@
                 "time": "18:00",
                 "event": "FIFA Ballon d'Or Ceremony",
                 "channels": [
+                    {
+                        "channel_name": "CBS Sports Golazo",
+                        "channel_id": "910"
+                    },
                     {
                         "channel_name": "DAZN2 DE",
                         "channel_id": "427"
