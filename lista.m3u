@@ -142,13 +142,13 @@ https://vavoo.to/play/2272923972/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2861734300/index.m3u8
+https://vavoo.to/play/2828455552/index.m3u8
 
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai",RAI PREMIUM (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2828455552/index.m3u8
+https://vavoo.to/play/2861734300/index.m3u8
 
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai",RAI PREMIUM (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -658,13 +658,13 @@ https://vavoo.to/play/558282118/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3165086929/index.m3u8
+https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2881739927/index.m3u8
+https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -892,13 +892,13 @@ https://new.newkso.ru/wind/premium866/mono.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/415795144/index.m3u8
+https://vavoo.to/play/3216516117/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV",SKY CINEMA FAMILY (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3216516117/index.m3u8
+https://vavoo.to/play/415795144/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV",SKY CINEMA FAMILY (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -982,13 +982,13 @@ https://vavoo.to/play/1944682394/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/4272937805/index.m3u8
+https://vavoo.to/play/2268489342/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 10 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2268489342/index.m3u8
+https://vavoo.to/play/4272937805/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 12
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1066,25 +1066,25 @@ https://vavoo.to/play/3137990890/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2255083866/index.m3u8
+https://vavoo.to/play/2909818756/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 5 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2909818756/index.m3u8
+https://vavoo.to/play/2255083866/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 6
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3251217290/index.m3u8
+https://vavoo.to/play/3939513684/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 6 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3939513684/index.m3u8
+https://vavoo.to/play/3251217290/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 7
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1318,13 +1318,13 @@ https://vavoo.to/play/3267376899/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3554841914/index.m3u8
+https://vavoo.to/play/1955739367/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1955739367/index.m3u8
+https://vavoo.to/play/3554841914/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Documentari",DISCOVERY FOCUS
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1696,13 +1696,13 @@ https://vavoo.to/play/996680722/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3107500995/index.m3u8
+https://vavoo.to/play/2749478718/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro",CANALE 8 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2749478718/index.m3u8
+https://vavoo.to/play/3107500995/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARINA TV" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro",CARINA TV
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1978,13 +1978,13 @@ https://vavoo.to/play/3832171692/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/84139639/index.m3u8
+https://vavoo.to/play/1425667375/index.m3u8
 
 #EXTINF:-1 tvg-id="la.5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1425667375/index.m3u8
+https://vavoo.to/play/84139639/index.m3u8
 
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-name="LA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -2710,16 +2710,10 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="coppaitaliacagliarivsfrosinone" tvg-name="All Soccer Events | Coppa Italia : Cagliari vs Frosinone (17:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Cagliari_vs_Frosinone.png" group-title="Eventi Live",All Soccer Events | Coppa Italia : Cagliari vs Frosinone (17:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium857/mono.m3u8
-
 #EXTINF:-1 tvg-id="coppaitaliaudinesevspalermo" tvg-name="All Soccer Events | Coppa Italia : Udinese vs Palermo (18:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Udinese_vs_Palermo.png" group-title="Eventi Live",All Soccer Events | Coppa Italia : Udinese vs Palermo (18:30)
 https://thedaddy.click/stream/stream-8.php
 
-#EXTINF:-1 tvg-id="italyseriecnuovamonterosivsrimini" tvg-name="All Soccer Events | Italy - Serie C : Nuova Monterosi vs Rimini (18:30)" tvg-logo="https://www.prefissotelefonico.it/telefono.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Nuova Monterosi vs Rimini (18:30)
+#EXTINF:-1 tvg-id="italyseriecnuovamonterosivsrimini" tvg-name="All Soccer Events | Italy - Serie C : Nuova Monterosi vs Rimini (18:30)" tvg-logo="https://sport-science.org/images/ECSS_2025/Rimini_2024.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Nuova Monterosi vs Rimini (18:30)
 https://thedaddy.click/stream/stream-19.php
 
 #EXTINF:-1 tvg-id="italyseriecternanavspontedera" tvg-name="All Soccer Events | Italy - Serie C : Ternana vs Pontedera (18:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Ternana_vs_Pontedera.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Ternana vs Pontedera (18:30)
@@ -2737,16 +2731,16 @@ https://new.newkso.ru/dokko1/premium460/mono.m3u8
 #EXTINF:-1 tvg-id="italyseriecforlìvsvispesaro" tvg-name="All Soccer Events | Italy - Serie C : Forlì vs Vis Pesaro (18:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Forlì_vs_Vis Pesaro.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Forlì vs Vis Pesaro (18:30)
 https://thedaddy.click/stream/stream-22.php
 
-#EXTINF:-1 tvg-id="italyseriecpianesevsarezzo" tvg-name="All Soccer Events | Italy - Serie C : Pianese vs Arezzo (18:30)" tvg-logo="https://www.stradadelvino.arezzo.it/wp-content/uploads/2019/02/logo_strada.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Pianese vs Arezzo (18:30)
+#EXTINF:-1 tvg-id="italyseriecpianesevsarezzo" tvg-name="All Soccer Events | Italy - Serie C : Pianese vs Arezzo (18:30)" tvg-logo="https://images.seeklogo.com/logo-png/33/3/ss-arezzo-1923-logo-png_seeklogo-338364.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Pianese vs Arezzo (18:30)
 https://thedaddy.click/stream/stream-23.php
 
-#EXTINF:-1 tvg-id="italyseriecpianesevsarezzo" tvg-name="All Soccer Events | Italy - Serie C : Pianese vs Arezzo (18:30)" tvg-logo="https://www.stradadelvino.arezzo.it/wp-content/uploads/2019/02/logo_strada.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Pianese vs Arezzo (18:30)
+#EXTINF:-1 tvg-id="italyseriecpianesevsarezzo" tvg-name="All Soccer Events | Italy - Serie C : Pianese vs Arezzo (18:30)" tvg-logo="https://images.seeklogo.com/logo-png/33/3/ss-arezzo-1923-logo-png_seeklogo-338364.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Pianese vs Arezzo (18:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecjuventusiivssassaritorres" tvg-name="All Soccer Events | Italy - Serie C : Juventus II vs Sassari Torres (18:30)" tvg-logo="https://fastpng.com/images/file/juventus-logo-png-9o9rjqann4ojt6ua.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Juventus II vs Sassari Torres (18:30)
+#EXTINF:-1 tvg-id="italyseriecjuventusiivssassaritorres" tvg-name="All Soccer Events | Italy - Serie C : Juventus II vs Sassari Torres (18:30)" tvg-logo="https://static.vecteezy.com/system/resources/previews/027/076/035/non_2x/juventus-logo-transparent-free-png.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Juventus II vs Sassari Torres (18:30)
 https://thedaddy.click/stream/stream-24.php
 
 #EXTINF:-1 tvg-id="italyseriecbravslivorno" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Livorno (20:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Bra_vs_Livorno.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Bra vs Livorno (20:45)
@@ -2775,12 +2769,6 @@ https://new.newkso.ru/dokko1/premium460/mono.m3u8
 
 #EXTINF:-1 tvg-id="coppaitaliamilanvslecce" tvg-name="All Soccer Events | Coppa Italia : Milan vs Lecce (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Milan_vs_Lecce.png" group-title="Eventi Live",All Soccer Events | Coppa Italia : Milan vs Lecce (21:00)
 https://thedaddy.click/stream/stream-8.php
-
-#EXTINF:-1 tvg-id="uefafutsaleuroqualificationkazakhstanvsitaly" tvg-name="Futsal | UEFA Futsal EURO Qualification : Kazakhstan vs. Italy (16:30)" tvg-logo="https://www.liblogo.com/img-logo/it1289i8ba-italy-logo-italy-logo-free-png.png" group-title="Eventi Live",Futsal | UEFA Futsal EURO Qualification : Kazakhstan vs. Italy (16:30)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/ddy6/premium882/mono.m3u8
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
