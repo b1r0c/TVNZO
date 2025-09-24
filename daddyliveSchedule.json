@@ -2,7 +2,7 @@
     "Wednesday 24th Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "07:12",
+                "time": "19:23",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": [
                     {
@@ -30,7 +30,7 @@
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "07:12",
+                "time": "19:23",
                 "event": "Big Brother Naija 2025",
                 "channels": [
                     {
@@ -2148,8 +2148,12 @@
                         "channel_id": "429"
                     },
                     {
-                        "channel_name": "SuperSport Premier League beIN Sports MAX 6 France (CH-496)",
+                        "channel_name": "SuperSport Premier League",
                         "channel_id": "414"
+                    },
+                    {
+                        "channel_name": "beIN Sports MAX 6 France",
+                        "channel_id": "496"
                     },
                     {
                         "channel_name": "Supersport Grandstand",
