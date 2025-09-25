@@ -2710,7 +2710,7 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecrenatevsospitaletto" tvg-name="Soccer | Italy - Serie C : Renate vs Ospitaletto (18:30)" tvg-logo="https://renateclinic.com/wp-content/uploads/2019/12/RENATE-logo.png" group-title="Eventi Live",Soccer | Italy - Serie C : Renate vs Ospitaletto (18:30)
+#EXTINF:-1 tvg-id="italyseriecrenatevsospitaletto" tvg-name="Soccer | Italy - Serie C : Renate vs Ospitaletto (18:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Renate_vs_Ospitaletto.png" group-title="Eventi Live",Soccer | Italy - Serie C : Renate vs Ospitaletto (18:30)
 https://thedaddy.click/stream/stream-5.php
 
 #EXTINF:-1 tvg-id="italyseriecpropatriavsalbinoleffe" tvg-name="Soccer | Italy - Serie C : Pro Patria vs AlbinoLeffe (18:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Pro Patria_vs_AlbinoLeffe.png" group-title="Eventi Live",Soccer | Italy - Serie C : Pro Patria vs AlbinoLeffe (18:30)
@@ -2719,7 +2719,7 @@ https://thedaddy.click/stream/stream-6.php
 #EXTINF:-1 tvg-id="italyseriecunionarzignanochiampovsalcione" tvg-name="Soccer | Italy - Serie C : Union ArzignanoChiampo vs Alcione (18:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Union ArzignanoChiampo_vs_Alcione.png" group-title="Eventi Live",Soccer | Italy - Serie C : Union ArzignanoChiampo vs Alcione (18:30)
 https://thedaddy.click/stream/stream-7.php
 
-#EXTINF:-1 tvg-id="italyseriecgianaerminiovsvirtusverona" tvg-name="Soccer | Italy - Serie C : Giana Erminio vs Virtus Verona (18:30)" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/568741.png" group-title="Eventi Live",Soccer | Italy - Serie C : Giana Erminio vs Virtus Verona (18:30)
+#EXTINF:-1 tvg-id="italyseriecgianaerminiovsvirtusverona" tvg-name="Soccer | Italy - Serie C : Giana Erminio vs Virtus Verona (18:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Giana Erminio_vs_Virtus Verona.png" group-title="Eventi Live",Soccer | Italy - Serie C : Giana Erminio vs Virtus Verona (18:30)
 https://thedaddy.click/stream/stream-8.php
 
 #EXTINF:-1 tvg-id="italyseriectrentovspergolettese" tvg-name="Soccer | Italy - Serie C : Trento vs Pergolettese (18:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Trento_vs_Pergolettese.png" group-title="Eventi Live",Soccer | Italy - Serie C : Trento vs Pergolettese (18:30)
@@ -2773,13 +2773,13 @@ https://thedaddy.click/stream/stream-8.php
 #EXTINF:-1 tvg-id="italyseriecprovercellivslecco" tvg-name="Soccer | Italy - Serie C : Pro Vercelli vs Lecco (20:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Pro Vercelli_vs_Lecco.png" group-title="Eventi Live",Soccer | Italy - Serie C : Pro Vercelli vs Lecco (20:45)
 https://thedaddy.click/stream/stream-30.php
 
-#EXTINF:-1 tvg-id="italyseriecunionbresciavsnovara" tvg-name="Soccer | Italy - Serie C : Union Brescia vs Novara (20:45)" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fsoccer%2F500%2F3954.png" group-title="Eventi Live",Soccer | Italy - Serie C : Union Brescia vs Novara (20:45)
+#EXTINF:-1 tvg-id="italyseriecunionbresciavsnovara" tvg-name="Soccer | Italy - Serie C : Union Brescia vs Novara (20:45)" tvg-logo="https://seeklogo.com/images/A/ac-novara-1950-s-logo-FE1E854F6E-seeklogo.com.png" group-title="Eventi Live",Soccer | Italy - Serie C : Union Brescia vs Novara (20:45)
 https://thedaddy.click/stream/stream-7.php
 
 #EXTINF:-1 tvg-id="uefaeuropaleagueutrechtvsolympiquelyonnais" tvg-name="Soccer | UEFA Europa League : Utrecht vs Olympique Lyonnais (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Utrecht_vs_Olympique Lyonnais.png" group-title="Eventi Live",Soccer | UEFA Europa League : Utrecht vs Olympique Lyonnais (21:00)
 https://thedaddy.click/stream/stream-9.php
 
-#EXTINF:-1 tvg-id="uefaeuropaleaguestuttgartvsceltadevigo" tvg-name="Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (21:00)" tvg-logo="https://logoeps.com/wp-content/uploads/2013/11/rc-celta-de-vigo-vector-logo.png" group-title="Eventi Live",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (21:00)
+#EXTINF:-1 tvg-id="uefaeuropaleaguestuttgartvsceltadevigo" tvg-name="Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (21:00)" tvg-logo="https://logodetimes.com/times/celta-vigo/logo-celta-vigo-4096.png" group-title="Eventi Live",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (21:00)
 https://thedaddy.click/stream/stream-5.php
 
 #EXTINF:-1 tvg-id="uefaeuropaleagueastonvillavsbologna" tvg-name="Soccer | UEFA Europa League : Aston Villa vs Bologna (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Aston Villa_vs_Bologna.png" group-title="Eventi Live",Soccer | UEFA Europa League : Aston Villa vs Bologna (21:00)
@@ -2820,12 +2820,6 @@ https://new.newkso.ru/ddy6/premium576/mono.m3u8
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/ddy6/premium576/mono.m3u8
-
-#EXTINF:-1 tvg-id="motogpgrandprixofjapanfreepractice" tvg-name="Motorsport | MotoGP : Grand Prix of Japan Free Practice (02:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : Grand Prix of Japan Free Practice (02:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/nfs/premium575/mono.m3u8
 
 #EXTINF:-1 tvg-id="moto2grandprixofjapanfreepractice" tvg-name="Motorsport | Moto 2 : Grand Prix of Japan Free Practice (03:00)" tvg-logo="https://images.seeklogo.com/logo-png/41/2/promo-moto-logo-png_seeklogo-410858.png?v=1957666023356010152" group-title="Eventi Live",Motorsport | Moto 2 : Grand Prix of Japan Free Practice (03:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
