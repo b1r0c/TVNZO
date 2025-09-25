@@ -2,7 +2,7 @@
     "Thursday 25th Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "08:03",
+                "time": "18:12",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": [
                     {
@@ -30,7 +30,7 @@
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "08:03",
+                "time": "18:12",
                 "event": "Big Brother Naija 2025",
                 "channels": [
                     {
@@ -937,7 +937,7 @@
                 "channels": [
                     {
                         "channel_name": "Jordan TV Sport",
-                        "channel_id": "298"
+                        "channel_id": "29"
                     }
                 ]
             },
@@ -3285,7 +3285,7 @@
                     },
                     {
                         "channel_name": "Arena Sport 2 Serbia",
-                        "channel_id": "530"
+                        "channel_id": "430"
                     },
                     {
                         "channel_name": "Arena Sport 2 Croatia",
