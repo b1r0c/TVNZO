@@ -2,7 +2,7 @@
     "Friday 26th Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "08:14",
+                "time": "13:39",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": [
                     {
@@ -30,12 +30,144 @@
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "08:14",
+                "time": "13:39",
                 "event": "Big Brother Naija 2025",
                 "channels": [
                     {
                         "channel_name": "MainFeed",
                         "channel_id": "230"
+                    }
+                ]
+            }
+        ],
+        "PPV Events</span>": [
+            {
+                "time": "16:00",
+                "event": "MotoAmerica Superbikes New Jersey",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "wXw: Pro Wrestling Grand Prix 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "2025 Glen Helen Off-Road National",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Weekly Racing at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "wXw: Extreme Wrestling Party 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Victoria Weekend at Utica-Rome Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "World of Outlaws Millstream Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "2025 USAC AMSOIL National Sprint Cars at Paragon Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "2025 Short Track Super Series Montgomery County Open at Fonda Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Lucas Oil Jackson 100 at Brownstown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Williams Grove Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "TNA Wrestling: Victory Road 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "Budo Sento Championship VOl 3",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "161"
                     }
                 ]
             }
