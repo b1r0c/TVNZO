@@ -2,7 +2,7 @@
     "Thursday 25th Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "00:29",
+                "time": "02:27",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": [
                     {
@@ -30,7 +30,7 @@
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "00:29",
+                "time": "02:27",
                 "event": "Big Brother Naija 2025",
                 "channels": [
                     {
@@ -3968,7 +3968,7 @@
     "Friday 26th Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "00:29",
+                "time": "02:27",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": [
                     {
@@ -3996,7 +3996,7 @@
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "00:29",
+                "time": "02:27",
                 "event": "Big Brother Naija 2025",
                 "channels": [
                     {
@@ -5798,6 +5798,341 @@
                 ]
             }
         ],
+        "Tennis ATP - BEIJING</span>": [
+            {
+                "time": "03:00",
+                "event": "ATP - BEIJING : Goffin D. vs Rinderknech A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "ATP - BEIJING : Kecmanovic M. vs Mensik J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "ATP - BEIJING : Rublev A. vs Cobolli F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "ATP - BEIJING : Shang J. vs Cazaux A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "ATP - BEIJING : Tien L. vs Cerundolo F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "ATP - BEIJING : De Minaur A. vs Bu Y.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "ATP - BEIJING : Mannarino A. vs Bublik A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "ATP - BEIJING : Moutet C. vs Griekspoor T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "ATP - BEIJING : Medvedev D. vs Norrie C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - BEIJING : Mpetshi Perricard G. vs Musetti L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - BEIJING : Sonego L. vs Zverev A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "Tennis \u0391\u03a4\u03a1 - \u03a4\u039f\u039aYO</span>": [
+            {
+                "time": "02:00",
+                "event": "\u0391\u03a4\u03a1 - \u03a4\u039f\u039aYO : Vukic A. vs Altmaier D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "\u0391\u03a4\u03a1 - \u03a4\u039f\u039aYO : Shimabukuro S. vs Korda S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "\u0391\u03a4\u03a1 - \u03a4\u039f\u039aYO : Borges N. vs Fritz T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "08:30",
+                "event": "\u0391\u03a4\u03a1 - \u03a4\u039f\u039aYO : Ruud C. vs Berrettini M.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - BEIJING</span>": [
+            {
+                "time": "03:00",
+                "event": "WTA - BEIJING : Fernandez L. vs Sakkari M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "WTA - BEIJING : Kudermetova P. vs Kenin S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "WTA - BEIJING : Rakhimova K. vs Gauff C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - BEIJING : Bouzkova M. vs Linette M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - BEIJING : Lys E. vs Jovic L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "WTA - BEIJING : Rybakina E. vs McNally C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "WTA - BEIJING : Kudermetova V. vs Bondar A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "WTA - BEIJING : Ruzic A. vs Badosa P.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "WTA - BEIJING : Paolini J. vs Sevastova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "WTA - BEIJING : Hon P. vs Ostapenko J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "WTA - BEIJING : Krejcikova B. vs Alexandrova E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "WTA - BEIJING : Mertens E. vs Kessler M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "WTA - BEIJING : Boulter K. vs Anisimova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "WTA - BEIJING : Bencic B. vs Volynets K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "WTA - BEIJING : Muchova K. vs Cirstea S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - BEIJING : Wang Xin. vs Zhang S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "11:00",
@@ -6846,7 +7181,7 @@
                 ]
             }
         ],
-        "Baseball</span>": [
+        "Baseball (MLB)</span>": [
             {
                 "time": "09:00",
                 "event": "NPB Baseball : Nippon Ham Fighters vs Seibu Lions",
@@ -7268,6 +7603,28 @@
                 ]
             },
             {
+                "time": "02:00",
+                "event": "Women's Rapid League : Whai vs Queens",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sport 6 NZ",
+                        "channel_id": "593"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "New Zealand Basketball Tournament : Whai vs Queens",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sport 6 NZ",
+                        "channel_id": "593"
+                    }
+                ]
+            }
+        ],
+        "WNBA</span>": [
+            {
                 "time": "23:30",
                 "event": "WNBA : Indiana Fever W vs Las Vegas Aces W",
                 "channels": [
@@ -7308,26 +7665,6 @@
                     {
                         "channel_name": "ESPN Deportes",
                         "channel_id": "375"
-                    }
-                ]
-            },
-            {
-                "time": "02:00",
-                "event": "Women's Rapid League : Whai vs Queens",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sport 6 NZ",
-                        "channel_id": "593"
-                    }
-                ]
-            },
-            {
-                "time": "03:00",
-                "event": "New Zealand Basketball Tournament : Whai vs Queens",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sport 6 NZ",
-                        "channel_id": "593"
                     }
                 ]
             }
@@ -7904,7 +8241,9 @@
                         "channel_id": "700"
                     }
                 ]
-            },
+            }
+        ],
+        "NHL</span>": [
             {
                 "time": "23:00",
                 "event": "NHL : Carolina Hurricanes vs Tampa Bay Lightning",
@@ -8360,7 +8699,9 @@
                         "channel_id": "104"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA Women's Volleyball</span>": [
             {
                 "time": "23:00",
                 "event": "Women's College Volleyball : Alabama vs Auburn",
