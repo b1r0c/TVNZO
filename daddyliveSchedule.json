@@ -2,7 +2,7 @@
     "Thursday 25th Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "02:27",
+                "time": "03:33",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": [
                     {
@@ -30,7 +30,7 @@
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "02:27",
+                "time": "03:33",
                 "event": "Big Brother Naija 2025",
                 "channels": [
                     {
@@ -3968,7 +3968,7 @@
     "Friday 26th Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "02:27",
+                "time": "03:33",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": [
                     {
@@ -3996,7 +3996,7 @@
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "02:27",
+                "time": "03:33",
                 "event": "Big Brother Naija 2025",
                 "channels": [
                     {
@@ -4338,7 +4338,7 @@
                 ]
             }
         ],
-        "Soccer</span>": [
+        "Soccer - Ireland Republic</span>": [
             {
                 "time": "18:45",
                 "event": "Ireland Republic - Premier Division : Drogheda United vs Derry City",
@@ -4428,7 +4428,9 @@
                         "channel_id": "166"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events</span>": [
             {
                 "time": "11:30",
                 "event": "Azerbaijan - Premier Liqa : Mil-Mu\u011fan vs Zira",
@@ -5948,7 +5950,12 @@
             {
                 "time": "08:30",
                 "event": "\u0391\u03a4\u03a1 - \u03a4\u039f\u039aYO : Ruud C. vs Berrettini M.",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
             }
         ],
         "Tennis WTA - BEIJING</span>": [
