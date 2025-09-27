@@ -2,7 +2,7 @@
     "Friday 26th Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "00:59",
+                "time": "02:13",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": [
                     {
@@ -30,7 +30,7 @@
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "00:59",
+                "time": "02:13",
                 "event": "Big Brother Naija 2025",
                 "channels": [
                     {
@@ -9590,7 +9590,7 @@
                 ]
             }
         ],
-        "ATP - BEIJING</span>": [
+        "Tennis ATP - BEIJING</span>": [
             {
                 "time": "03:00",
                 "event": "ATP - BEIJING : Marozsan F. vs Muller A.",
@@ -9636,7 +9636,7 @@
                 ]
             }
         ],
-        "ATP - TOKYO</span>": [
+        "Tennis ATP - TOKYO</span>": [
             {
                 "time": "02:00",
                 "event": "ATP - TOKYO : Brooksby J. vs Darderi L.",
@@ -9682,7 +9682,7 @@
                 ]
             }
         ],
-        "WTA - BEIJING</span>": [
+        "Tennis WTA - BEIJING</span>": [
             {
                 "time": "03:00",
                 "event": "WTA - BEIJING : Bouzas Maneiro J. vs Yastremska D.",
@@ -9855,11 +9855,11 @@
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1515"
+                        "channel_id": "1502"
                     },
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1502"
+                        "channel_id": "1515"
                     }
                 ]
             }
