@@ -970,13 +970,13 @@ https://new.newkso.ru/wind/premium863/mono.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1944682394/index.m3u8
+https://vavoo.to/play/1492183364/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 1 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1492183364/index.m3u8
+https://vavoo.to/play/1944682394/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 10
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -2710,57 +2710,6 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieacomovscremonese" tvg-name="All Soccer Events | Italy - Serie A : Como vs Cremonese (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Como_vs_Cremonese.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A : Como vs Cremonese (15:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/nfs/premium877/mono.m3u8
-
-#EXTINF:-1 tvg-id="italyseriebcesenavspalermo" tvg-name="All Soccer Events | Italy - Serie B : Cesena vs Palermo (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Cesena_vs_Palermo.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Cesena vs Palermo (15:00)
-https://thedaddy.click/stream/stream-55.php
-
-#EXTINF:-1 tvg-id="italyseriebmantovavsfrosinone" tvg-name="All Soccer Events | Italy - Serie B : Mantova vs Frosinone (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Mantova_vs_Frosinone.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Mantova vs Frosinone (15:00)
-https://thedaddy.click/stream/stream-59.php
-
-#EXTINF:-1 tvg-id="italyseriebavellinovsvirtusentella" tvg-name="All Soccer Events | Italy - Serie B : Avellino vs Virtus Entella (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Avellino_vs_Virtus Entella.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Avellino vs Virtus Entella (15:00)
-https://thedaddy.click/stream/stream-68.php
-
-#EXTINF:-1 tvg-id="italyseriebsüdtirolvsreggiana" tvg-name="All Soccer Events | Italy - Serie B : Südtirol vs Reggiana (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Südtirol_vs_Reggiana.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Südtirol vs Reggiana (15:00)
-https://thedaddy.click/stream/stream-69.php
-
-#EXTINF:-1 tvg-id="italyseriebveneziavsspezia" tvg-name="All Soccer Events | Italy - Serie B : Venezia vs Spezia (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Venezia_vs_Spezia.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Venezia vs Spezia (15:00)
-https://thedaddy.click/stream/stream-76.php
-
-#EXTINF:-1 tvg-id="italyseriecsassaritorresvsascoli" tvg-name="All Soccer Events | Italy - Serie C : Sassari Torres vs Ascoli (15:00)" tvg-logo="https://logodix.com/logo/2198609.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Sassari Torres vs Ascoli (15:00)
-https://thedaddy.click/stream/stream-208.php
-
-#EXTINF:-1 tvg-id="italyseriecbravsnuovamonterosi" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Nuova Monterosi (15:00)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/01/BRA-Logo.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Bra vs Nuova Monterosi (15:00)
-https://thedaddy.click/stream/stream-209.php
-
-#EXTINF:-1 tvg-id="italyserieclivornovscampobasso" tvg-name="All Soccer Events | Italy - Serie C : Livorno vs Campobasso (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Livorno_vs_Campobasso.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Livorno vs Campobasso (15:00)
-https://thedaddy.click/stream/stream-210.php
-
-#EXTINF:-1 tvg-id="italyseriecsambenedettesevsjuventusii" tvg-name="All Soccer Events | Italy - Serie C : Sambenedettese vs Juventus II (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Sambenedettese_vs_Juventus II.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Sambenedettese vs Juventus II (15:00)
-https://thedaddy.click/stream/stream-154.php
-
-#EXTINF:-1 tvg-id="italyseriecsambenedettesevsjuventusii" tvg-name="All Soccer Events | Italy - Serie C : Sambenedettese vs Juventus II (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Sambenedettese_vs_Juventus II.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Sambenedettese vs Juventus II (15:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/ddy6/premium462/mono.m3u8
-
-#EXTINF:-1 tvg-id="italyseriecravennavsternana" tvg-name="All Soccer Events | Italy - Serie C : Ravenna vs Ternana (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Ravenna_vs_Ternana.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Ravenna vs Ternana (15:00)
-https://thedaddy.click/stream/stream-211.php
-
-#EXTINF:-1 tvg-id="bundesligamainz05vsborussiadortmund" tvg-name="All Soccer Events | Bundesliga : Mainz 05 vs Borussia Dortmund (15:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Mainz 05_vs_Borussia Dortmund.png" group-title="Eventi Live",All Soccer Events | Bundesliga : Mainz 05 vs Borussia Dortmund (15:30)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium870/mono.m3u8
-
-#EXTINF:-1 tvg-id="englandpremierleaguemanchestercityvsburnley" tvg-name="All Soccer Events | England - Premier League : Manchester City vs Burnley (16:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Manchester City_vs_Burnley.png" group-title="Eventi Live",All Soccer Events | England - Premier League : Manchester City vs Burnley (16:00)
-https://thedaddy.click/stream/stream-23.php
-
 #EXTINF:-1 tvg-id="italyseriebmonzavscalciopadova" tvg-name="All Soccer Events | Italy - Serie B : Monza vs Calcio Padova (17:15)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Monza_vs_Calcio Padova.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Monza vs Calcio Padova (17:15)
 https://thedaddy.click/stream/stream-152.php
 
@@ -2773,7 +2722,7 @@ https://thedaddy.click/stream/stream-154.php
 #EXTINF:-1 tvg-id="italyseriecpontederavsforlì" tvg-name="All Soccer Events | Italy - Serie C : Pontedera vs Forlì (17:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Pontedera_vs_Forlì.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Pontedera vs Forlì (17:30)
 https://thedaddy.click/stream/stream-210.php
 
-#EXTINF:-1 tvg-id="italyseriecperugiavspianese" tvg-name="All Soccer Events | Italy - Serie C : Perugia vs Pianese (17:30)" tvg-logo="https://www.italia.it/content/dam/tdh/en/interests/umbria/perugia/perugia/media/20210507140054-shutterstock-1033176193.jpg" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Perugia vs Pianese (17:30)
+#EXTINF:-1 tvg-id="italyseriecperugiavspianese" tvg-name="All Soccer Events | Italy - Serie C : Perugia vs Pianese (17:30)" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Perugia vs Pianese (17:30)
 https://thedaddy.click/stream/stream-208.php
 
 #EXTINF:-1 tvg-id="italyseriecvispesarovsgubbio" tvg-name="All Soccer Events | Italy - Serie C : Vis Pesaro vs Gubbio (17:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Vis Pesaro_vs_Gubbio.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Vis Pesaro vs Gubbio (17:30)
@@ -2799,12 +2748,6 @@ https://thedaddy.click/stream/stream-154.php
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium870/mono.m3u8
-
-#EXTINF:-1 tvg-id="uciroadworldchampionshipswomenseliteroadracekigali1646km" tvg-name="Cycling | UCI Road World Championships Women's Elite Road Race | Kigali (164.6km) (16:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | UCI Road World Championships Women's Elite Road Race | Kigali (164.6km) (16:15)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/ddy6/premium851/mono.m3u8
 
 #EXTINF:-1 tvg-id="rugbychampionshipsouthafricavsargentina" tvg-name="Rugby Union | Rugby Championship : South Africa vs Argentina (17:10)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/South Africa_vs_Argentina.png" group-title="Eventi Live",Rugby Union | Rugby Championship : South Africa vs Argentina (17:10)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
