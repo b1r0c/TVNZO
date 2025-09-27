@@ -1,5 +1,167 @@
 {
     "Saturday 27th Sep 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "15:00",
+                "event": "PFL MENA 3: 2025 Semifinals",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "218"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "Boxing : Dorin Krasmaru vs Harvey Dykes",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "219"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "wXw: Pro Wrestling Grand Prix 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "220"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "MotoAmerica Superbikes New Jersey",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "221"
+                    }
+                ]
+            },
+            {
+                "time": "16:15",
+                "event": "2025 52nd NAPA Fall Final at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "222"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "TNT: Effy's Big Gay Brunch UK 3",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "189"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "2025 ValleyStar Credit Union 300 at Martinsville Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "190"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "2025 NASCAR Championship Night at Riverhead Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "191"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "2025 IMCA Creek Classic at 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "192"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "2025 Glen Helen Off-Road National",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "193"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "2025 Short Track Super Series Montgomery County Open at Fonda Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "194"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "2025 IRA Sprints at Plymouth Dirt Track",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "195"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Victoria Weekend at Utica-Rome Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "196"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Lucas Oil Jackson 100 at Brownstown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "197"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Bxng Next Generation Baltimore",
+                "channels": [
+                    {
+                        "channel_name": "BXNG Tv",
+                        "channel_id": "198"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "BKB 46: Empire State Brawl",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "199"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "23:30",

@@ -376,13 +376,13 @@ https://new.newkso.ru/wind/premium878/mono.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2283887097/index.m3u8
+https://vavoo.to/play/2317684453/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2317684453/index.m3u8
+https://vavoo.to/play/2283887097/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -928,13 +928,13 @@ https://new.newkso.ru/wind/premium864/mono.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3060043751/index.m3u8
+https://vavoo.to/play/1820997555/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV",SKY CINEMA SUSPENSE (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1820997555/index.m3u8
+https://vavoo.to/play/3060043751/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV",SKY CINEMA UNO
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1858,13 +1858,13 @@ https://vavoo.to/play/3255207570/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2982550433/index.m3u8
+https://vavoo.to/play/3439223610/index.m3u8
 
 #EXTINF:-1 tvg-id="focus.it" tvg-name="FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Altro",FOCUS (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3439223610/index.m3u8
+https://vavoo.to/play/2982550433/index.m3u8
 
 #EXTINF:-1 tvg-id="food.network.it" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -2740,7 +2740,7 @@ https://thedaddy.click/stream/stream-76.php
 #EXTINF:-1 tvg-id="italyseriecsassaritorresvsascoli" tvg-name="All Soccer Events | Italy - Serie C : Sassari Torres vs Ascoli (15:00)" tvg-logo="https://logodix.com/logo/2198609.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Sassari Torres vs Ascoli (15:00)
 https://thedaddy.click/stream/stream-208.php
 
-#EXTINF:-1 tvg-id="italyseriecbravsnuovamonterosi" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Nuova Monterosi (15:00)" tvg-logo="https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/0e9ef3ba-ce14-4535-8e34-8aa522dcc33f/alpha-high-support-padded-adjustable-sports-bra-0PCmcG.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Bra vs Nuova Monterosi (15:00)
+#EXTINF:-1 tvg-id="italyseriecbravsnuovamonterosi" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Nuova Monterosi (15:00)" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Bra vs Nuova Monterosi (15:00)
 https://thedaddy.click/stream/stream-209.php
 
 #EXTINF:-1 tvg-id="italyserieclivornovscampobasso" tvg-name="All Soccer Events | Italy - Serie C : Livorno vs Campobasso (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Livorno_vs_Campobasso.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Livorno vs Campobasso (15:00)
@@ -2779,7 +2779,7 @@ https://thedaddy.click/stream/stream-154.php
 #EXTINF:-1 tvg-id="italyseriecpontederavsforlì" tvg-name="All Soccer Events | Italy - Serie C : Pontedera vs Forlì (17:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Pontedera_vs_Forlì.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Pontedera vs Forlì (17:30)
 https://thedaddy.click/stream/stream-210.php
 
-#EXTINF:-1 tvg-id="italyseriecperugiavspianese" tvg-name="All Soccer Events | Italy - Serie C : Perugia vs Pianese (17:30)" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Perugia vs Pianese (17:30)
+#EXTINF:-1 tvg-id="italyseriecperugiavspianese" tvg-name="All Soccer Events | Italy - Serie C : Perugia vs Pianese (17:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/X0KwSpj4eQRvGMR/perugia-1997-2005-logo.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Perugia vs Pianese (17:30)
 https://thedaddy.click/stream/stream-208.php
 
 #EXTINF:-1 tvg-id="italyseriecvispesarovsgubbio" tvg-name="All Soccer Events | Italy - Serie C : Vis Pesaro vs Gubbio (17:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Vis Pesaro_vs_Gubbio.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Vis Pesaro vs Gubbio (17:30)
@@ -2812,19 +2812,7 @@ https://new.newkso.ru/wind/premium870/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/ddy6/premium576/mono.m3u8
 
-#EXTINF:-1 tvg-id="worldchampionshipsseoulwomensboulderfinal" tvg-name="Climbing | World Championships | Seoul Women's Boulder | Final (12:00)" tvg-logo="http://pluspng.com/img-png/globe-hd-png-download-png-image-earth-png-pic-1107.png" group-title="Eventi Live",Climbing | World Championships | Seoul Women's Boulder | Final (12:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium879/mono.m3u8
-
-#EXTINF:-1 tvg-id="uciroadworldchampionshipswomenseliteroadracekigali1646km" tvg-name="Cycling | UCI Road World Championships Women's Elite Road Race | Kigali (164.6km) (12:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | UCI Road World Championships Women's Elite Road Race | Kigali (164.6km) (12:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium878/mono.m3u8
-
-#EXTINF:-1 tvg-id="uciroadworldchampionshipswomenseliteroadracekigali1646km" tvg-name="Cycling | UCI Road World Championships Women's Elite Road Race | Kigali (164.6km) (16:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | UCI Road World Championships Women's Elite Road Race | Kigali (164.6km) (16:15)
+#EXTINF:-1 tvg-id="uciroadworldchampionshipswomenseliteroadracekigali1646km" tvg-name="Cycling | UCI Road World Championships Women's Elite Road Race | Kigali (164.6km) (16:15)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Uci-Logo.png" group-title="Eventi Live",Cycling | UCI Road World Championships Women's Elite Road Race | Kigali (164.6km) (16:15)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
