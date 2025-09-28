@@ -2,7 +2,7 @@
     "Saturday 27th Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "00:55",
+                "time": "01:34",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": [
                     {
@@ -30,7 +30,7 @@
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "00:55",
+                "time": "01:34",
                 "event": "Big Brother Naija 2025",
                 "channels": [
                     {
@@ -9060,7 +9060,7 @@
     "Sunday 28th Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "00:55",
+                "time": "01:34",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": [
                     {
@@ -9088,7 +9088,7 @@
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "00:55",
+                "time": "01:34",
                 "event": "Big Brother Naija 2025",
                 "channels": [
                     {
@@ -9632,8 +9632,8 @@
                 "event": "England - Women's Super League - Simulcast",
                 "channels": [
                     {
-                        "channel_name": "Sky Sports Mix UK",
-                        "channel_id": "449"
+                        "channel_name": "Sky Sports+",
+                        "channel_id": "36"
                     }
                 ]
             },
