@@ -2,7 +2,7 @@
     "Monday 29th Sep 2025 - Schedule Time UK GMT": {
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "09:25",
+                "time": "18:07",
                 "event": "Big Brother Naija 2025",
                 "channels": [
                     {
@@ -1798,7 +1798,12 @@
             {
                 "time": "05:00",
                 "event": "ATP - BEIJING : De Minaur A. vs Mensik J.",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
             },
             {
                 "time": "06:30",
