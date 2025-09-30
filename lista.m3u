@@ -2710,9 +2710,6 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriebsampdoriavscatanzaro" tvg-name="All Soccer Events | Italy - Serie B : Sampdoria vs Catanzaro (17:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Sampdoria_vs_Catanzaro.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Sampdoria vs Catanzaro (17:00)
-https://thedaddy.click/stream/stream-55.php
-
 #EXTINF:-1 tvg-id="uefachampionsleaguekairatvsrealmadrid" tvg-name="All Soccer Events | UEFA Champions League : Kairat vs Real Madrid (18:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Kairat_vs_Real Madrid.png" group-title="Eventi Live",All Soccer Events | UEFA Champions League : Kairat vs Real Madrid (18:45)
 https://thedaddy.click/stream/stream-5.php
 
@@ -2763,12 +2760,6 @@ https://thedaddy.click/stream/stream-153.php
 
 #EXTINF:-1 tvg-id="uefachampionsleagueatléticomadridvseintrachtfrankfurt" tvg-name="All Soccer Events | UEFA Champions League : Atlético Madrid vs Eintracht Frankfurt (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Atlético Madrid_vs_Eintracht Frankfurt.png" group-title="Eventi Live",All Soccer Events | UEFA Champions League : Atlético Madrid vs Eintracht Frankfurt (21:00)
 https://thedaddy.click/stream/stream-158.php
-
-#EXTINF:-1 tvg-id="worldrallychampionship2025cile" tvg-name="Motorsport | World Rally Championship 2025-Cile (16:35)" tvg-logo="https://logodix.com/logo/1862579.png" group-title="Eventi Live",Motorsport | World Rally Championship 2025-Cile (16:35)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/ddy6/premium882/mono.m3u8
 
 #EXTINF:-1 tvg-id="fimspeedwayofnationssemifinal1torun" tvg-name="Motorsport | FIM Speedway of Nations Semi-Final 1 | Torun (18:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Motorsport | FIM Speedway of Nations Semi-Final 1 | Torun (18:45)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
