@@ -1260,6 +1260,10 @@
                         "channel_id": "8"
                     },
                     {
+                        "channel_name": "UEFA Champions Feed",
+                        "channel_id": "5007"
+                    },
+                    {
                         "channel_name": "Movistar Liga de Campeones 3",
                         "channel_id": "10"
                     },
@@ -1318,6 +1322,10 @@
                         "channel_id": "76"
                     },
                     {
+                        "channel_name": "UEFA Champions Feed",
+                        "channel_id": "5008"
+                    },
+                    {
                         "channel_name": "Nova Sport 4 CZ",
                         "channel_id": "1024"
                     },
@@ -1368,6 +1376,10 @@
                         "channel_id": "22"
                     },
                     {
+                        "channel_name": "UEFA Champions Feed",
+                        "channel_id": "5006"
+                    },
+                    {
                         "channel_name": "Sport TV5 Portugal",
                         "channel_id": "290"
                     },
@@ -1412,6 +1424,10 @@
                     {
                         "channel_name": "Sky Sport Austria 6",
                         "channel_id": "24"
+                    },
+                    {
+                        "channel_name": "UEFA Champions Feed",
+                        "channel_id": "5004"
                     },
                     {
                         "channel_name": "Cosmote Sport 2 Greece",
@@ -1482,6 +1498,10 @@
                     {
                         "channel_name": "TNT Sports 4 UK",
                         "channel_id": "34"
+                    },
+                    {
+                        "channel_name": "UEFA Champions Feed",
+                        "channel_id": "5002"
                     },
                     {
                         "channel_name": "Canal+ France",
@@ -1614,6 +1634,10 @@
                         "channel_id": "6"
                     },
                     {
+                        "channel_name": "UEFA Champions Feed",
+                        "channel_id": "5005"
+                    },
+                    {
                         "channel_name": "Movistar Liga de Campeones 2",
                         "channel_id": "3"
                     },
@@ -1666,6 +1690,10 @@
                     {
                         "channel_name": "Canal+ Foot France",
                         "channel_id": "463"
+                    },
+                    {
+                        "channel_name": "UEFA Champions Feed",
+                        "channel_id": "5003"
                     },
                     {
                         "channel_name": "Nova Sport 5 CZ",
