@@ -4,13 +4,13 @@
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/875922788/index.m3u8
+https://vavoo.to/play/1225653759/index.m3u8
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1225653759/index.m3u8
+https://vavoo.to/play/875922788/index.m3u8
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -160,13 +160,13 @@ https://new.newkso.ru/wind/premium858/mono.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1886684667/index.m3u8
+https://vavoo.to/play/2007798511/index.m3u8
 
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="RAI SCUOLA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Rai",RAI SCUOLA (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2007798511/index.m3u8
+https://vavoo.to/play/1886684667/index.m3u8
 
 #EXTINF:-1 tvg-id="raisport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-sport-it.png" group-title="Rai",RAI SPORT
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -196,37 +196,37 @@ https://vavoo.to/play/843891896/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/78838793/index.m3u8
+https://vavoo.to/play/57338653/index.m3u8
 
 #EXTINF:-1 tvg-id="raistoria.it" tvg-name="RAI STORIA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Rai",RAI STORIA (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/57338653/index.m3u8
+https://vavoo.to/play/78838793/index.m3u8
 
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="RAI YOYO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1785501924/index.m3u8
+https://vavoo.to/play/1890950169/index.m3u8
 
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="RAI YOYO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1890950169/index.m3u8
+https://vavoo.to/play/1785501924/index.m3u8
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",20 MEDIASET
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3134481201/index.m3u8
+https://vavoo.to/play/1230338185/index.m3u8
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",20 MEDIASET (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1230338185/index.m3u8
+https://vavoo.to/play/3134481201/index.m3u8
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",20 MEDIASET (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -502,13 +502,13 @@ https://new.newkso.ru/ddy6/premium462/mono.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1665920101/index.m3u8
+https://vavoo.to/play/449990998/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/449990998/index.m3u8
+https://vavoo.to/play/1665920101/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -604,13 +604,13 @@ https://vavoo.to/play/2077387085/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/78546677/index.m3u8
+https://vavoo.to/play/2100771782/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2100771782/index.m3u8
+https://vavoo.to/play/78546677/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -808,13 +808,13 @@ https://vavoo.to/play/1482866609/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1144128726/index.m3u8
+https://vavoo.to/play/3812796171/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3812796171/index.m3u8
+https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (3)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -928,13 +928,13 @@ https://new.newkso.ru/wind/premium864/mono.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1820997555/index.m3u8
+https://vavoo.to/play/3060043751/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV",SKY CINEMA SUSPENSE (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3060043751/index.m3u8
+https://vavoo.to/play/1820997555/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV",SKY CINEMA UNO
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1030,61 +1030,61 @@ https://vavoo.to/play/3470758028/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/877200714/index.m3u8
+https://vavoo.to/play/525374356/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 2 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/525374356/index.m3u8
+https://vavoo.to/play/877200714/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 3
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/153693434/index.m3u8
+https://vavoo.to/play/573618724/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 3 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/573618724/index.m3u8
+https://vavoo.to/play/153693434/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 4
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2416993844/index.m3u8
+https://vavoo.to/play/3137990890/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 4 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3137990890/index.m3u8
+https://vavoo.to/play/2416993844/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 5
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2255083866/index.m3u8
+https://vavoo.to/play/2909818756/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 5 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2909818756/index.m3u8
+https://vavoo.to/play/2255083866/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 6
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3251217290/index.m3u8
+https://vavoo.to/play/3939513684/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 6 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3939513684/index.m3u8
+https://vavoo.to/play/3251217290/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 7
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1102,13 +1102,13 @@ https://vavoo.to/play/4238969402/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1440779061/index.m3u8
+https://vavoo.to/play/2130255339/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 8 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2130255339/index.m3u8
+https://vavoo.to/play/1440779061/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 9
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1138,13 +1138,13 @@ https://new.newkso.ru/wind/premium880/mono.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/269503091/index.m3u8
+https://vavoo.to/play/3420407456/index.m3u8
 
 #EXTINF:-1 tvg-id="top.crime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Film & Serie TV",TOP CRIME (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3420407456/index.m3u8
+https://vavoo.to/play/269503091/index.m3u8
 
 #EXTINF:-1 tvg-id="euronews.it" tvg-name="EURONEWS" tvg-logo="https://play-lh.googleusercontent.com/Mi8GAQIp3x94VcvbxZNsK-CTNhHy1zmo51pmME5KkkK4WgN4aQhM1FlNgLZUMD4VAXhL" group-title="News",EURONEWS
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1174,13 +1174,13 @@ https://vavoo.to/play/1785098768/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3413557893/index.m3u8
+https://vavoo.to/play/3379729817/index.m3u8
 
 #EXTINF:-1 tvg-id="tg.norba.24.it" tvg-name="TG NORBA 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3379729817/index.m3u8
+https://vavoo.to/play/3413557893/index.m3u8
 
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="TGCOM 24" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TGCOM 24
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1210,13 +1210,13 @@ https://vavoo.to/play/2265727942/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3022771961/index.m3u8
+https://vavoo.to/play/3373510242/index.m3u8
 
 #EXTINF:-1 tvg-id="boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3373510242/index.m3u8
+https://vavoo.to/play/3022771961/index.m3u8
 
 #EXTINF:-1 tvg-id="boingplus.it" tvg-name="BOING PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1228,25 +1228,25 @@ https://vavoo.to/play/3841982646/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1744435623/index.m3u8
+https://vavoo.to/play/1289777017/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1289777017/index.m3u8
+https://vavoo.to/play/1744435623/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2178717282/index.m3u8
+https://vavoo.to/play/1987220436/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1987220436/index.m3u8
+https://vavoo.to/play/2178717282/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (3)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1372,13 +1372,13 @@ https://vavoo.to/play/179844839/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3428501495/index.m3u8
+https://vavoo.to/play/3229664409/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3229664409/index.m3u8
+https://vavoo.to/play/3428501495/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1546,13 +1546,13 @@ https://vavoo.to/play/3656080408/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3168132911/index.m3u8
+https://vavoo.to/play/1729811452/index.m3u8
 
 #EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-name="RTL 102.5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1729811452/index.m3u8
+https://vavoo.to/play/3168132911/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELE RADIO SCIACCA" tvg-logo="https://pbs.twimg.com/profile_images/613988173203423232/rWCQ9j6h_400x400.png" group-title="Musica",TELE RADIO SCIACCA
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1720,13 +1720,13 @@ https://vavoo.to/play/2381583828/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2719953688/index.m3u8
+https://vavoo.to/play/3743894403/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro",CIELO (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3743894403/index.m3u8
+https://vavoo.to/play/2719953688/index.m3u8
 
 #EXTINF:-1 tvg-id="cine34.it" tvg-name="CINE 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Altro",CINE 34
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1918,25 +1918,25 @@ https://vavoo.to/play/942153014/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2897782781/index.m3u8
+https://vavoo.to/play/4248997029/index.m3u8
 
 #EXTINF:-1 tvg-id="hgtv.it" tvg-name="HGTV" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/4248997029/index.m3u8
+https://vavoo.to/play/2897782781/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ICARO TV" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2488017405/index.m3u8
+https://vavoo.to/play/2392139008/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ICARO TV" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2392139008/index.m3u8
+https://vavoo.to/play/2488017405/index.m3u8
 
 #EXTINF:-1 tvg-id="iris.it" tvg-name="IRIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Altro",IRIS
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -2068,13 +2068,13 @@ https://vavoo.to/play/3134124967/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/203130779/index.m3u8
+https://vavoo.to/play/1641481816/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ONDA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Og_2yYQhg-ersjEG5xZ99bri_Di4l5dlyw&s" group-title="Altro",ONDA TV (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1641481816/index.m3u8
+https://vavoo.to/play/203130779/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ORLER TV" tvg-logo="https://www.tvdream.net/img/orlertv.png" group-title="Altro",ORLER TV
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -2710,44 +2710,92 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriebfrosinonevscesena" tvg-name="All Soccer Events | Italy - Serie B : Frosinone vs Cesena (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Frosinone_vs_Cesena.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Frosinone vs Cesena (20:30)
-https://thedaddy.click/stream/stream-59.php
+#EXTINF:-1 tvg-id="uefachampionsleagueunionsaintgilloisevsnewcastleunited" tvg-name="Soccer | UEFA Champions League : Union Saint-Gilloise vs Newcastle United (18:45)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/newcastle-united-logo.png" group-title="Eventi Live",Soccer | UEFA Champions League : Union Saint-Gilloise vs Newcastle United (18:45)
+https://thedaddy.click/stream/stream-26.php
 
-#EXTINF:-1 tvg-id="italyseriebvirtusentellavsbari1908" tvg-name="All Soccer Events | Italy - Serie B : Virtus Entella vs Bari 1908 (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Virtus Entella_vs_Bari 1908.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Virtus Entella vs Bari 1908 (20:30)
-https://thedaddy.click/stream/stream-68.php
-
-#EXTINF:-1 tvg-id="italyseriebjuvestabiavsmantova" tvg-name="All Soccer Events | Italy - Serie B : Juve Stabia vs Mantova (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Juve Stabia_vs_Mantova.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Juve Stabia vs Mantova (20:30)
-https://thedaddy.click/stream/stream-69.php
-
-#EXTINF:-1 tvg-id="italyseriebpalermovsvenezia" tvg-name="All Soccer Events | Italy - Serie B : Palermo vs Venezia (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Palermo_vs_Venezia.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Palermo vs Venezia (20:30)
-https://thedaddy.click/stream/stream-76.php
-
-#EXTINF:-1 tvg-id="italyseriebreggianavsspezia" tvg-name="All Soccer Events | Italy - Serie B : Reggiana vs Spezia (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Reggiana_vs_Spezia.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Reggiana vs Spezia (20:30)
-https://thedaddy.click/stream/stream-77.php
-
-#EXTINF:-1 tvg-id="italyseriebcalciopadovavsavellino" tvg-name="All Soccer Events | Italy - Serie B : Calcio Padova vs Avellino (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Calcio Padova_vs_Avellino.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Calcio Padova vs Avellino (20:30)
-https://thedaddy.click/stream/stream-86.php
-
-#EXTINF:-1 tvg-id="uefachampionsleagueinternazionalevsslaviapraha" tvg-name="All Soccer Events | UEFA Champions League : Internazionale vs Slavia Praha (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Internazionale_vs_Slavia Praha.png" group-title="Eventi Live",All Soccer Events | UEFA Champions League : Internazionale vs Slavia Praha (21:00)
-https://thedaddy.click/stream/stream-22.php
-
-#EXTINF:-1 tvg-id="uefachampionsleaguegalatasarayvsliverpool" tvg-name="All Soccer Events | UEFA Champions League : Galatasaray vs Liverpool (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Galatasaray_vs_Liverpool.png" group-title="Eventi Live",All Soccer Events | UEFA Champions League : Galatasaray vs Liverpool (21:00)
+#EXTINF:-1 tvg-id="uefachampionsleagueunionsaintgilloisevsnewcastleunited" tvg-name="Soccer | UEFA Champions League : Union Saint-Gilloise vs Newcastle United (18:45)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/newcastle-united-logo.png" group-title="Eventi Live",Soccer | UEFA Champions League : Union Saint-Gilloise vs Newcastle United (18:45)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="uefachampionsleaguebodøglimtvstottenhamhotspur" tvg-name="All Soccer Events | UEFA Champions League : Bodø / Glimt vs Tottenham Hotspur (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Bodø / Glimt_vs_Tottenham Hotspur.png" group-title="Eventi Live",All Soccer Events | UEFA Champions League : Bodø / Glimt vs Tottenham Hotspur (21:00)
-https://thedaddy.click/stream/stream-108.php
+#EXTINF:-1 tvg-id="uefachampionsleagueqarabavskøbenhavn" tvg-name="Soccer | UEFA Champions League : Qarabağ vs København (18:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Qarabağ_vs_København.png" group-title="Eventi Live",Soccer | UEFA Champions League : Qarabağ vs København (18:45)
+https://thedaddy.click/stream/stream-11.php
 
-#EXTINF:-1 tvg-id="uefachampionsleaguechelseavsbenfica" tvg-name="All Soccer Events | UEFA Champions League : Chelsea vs Benfica (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Chelsea_vs_Benfica.png" group-title="Eventi Live",All Soccer Events | UEFA Champions League : Chelsea vs Benfica (21:00)
-https://thedaddy.click/stream/stream-5.php
+#EXTINF:-1 tvg-id="italyseriebempolivsmonza" tvg-name="Soccer | Italy - Serie B : Empoli vs Monza (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Empoli_vs_Monza.png" group-title="Eventi Live",Soccer | Italy - Serie B : Empoli vs Monza (20:30)
+https://thedaddy.click/stream/stream-55.php
 
-#EXTINF:-1 tvg-id="uefachampionsleagueolympiquemarseillevsajax" tvg-name="All Soccer Events | UEFA Champions League : Olympique Marseille vs Ajax (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Olympique Marseille_vs_Ajax.png" group-title="Eventi Live",All Soccer Events | UEFA Champions League : Olympique Marseille vs Ajax (21:00)
-https://thedaddy.click/stream/stream-153.php
+#EXTINF:-1 tvg-id="italyseriebpescaravssüdtirol" tvg-name="Soccer | Italy - Serie B : Pescara vs Südtirol (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Pescara_vs_Südtirol.png" group-title="Eventi Live",Soccer | Italy - Serie B : Pescara vs Südtirol (20:30)
+https://thedaddy.click/stream/stream-59.php
 
-#EXTINF:-1 tvg-id="uefachampionsleagueatléticomadridvseintrachtfrankfurt" tvg-name="All Soccer Events | UEFA Champions League : Atlético Madrid vs Eintracht Frankfurt (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Atlético Madrid_vs_Eintracht Frankfurt.png" group-title="Eventi Live",All Soccer Events | UEFA Champions League : Atlético Madrid vs Eintracht Frankfurt (21:00)
-https://thedaddy.click/stream/stream-158.php
+#EXTINF:-1 tvg-id="italyseriebcarraresevsmodena" tvg-name="Soccer | Italy - Serie B : Carrarese vs Modena (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Carrarese_vs_Modena.png" group-title="Eventi Live",Soccer | Italy - Serie B : Carrarese vs Modena (20:30)
+https://thedaddy.click/stream/stream-68.php
+
+#EXTINF:-1 tvg-id="uefachampionsleaguebayerleverkusenvspsv" tvg-name="Soccer | UEFA Champions League : Bayer Leverkusen vs PSV (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Bayer Leverkusen_vs_PSV.png" group-title="Eventi Live",Soccer | UEFA Champions League : Bayer Leverkusen vs PSV (21:00)
+https://thedaddy.click/stream/stream-20.php
+
+#EXTINF:-1 tvg-id="uefachampionsleaguenapolivssportingcp" tvg-name="Soccer | UEFA Champions League : Napoli vs Sporting CP (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Napoli_vs_Sporting CP.png" group-title="Eventi Live",Soccer | UEFA Champions League : Napoli vs Sporting CP (21:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/ddy6/premium461/mono.m3u8
+
+#EXTINF:-1 tvg-id="uefachampionsleaguenapolivssportingcp" tvg-name="Soccer | UEFA Champions League : Napoli vs Sporting CP (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Napoli_vs_Sporting CP.png" group-title="Eventi Live",Soccer | UEFA Champions League : Napoli vs Sporting CP (21:00)
+https://thedaddy.click/stream/stream-23.php
+
+#EXTINF:-1 tvg-id="uefachampionsleaguearsenalvsolympiakospiraeus" tvg-name="Soccer | UEFA Champions League : Arsenal vs Olympiakos Piraeus (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Arsenal_vs_Olympiakos Piraeus.png" group-title="Eventi Live",Soccer | UEFA Champions League : Arsenal vs Olympiakos Piraeus (21:00)
+https://thedaddy.click/stream/stream-25.php
+
+#EXTINF:-1 tvg-id="uefachampionsleaguebarcelonavspsg" tvg-name="Soccer | UEFA Champions League : Barcelona vs PSG (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Barcelona_vs_PSG.png" group-title="Eventi Live",Soccer | UEFA Champions League : Barcelona vs PSG (21:00)
+https://thedaddy.click/stream/stream-26.php
+
+#EXTINF:-1 tvg-id="uefachampionsleaguebarcelonavspsg" tvg-name="Soccer | UEFA Champions League : Barcelona vs PSG (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Barcelona_vs_PSG.png" group-title="Eventi Live",Soccer | UEFA Champions League : Barcelona vs PSG (21:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/wind/premium870/mono.m3u8
+
+#EXTINF:-1 tvg-id="uefachampionsleagueborussiadortmundvsathleticclub" tvg-name="Soccer | UEFA Champions League : Borussia Dortmund vs Athletic Club (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Borussia Dortmund_vs_Athletic Club.png" group-title="Eventi Live",Soccer | UEFA Champions League : Borussia Dortmund vs Athletic Club (21:00)
+https://thedaddy.click/stream/stream-166.php
+
+#EXTINF:-1 tvg-id="uefachampionsleaguemonacovsmanchestercity" tvg-name="Soccer | UEFA Champions League : Monaco vs Manchester City (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Monaco_vs_Manchester City.png" group-title="Eventi Live",Soccer | UEFA Champions League : Monaco vs Manchester City (21:00)
+https://thedaddy.click/stream/stream-11.php
+
+#EXTINF:-1 tvg-id="fifau20worldcupitalyu20vscubau20" tvg-name="Soccer | FIFA U-20 World Cup : Italy U20 vs Cuba U20 (22:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Italy U20_vs_Cuba U20.png" group-title="Eventi Live",Soccer | FIFA U-20 World Cup : Italy U20 vs Cuba U20 (22:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/ddy6/premium882/mono.m3u8
+
+#EXTINF:-1 tvg-id="2025rolexshanghaimasterstennisearlyroundcoverageday1" tvg-name="Tennis | 2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 1 (06:30)" tvg-logo="https://obj.shine.cn/files/2017/09/18/079e2141-ea35-4452-a245-7a226a16de77_0.png" group-title="Eventi Live",Tennis | 2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 1 (06:30)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/ddy6/premium576/mono.m3u8
+
+#EXTINF:-1 tvg-id="beijingatpfinalwtaroundof16" tvg-name="Tennis | Beijing-ATP Final, WTA Round of 16 (13:00)" tvg-logo="https://logonoid.com/images/atp-logo.png" group-title="Eventi Live",Tennis | Beijing-ATP Final, WTA Round of 16 (13:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/ddy6/premium576/mono.m3u8
+
+#EXTINF:-1 tvg-id="fimspeedwayofnationssemifinal2torun" tvg-name="Motorsport | FIM Speedway of Nations Semi-Final 2 | Torun (18:45)" tvg-logo="https://italianfoundation.org/wp-content/uploads/2021/10/LOGO-SFIM_INIZIATIVE-PER-LA-LINGUA-E-LA-CULTURA-ITALIANA.png" group-title="Eventi Live",Motorsport | FIM Speedway of Nations Semi-Final 2 | Torun (18:45)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/wind/premium879/mono.m3u8
+
+#EXTINF:-1 tvg-id="touroflangkawistage4menkualaterengganukemaman1415km" tvg-name="Cycling | Tour of Langkawi | Stage 4 Men | Kuala Terengganu – Kemaman (141.5km) (07:00)" tvg-logo="https://images.seeklogo.com/logo-png/55/2/le-tour-de-langkawi-2024-logo-png_seeklogo-555227.png?v=1957859170099398016" group-title="Eventi Live",Cycling | Tour of Langkawi | Stage 4 Men | Kuala Terengganu – Kemaman (141.5km) (07:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/wind/premium878/mono.m3u8
+
+#EXTINF:-1 tvg-id="uefafutsaleurou19italyu19vsukraineu19" tvg-name="Futsal | UEFA Futsal Euro U19 : Italy U19 vs Ukraine U19 (19:30)" tvg-logo="https://media.api-sports.io/football/teams/19064.png" group-title="Eventi Live",Futsal | UEFA Futsal Euro U19 : Italy U19 vs Ukraine U19 (19:30)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/ddy6/premium882/mono.m3u8
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
