@@ -1,5 +1,17 @@
 {
     "Wednesday 01st Oct 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "22:30",
+                "event": "Bristol Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5000"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "11:00",
@@ -3324,6 +3336,16 @@
                 ]
             },
             {
+                "time": "15:30",
+                "event": "Finland iiga : SaiPa vs HPK",
+                "channels": [
+                    {
+                        "channel_name": "MTV Urheilu 3 Finland",
+                        "channel_id": "177"
+                    }
+                ]
+            },
+            {
                 "time": "16:00",
                 "event": "Slovakia, 1st Liga : HC 07 Detva vs. HK 36 Skalica",
                 "channels": [
@@ -3468,16 +3490,6 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "8"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "Finland iiga : SaiPa vs HPK",
-                "channels": [
-                    {
-                        "channel_name": "MTV Urheilu 3 Finland",
-                        "channel_id": "177"
                     }
                 ]
             }

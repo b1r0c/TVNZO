@@ -1774,18 +1774,6 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="uefachampionsleagueunionsaintgilloisevsnewcastleunited" tvg-name="Soccer | UEFA Champions League : Union Saint-Gilloise vs Newcastle United (18:45)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/newcastle-united-logo.png" group-title="Eventi Live",Soccer | UEFA Champions League : Union Saint-Gilloise vs Newcastle United (18:45)
-https://thedaddy.click/stream/stream-26.php
-
-#EXTINF:-1 tvg-id="uefachampionsleagueunionsaintgilloisevsnewcastleunited" tvg-name="Soccer | UEFA Champions League : Union Saint-Gilloise vs Newcastle United (18:45)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/newcastle-united-logo.png" group-title="Eventi Live",Soccer | UEFA Champions League : Union Saint-Gilloise vs Newcastle United (18:45)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium870/mono.m3u8
-
-#EXTINF:-1 tvg-id="uefachampionsleagueqarabavskøbenhavn" tvg-name="Soccer | UEFA Champions League : Qarabağ vs København (18:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Qarabağ_vs_København.png" group-title="Eventi Live",Soccer | UEFA Champions League : Qarabağ vs København (18:45)
-https://thedaddy.click/stream/stream-11.php
-
 #EXTINF:-1 tvg-id="italyseriebempolivsmonza" tvg-name="Soccer | Italy - Serie B : Empoli vs Monza (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Empoli_vs_Monza.png" group-title="Eventi Live",Soccer | Italy - Serie B : Empoli vs Monza (20:30)
 https://thedaddy.click/stream/stream-55.php
 
@@ -1826,18 +1814,6 @@ https://thedaddy.click/stream/stream-166.php
 https://thedaddy.click/stream/stream-11.php
 
 #EXTINF:-1 tvg-id="fifau20worldcupitalyu20vscubau20" tvg-name="Soccer | FIFA U-20 World Cup : Italy U20 vs Cuba U20 (22:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Italy U20_vs_Cuba U20.png" group-title="Eventi Live",Soccer | FIFA U-20 World Cup : Italy U20 vs Cuba U20 (22:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/ddy6/premium882/mono.m3u8
-
-#EXTINF:-1 tvg-id="fimspeedwayofnationssemifinal2torun" tvg-name="Motorsport | FIM Speedway of Nations Semi-Final 2 | Torun (18:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Motorsport | FIM Speedway of Nations Semi-Final 2 | Torun (18:45)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium879/mono.m3u8
-
-#EXTINF:-1 tvg-id="uefafutsaleurou19italyu19vsukraineu19" tvg-name="Futsal | UEFA Futsal Euro U19 : Italy U19 vs Ukraine U19 (19:30)" group-title="Eventi Live",Futsal | UEFA Futsal Euro U19 : Italy U19 vs Ukraine U19 (19:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
