@@ -2634,7 +2634,7 @@
         ],
         "Baseball (MLB)</span>": [
             {
-                "time": "17:00",
+                "time": "19:08",
                 "event": "MLB : Detroit Tigers vs Cleveland Guardians",
                 "channels": [
                     {
@@ -2668,7 +2668,7 @@
                 ]
             },
             {
-                "time": "19:00",
+                "time": "21:08",
                 "event": "MLB : San Diego Padres vs Chicago Cubs",
                 "channels": [
                     {
@@ -2694,7 +2694,7 @@
                 ]
             },
             {
-                "time": "22:00",
+                "time": "00:08",
                 "event": "MLB : Boston Red Sox vs New York Yankees",
                 "channels": [
                     {
@@ -2724,7 +2724,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "01:08",
                 "event": "MLB : Cincinnati Reds vs Los Angeles Dodgers",
                 "channels": [
                     {
