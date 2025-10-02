@@ -400,13 +400,13 @@ https://vavoo.to/play/558282118/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3165086929/index.m3u8
+https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2881739927/index.m3u8
+https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1180,13 +1180,13 @@ https://vavoo.to/play/2392139008/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1565298794/index.m3u8
+https://vavoo.to/play/1200985239/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIA 3" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1200985239/index.m3u8
+https://vavoo.to/play/1565298794/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1732,13 +1732,13 @@ https://vavoo.to/play/2070070755/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2471902234/index.m3u8
+https://vavoo.to/play/4271554009/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VERA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/vera-tv-it.png?raw=true" group-title="Altro",VERA TV (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/4271554009/index.m3u8
+https://vavoo.to/play/2471902234/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VIDEO NOVARA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PvoHpnx0hNKtt435CUaJza2e_qsm5B87Cg&s" group-title="Altro",VIDEO NOVARA
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1774,50 +1774,77 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriebempolivsmonza" tvg-name="Soccer | Italy - Serie B : Empoli vs Monza (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Empoli_vs_Monza.png" group-title="Eventi Live",Soccer | Italy - Serie B : Empoli vs Monza (20:30)
-https://thedaddy.click/stream/stream-55.php
+#EXTINF:-1 tvg-id="europeuefaeuropaleaguecelticvssportingbraga" tvg-name="Soccer | Europe - UEFA Europa League : Celtic vs Sporting Braga (18:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Celtic_vs_Sporting Braga.png" group-title="Eventi Live",Soccer | Europe - UEFA Europa League : Celtic vs Sporting Braga (18:45)
+https://thedaddy.click/stream/stream-4.php
 
-#EXTINF:-1 tvg-id="italyseriebpescaravssüdtirol" tvg-name="Soccer | Italy - Serie B : Pescara vs Südtirol (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Pescara_vs_Südtirol.png" group-title="Eventi Live",Soccer | Italy - Serie B : Pescara vs Südtirol (20:30)
-https://thedaddy.click/stream/stream-59.php
+#EXTINF:-1 tvg-id="europeuefaeuropaleagueromavslille" tvg-name="Soccer | Europe - UEFA Europa League : Roma vs Lille (18:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Roma_vs_Lille.png" group-title="Eventi Live",Soccer | Europe - UEFA Europa League : Roma vs Lille (18:45)
+https://thedaddy.click/stream/stream-6.php
 
-#EXTINF:-1 tvg-id="italyseriebcarraresevsmodena" tvg-name="Soccer | Italy - Serie B : Carrarese vs Modena (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Carrarese_vs_Modena.png" group-title="Eventi Live",Soccer | Italy - Serie B : Carrarese vs Modena (20:30)
-https://thedaddy.click/stream/stream-68.php
-
-#EXTINF:-1 tvg-id="uefachampionsleaguebayerleverkusenvspsv" tvg-name="Soccer | UEFA Champions League : Bayer Leverkusen vs PSV (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Bayer Leverkusen_vs_PSV.png" group-title="Eventi Live",Soccer | UEFA Champions League : Bayer Leverkusen vs PSV (21:00)
-https://thedaddy.click/stream/stream-20.php
-
-#EXTINF:-1 tvg-id="uefachampionsleaguenapolivssportingcp" tvg-name="Soccer | UEFA Champions League : Napoli vs Sporting CP (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Napoli_vs_Sporting CP.png" group-title="Eventi Live",Soccer | UEFA Champions League : Napoli vs Sporting CP (21:00)
+#EXTINF:-1 tvg-id="europeuefaeuropaleagueromavslille" tvg-name="Soccer | Europe - UEFA Europa League : Roma vs Lille (18:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Roma_vs_Lille.png" group-title="Eventi Live",Soccer | Europe - UEFA Europa League : Roma vs Lille (18:45)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/ddy6/premium461/mono.m3u8
 
-#EXTINF:-1 tvg-id="uefachampionsleaguenapolivssportingcp" tvg-name="Soccer | UEFA Champions League : Napoli vs Sporting CP (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Napoli_vs_Sporting CP.png" group-title="Eventi Live",Soccer | UEFA Champions League : Napoli vs Sporting CP (21:00)
-https://thedaddy.click/stream/stream-23.php
+#EXTINF:-1 tvg-id="europeuefaeuropaleaguefenerbahçevsnice" tvg-name="Soccer | Europe - UEFA Europa League : Fenerbahçe vs Nice (18:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Fenerbahçe_vs_Nice.png" group-title="Eventi Live",Soccer | Europe - UEFA Europa League : Fenerbahçe vs Nice (18:45)
+https://thedaddy.click/stream/stream-13.php
 
-#EXTINF:-1 tvg-id="uefachampionsleaguearsenalvsolympiakospiraeus" tvg-name="Soccer | UEFA Champions League : Arsenal vs Olympiakos Piraeus (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Arsenal_vs_Olympiakos Piraeus.png" group-title="Eventi Live",Soccer | UEFA Champions League : Arsenal vs Olympiakos Piraeus (21:00)
-https://thedaddy.click/stream/stream-25.php
-
-#EXTINF:-1 tvg-id="uefachampionsleaguebarcelonavspsg" tvg-name="Soccer | UEFA Champions League : Barcelona vs PSG (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Barcelona_vs_PSG.png" group-title="Eventi Live",Soccer | UEFA Champions League : Barcelona vs PSG (21:00)
-https://thedaddy.click/stream/stream-26.php
-
-#EXTINF:-1 tvg-id="uefachampionsleaguebarcelonavspsg" tvg-name="Soccer | UEFA Champions League : Barcelona vs PSG (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Barcelona_vs_PSG.png" group-title="Eventi Live",Soccer | UEFA Champions League : Barcelona vs PSG (21:00)
+#EXTINF:-1 tvg-id="europeuefaeuropaleaguefenerbahçevsnice" tvg-name="Soccer | Europe - UEFA Europa League : Fenerbahçe vs Nice (18:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Fenerbahçe_vs_Nice.png" group-title="Eventi Live",Soccer | Europe - UEFA Europa League : Fenerbahçe vs Nice (18:45)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="uefachampionsleagueborussiadortmundvsathleticclub" tvg-name="Soccer | UEFA Champions League : Borussia Dortmund vs Athletic Club (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Borussia Dortmund_vs_Athletic Club.png" group-title="Eventi Live",Soccer | UEFA Champions League : Borussia Dortmund vs Athletic Club (21:00)
-https://thedaddy.click/stream/stream-166.php
+#EXTINF:-1 tvg-id="europeuefaeuropaleaguebolognavsfreiburg" tvg-name="Soccer | Europe - UEFA Europa League : Bologna vs Freiburg (18:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Bologna_vs_Freiburg.png" group-title="Eventi Live",Soccer | Europe - UEFA Europa League : Bologna vs Freiburg (18:45)
+https://thedaddy.click/stream/stream-16.php
 
-#EXTINF:-1 tvg-id="uefachampionsleaguemonacovsmanchestercity" tvg-name="Soccer | UEFA Champions League : Monaco vs Manchester City (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Monaco_vs_Manchester City.png" group-title="Eventi Live",Soccer | UEFA Champions League : Monaco vs Manchester City (21:00)
-https://thedaddy.click/stream/stream-11.php
-
-#EXTINF:-1 tvg-id="fifau20worldcupitalyu20vscubau20" tvg-name="Soccer | FIFA U-20 World Cup : Italy U20 vs Cuba U20 (22:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Italy U20_vs_Cuba U20.png" group-title="Eventi Live",Soccer | FIFA U-20 World Cup : Italy U20 vs Cuba U20 (22:00)
+#EXTINF:-1 tvg-id="europeuefaeuropaleaguebolognavsfreiburg" tvg-name="Soccer | Europe - UEFA Europa League : Bologna vs Freiburg (18:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Bologna_vs_Freiburg.png" group-title="Eventi Live",Soccer | Europe - UEFA Europa League : Bologna vs Freiburg (18:45)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/ddy6/premium882/mono.m3u8
+https://new.newkso.ru/ddy6/premium462/mono.m3u8
+
+#EXTINF:-1 tvg-id="europeuefaeuropaleaguefeyenoordvsastonvilla" tvg-name="Soccer | Europe - UEFA Europa League : Feyenoord vs Aston Villa (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Feyenoord_vs_Aston Villa.png" group-title="Eventi Live",Soccer | Europe - UEFA Europa League : Feyenoord vs Aston Villa (21:00)
+https://thedaddy.click/stream/stream-16.php
+
+#EXTINF:-1 tvg-id="europeuefaeuropaleaguefeyenoordvsastonvilla" tvg-name="Soccer | Europe - UEFA Europa League : Feyenoord vs Aston Villa (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Feyenoord_vs_Aston Villa.png" group-title="Eventi Live",Soccer | Europe - UEFA Europa League : Feyenoord vs Aston Villa (21:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/wind/premium870/mono.m3u8
+
+#EXTINF:-1 tvg-id="europeuefaeuropaleaguenottinghamforestvsmidtjylland" tvg-name="Soccer | Europe - UEFA Europa League : Nottingham Forest vs Midtjylland (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Nottingham Forest_vs_Midtjylland.png" group-title="Eventi Live",Soccer | Europe - UEFA Europa League : Nottingham Forest vs Midtjylland (21:00)
+https://thedaddy.click/stream/stream-13.php
+
+#EXTINF:-1 tvg-id="europeuefaeuropaleagueportovscrvenazvezda" tvg-name="Soccer | Europe - UEFA Europa League : Porto vs Crvena Zvezda (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Porto_vs_Crvena Zvezda.png" group-title="Eventi Live",Soccer | Europe - UEFA Europa League : Porto vs Crvena Zvezda (21:00)
+https://thedaddy.click/stream/stream-25.php
+
+#EXTINF:-1 tvg-id="europeuefaeuropaleagueolympiquelyonnaisvssalzburg" tvg-name="Soccer | Europe - UEFA Europa League : Olympique Lyonnais vs Salzburg (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Olympique Lyonnais_vs_Salzburg.png" group-title="Eventi Live",Soccer | Europe - UEFA Europa League : Olympique Lyonnais vs Salzburg (21:00)
+https://thedaddy.click/stream/stream-4.php
+
+#EXTINF:-1 tvg-id="europeuefaconferenceleaguefiorentinavssigmaolomouc" tvg-name="Soccer | Europe - UEFA Conference League : Fiorentina vs Sigma Olomouc (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Fiorentina_vs_Sigma Olomouc.png" group-title="Eventi Live",Soccer | Europe - UEFA Conference League : Fiorentina vs Sigma Olomouc (21:00)
+https://thedaddy.click/stream/stream-6.php
+
+#EXTINF:-1 tvg-id="europeuefaconferenceleaguefiorentinavssigmaolomouc" tvg-name="Soccer | Europe - UEFA Conference League : Fiorentina vs Sigma Olomouc (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Fiorentina_vs_Sigma Olomouc.png" group-title="Eventi Live",Soccer | Europe - UEFA Conference League : Fiorentina vs Sigma Olomouc (21:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/ddy6/premium461/mono.m3u8
+
+#EXTINF:-1 tvg-id="europeuefaconferenceleagueslovanbratislavavsstrasbourg" tvg-name="Soccer | Europe - UEFA Conference League : Slovan Bratislava vs Strasbourg (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Slovan Bratislava_vs_Strasbourg.png" group-title="Eventi Live",Soccer | Europe - UEFA Conference League : Slovan Bratislava vs Strasbourg (21:00)
+https://thedaddy.click/stream/stream-4.php
+
+#EXTINF:-1 tvg-id="2025rolexshanghaimasterstennisearlyroundcoverageday2" tvg-name="Tennis | 2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 2 (06:30)" tvg-logo="https://obj.shine.cn/files/2017/09/18/079e2141-ea35-4452-a245-7a226a16de77_0.png" group-title="Eventi Live",Tennis | 2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 2 (06:30)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/ddy6/premium576/mono.m3u8
+
+#EXTINF:-1 tvg-id="touroflangkawistage5mentemerlohfrasershill1231km" tvg-name="Cycling | Tour of Langkawi | Stage 5 Men | Temerloh – Fraser's Hill (123.1km) (07:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Tour of Langkawi | Stage 5 Men | Temerloh – Fraser's Hill (123.1km) (07:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/wind/premium878/mono.m3u8
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
