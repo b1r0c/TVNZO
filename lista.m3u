@@ -742,13 +742,13 @@ https://vavoo.to/play/1289777017/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2178717282/index.m3u8
+https://vavoo.to/play/1907000512/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1907000512/index.m3u8
+https://vavoo.to/play/2178717282/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",DISCOVERY K2
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1234,13 +1234,13 @@ https://vavoo.to/play/2835333400/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3889279895/index.m3u8
+https://vavoo.to/play/3758728323/index.m3u8
 
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-name="MOTORTREND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3758728323/index.m3u8
+https://vavoo.to/play/3889279895/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ONDA NOVARA TV" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro",ONDA NOVARA TV
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1773,36 +1773,6 @@ https://vavoo.to/play/2989824407/index.m3u8
 
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="europeuefaeuropaleaguecelticvssportingbraga" tvg-name="Soccer | Europe - UEFA Europa League : Celtic vs Sporting Braga (18:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Celtic_vs_Sporting Braga.png" group-title="Eventi Live",Soccer | Europe - UEFA Europa League : Celtic vs Sporting Braga (18:45)
-https://thedaddy.click/stream/stream-4.php
-
-#EXTINF:-1 tvg-id="europeuefaeuropaleagueromavslille" tvg-name="Soccer | Europe - UEFA Europa League : Roma vs Lille (18:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Roma_vs_Lille.png" group-title="Eventi Live",Soccer | Europe - UEFA Europa League : Roma vs Lille (18:45)
-https://thedaddy.click/stream/stream-6.php
-
-#EXTINF:-1 tvg-id="europeuefaeuropaleagueromavslille" tvg-name="Soccer | Europe - UEFA Europa League : Roma vs Lille (18:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Roma_vs_Lille.png" group-title="Eventi Live",Soccer | Europe - UEFA Europa League : Roma vs Lille (18:45)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/ddy6/premium461/mono.m3u8
-
-#EXTINF:-1 tvg-id="europeuefaeuropaleaguefenerbahçevsnice" tvg-name="Soccer | Europe - UEFA Europa League : Fenerbahçe vs Nice (18:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Fenerbahçe_vs_Nice.png" group-title="Eventi Live",Soccer | Europe - UEFA Europa League : Fenerbahçe vs Nice (18:45)
-https://thedaddy.click/stream/stream-13.php
-
-#EXTINF:-1 tvg-id="europeuefaeuropaleaguefenerbahçevsnice" tvg-name="Soccer | Europe - UEFA Europa League : Fenerbahçe vs Nice (18:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Fenerbahçe_vs_Nice.png" group-title="Eventi Live",Soccer | Europe - UEFA Europa League : Fenerbahçe vs Nice (18:45)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium870/mono.m3u8
-
-#EXTINF:-1 tvg-id="europeuefaeuropaleaguebolognavsfreiburg" tvg-name="Soccer | Europe - UEFA Europa League : Bologna vs Freiburg (18:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Bologna_vs_Freiburg.png" group-title="Eventi Live",Soccer | Europe - UEFA Europa League : Bologna vs Freiburg (18:45)
-https://thedaddy.click/stream/stream-16.php
-
-#EXTINF:-1 tvg-id="europeuefaeuropaleaguebolognavsfreiburg" tvg-name="Soccer | Europe - UEFA Europa League : Bologna vs Freiburg (18:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Bologna_vs_Freiburg.png" group-title="Eventi Live",Soccer | Europe - UEFA Europa League : Bologna vs Freiburg (18:45)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/ddy6/premium462/mono.m3u8
 
 #EXTINF:-1 tvg-id="europeuefaeuropaleaguefeyenoordvsastonvilla" tvg-name="Soccer | Europe - UEFA Europa League : Feyenoord vs Aston Villa (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Feyenoord_vs_Aston Villa.png" group-title="Eventi Live",Soccer | Europe - UEFA Europa League : Feyenoord vs Aston Villa (21:00)
 https://thedaddy.click/stream/stream-16.php
