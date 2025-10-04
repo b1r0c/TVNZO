@@ -1,5 +1,157 @@
 {
     "Saturday 04th Oct 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "17:00",
+                "event": "Gladius World Series: Aarhus 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "211"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "2025 Vermont Milk Bowl at Thunder Road Speedbowl",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "212"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "500 Sprint Car Tour Anderson",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "188"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "2025 CARS Tour at Tri-County Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "184"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "2025 Championship Night #1 at Langley Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "185"
+                    }
+                ]
+            },
+            {
+                "time": "21:15",
+                "event": "2025 NASCAR Whelen Modified Tour at Riverhead Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "186"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "Millbridge Sprints Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "187"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "2025 Lucas Oil Pittsburgher at Pittsburgh's Pennsylvania Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "191"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 MARS FALS Frenzy at Fairbury Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "193"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "World of Outlaws Sprint Cars Williams Grove",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "190"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "World of Outlaws Late Models 81",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "194"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Brownstown B Mod Nationals",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "195"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Hard Knocks Fight Night 34",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "196"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2025 USAC Avanti CRA Sprints at Mohave Valley Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "197"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "GCW: The Last Frontier 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "198"
+                    }
+                ]
+            }
+        ],
         "TV Show</span>": [
             {
                 "time": "11:00",
@@ -6433,16 +6585,6 @@
             },
             {
                 "time": "16:00",
-                "event": "College Football : Stonehill vs Duquesne",
-                "channels": [
-                    {
-                        "channel_name": "SportsNet Pittsburgh",
-                        "channel_id": "922"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
                 "event": "NCAAF : Kentucky at No. 12 Georgia",
                 "channels": [
                     {
@@ -6523,6 +6665,56 @@
             },
             {
                 "time": "16:00",
+                "event": "NCAAF : Kansas State at Baylor",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "189"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "NCAAF : Yale at Lehigh",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "192"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "NCAAF : Sacred Heart at CCSU",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "208"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "NCAAF : San Diego at Marist",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "209"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "NCAAF : Fordham at Lafayette",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "210"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
                 "event": "NCAAF : Air Force at Navy",
                 "channels": [
                     {
@@ -6557,6 +6749,126 @@
             },
             {
                 "time": "17:00",
+                "event": "NCAAF : Dartmouth at Penn",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Morgan State at Georgetown",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Villanova at New Hampshire",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Pace at New Haven",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Western Illinois at Tennessee Tech",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Robert Morris at Merrimack",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : LIU at Mercyhurst",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Valparaiso at Drake",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Dayton at Morehead State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "173"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Davidson at Stetson",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : UTSA at Temple",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "College Football : Stonehill vs Duquesne",
+                "channels": [
+                    {
+                        "channel_name": "SportsNet Pittsburgh",
+                        "channel_id": "922"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
                 "event": "NCAAF : Wake Forest at Virginia Tech",
                 "channels": [
                     {
@@ -6580,12 +6892,262 @@
                 ]
             },
             {
+                "time": "17:30",
+                "event": "NCAAF : Charleston So. at Gardner-Webb",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "NCAAF : Western Carolina at Wofford",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "177"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "NCAAF : Savannah State at SC State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "178"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "NCAAF : Chattanooga at VMI",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "179"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "NCAAF : Harvard at Holy Cross",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "180"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Campbell at NC State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "181"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Butler at St. Thomas",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "182"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : UT Martin at Lindenwood",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "183"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Colgate at Cornell",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "184"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : ETSU at Furman",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "185"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Maine at Bryant",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "186"
+                    }
+                ]
+            },
+            {
                 "time": "18:00",
                 "event": "NCAAF : Oklahoma State at Arizona",
                 "channels": [
                     {
                         "channel_name": "TNT USA",
                         "channel_id": "338"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "NCAAF : Western Michigan at UMass",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "187"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "NCAAF : Murray State at South Dakota",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "190"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "NCAAF : North Alabama at Abilene Christian",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "193"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "NCAAF : Tennessee State at Eastern Illinois",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "194"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "NCAAF : Bethune-Cookman at Alabama State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "199"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "NCAAF : Stony Brook at UAlbany",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "189"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "NCAAF : Miami (Ohio) at NIU",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "192"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "NCAAF : FIU at UConn",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "196"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "NCAAF : North Carolina A&T at William & Mary",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "197"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "NCAAF : Oregon State at Appalachian State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "198"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "NCAAF : James Madison at Georgia State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "200"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "NCAAF : Central Michigan at Akron",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "201"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "NCAAF : Eastern Michigan at Buffalo",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "202"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "NCAAF : Miami (Ohio) at Northern Illinois",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "203"
                     }
                 ]
             },
@@ -6668,7 +7230,7 @@
                 "event": "NCAAF : UL Monroe at Northwestern",
                 "channels": [
                     {
-                        "channel_name": "BTN USA",
+                        "channel_name": "Big Ten Network",
                         "channel_id": "397"
                     }
                 ]
@@ -6715,6 +7277,66 @@
             },
             {
                 "time": "20:00",
+                "event": "NCAAF : Nicholls at Lamar",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "NCAAF : Richmond at Bucknell",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "205"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "NCAAF : Prairie View A&M at Alcorn State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "206"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "NCAAF : Samford at Mercer",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "207"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "NCAAF : Elon at Towson",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "208"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "NCAAF : West Georgia at Austin Peay",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "209"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
                 "event": "NCAAF : Kent State at No. 5 Oklahoma",
                 "channels": [
                     {
@@ -6744,6 +7366,86 @@
                 ]
             },
             {
+                "time": "20:30",
+                "event": "NCAAF : Jackson State vs Alabama A&M",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "NCAAF : Montana State at Northern Arizona",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "NCAAF : North Dakota at Northern Iowa",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "NCAAF : Utah Tech at Central Arkansas",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "NCAAF : Florida A&M vs MVSU",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "NCAAF : South Dakota State at Youngstown State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "NCAAF : Coastal Carolina at Old Dominion",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "NCAAF : Southeastern La. at McNeese",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
                 "time": "23:00",
                 "event": "NCAAF : No. 11 Texas Tech at Houston",
                 "channels": [
@@ -6760,6 +7462,96 @@
                     {
                         "channel_name": "CBSSN",
                         "channel_id": "308"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAAF : Portland State at Eastern Washington",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAAF : South Alabama at Troy",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "173"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAAF : Florida Atlantic at Rice",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAAF : Stephen F. Austin at UIW",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAAF : UAPB at Texas Southern",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAAF : East Texas A&M at Northwestern State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "177"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAAF : Southern Utah at Tarleton State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "178"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAAF : North Dakota State at Illinois State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "179"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NCAAF : Indiana State at Southern Illinois",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "180"
                     }
                 ]
             },
@@ -6848,12 +7640,42 @@
                 ]
             },
             {
+                "time": "23:30",
+                "event": "NCAAF : HCU at UTRGV",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "181"
+                    }
+                ]
+            },
+            {
                 "time": "00:00",
                 "event": "NCAAF : Tulsa at Memphis",
                 "channels": [
                     {
                         "channel_name": "ESPNU USA",
                         "channel_id": "316"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "NCAAF : UC Davis at Cal Poly",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "182"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "NCAAF : Montana at Idaho State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "183"
                     }
                 ]
             },
