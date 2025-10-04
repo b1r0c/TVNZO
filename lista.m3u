@@ -514,13 +514,13 @@ https://vavoo.to/play/1482866609/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2242741766/index.m3u8
+https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1144128726/index.m3u8
+https://vavoo.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -1783,10 +1783,10 @@ https://new.newkso.ru/nfs/premium877/mono.m3u8
 #EXTINF:-1 tvg-id="italyserieawomenromavsparma" tvg-name="All Soccer Events | Italy - Serie A (women) : Roma vs Parma (12:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Roma_vs_Parma.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A (women) : Roma vs Parma (12:30)
 https://thedaddy.click/stream/stream-108.php
 
-#EXTINF:-1 tvg-id="bundesliga2holsteinkielvsdarmstadt98" tvg-name="All Soccer Events | Bundesliga 2 : Holstein Kiel vs Darmstadt 98 (13:00)" tvg-logo="https://seeklogo.com/images/S/sv-darmstadt-98-logo-0240B07B0A-seeklogo.com.png" group-title="Eventi Live",All Soccer Events | Bundesliga 2 : Holstein Kiel vs Darmstadt 98 (13:00)
+#EXTINF:-1 tvg-id="bundesliga2holsteinkielvsdarmstadt98" tvg-name="All Soccer Events | Bundesliga 2 : Holstein Kiel vs Darmstadt 98 (13:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Holstein Kiel_vs_Darmstadt 98.png" group-title="Eventi Live",All Soccer Events | Bundesliga 2 : Holstein Kiel vs Darmstadt 98 (13:00)
 https://thedaddy.click/stream/stream-190.php
 
-#EXTINF:-1 tvg-id="englandpremierleagueleedsunitedvstottenhamhotspur" tvg-name="All Soccer Events | England - Premier League : Leeds United vs Tottenham Hotspur (13:30)" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/Leeds-United-FC-Logo-Vector.svg--295x300.png" group-title="Eventi Live",All Soccer Events | England - Premier League : Leeds United vs Tottenham Hotspur (13:30)
+#EXTINF:-1 tvg-id="englandpremierleagueleedsunitedvstottenhamhotspur" tvg-name="All Soccer Events | England - Premier League : Leeds United vs Tottenham Hotspur (13:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Leeds United_vs_Tottenham Hotspur.png" group-title="Eventi Live",All Soccer Events | England - Premier League : Leeds United vs Tottenham Hotspur (13:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
@@ -1819,7 +1819,7 @@ https://new.newkso.ru/nfs/premium877/mono.m3u8
 #EXTINF:-1 tvg-id="italyserieaparmavslecce" tvg-name="All Soccer Events | Italy - Serie A : Parma vs Lecce (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Parma_vs_Lecce.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A : Parma vs Lecce (15:00)
 https://thedaddy.click/stream/stream-77.php
 
-#EXTINF:-1 tvg-id="italyseriebbari1908vscalciopadova" tvg-name="All Soccer Events | Italy - Serie B : Bari 1908 vs Calcio Padova (15:00)" tvg-logo="https://images.seeklogo.com/logo-png/14/3/turismo-padova-terme-euganee-logo-png_seeklogo-143158.png?v=1955871718321539088" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Bari 1908 vs Calcio Padova (15:00)
+#EXTINF:-1 tvg-id="italyseriebbari1908vscalciopadova" tvg-name="All Soccer Events | Italy - Serie B : Bari 1908 vs Calcio Padova (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Bari 1908_vs_Calcio Padova.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Bari 1908 vs Calcio Padova (15:00)
 https://thedaddy.click/stream/stream-86.php
 
 #EXTINF:-1 tvg-id="italyseriebveneziavsfrosinone" tvg-name="All Soccer Events | Italy - Serie B : Venezia vs Frosinone (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Venezia_vs_Frosinone.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Venezia vs Frosinone (15:00)
@@ -1846,13 +1846,13 @@ https://thedaddy.click/stream/stream-190.php
 #EXTINF:-1 tvg-id="franceligue1metzvsolympiquemarseille" tvg-name="All Soccer Events | France - Ligue 1 : Metz vs Olympique Marseille (17:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Metz_vs_Olympique Marseille.png" group-title="Eventi Live",All Soccer Events | France - Ligue 1 : Metz vs Olympique Marseille (17:00)
 https://thedaddy.click/stream/stream-17.php
 
-#EXTINF:-1 tvg-id="italyseriebspeziavspalermo" tvg-name="All Soccer Events | Italy - Serie B : Spezia vs Palermo (17:15)" tvg-logo="https://miro.medium.com/v2/resize:fit:1200/1*D1HPtKnUEJTQA639FhufWA.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Spezia vs Palermo (17:15)
+#EXTINF:-1 tvg-id="italyseriebspeziavspalermo" tvg-name="All Soccer Events | Italy - Serie B : Spezia vs Palermo (17:15)" tvg-logo="https://www.italia.it/content/dam/tdh/en/interests/sicilia/palermo/palermo-in-48-ore/media/1600X1000_cosa_vedere_a_palermo_hero.jpg" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Spezia vs Palermo (17:15)
 https://thedaddy.click/stream/stream-152.php
 
 #EXTINF:-1 tvg-id="italyseriecrenatevscittadella" tvg-name="All Soccer Events | Italy - Serie C : Renate vs Cittadella (17:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Renate_vs_Cittadella.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Renate vs Cittadella (17:30)
 https://thedaddy.click/stream/stream-153.php
 
-#EXTINF:-1 tvg-id="italyseriecvirtusveronavslecco" tvg-name="All Soccer Events | Italy - Serie C : Virtus Verona vs Lecco (17:30)" tvg-logo="https://images.91wheels.com/assets/c_images/gallery/volkswagen/virtus/volkswagen-virtus-2-1646893870.png?width=300?q=60" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Virtus Verona vs Lecco (17:30)
+#EXTINF:-1 tvg-id="italyseriecvirtusveronavslecco" tvg-name="All Soccer Events | Italy - Serie C : Virtus Verona vs Lecco (17:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Virtus Verona_vs_Lecco.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Virtus Verona vs Lecco (17:30)
 https://thedaddy.click/stream/stream-26.php
 
 #EXTINF:-1 tvg-id="italyserieccampobassovsvispesaro" tvg-name="All Soccer Events | Italy - Serie C : Campobasso vs Vis Pesaro (17:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Campobasso_vs_Vis Pesaro.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Campobasso vs Vis Pesaro (17:30)
@@ -1987,13 +1987,13 @@ https://new.newkso.ru/wind/premium878/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="touroflangkawistage7menmelakamedini2149km" tvg-name="Cycling | Tour of Langkawi | Stage 7 Men | Melaka – Medini (214.9km) (08:00)" tvg-logo="https://tours-mexicocity.com/wp-content/uploads/2024/07/8-600x600.png" group-title="Eventi Live",Cycling | Tour of Langkawi | Stage 7 Men | Melaka – Medini (214.9km) (08:00)
+#EXTINF:-1 tvg-id="touroflangkawistage7menmelakamedini2149km" tvg-name="Cycling | Tour of Langkawi | Stage 7 Men | Melaka – Medini (214.9km) (08:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Tour of Langkawi | Stage 7 Men | Melaka – Medini (214.9km) (08:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="uecroadeuropeanchampionshipswomenseliteroadraceprivasguilherandgranges117km" tvg-name="Cycling | UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)
+#EXTINF:-1 tvg-id="uecroadeuropeanchampionshipswomenseliteroadraceprivasguilherandgranges117km" tvg-name="Cycling | UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)" tvg-logo="http://www.uarc.uec.ac.jp/2022UEC_Seminar/uec.png" group-title="Eventi Live",Cycling | UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
@@ -2011,7 +2011,7 @@ https://new.newkso.ru/ddy6/premium882/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/ddy6/premium462/mono.m3u8
 
-#EXTINF:-1 tvg-id="rugbychampionshipargentinavssouthafrica" tvg-name="Rugby Union | Rugby Championship : Argentina vs South Africa (15:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png" group-title="Eventi Live",Rugby Union | Rugby Championship : Argentina vs South Africa (15:00)
+#EXTINF:-1 tvg-id="rugbychampionshipargentinavssouthafrica" tvg-name="Rugby Union | Rugby Championship : Argentina vs South Africa (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Argentina_vs_South Africa.png" group-title="Eventi Live",Rugby Union | Rugby Championship : Argentina vs South Africa (15:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
