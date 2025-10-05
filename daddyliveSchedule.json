@@ -9532,7 +9532,411 @@
         ]
     },
     "Sunday 05th Oct 2025 - Schedule Time UK GMT": {
-        "Soccer</span>": [
+        "TV Shows</span>": [
+            {
+                "time": "14:00",
+                "event": "Sunday NFL Countdown Live",
+                "channels": [
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "Moto America King of the Baggers Rewind New Jersey Motorsports Park",
+                "channels": [
+                    {
+                        "channel_name": "FS1 USA",
+                        "channel_id": "39"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "PBR Camping World Team Series Outlaw Days",
+                "channels": [
+                    {
+                        "channel_name": "CW USA",
+                        "channel_id": "300"
+                    },
+                    {
+                        "channel_name": "CW PIX 11 USA",
+                        "channel_id": "280"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "The Swift Effect A New Era Season 2, Episode 1",
+                "channels": [
+                    {
+                        "channel_name": "NBCNY USA",
+                        "channel_id": "769"
+                    },
+                    {
+                        "channel_name": "NBC USA",
+                        "channel_id": "53"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "IMSA Season Review Live",
+                "channels": [
+                    {
+                        "channel_name": "NBCNY USA",
+                        "channel_id": "769"
+                    },
+                    {
+                        "channel_name": "NBC USA",
+                        "channel_id": "53"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "NASCAR Cup Series : Bank of America ROVAL 400",
+                "channels": [
+                    {
+                        "channel_name": "USA Network",
+                        "channel_id": "343"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "Boat Racing : E1 World Championship: Lagos",
+                "channels": [
+                    {
+                        "channel_name": "CBSSN USA",
+                        "channel_id": "308"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Football Night in America Live",
+                "channels": [
+                    {
+                        "channel_name": "NBCNY USA",
+                        "channel_id": "769"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Top Chef VIP Season 4, Episode 65",
+                "channels": [
+                    {
+                        "channel_name": "Telemundo USA",
+                        "channel_id": "131"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Triton Poker Series New",
+                "channels": [
+                    {
+                        "channel_name": "Space City Home Network",
+                        "channel_id": "921"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "A Grammy Salute to Cyndi Lauper: Live From the Hollywood Bowl",
+                "channels": [
+                    {
+                        "channel_name": "CBSNY USA",
+                        "channel_id": "767"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "The Simpsons Season 37, Episode 2",
+                "channels": [
+                    {
+                        "channel_name": "FOXNY USA",
+                        "channel_id": "768"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Brian and Maggie Season 1, Episode 1 \u2022 Premiere",
+                "channels": [
+                    {
+                        "channel_name": "PBS USA",
+                        "channel_id": "210"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "NBA Countdown Live",
+                "channels": [
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "The Real Housewives of Potomac Season 10, Episode 1 \u2022 Premiere",
+                "channels": [
+                    {
+                        "channel_name": "Bravo USA",
+                        "channel_id": "307"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "The Little Girl Who Lived (2025) Premiere",
+                "channels": [
+                    {
+                        "channel_name": "Lifetime Network",
+                        "channel_id": "326"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "90 Day Fianc\u00e9: Happily Ever After? Season 9, Episode 14",
+                "channels": [
+                    {
+                        "channel_name": "TLC USA",
+                        "channel_id": "337"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Universal Basic Guys Season 2, Episode 2",
+                "channels": [
+                    {
+                        "channel_name": "FOXNY USA",
+                        "channel_id": "768"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Krapopolis Season 3, Episode 2",
+                "channels": [
+                    {
+                        "channel_name": "FOXNY USA",
+                        "channel_id": "768"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Maigret on Masterpiece Season 1, Episode 1 \u2022 Premiere",
+                "channels": [
+                    {
+                        "channel_name": "PBS USA",
+                        "channel_id": "210"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Tony Shalhoub Breaking Bread Season 1, Episode 1 \u2022 Premiere",
+                "channels": [
+                    {
+                        "channel_name": "CNN USA",
+                        "channel_id": "345"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Halloween Wars Season 15, Episode 3",
+                "channels": [
+                    {
+                        "channel_name": "The Food Network",
+                        "channel_id": "384"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "The Walking Dead: Daryl Dixon Season 3, Episode 5",
+                "channels": [
+                    {
+                        "channel_name": "AMC USA",
+                        "channel_id": "303"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Unexplained: Caught on Camera Season 4, Episode 9",
+                "channels": [
+                    {
+                        "channel_name": "Travel Channel USA",
+                        "channel_id": "340"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Wardens of the North Season 5, Episode 41",
+                "channels": [
+                    {
+                        "channel_name": "Animal Planet",
+                        "channel_id": "304"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Snakes in the City Season 7, Episode 1",
+                "channels": [
+                    {
+                        "channel_name": "Nat Geo Wild USA",
+                        "channel_id": "745"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Mind of a Monster Season 1, Episode 1 \u2022 Premiere",
+                "channels": [
+                    {
+                        "channel_name": "ID USA",
+                        "channel_id": "324"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Task Season 1, Episode 5",
+                "channels": [
+                    {
+                        "channel_name": "HBO USA",
+                        "channel_id": "321"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Billy the Kid Season 3, Episode 2",
+                "channels": [
+                    {
+                        "channel_name": "MGM+ USA",
+                        "channel_id": "791"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "How Did They Build That? Season 4, Episode 10",
+                "channels": [
+                    {
+                        "channel_name": "Smithsonian Channel",
+                        "channel_id": "603"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "World Chase Tag New",
+                "channels": [
+                    {
+                        "channel_name": "Root Sports NW",
+                        "channel_id": "920"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Bone Collector Season 11, Episode 11",
+                "channels": [
+                    {
+                        "channel_name": "Outdoor Channel",
+                        "channel_id": "848"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Bob's Burgers Season 16, Episode 2",
+                "channels": [
+                    {
+                        "channel_name": "FOXNY USA",
+                        "channel_id": "768"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "WWE's Greatest Moments Undertaker S2, E17 \u2022 Finale",
+                "channels": [
+                    {
+                        "channel_name": "A&E TV USA",
+                        "channel_id": "302"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "WWE LFG Season Two Finals! \u2022 Finale",
+                "channels": [
+                    {
+                        "channel_name": "A&E TV USA",
+                        "channel_id": "302"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Barrett-Jackson: REVVED UP Season 17, Episode 8",
+                "channels": [
+                    {
+                        "channel_name": "FYI USA",
+                        "channel_id": "665"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "The Gold on Masterpiece Season 1, Episode 1 \u2022 Premiere",
+                "channels": [
+                    {
+                        "channel_name": "PBS USA",
+                        "channel_id": "210"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "New Orleans: Soul of a City Season 1, Episode 1 \u2022 Premiere",
+                "channels": [
+                    {
+                        "channel_name": "CNN USA",
+                        "channel_id": "345"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Sister Wives Season 20, Episode 2",
+                "channels": [
+                    {
+                        "channel_name": "TLC USA",
+                        "channel_id": "337"
+                    }
+                ]
+            }
+        ],
+        "All Soccer Events</span>": [
             {
                 "time": "14:00",
                 "event": "Scottish Premiership : Aberdeen vs Dundee",
@@ -13854,6 +14258,116 @@
                 ]
             }
         ],
+        "Tennis ATP - SHANGHAI</span>": [
+            {
+                "time": "04:30",
+                "event": "ATP - SHANGHAI : Goffin D. vs Diallo G.",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "ATP - SHANGHAI : Humbert U. vs Rune H.",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "ATP - SHANGHAI : Cash R./Tracy J. vs Bopanna R./Rojer J.",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "ATP - SHANGHAI : Nys H./Roger-Vasselin E. vs Andreazzi G./Guinard M.",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "ATP - SHANGHAI : Cerundolo F. vs Bergs Z.",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "ATP - SHANGHAI : Fritz T. vs Mpetshi Perricard G.",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "ATP - SHANGHAI : Doumbia S./Reboul F. vs Krawietz K./Puetz T.",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "ATP - SHANGHAI : Gonzalez S./Pel D. vs Moutet C./Muller A",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "ATP - SHANGHAI : Nishioka Y. vs Munar J.",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "ATP - SHANGHAI : Khachanov K./Rublev A. vs Goransson A./Michelsen A.",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "ATP - SHANGHAI : Cerundolo F/Darderi L. vs TBD/TBD",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ATP - SHANGHAI : Vacherot V. vs Machac T.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - SHANGHAI : Hanfmann Y. vs Djokovic N.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - SHANGHAI : Griekspoor T. vs Sinner J.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - BEIJING</span>": [
+            {
+                "time": "08:30",
+                "event": "WTA - BEIJING : Kato M./Stollar E. vs Errani S./Paolini J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - BEIJING : Noskova L. vs Anisimova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "12:30",
@@ -14840,7 +15354,7 @@
                 ]
             }
         ],
-        "Am. Football</span>": [
+        "Am. Football (NFL)</span>": [
             {
                 "time": "13:30",
                 "event": "NFL : Cleveland Browns vs Minnesota Vikings",
@@ -15286,7 +15800,7 @@
                 ]
             }
         ],
-        "Baseball</span>": [
+        "Baseball (MLB)</span>": [
             {
                 "time": "18:00",
                 "event": "Baseball Banana Ball World Tour : Championship Series: The Party Animals vs. Texas Tailgaters",
@@ -15672,37 +16186,9 @@
                         "channel_id": "581"
                     }
                 ]
-            },
-            {
-                "time": "19:00",
-                "event": "WNBA : Las Vegas Aces W vs Phoenix Mercury W",
-                "channels": [
-                    {
-                        "channel_name": "TNT Sports 4 UK",
-                        "channel_id": "34"
-                    },
-                    {
-                        "channel_name": "ABC USA",
-                        "channel_id": "51"
-                    },
-                    {
-                        "channel_name": "Sportsnet One",
-                        "channel_id": "411"
-                    },
-                    {
-                        "channel_name": "ABC NY USA",
-                        "channel_id": "766"
-                    },
-                    {
-                        "channel_name": "ESPN Deportes",
-                        "channel_id": "375"
-                    },
-                    {
-                        "channel_name": "ESPN3 BR",
-                        "channel_id": "83"
-                    }
-                ]
-            },
+            }
+        ],
+        "High School Basketball</span>": [
             {
                 "time": "16:00",
                 "event": "Boys High School Basketball Border League: Dream City vs. Sierra Canyon",
@@ -15752,7 +16238,9 @@
                         "channel_id": "45"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA Preseason</span>": [
             {
                 "time": "21:00",
                 "event": "NBA : Charlotte Hornets vs Oklahoma City Thunder",
@@ -15806,6 +16294,38 @@
                     {
                         "channel_name": "ESPN2 BR",
                         "channel_id": "82"
+                    }
+                ]
+            }
+        ],
+        "WNBA FINALS</span>": [
+            {
+                "time": "19:00",
+                "event": "WNBA : Las Vegas Aces W vs Phoenix Mercury W",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports 4 UK",
+                        "channel_id": "34"
+                    },
+                    {
+                        "channel_name": "ABC USA",
+                        "channel_id": "51"
+                    },
+                    {
+                        "channel_name": "Sportsnet One",
+                        "channel_id": "411"
+                    },
+                    {
+                        "channel_name": "ABC NY USA",
+                        "channel_id": "766"
+                    },
+                    {
+                        "channel_name": "ESPN Deportes",
+                        "channel_id": "375"
+                    },
+                    {
+                        "channel_name": "ESPN3 BR",
+                        "channel_id": "83"
                     }
                 ]
             }
@@ -16578,7 +17098,7 @@
                 ]
             }
         ],
-        "Volleyball</span>": [
+        "Beach Volleyball</span>": [
             {
                 "time": "18:00",
                 "event": "Beach Volleyball: Beach Pro Tour Challenge in Veracruz women's 3rd place match",
@@ -16618,7 +17138,9 @@
                         "channel_id": "129"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA Women's Volleyball</span>": [
             {
                 "time": "16:00",
                 "event": "Women's College Volleyball : Georgia Tech vs Pittsburgh",
@@ -16668,7 +17190,9 @@
                         "channel_id": "44"
                     }
                 ]
-            },
+            }
+        ],
+        "Volleyball</span>": [
             {
                 "time": "22:30",
                 "event": "Athletes Unlimited Pro Volleyball : Teams TBA",
