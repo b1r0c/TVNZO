@@ -514,13 +514,13 @@ https://vavoo.to/play/1482866609/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2242741766/index.m3u8
+https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1144128726/index.m3u8
+https://vavoo.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -1234,13 +1234,13 @@ https://vavoo.to/play/2835333400/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3889279895/index.m3u8
+https://vavoo.to/play/3758728323/index.m3u8
 
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-name="MOTORTREND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3758728323/index.m3u8
+https://vavoo.to/play/3889279895/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ONDA NOVARA TV" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro",ONDA NOVARA TV
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1426,13 +1426,13 @@ https://vavoo.to/play/2343767125/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2002360508/index.m3u8
+https://vavoo.to/play/2895549551/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SENATO TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2895549551/index.m3u8
+https://vavoo.to/play/2002360508/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1774,20 +1774,260 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieaatalantavscomo" tvg-name="All Soccer Events | Italy - Serie A : Atalanta vs Como (20:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Atalanta_vs_Como.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A : Atalanta vs Como (20:45)
-https://thedaddy.click/stream/stream-28.php
+#EXTINF:-1 tvg-id="italyserieaudinesevscagliari" tvg-name="Soccer | Italy - Serie A : Udinese vs Cagliari (12:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Udinese_vs_Cagliari.png" group-title="Eventi Live",Soccer | Italy - Serie A : Udinese vs Cagliari (12:30)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/nfs/premium877/mono.m3u8
 
-#EXTINF:-1 tvg-id="italyserieaatalantavscomo" tvg-name="All Soccer Events | Italy - Serie A : Atalanta vs Como (20:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Atalanta_vs_Como.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A : Atalanta vs Como (20:45)
+#EXTINF:-1 tvg-id="italyseriecjuventusiivsravenna" tvg-name="Soccer | Italy - Serie C : Juventus II vs Ravenna (12:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Juventus II_vs_Ravenna.png" group-title="Eventi Live",Soccer | Italy - Serie C : Juventus II vs Ravenna (12:30)
+https://thedaddy.click/stream/stream-165.php
+
+#EXTINF:-1 tvg-id="italyseriecjuventusiivsravenna" tvg-name="Soccer | Italy - Serie C : Juventus II vs Ravenna (12:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Juventus II_vs_Ravenna.png" group-title="Eventi Live",Soccer | Italy - Serie C : Juventus II vs Ravenna (12:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="italyserieaatalantavscomo" tvg-name="All Soccer Events | Italy - Serie A : Atalanta vs Como (20:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Atalanta_vs_Como.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A : Atalanta vs Como (20:45)
+#EXTINF:-1 tvg-id="italyseriecnovaravstriestina" tvg-name="Soccer | Italy - Serie C : Novara vs Triestina (12:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Novara_vs_Triestina.png" group-title="Eventi Live",Soccer | Italy - Serie C : Novara vs Triestina (12:30)
+https://thedaddy.click/stream/stream-2.php
+
+#EXTINF:-1 tvg-id="italyseriecnovaravstriestina" tvg-name="Soccer | Italy - Serie C : Novara vs Triestina (12:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Novara_vs_Triestina.png" group-title="Eventi Live",Soccer | Italy - Serie C : Novara vs Triestina (12:30)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/dokko1/premium460/mono.m3u8
+
+#EXTINF:-1 tvg-id="bundesliga2arminiabielefeldvsschalke04" tvg-name="Soccer | Bundesliga 2 : Arminia Bielefeld vs Schalke 04 (13:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Arminia Bielefeld_vs_Schalke 04.png" group-title="Eventi Live",Soccer | Bundesliga 2 : Arminia Bielefeld vs Schalke 04 (13:30)
+https://thedaddy.click/stream/stream-154.php
+
+#EXTINF:-1 tvg-id="italyseriecpropatriavstrento" tvg-name="Soccer | Italy - Serie C : Pro Patria vs Trento (14:30)" tvg-logo="https://images.seeklogo.com/logo-png/54/2/ac-trento-logo-png_seeklogo-543197.png" group-title="Eventi Live",Soccer | Italy - Serie C : Pro Patria vs Trento (14:30)
+https://thedaddy.click/stream/stream-182.php
+
+#EXTINF:-1 tvg-id="italyseriecprovercellivsdolomitibellunesi" tvg-name="Soccer | Italy - Serie C : Pro Vercelli vs Dolomiti Bellunesi (14:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Pro Vercelli_vs_Dolomiti Bellunesi.png" group-title="Eventi Live",Soccer | Italy - Serie C : Pro Vercelli vs Dolomiti Bellunesi (14:30)
+https://thedaddy.click/stream/stream-166.php
+
+#EXTINF:-1 tvg-id="italyserieccasertanavsvirtuscasarano" tvg-name="Soccer | Italy - Serie C : Casertana vs Virtus Casarano (14:30)" group-title="Eventi Live",Soccer | Italy - Serie C : Casertana vs Virtus Casarano (14:30)
+https://thedaddy.click/stream/stream-164.php
+
+#EXTINF:-1 tvg-id="italyserieccataniavssiracusa" tvg-name="Soccer | Italy - Serie C : Catania vs Siracusa (14:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Catania_vs_Siracusa.png" group-title="Eventi Live",Soccer | Italy - Serie C : Catania vs Siracusa (14:30)
+https://thedaddy.click/stream/stream-163.php
+
+#EXTINF:-1 tvg-id="italyseriectrapani1905vsgiugliano" tvg-name="Soccer | Italy - Serie C : Trapani 1905 vs Giugliano (14:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Trapani 1905_vs_Giugliano.png" group-title="Eventi Live",Soccer | Italy - Serie C : Trapani 1905 vs Giugliano (14:30)
+https://thedaddy.click/stream/stream-167.php
+
+#EXTINF:-1 tvg-id="italyseriecsalernitanavscavese" tvg-name="Soccer | Italy - Serie C : Salernitana vs Cavese (14:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Salernitana_vs_Cavese.png" group-title="Eventi Live",Soccer | Italy - Serie C : Salernitana vs Cavese (14:30)
+https://thedaddy.click/stream/stream-165.php
+
+#EXTINF:-1 tvg-id="englandpremierleagueastonvillavsburnley" tvg-name="Soccer | England - Premier League : Aston Villa vs Burnley (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Aston Villa_vs_Burnley.png" group-title="Eventi Live",Soccer | England - Premier League : Aston Villa vs Burnley (15:00)
+https://thedaddy.click/stream/stream-2.php
+
+#EXTINF:-1 tvg-id="englandpremierleagueevertonvscrystalpalace" tvg-name="Soccer | England - Premier League : Everton vs Crystal Palace (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Everton_vs_Crystal Palace.png" group-title="Eventi Live",Soccer | England - Premier League : Everton vs Crystal Palace (15:00)
+https://thedaddy.click/stream/stream-162.php
+
+#EXTINF:-1 tvg-id="englandpremierleaguenewcastleunitedvsnottinghamforest" tvg-name="Soccer | England - Premier League : Newcastle United vs Nottingham Forest (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Newcastle United_vs_Nottingham Forest.png" group-title="Eventi Live",Soccer | England - Premier League : Newcastle United vs Nottingham Forest (15:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/wind/premium870/mono.m3u8
+
+#EXTINF:-1 tvg-id="italyserieabolognavspisa" tvg-name="Soccer | Italy - Serie A : Bologna vs Pisa (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Bologna_vs_Pisa.png" group-title="Eventi Live",Soccer | Italy - Serie A : Bologna vs Pisa (15:00)
+https://thedaddy.click/stream/stream-105.php
+
+#EXTINF:-1 tvg-id="italyserieafiorentinavsroma" tvg-name="Soccer | Italy - Serie A : Fiorentina vs Roma (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Fiorentina_vs_Roma.png" group-title="Eventi Live",Soccer | Italy - Serie A : Fiorentina vs Roma (15:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/nfs/premium877/mono.m3u8
+
+#EXTINF:-1 tvg-id="italyseriebsüdtirolvsempoli" tvg-name="Soccer | Italy - Serie B : Südtirol vs Empoli (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Südtirol_vs_Empoli.png" group-title="Eventi Live",Soccer | Italy - Serie B : Südtirol vs Empoli (15:00)
+https://thedaddy.click/stream/stream-106.php
+
+#EXTINF:-1 tvg-id="italyseriebcarraresevsjuvestabia" tvg-name="Soccer | Italy - Serie B : Carrarese vs Juve Stabia (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Carrarese_vs_Juve Stabia.png" group-title="Eventi Live",Soccer | Italy - Serie B : Carrarese vs Juve Stabia (15:00)
+https://thedaddy.click/stream/stream-107.php
+
+#EXTINF:-1 tvg-id="serieawomengenoavsmilan" tvg-name="Soccer | Serie A (women) : Genoa vs Milan (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Genoa_vs_Milan.png" group-title="Eventi Live",Soccer | Serie A (women) : Genoa vs Milan (15:00)
+https://thedaddy.click/stream/stream-192.php
+
+#EXTINF:-1 tvg-id="franceligue1monacovsnice" tvg-name="Soccer | France - Ligue 1 : Monaco vs Nice (17:15)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Monaco_vs_Nice.png" group-title="Eventi Live",Soccer | France - Ligue 1 : Monaco vs Nice (17:15)
+https://thedaddy.click/stream/stream-2.php
+
+#EXTINF:-1 tvg-id="italyseriebsampdoriavspescara" tvg-name="Soccer | Italy - Serie B : Sampdoria vs Pescara (17:15)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Sampdoria_vs_Pescara.png" group-title="Eventi Live",Soccer | Italy - Serie B : Sampdoria vs Pescara (17:15)
+https://thedaddy.click/stream/stream-161.php
+
+#EXTINF:-1 tvg-id="bundesligahamburgersvvsmainz05" tvg-name="Soccer | Bundesliga : Hamburger SV vs Mainz 05 (17:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Hamburger SV_vs_Mainz 05.png" group-title="Eventi Live",Soccer | Bundesliga : Hamburger SV vs Mainz 05 (17:30)
+https://thedaddy.click/stream/stream-162.php
+
+#EXTINF:-1 tvg-id="italyseriecalcionevsvicenza" tvg-name="Soccer | Italy - Serie C : Alcione vs Vicenza (17:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Alcione_vs_Vicenza.png" group-title="Eventi Live",Soccer | Italy - Serie C : Alcione vs Vicenza (17:30)
+https://thedaddy.click/stream/stream-163.php
+
+#EXTINF:-1 tvg-id="italyseriecforlìvsnuovamonterosi" tvg-name="Soccer | Italy - Serie C : Forlì vs Nuova Monterosi (17:30)" tvg-logo="http://www.lega-pro.com/wp-content/themes/ascent/includes/images/squadre/2016/gironeB/forlì.png" group-title="Eventi Live",Soccer | Italy - Serie C : Forlì vs Nuova Monterosi (17:30)
+https://thedaddy.click/stream/stream-182.php
+
+#EXTINF:-1 tvg-id="italyseriecathleticcarpivsperugia" tvg-name="Soccer | Italy - Serie C : Athletic Carpi vs Perugia (17:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Athletic Carpi_vs_Perugia.png" group-title="Eventi Live",Soccer | Italy - Serie C : Athletic Carpi vs Perugia (17:30)
+https://thedaddy.click/stream/stream-167.php
+
+#EXTINF:-1 tvg-id="italyseriecteamaltamuravspotenzacalcio" tvg-name="Soccer | Italy - Serie C : Team Altamura vs Potenza Calcio (17:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Team Altamura_vs_Potenza Calcio.png" group-title="Eventi Live",Soccer | Italy - Serie C : Team Altamura vs Potenza Calcio (17:30)
+https://thedaddy.click/stream/stream-164.php
+
+#EXTINF:-1 tvg-id="italyseriecsorrentovsmonopoli" tvg-name="Soccer | Italy - Serie C : Sorrento vs Monopoli (17:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Sorrento_vs_Monopoli.png" group-title="Eventi Live",Soccer | Italy - Serie C : Sorrento vs Monopoli (17:30)
+https://thedaddy.click/stream/stream-166.php
+
+#EXTINF:-1 tvg-id="italyserieanapolivsgenoa" tvg-name="Soccer | Italy - Serie A : Napoli vs Genoa (18:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Napoli_vs_Genoa.png" group-title="Eventi Live",Soccer | Italy - Serie A : Napoli vs Genoa (18:00)
+https://thedaddy.click/stream/stream-165.php
+
+#EXTINF:-1 tvg-id="italyserieanapolivsgenoa" tvg-name="Soccer | Italy - Serie A : Napoli vs Genoa (18:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Napoli_vs_Genoa.png" group-title="Eventi Live",Soccer | Italy - Serie A : Napoli vs Genoa (18:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/wind/premium870/mono.m3u8
+
+#EXTINF:-1 tvg-id="italyserieanapolivsgenoa" tvg-name="Soccer | Italy - Serie A : Napoli vs Genoa (18:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Napoli_vs_Genoa.png" group-title="Eventi Live",Soccer | Italy - Serie A : Napoli vs Genoa (18:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/ddy6/premium461/mono.m3u8
+
+#EXTINF:-1 tvg-id="italyseriebmodenavsvirtusentella" tvg-name="Soccer | Italy - Serie B : Modena vs Virtus Entella (19:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Modena_vs_Virtus Entella.png" group-title="Eventi Live",Soccer | Italy - Serie B : Modena vs Virtus Entella (19:30)
+https://thedaddy.click/stream/stream-106.php
+
+#EXTINF:-1 tvg-id="italyseriecunionarzignanochiampovsalbinoleffe" tvg-name="Soccer | Italy - Serie C : Union ArzignanoChiampo vs AlbinoLeffe (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Union ArzignanoChiampo_vs_AlbinoLeffe.png" group-title="Eventi Live",Soccer | Italy - Serie C : Union ArzignanoChiampo vs AlbinoLeffe (20:30)
+https://thedaddy.click/stream/stream-166.php
+
+#EXTINF:-1 tvg-id="italyseriecunionarzignanochiampovsalbinoleffe" tvg-name="Soccer | Italy - Serie C : Union ArzignanoChiampo vs AlbinoLeffe (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Union ArzignanoChiampo_vs_AlbinoLeffe.png" group-title="Eventi Live",Soccer | Italy - Serie C : Union ArzignanoChiampo vs AlbinoLeffe (20:30)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/ddy6/premium882/mono.m3u8
+
+#EXTINF:-1 tvg-id="italyseriecgubbiovspontedera" tvg-name="Soccer | Italy - Serie C : Gubbio vs Pontedera (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Gubbio_vs_Pontedera.png" group-title="Eventi Live",Soccer | Italy - Serie C : Gubbio vs Pontedera (20:30)
+https://thedaddy.click/stream/stream-164.php
+
+#EXTINF:-1 tvg-id="italyseriecinteriivsospitaletto" tvg-name="Soccer | Italy - Serie C : Inter II vs Ospitaletto (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Inter II_vs_Ospitaletto.png" group-title="Eventi Live",Soccer | Italy - Serie C : Inter II vs Ospitaletto (20:30)
+https://thedaddy.click/stream/stream-163.php
+
+#EXTINF:-1 tvg-id="italyseriecinteriivsospitaletto" tvg-name="Soccer | Italy - Serie C : Inter II vs Ospitaletto (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Inter II_vs_Ospitaletto.png" group-title="Eventi Live",Soccer | Italy - Serie C : Inter II vs Ospitaletto (20:30)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/wind/premium870/mono.m3u8
+
+#EXTINF:-1 tvg-id="italyseriecaudacecerignolavscosenza" tvg-name="Soccer | Italy - Serie C : Audace Cerignola vs Cosenza (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Audace Cerignola_vs_Cosenza.png" group-title="Eventi Live",Soccer | Italy - Serie C : Audace Cerignola vs Cosenza (20:30)
+https://thedaddy.click/stream/stream-167.php
+
+#EXTINF:-1 tvg-id="franceligue1lillevspsg" tvg-name="Soccer | France - Ligue 1 : Lille vs PSG (20:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Lille_vs_PSG.png" group-title="Eventi Live",Soccer | France - Ligue 1 : Lille vs PSG (20:45)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/ddy6/premium461/mono.m3u8
+
+#EXTINF:-1 tvg-id="italyserieajuventusvsmilan" tvg-name="Soccer | Italy - Serie A : Juventus vs Milan (20:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Juventus_vs_Milan.png" group-title="Eventi Live",Soccer | Italy - Serie A : Juventus vs Milan (20:45)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/nfs/premium877/mono.m3u8
+
+#EXTINF:-1 tvg-id="wtatour1000beijingatptour1000shanghai" tvg-name="Tennis | WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai (14:30)" tvg-logo="https://stickypng.com/wp-content/uploads/2023/07/6266996c2c88722059d58713.png" group-title="Eventi Live",Tennis | WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai (14:30)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/ddy6/premium576/mono.m3u8
+
+#EXTINF:-1 tvg-id="motogpgreekgrandprixofindonesiawarmup" tvg-name="Motorsport | MotoGP : Greek Grand Prix of Indonesia Warm Up (04:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : Greek Grand Prix of Indonesia Warm Up (04:30)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/nfs/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="moto3greekgrandprixofindonesiarace" tvg-name="Motorsport | Moto3 : Greek Grand Prix of Indonesia Race (05:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Motorsport | Moto3 : Greek Grand Prix of Indonesia Race (05:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/nfs/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="moto2greekgrandprixofindonesiarace" tvg-name="Motorsport | Moto2 : Greek Grand Prix of Indonesia Race (07:00)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Motorsport | Moto2 : Greek Grand Prix of Indonesia Race (07:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/nfs/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="motogpgreekgrandprixofindonesiarace" tvg-name="Motorsport | MotoGP : Greek Grand Prix of Indonesia Race (08:15)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : Greek Grand Prix of Indonesia Race (08:15)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/nfs/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="formula1siasingaporegrandprixgrandprixsunday" tvg-name="Motorsport | Formula 1 : SIA Singapore Grand Prix - Grand Prix Sunday (13:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : SIA Singapore Grand Prix - Grand Prix Sunday (13:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/nfs/premium577/mono.m3u8
+
+#EXTINF:-1 tvg-id="formula1siasingaporegrandprixrace" tvg-name="Motorsport | Formula 1 : SIA Singapore Grand Prix - Race (14:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : SIA Singapore Grand Prix - Race (14:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/nfs/premium577/mono.m3u8
+
+#EXTINF:-1 tvg-id="motocrossofnationsrace1ironmanraceway" tvg-name="Motorsport | Motocross of Nations Race 1 | Ironman Raceway (19:00)" tvg-logo="https://www.cyclenews.com/wp-content/uploads/2024/08/2024MotoCombineLogo_AirForce-Ironman-1.png" group-title="Eventi Live",Motorsport | Motocross of Nations Race 1 | Ironman Raceway (19:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/wind/premium879/mono.m3u8
+
+#EXTINF:-1 tvg-id="motocrossofnationsrace2ironmanraceway" tvg-name="Motorsport | Motocross of Nations Race 2 | Ironman Raceway (20:30)" tvg-logo="https://www.cyclenews.com/wp-content/uploads/2024/08/2024MotoCombineLogo_AirForce-Ironman-1.png" group-title="Eventi Live",Motorsport | Motocross of Nations Race 2 | Ironman Raceway (20:30)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/wind/premium879/mono.m3u8
+
+#EXTINF:-1 tvg-id="worldchampionshipmotocrossofnations3rdrace" tvg-name="Motorsport | World Championship | Motocross of Nations 3rd Race (22:00)" tvg-logo="https://archives.bulbagarden.net/media/upload/thumb/f/fc/2023_Pokémon_World_Championships_logo.png/1200px-2023_Pokémon_World_Championships_logo.png" group-title="Eventi Live",Motorsport | World Championship | Motocross of Nations 3rd Race (22:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/wind/premium878/mono.m3u8
+
+#EXTINF:-1 tvg-id="latemarrunpampeago2025" tvg-name="Athletics | Latemar Run Pampeago 2025 (16:30)" tvg-logo="https://manager-cdn.gvanzo.it/crocebiancatesero/multimedias/6dbb86e0-aa14-4832-b151-d3786a321045/p_pampeago.png" group-title="Eventi Live",Athletics | Latemar Run Pampeago 2025 (16:30)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/ddy6/premium882/mono.m3u8
+
+#EXTINF:-1 tvg-id="touroflangkawistage8mentangkakkualalumpur1802km" tvg-name="Cycling | Tour of Langkawi | Stage 8 Men | Tangkak – Kuala Lumpur (180.2km) (09:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Tour of Langkawi | Stage 8 Men | Tangkak – Kuala Lumpur (180.2km) (09:15)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/wind/premium878/mono.m3u8
+
+#EXTINF:-1 tvg-id="ucicrosscountryolympicworldcupwomenelitelakeplacidwhoopucimountainbikeworldseries" tvg-name="Cycling | UCI Cross-country Olympic World Cup | Women Elite | Lake Placid WHOOP UCI Mountain Bike World Series (19:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | UCI Cross-country Olympic World Cup | Women Elite | Lake Placid WHOOP UCI Mountain Bike World Series (19:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/wind/premium878/mono.m3u8
+
+#EXTINF:-1 tvg-id="ucicrosscountryolympicworldcupmenelitelakeplacidwhoopucimountainbikeworldseries" tvg-name="Cycling | UCI Cross-country Olympic World Cup | Men Elite | Lake Placid WHOOP UCI Mountain Bike World Series (22:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | UCI Cross-country Olympic World Cup | Men Elite | Lake Placid WHOOP UCI Mountain Bike World Series (22:30)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/wind/premium878/mono.m3u8
+
+#EXTINF:-1 tvg-id="top14avironbayonnaisvsstadetoulousain" tvg-name="Rugby Union | Top 14 : Aviron Bayonnais vs Stade Toulousain (21:05)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Aviron Bayonnais_vs_Stade Toulousain.png" group-title="Eventi Live",Rugby Union | Top 14 : Aviron Bayonnais vs Stade Toulousain (21:05)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/dokko1/premium460/mono.m3u8
+
+#EXTINF:-1 tvg-id="unitedrugbychampionshipzebrevslions" tvg-name="Rugby Union | United Rugby Championship : Zebre vs Lions (16:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Zebre_vs_Lions.png" group-title="Eventi Live",Rugby Union | United Rugby Championship : Zebre vs Lions (16:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/ddy6/premium462/mono.m3u8
+
+#EXTINF:-1 tvg-id="triathlonsupertritoulouse" tvg-name="Triathlon | Triathlon: Supertri - Toulouse (14:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/triathlon-federation-usa-logo-black-and-white.png" group-title="Eventi Live",Triathlon | Triathlon: Supertri - Toulouse (14:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/wind/premium879/mono.m3u8
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
