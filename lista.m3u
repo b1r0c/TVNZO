@@ -1732,13 +1732,13 @@ https://vavoo.to/play/2070070755/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2471902234/index.m3u8
+https://vavoo.to/play/4271554009/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VERA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/vera-tv-it.png?raw=true" group-title="Altro",VERA TV (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/4271554009/index.m3u8
+https://vavoo.to/play/2471902234/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VIDEO NOVARA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PvoHpnx0hNKtt435CUaJza2e_qsm5B87Cg&s" group-title="Altro",VIDEO NOVARA
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1927,7 +1927,7 @@ https://new.newkso.ru/ddy6/premium461/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/nfs/premium877/mono.m3u8
 
-#EXTINF:-1 tvg-id="wtatour1000beijingatptour1000shanghai" tvg-name="Tennis | WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai (14:30)" tvg-logo="https://stickypng.com/wp-content/uploads/2023/07/6266996c2c88722059d58713.png" group-title="Eventi Live",Tennis | WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai (14:30)
+#EXTINF:-1 tvg-id="wtatour1000beijingatptour1000shanghai" tvg-name="Tennis | WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai (14:30)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/x16ihc1546113079.png" group-title="Eventi Live",Tennis | WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai (14:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
@@ -1951,7 +1951,7 @@ https://new.newkso.ru/nfs/premium577/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium879/mono.m3u8
 
-#EXTINF:-1 tvg-id="motocrossofnationsrace2ironmanraceway" tvg-name="Motorsport | Motocross of Nations Race 2 | Ironman Raceway (20:30)" tvg-logo="https://www.cyclenews.com/wp-content/uploads/2024/08/2024MotoCombineLogo_AirForce-Ironman-1.png" group-title="Eventi Live",Motorsport | Motocross of Nations Race 2 | Ironman Raceway (20:30)
+#EXTINF:-1 tvg-id="motocrossofnationsrace2ironmanraceway" tvg-name="Motorsport | Motocross of Nations Race 2 | Ironman Raceway (20:30)" tvg-logo="https://rxi.iscdn.net/2023/12/279664_566365teamshootrbktmsxmx2024teamshootingrbktmsxmx2024-remov.png" group-title="Eventi Live",Motorsport | Motocross of Nations Race 2 | Ironman Raceway (20:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
@@ -1968,12 +1968,6 @@ https://new.newkso.ru/wind/premium878/mono.m3u8
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/ddy6/premium882/mono.m3u8
-
-#EXTINF:-1 tvg-id="touroflangkawistage8mentangkakkualalumpur1802km" tvg-name="Cycling | Tour of Langkawi | Stage 8 Men | Tangkak – Kuala Lumpur (180.2km) (09:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Tour of Langkawi | Stage 8 Men | Tangkak – Kuala Lumpur (180.2km) (09:15)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium878/mono.m3u8
 
 #EXTINF:-1 tvg-id="ucicrosscountryolympicworldcupwomenelitelakeplacidwhoopucimountainbikeworldseries" tvg-name="Cycling | UCI Cross-country Olympic World Cup | Women Elite | Lake Placid WHOOP UCI Mountain Bike World Series (19:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | UCI Cross-country Olympic World Cup | Women Elite | Lake Placid WHOOP UCI Mountain Bike World Series (19:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
