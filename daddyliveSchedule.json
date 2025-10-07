@@ -680,6 +680,10 @@
                 "event": "Europe - UEFA Women's Champions League : Barcelona vs Bayern",
                 "channels": [
                     {
+                        "channel_name": "ESPN Deportes",
+                        "channel_id": "375"
+                    },
+                    {
                         "channel_name": "beIN Sports MENA English 2",
                         "channel_id": "90"
                     }
