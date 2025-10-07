@@ -1,5 +1,17 @@
 {
     "Tuesday 07th Oct 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:25",
+                "event": "Mr Olympia 2025: Tues Finals - Amateur Olympia",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5000"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:30",
