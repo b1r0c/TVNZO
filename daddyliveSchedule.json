@@ -2,7 +2,7 @@
     "Tuesday 07th Oct 2025 - Schedule Time UK GMT": {
         "PPV Events</span>": [
             {
-                "time": "23:07",
+                "time": "01:34",
                 "event": "Mr Olympia 2025: Tues Finals - Amateur Olympia",
                 "channels": [
                     {
@@ -3348,6 +3348,250 @@
                 ]
             }
         ],
+        "Tennis ATP - SHANGHAI</span>": [
+            {
+                "time": "04:30",
+                "event": "ATP - SHANGHAI : Rinderknech A. vs Lehecka J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "ATP - SHANGHAI : Borges N. vs De Minaur A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "ATP - SHANGHAI : Arevalo M./Pavic M. vs Krajicek A./Mektic N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "08:30",
+                "event": "ATP - SHANGHAI : Schnaitter J./Wallner M. vs Goransson A./Michelsen A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - SHANGHAI : Auger-Aliassime F. vs Musetti L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - SHANGHAI : Tien L. vs Medvedev D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - WUHAN</span>": [
+            {
+                "time": "03:00",
+                "event": "WTA - WUHAN : Alexandrova E. vs Li A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "WTA - WUHAN : Joint M. vs Siniakova K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "WTA - WUHAN : Jovic 1. vs Bouzas Maneiro J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "WTA - WUHAN : Baptiste H. vs Pegula J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - WUHAN : Frech M. vs Muchova K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - WUHAN : Kenin S. vs Samsonova L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - WUHAN : Uchijima M. vs Gauff C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "WTA - WUHAN : Bencic B. vs Mertens E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "WTA - WUHAN : Sabalenka A. vs Sramkova R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "WTA - WUHAN : Ruzic A. vs Tauson C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "WTA - WUHAN : Zhang S. vs Cirstea S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "WTA - WUHAN : Osaka N. vs Noskova L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - WUHAN : Paolini J. vs Yuan Y.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - WUHAN : Cristian J. vs Rybakina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "11:00",
@@ -3427,7 +3671,7 @@
         "WWE</span>": [
             {
                 "time": "00:00",
-                "event": "All Elite Wrestling: Dynamite",
+                "event": "All Elite Wrestling AEW : Dynamite",
                 "channels": [
                     {
                         "channel_name": "TBS USA",
@@ -3544,7 +3788,7 @@
                 ]
             }
         ],
-        "American Football</span>": [
+        "American Football (NCAAF)</span>": [
             {
                 "time": "23:30",
                 "event": "NCCAF FBS : Missouri State vs Middle Tennessee",
@@ -3570,7 +3814,7 @@
                 ]
             }
         ],
-        "Baseball</span>": [
+        "Baseball (MLB)</span>": [
             {
                 "time": "19:08",
                 "event": "MLB : Seattle Mariners vs Detroit Tigers",
@@ -4076,7 +4320,9 @@
                         "channel_id": "104"
                     }
                 ]
-            },
+            }
+        ],
+        "WNBA Finals</span>": [
             {
                 "time": "00:00",
                 "event": "WNBA : Phoenix Mercury W vs Las Vegas Aces W",
@@ -4114,7 +4360,9 @@
                         "channel_id": "82"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA</span>": [
             {
                 "time": "23:30",
                 "event": "NBA : Miami Heat vs San Antonio Spurs",
@@ -4594,7 +4842,9 @@
                         "channel_id": "127"
                     }
                 ]
-            },
+            }
+        ],
+        "NHL</span>": [
             {
                 "time": "23:00",
                 "event": "NHL : Montr\u00e9al Canadiens vs Toronto Maple Leafs",
@@ -4766,7 +5016,9 @@
                         "channel_id": "430"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA Women's Volleyball</span>": [
             {
                 "time": "23:00",
                 "event": "Women's College Volleyball : Kentucky vs. Texas A&M",
