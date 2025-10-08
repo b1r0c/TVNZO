@@ -514,13 +514,13 @@ https://vavoo.to/play/1482866609/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2242741766/index.m3u8
+https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1144128726/index.m3u8
+https://vavoo.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -1780,13 +1780,13 @@ https://example.com.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/ddy6/premium882/mono.m3u8
 
-#EXTINF:-1 tvg-id="2025dongfengvoyahwuhanopentenniswtaearlyroundcoverageday3" tvg-name="Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 (13:00)" tvg-logo="https://www.tennis.com/assets/logos/wta_championships.png" group-title="Eventi Live",Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 (13:00)
+#EXTINF:-1 tvg-id="2025dongfengvoyahwuhanopentenniswtaearlyroundcoverageday3" tvg-name="Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 (13:00)" tvg-logo="https://static.flashscore.com/res/image/data/MRDqVs7j-SMahOrKt.png" group-title="Eventi Live",Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 (13:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/ddy6/premium576/mono.m3u8
 
-#EXTINF:-1 tvg-id="xiangrandprixround2" tvg-name="Snooker | Xi'an Grand Prix | Round 2 (13:30)" tvg-logo="https://wpbsa.com/wp-content/uploads/Gong-Chenzhi-1200x1200-copy-2.png" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 2 (13:30)
+#EXTINF:-1 tvg-id="xiangrandprixround2" tvg-name="Snooker | Xi'an Grand Prix | Round 2 (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 2 (13:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
