@@ -400,13 +400,13 @@ https://vavoo.to/play/558282118/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2881739927/index.m3u8
+https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3165086929/index.m3u8
+https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -514,13 +514,13 @@ https://vavoo.to/play/1482866609/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2242741766/index.m3u8
+https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1144128726/index.m3u8
+https://vavoo.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (D)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -1474,13 +1474,13 @@ https://vavoo.to/play/1668393582/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2521825076/index.m3u8
+https://vavoo.to/play/2487986216/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELE CHIARA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Telechiara-logo.png" group-title="Altro",TELE CHIARA (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2487986216/index.m3u8
+https://vavoo.to/play/2521825076/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELE FRIULI" tvg-logo="https://www.telefriuli.it/wp-content/uploads/2022/11/logo_telefriuli_positivo.png" group-title="Altro",TELE FRIULI
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1774,11 +1774,41 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="fifau20wcargentinau20vsnigeriau20" tvg-name="Soccer | FIFA U20 WC : Argentina U20 vs Nigeria U20 (21:30)" tvg-logo="https://webp.vp.cdn.pxr.nl/tag/clubs/472821.png?width=1200" group-title="Eventi Live",Soccer | FIFA U20 WC : Argentina U20 vs Nigeria U20 (21:30)
+#EXTINF:-1 tvg-id="worldcupqualifyingfinlandvslithuania" tvg-name="Soccer | World Cup Qualifying : Finland vs Lithuania (18:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Finland_vs_Lithuania.png" group-title="Eventi Live",Soccer | World Cup Qualifying : Finland vs Lithuania (18:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/ddy6/premium882/mono.m3u8
+https://new.newkso.ru/wind/premium870/mono.m3u8
+
+#EXTINF:-1 tvg-id="friendlyenglandvswales" tvg-name="Soccer | Friendly : England vs Wales (20:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/England_vs_Wales.png" group-title="Eventi Live",Soccer | Friendly : England vs Wales (20:45)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/ddy6/premium462/mono.m3u8
+
+#EXTINF:-1 tvg-id="shanghaiatpquarterfinal2wuhanwta3rdround" tvg-name="Tennis | Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round (12:30)" tvg-logo="https://assets.stickpng.com/thumbs/62669d1e2c88722059d58717.png" group-title="Eventi Live",Tennis | Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round (12:30)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/ddy6/premium576/mono.m3u8
+
+#EXTINF:-1 tvg-id="xiangrandprixround3" tvg-name="Snooker | Xi'an Grand Prix | Round 3 (08:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 3 (08:00)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/wind/premium878/mono.m3u8
+
+#EXTINF:-1 tvg-id="xiangrandprixround3" tvg-name="Snooker | Xi'an Grand Prix | Round 3 (13:30)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Grand_Prix_Stern_Logo.png/revision/latest/scale-to-width-down/1200?cb=20251004222526" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 3 (13:30)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/wind/premium878/mono.m3u8
+
+#EXTINF:-1 tvg-id="granpiemontemendoglianiacquiterme179km" tvg-name="Cycling | Gran Piemonte Men | Dogliani - Acqui Terme (179km) (14:15)" tvg-logo="https://turismo.comuneacqui.it/wp-content/uploads/2021/12/logo_comune_acqui_terme1.png" group-title="Eventi Live",Cycling | Gran Piemonte Men | Dogliani - Acqui Terme (179km) (14:15)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/wind/premium878/mono.m3u8
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
