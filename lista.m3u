@@ -1774,12 +1774,6 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="worldcupqualifyingfinlandvslithuania" tvg-name="Soccer | World Cup Qualifying : Finland vs Lithuania (18:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Finland_vs_Lithuania.png" group-title="Eventi Live",Soccer | World Cup Qualifying : Finland vs Lithuania (18:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium870/mono.m3u8
-
 #EXTINF:-1 tvg-id="friendlyenglandvswales" tvg-name="Soccer | Friendly : England vs Wales (20:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/England_vs_Wales.png" group-title="Eventi Live",Soccer | Friendly : England vs Wales (20:45)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
