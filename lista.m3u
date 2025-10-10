@@ -1180,13 +1180,13 @@ https://vavoo.to/play/2392139008/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1200985239/index.m3u8
+https://vavoo.to/play/1565298794/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIA 3" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1565298794/index.m3u8
+https://vavoo.to/play/1200985239/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1773,12 +1773,6 @@ https://vavoo.to/play/2989824407/index.m3u8
 
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="worldcupqualifyingkazakhstanvsliechtenstein" tvg-name="All Soccer Events | World Cup Qualifying : Kazakhstan vs Liechtenstein (16:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Kazakhstan_vs_Liechtenstein.png" group-title="Eventi Live",All Soccer Events | World Cup Qualifying : Kazakhstan vs Liechtenstein (16:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium870/mono.m3u8
 
 #EXTINF:-1 tvg-id="europeeurou21qualifyingitalyu21vsswedenu21" tvg-name="All Soccer Events | Europe - Euro U-21 Qualifying : Italy U21 vs Sweden U21 (18:15)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Italy U21_vs_Sweden U21.png" group-title="Eventi Live",All Soccer Events | Europe - Euro U-21 Qualifying : Italy U21 vs Sweden U21 (18:15)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
