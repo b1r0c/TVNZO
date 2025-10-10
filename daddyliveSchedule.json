@@ -2,17 +2,21 @@
     "Friday 10th Oct 2025 - Schedule Time UK GMT": {
         "PPV Events</span>": [
             {
-                "time": "11:50",
+                "time": "15:57",
                 "event": "Mr Olympia 1",
                 "channels": [
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "205"
+                    },
+                    {
+                        "channel_name": "Event PPV 2",
+                        "channel_id": "5000"
                     }
                 ]
             },
             {
-                "time": "11:50",
+                "time": "15:57",
                 "event": "Mr Olympia 2",
                 "channels": [
                     {
@@ -22,7 +26,7 @@
                 ]
             },
             {
-                "time": "11:50",
+                "time": "15:57",
                 "event": "Mr Olympia 3",
                 "channels": [
                     {
@@ -2273,14 +2277,6 @@
                 "time": "00:00",
                 "event": "WWE Friday Night SmackDown",
                 "channels": [
-                    {
-                        "channel_name": "WWE Feed",
-                        "channel_id": "163"
-                    },
-                    {
-                        "channel_name": "WWE Feed",
-                        "channel_id": "5000"
-                    },
                     {
                         "channel_name": "USA Network",
                         "channel_id": "343"
