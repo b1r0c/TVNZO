@@ -2,7 +2,7 @@
     "Friday 10th Oct 2025 - Schedule Time UK GMT": {
         "PPV Events</span>": [
             {
-                "time": "23:11",
+                "time": "02:50",
                 "event": "Mr Olympia 1",
                 "channels": [
                     {
@@ -16,7 +16,7 @@
                 ]
             },
             {
-                "time": "23:11",
+                "time": "02:50",
                 "event": "Mr Olympia 2",
                 "channels": [
                     {
@@ -26,7 +26,7 @@
                 ]
             },
             {
-                "time": "23:11",
+                "time": "02:50",
                 "event": "Mr Olympia 3",
                 "channels": [
                     {
@@ -3736,7 +3736,7 @@
         ]
     },
     "Saturday 11th Oct 2025 - Schedule Time UK GMT": {
-        "Soccer</span>": [
+        "England - League One/League Two</span>": [
             {
                 "time": "13:00",
                 "event": "England - League One : Northampton Town vs Rotherham United",
@@ -3910,7 +3910,9 @@
                         "channel_id": "163"
                     }
                 ]
-            },
+            }
+        ],
+        "ajor League Soccer (MLS)</span>": [
             {
                 "time": "23:30",
                 "event": "USA/Canada - Major League Soccer : Inter Miami vs Atlanta United",
@@ -3950,7 +3952,9 @@
                         "channel_id": "110"
                     }
                 ]
-            },
+            }
+        ],
+        "USL Championship</span>": [
             {
                 "time": "23:00",
                 "event": "USL Championship : Hartford Athletic vs Sacramento Republic",
@@ -4030,7 +4034,9 @@
                         "channel_id": "164"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events</span>": [
             {
                 "time": "09:00",
                 "event": "Poland Ekstraliga Women - Gornik Leczna vs. Czarni Sosnowiec",
@@ -5900,6 +5906,100 @@
                 ]
             }
         ],
+        "Tennis ATP - SHANGHAI</span>": [
+            {
+                "time": "06:00",
+                "event": "ATP - SHANGHAI : Krawietz K./Puetz T. vs Andreozzi G./Guinard M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "08:30",
+                "event": "ATP - SHANGHAI : Djokovic N. vs Vacherot V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - SHANGHAI : Medvedev D. vs Rinderknech A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - WUHAN</span>": [
+            {
+                "time": "07:00",
+                "event": "WTA - WUHAN : Mihalikova T./Nicholls O. vs Hunter S./Siniakova K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "WTA - WUHAN : Gauff C. vs Paolini J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - WUHAN : Sabalenka A. vs Pegula J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - WUHAN : Danilina A./Krunic A. vs Siegemund L./Stollar F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "08:30",
@@ -6236,6 +6336,18 @@
                 ]
             },
             {
+                "time": "00:30",
+                "event": "Shamrock FC 369 : Tyson Hicks vs Andrew Horowitz",
+                "channels": [
+                    {
+                        "channel_name": "TrillerTV",
+                        "channel_id": "69"
+                    }
+                ]
+            }
+        ],
+        "UFC Fight Night - Oliveira vs Gamrot</span>": [
+            {
                 "time": "20:00",
                 "event": "UFC Fight Night Prelims : Jafel Filho vs Clayton Carpenter",
                 "channels": [
@@ -6266,16 +6378,6 @@
                     {
                         "channel_name": "Astro Grandstand",
                         "channel_id": "123"
-                    }
-                ]
-            },
-            {
-                "time": "00:30",
-                "event": "Shamrock FC 369 : Tyson Hicks vs Andrew Horowitz",
-                "channels": [
-                    {
-                        "channel_name": "TrillerTV",
-                        "channel_id": "69"
                     }
                 ]
             },
@@ -6338,7 +6440,7 @@
                 ]
             }
         ],
-        "WWE</span>": [
+        "WWE (GCW)</span>": [
             {
                 "time": "00:00",
                 "event": "GCW: Fight Club - The Art of War Games 2025, Night 1",
@@ -6604,7 +6706,7 @@
                 ]
             }
         ],
-        "Am. Football</span>": [
+        "Am. Football (NCAAF)</span>": [
             {
                 "time": "19:00",
                 "event": "CFL : Hamilton Tiger-Cats vs Calgary Stampeders",
@@ -7732,7 +7834,9 @@
                         "channel_id": "592"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA</span>": [
             {
                 "time": "23:00",
                 "event": "NBA : Indiana Pacers vs Oklahoma City Thunder",
@@ -8162,7 +8266,7 @@
                 ]
             }
         ],
-        "Ice Hockey</span>": [
+        "NHL</span>": [
             {
                 "time": "17:30",
                 "event": "NHL : Los Angeles Kings vs Winnipeg Jets",
@@ -8594,7 +8698,9 @@
                         "channel_id": "18"
                     }
                 ]
-            },
+            }
+        ],
+        "Ice Hockey</span>": [
             {
                 "time": "14:00",
                 "event": "Liiga : Tappara vs Assat",
