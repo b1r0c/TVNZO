@@ -1780,7 +1780,7 @@ https://example.com.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/nfs/premium877/mono.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecgianaerminiovsnovara" tvg-name="All Soccer Events | Italy - Serie C : Giana Erminio vs Novara (14:30)" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fsoccer%2F500%2F3954.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Giana Erminio vs Novara (14:30)
+#EXTINF:-1 tvg-id="italyseriecgianaerminiovsnovara" tvg-name="All Soccer Events | Italy - Serie C : Giana Erminio vs Novara (14:30)" tvg-logo="https://www.novarafootballclub.it/wp-content/uploads/2021/09/cropped-logo-novara-favicon.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Giana Erminio vs Novara (14:30)
 https://thedaddy.click/stream/stream-170.php
 
 #EXTINF:-1 tvg-id="italyseriecperugiavsrimini" tvg-name="All Soccer Events | Italy - Serie C : Perugia vs Rimini (14:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Perugia_vs_Rimini.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Perugia vs Rimini (14:30)
@@ -1868,12 +1868,6 @@ https://new.newkso.ru/ddy6/premium461/mono.m3u8
 https://new.newkso.ru/ddy6/premium850/mono.m3u8
 
 #EXTINF:-1 tvg-id="xiangrandprixquarterfinal" tvg-name="Snooker | Xi'An Grand Prix | Quarter-Final (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Xi'An Grand Prix | Quarter-Final (13:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium878/mono.m3u8
-
-#EXTINF:-1 tvg-id="goldentrailledroskytrentinoday1" tvg-name="Athletics | Golden Trail Ledro Sky Trentino | Day 1 (12:00)" tvg-logo="https://goldentrailseries.com/wp-content/uploads/2025/06/GG-20250623_LEDROSKY_LOGO_nero_RGB.png" group-title="Eventi Live",Athletics | Golden Trail Ledro Sky Trentino | Day 1 (12:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
