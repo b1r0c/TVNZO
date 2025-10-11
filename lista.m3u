@@ -400,13 +400,13 @@ https://vavoo.to/play/558282118/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2881739927/index.m3u8
+https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3165086929/index.m3u8
+https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1024,13 +1024,13 @@ https://vavoo.to/play/996680722/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2749478718/index.m3u8
+https://vavoo.to/play/3107500995/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro",CANALE 8 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3107500995/index.m3u8
+https://vavoo.to/play/2749478718/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARINA TV" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro",CARINA TV
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1774,42 +1774,6 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieawomenlaziovsgenoa" tvg-name="All Soccer Events | Italy - Serie A (women) : Lazio vs Genoa (12:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Lazio_vs_Genoa.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A (women) : Lazio vs Genoa (12:30)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/nfs/premium877/mono.m3u8
-
-#EXTINF:-1 tvg-id="italyseriecgianaerminiovsnovara" tvg-name="All Soccer Events | Italy - Serie C : Giana Erminio vs Novara (14:30)" tvg-logo="https://www.novarafootballclub.it/wp-content/uploads/2021/09/cropped-logo-novara-favicon.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Giana Erminio vs Novara (14:30)
-https://thedaddy.click/stream/stream-170.php
-
-#EXTINF:-1 tvg-id="italyseriecperugiavsrimini" tvg-name="All Soccer Events | Italy - Serie C : Perugia vs Rimini (14:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Perugia_vs_Rimini.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Perugia vs Rimini (14:30)
-https://thedaddy.click/stream/stream-2.php
-
-#EXTINF:-1 tvg-id="italyseriecfoggiavscrotone" tvg-name="All Soccer Events | Italy - Serie C : Foggia vs Crotone (14:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Foggia_vs_Crotone.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Foggia vs Crotone (14:30)
-https://thedaddy.click/stream/stream-3.php
-
-#EXTINF:-1 tvg-id="italyseriecgiuglianovscatania" tvg-name="All Soccer Events | Italy - Serie C : Giugliano vs Catania (14:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Giugliano_vs_Catania.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Giugliano vs Catania (14:30)
-https://thedaddy.click/stream/stream-4.php
-
-#EXTINF:-1 tvg-id="italyseriecgiuglianovscatania" tvg-name="All Soccer Events | Italy - Serie C : Giugliano vs Catania (14:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Giugliano_vs_Catania.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Giugliano vs Catania (14:30)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium870/mono.m3u8
-
-#EXTINF:-1 tvg-id="italyseriecpicernovscasertana" tvg-name="All Soccer Events | Italy - Serie C : Picerno vs Casertana (14:30)" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Picerno vs Casertana (14:30)
-https://thedaddy.click/stream/stream-171.php
-
-#EXTINF:-1 tvg-id="worldcupqualifyinglatviavsandorra" tvg-name="All Soccer Events | World Cup Qualifying : Latvia vs Andorra (15:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/latvia-logo-png-transparent.png" group-title="Eventi Live",All Soccer Events | World Cup Qualifying : Latvia vs Andorra (15:00)
-https://thedaddy.click/stream/stream-14.php
-
-#EXTINF:-1 tvg-id="italyserieawomenjuventusvscomo" tvg-name="All Soccer Events | Italy - Serie A (women) : Juventus vs Como (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Juventus_vs_Como.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A (women) : Juventus vs Como (15:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/nfs/premium877/mono.m3u8
-
 #EXTINF:-1 tvg-id="italyserieawomenfiorentinavsintermilano" tvg-name="All Soccer Events | Italy - Serie A (women) : Fiorentina vs Inter Milano (17:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Fiorentina_vs_Inter Milano.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A (women) : Fiorentina vs Inter Milano (17:30)
 https://thedaddy.click/stream/stream-55.php
 
@@ -1866,30 +1830,6 @@ https://new.newkso.ru/ddy6/premium461/mono.m3u8
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/ddy6/premium850/mono.m3u8
-
-#EXTINF:-1 tvg-id="xiangrandprixquarterfinal" tvg-name="Snooker | Xi'An Grand Prix | Quarter-Final (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Xi'An Grand Prix | Quarter-Final (13:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium878/mono.m3u8
-
-#EXTINF:-1 tvg-id="touroflombardycomobergamo238kmuciworldtour" tvg-name="Cycling | Tour of Lombardy. Como - Bergamo (238 km). UCI World Tour (14:45)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/igahc11535183469.png/preview" group-title="Eventi Live",Cycling | Tour of Lombardy. Como - Bergamo (238 km). UCI World Tour (14:45)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/ddy6/premium851/mono.m3u8
-
-#EXTINF:-1 tvg-id="touroflombardycomobergamo238kmuciworldtour" tvg-name="Cycling | Tour of Lombardy. Como - Bergamo (238 km). UCI World Tour (14:45)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/igahc11535183469.png/preview" group-title="Eventi Live",Cycling | Tour of Lombardy. Como - Bergamo (238 km). UCI World Tour (14:45)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium878/mono.m3u8
-
-#EXTINF:-1 tvg-id="serieaeliteviadanavsmogliano" tvg-name="Rugby Union | Serie A Elite : Viadana vs Mogliano (14:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Viadana_vs_Mogliano.png" group-title="Eventi Live",Rugby Union | Serie A Elite : Viadana vs Mogliano (14:30)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/ddy6/premium882/mono.m3u8
 
 #EXTINF:-1 tvg-id="italyseriea1womenpallavoloscandiccivsperugiavolley" tvg-name="Volleyball | Italy Serie A1 Women : Pallavolo Scandicci vs. Perugia Volley (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Pallavolo Scandicci_vs_Perugia Volley.png" group-title="Eventi Live",Volleyball | Italy Serie A1 Women : Pallavolo Scandicci vs. Perugia Volley (20:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
