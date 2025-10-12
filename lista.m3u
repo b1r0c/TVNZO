@@ -1252,13 +1252,13 @@ https://vavoo.to/play/3134124967/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1641481816/index.m3u8
+https://vavoo.to/play/203130779/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ONDA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Og_2yYQhg-ersjEG5xZ99bri_Di4l5dlyw&s" group-title="Altro",ONDA TV (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/203130779/index.m3u8
+https://vavoo.to/play/1641481816/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ORLER TV" tvg-logo="https://www.tvdream.net/img/orlertv.png" group-title="Altro",ORLER TV
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1825,7 +1825,7 @@ https://thedaddy.click/stream/stream-25.php
 #EXTINF:-1 tvg-id="italyserieawomenternanavsnapoli" tvg-name="Soccer | Italy - Serie A (women) : Ternana vs Napoli (15:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Ternana_vs_Napoli.png" group-title="Eventi Live",Soccer | Italy - Serie A (women) : Ternana vs Napoli (15:00)
 https://thedaddy.click/stream/stream-55.php
 
-#EXTINF:-1 tvg-id="italyseriecalbinoleffevslecco" tvg-name="Soccer | Italy - Serie C : AlbinoLeffe vs Lecco (17:30)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/unione-calcio-albinoleffe-logo.png" group-title="Eventi Live",Soccer | Italy - Serie C : AlbinoLeffe vs Lecco (17:30)
+#EXTINF:-1 tvg-id="italyseriecalbinoleffevslecco" tvg-name="Soccer | Italy - Serie C : AlbinoLeffe vs Lecco (17:30)" group-title="Eventi Live",Soccer | Italy - Serie C : AlbinoLeffe vs Lecco (17:30)
 https://thedaddy.click/stream/stream-4.php
 
 #EXTINF:-1 tvg-id="italyseriecospitalettovsunionarzignanochiampo" tvg-name="Soccer | Italy - Serie C : Ospitaletto vs Union ArzignanoChiampo (17:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Ospitaletto_vs_Union ArzignanoChiampo.png" group-title="Eventi Live",Soccer | Italy - Serie C : Ospitaletto vs Union ArzignanoChiampo (17:30)
@@ -1870,7 +1870,7 @@ https://new.newkso.ru/wind/premium870/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/ddy6/premium461/mono.m3u8
 
-#EXTINF:-1 tvg-id="fifau20wcquarterfinal3unitedstatesu20vsmoroccou20" tvg-name="Soccer | FIFA U20 WC Quarter Final 3 : United States U20 vs Morocco U20 (22:00)" tvg-logo="http://www.futbol24.com/upload/team/CONCACAF/USA-U20.png" group-title="Eventi Live",Soccer | FIFA U20 WC Quarter Final 3 : United States U20 vs Morocco U20 (22:00)
+#EXTINF:-1 tvg-id="fifau20wcquarterfinal3unitedstatesu20vsmoroccou20" tvg-name="Soccer | FIFA U20 WC Quarter Final 3 : United States U20 vs Morocco U20 (22:00)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2833.png" group-title="Eventi Live",Soccer | FIFA U20 WC Quarter Final 3 : United States U20 vs Morocco U20 (22:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
@@ -1882,31 +1882,19 @@ https://new.newkso.ru/ddy6/premium882/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/ddy6/premium576/mono.m3u8
 
-#EXTINF:-1 tvg-id="xiangrandprixsemifinal" tvg-name="Snooker | Xi'An Grand Prix | Semi-Final (13:30)" tvg-logo="https://matchpint-cdn.matchpint.cloud/shared/imagenes/teams/no-logo.png" group-title="Eventi Live",Snooker | Xi'An Grand Prix | Semi-Final (13:30)
+#EXTINF:-1 tvg-id="xiangrandprixsemifinal" tvg-name="Snooker | Xi'An Grand Prix | Semi-Final (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Xi'An Grand Prix | Semi-Final (13:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="goldentrailledroskytrentinoday2" tvg-name="Athletics | Golden Trail Ledro Sky Trentino | Day 2 (12:00)" tvg-logo="https://goldentrailseries.com/wp-content/uploads/2025/06/GG-20250623_LEDROSKY_LOGO_nero_RGB.png" group-title="Eventi Live",Athletics | Golden Trail Ledro Sky Trentino | Day 2 (12:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium878/mono.m3u8
-
-#EXTINF:-1 tvg-id="seriea2avellinobasketvsbrindisi" tvg-name="Basketball | Serie A2 : Avellino Basket vs Brindisi (12:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Avellino Basket_vs_Brindisi.png" group-title="Eventi Live",Basketball | Serie A2 : Avellino Basket vs Brindisi (12:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/ddy6/premium882/mono.m3u8
-
-#EXTINF:-1 tvg-id="ucigravelworldchampionshipsmenelitesouthlimburg180km" tvg-name="Cycling | UCI Gravel World Championships Men Elite | South Limburg (180km) (14:15)" tvg-logo="https://cdn.prod.website-files.com/642176300615c408cdf96d51/65bb9ccffe7493644b62bf0d_Web Logo (No Background)-p-3200.png" group-title="Eventi Live",Cycling | UCI Gravel World Championships Men Elite | South Limburg (180km) (14:15)
+#EXTINF:-1 tvg-id="ucigravelworldchampionshipsmenelitesouthlimburg180km" tvg-name="Cycling | UCI Gravel World Championships Men Elite | South Limburg (180km) (14:15)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5dc469f34412757d7ba57385/10ecb059-583c-432d-aafe-5b75c44b4336/Safari+Grave+Race+logo+Greens+(1).png?format=1500w" group-title="Eventi Live",Cycling | UCI Gravel World Championships Men Elite | South Limburg (180km) (14:15)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium879/mono.m3u8
 
-#EXTINF:-1 tvg-id="ucicrosscountryolympicworldcupmenelitemontsainteanne" tvg-name="Cycling | UCI Cross-country Olympic World Cup | Men Elite | Mont-Sainte-Anne (21:15)" tvg-logo="https://mbaction.com/wp-content/uploads/2025/10/W1-768x1097.png" group-title="Eventi Live",Cycling | UCI Cross-country Olympic World Cup | Men Elite | Mont-Sainte-Anne (21:15)
+#EXTINF:-1 tvg-id="ucicrosscountryolympicworldcupmenelitemontsainteanne" tvg-name="Cycling | UCI Cross-country Olympic World Cup | Men Elite | Mont-Sainte-Anne (21:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | UCI Cross-country Olympic World Cup | Men Elite | Mont-Sainte-Anne (21:15)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
