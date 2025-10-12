@@ -2,7 +2,7 @@
     "Saturday 11th Oct 2025 - Schedule Time UK GMT": {
         "PPV Events</span>": [
             {
-                "time": "22:45",
+                "time": "02:45",
                 "event": "Mr Olympia 1",
                 "channels": [
                     {
@@ -16,7 +16,7 @@
                 ]
             },
             {
-                "time": "22:45",
+                "time": "02:45",
                 "event": "Mr Olympia 2",
                 "channels": [
                     {
@@ -8672,6 +8672,74 @@
                 ]
             }
         ],
+        "Tennis ATP - SHANGHAI</span>": [
+            {
+                "time": "06:00",
+                "event": "ATP - SHANGHAI : Goransson A./Michelsen A. vs Krawietz K./Puetz T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "08:30",
+                "event": "ATP - SHANGHAI : Rinderknech A. vs Vacherot V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - WUHAN</span>": [
+            {
+                "time": "08:00",
+                "event": "WTA - WUHAN : Danilina A./Krunic A. vs Hunter S./Siniakova K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - WUHAN : Pegula J. vs Gauff C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "11:00",
@@ -9134,7 +9202,7 @@
                 ]
             }
         ],
-        "Am. Football</span>": [
+        "Am. Football (NFL)</span>": [
             {
                 "time": "13:30",
                 "event": "NFL : New York Jets vs Denver Broncos",
@@ -9626,7 +9694,7 @@
                 ]
             },
             {
-                "time": "22:45",
+                "time": "02:45",
                 "event": "179:45 Chicago Marathon '25",
                 "channels": [
                     {
@@ -9636,7 +9704,7 @@
                 ]
             }
         ],
-        "Aussie rules</span>": [
+        "Aussie rules (AFL)</span>": [
             {
                 "time": "04:05",
                 "event": "AFL Women : St Kilda W vs Collingwood Magpies W",
@@ -9674,7 +9742,7 @@
                 ]
             }
         ],
-        "Baseball</span>": [
+        "Baseball (MLB)</span>": [
             {
                 "time": "00:00",
                 "event": "MLB : Seattle Mariners vs Toronto Blue Jays",
@@ -10124,7 +10192,9 @@
                         "channel_id": "434"
                     }
                 ]
-            },
+            }
+        ],
+        "WNBA Finals</span>": [
             {
                 "time": "19:00",
                 "event": "WNBA Basketball - Finals, Game 5: TBA at TBA",
@@ -10138,7 +10208,9 @@
                         "channel_id": "83"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA</span>": [
             {
                 "time": "11:00",
                 "event": "NBA : Phoenix Suns vs Brooklyn Nets",
@@ -10890,7 +10962,9 @@
                         "channel_id": "700"
                     }
                 ]
-            },
+            }
+        ],
+        "NHL</span>": [
             {
                 "time": "23:00",
                 "event": "NHL : Washington Capitals vs New York Rangers",
@@ -11100,56 +11174,6 @@
                 ]
             },
             {
-                "time": "17:00",
-                "event": "Women's College Volleyball : Kentucky vs LSU",
-                "channels": [
-                    {
-                        "channel_name": "ESPN USA",
-                        "channel_id": "44"
-                    }
-                ]
-            },
-            {
-                "time": "17:30",
-                "event": "Women's College Volleyball : SMU vs Miami",
-                "channels": [
-                    {
-                        "channel_name": "ACC Network USA",
-                        "channel_id": "664"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "Women's College Volleyball : Wisconsin vs Maryland",
-                "channels": [
-                    {
-                        "channel_name": "BTN USA",
-                        "channel_id": "397"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Women's College Volleyball : Pittsburgh vs Florida State",
-                "channels": [
-                    {
-                        "channel_name": "ESPN USA",
-                        "channel_id": "44"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "Women's College Volleyball : Washington vs Oregon",
-                "channels": [
-                    {
-                        "channel_name": "BTN USA",
-                        "channel_id": "397"
-                    }
-                ]
-            },
-            {
                 "time": "20:00",
                 "event": "Athletes Unlimited Pro Volleyball : Team Hoffman vs. Team Valentin-Anderson",
                 "channels": [
@@ -11198,6 +11222,58 @@
                     {
                         "channel_name": "ESPNU USA",
                         "channel_id": "316"
+                    }
+                ]
+            }
+        ],
+        "NCAA Women's Volleyball</span>": [
+            {
+                "time": "17:00",
+                "event": "Women's College Volleyball : Kentucky vs LSU",
+                "channels": [
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "Women's College Volleyball : SMU vs Miami",
+                "channels": [
+                    {
+                        "channel_name": "ACC Network USA",
+                        "channel_id": "664"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Women's College Volleyball : Wisconsin vs Maryland",
+                "channels": [
+                    {
+                        "channel_name": "BTN USA",
+                        "channel_id": "397"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "Women's College Volleyball : Pittsburgh vs Florida State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "Women's College Volleyball : Washington vs Oregon",
+                "channels": [
+                    {
+                        "channel_name": "BTN USA",
+                        "channel_id": "397"
                     }
                 ]
             }
