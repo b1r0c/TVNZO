@@ -400,13 +400,13 @@ https://vavoo.to/play/558282118/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3165086929/index.m3u8
+https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2881739927/index.m3u8
+https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1774,47 +1774,47 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecsambenedettesevsravenna" tvg-name="Soccer | Italy - Serie C : Sambenedettese vs Ravenna (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Sambenedettese_vs_Ravenna.png" group-title="Eventi Live",Soccer | Italy - Serie C : Sambenedettese vs Ravenna (20:30)
-https://thedaddy.click/stream/stream-7.php
-
-#EXTINF:-1 tvg-id="italyseriecpropatriavsunionbrescia" tvg-name="Soccer | Italy - Serie C : Pro Patria vs Union Brescia (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Pro Patria_vs_Union Brescia.png" group-title="Eventi Live",Soccer | Italy - Serie C : Pro Patria vs Union Brescia (20:30)
+#EXTINF:-1 tvg-id="italyseriectrentovsprovercelli" tvg-name="All Soccer Events | Italy - Serie C : Trento vs Pro Vercelli (20:30)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3995.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Trento vs Pro Vercelli (20:30)
 https://thedaddy.click/stream/stream-2.php
 
-#EXTINF:-1 tvg-id="italyseriecpropatriavsunionbrescia" tvg-name="Soccer | Italy - Serie C : Pro Patria vs Union Brescia (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Pro Patria_vs_Union Brescia.png" group-title="Eventi Live",Soccer | Italy - Serie C : Pro Patria vs Union Brescia (20:30)
+#EXTINF:-1 tvg-id="italyseriectrentovsprovercelli" tvg-name="All Soccer Events | Italy - Serie C : Trento vs Pro Vercelli (20:30)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3995.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Trento vs Pro Vercelli (20:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/dokko1/premium460/mono.m3u8
 
-#EXTINF:-1 tvg-id="worldcupqualifyingromaniavsaustria" tvg-name="Soccer | World Cup Qualifying : Romania vs Austria (20:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Romania_vs_Austria.png" group-title="Eventi Live",Soccer | World Cup Qualifying : Romania vs Austria (20:45)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium870/mono.m3u8
+#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivslumezzane" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)" tvg-logo="https://www.footballdatabase.eu/images/photos/clubs/a_18/18603.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)
+https://thedaddy.click/stream/stream-3.php
 
-#EXTINF:-1 tvg-id="worldcupqualifyingdenmarkvsgreece" tvg-name="Soccer | World Cup Qualifying : Denmark vs Greece (20:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Denmark_vs_Greece.png" group-title="Eventi Live",Soccer | World Cup Qualifying : Denmark vs Greece (20:45)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/ddy6/premium461/mono.m3u8
-
-#EXTINF:-1 tvg-id="fifau20wcquarterfinal3unitedstatesu20vsmoroccou20" tvg-name="Soccer | FIFA U20 WC Quarter Final 3 : United States U20 vs Morocco U20 (22:00)" tvg-logo="http://www.futbol24.com/upload/team/CONCACAF/USA-U20.png" group-title="Eventi Live",Soccer | FIFA U20 WC Quarter Final 3 : United States U20 vs Morocco U20 (22:00)
+#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivslumezzane" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Dolomiti Bellunesi_vs_Lumezzane.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/ddy6/premium882/mono.m3u8
 
-#EXTINF:-1 tvg-id="ucicrosscountryolympicworldcupmenelitemontsainteanne" tvg-name="Cycling | UCI Cross-country Olympic World Cup | Men Elite | Mont-Sainte-Anne (21:15)" tvg-logo="https://mtvanhoevenberg.com/wp-content/uploads/sites/6/2024/04/UCI-MTB-Racers-Arrow_V2.png" group-title="Eventi Live",Cycling | UCI Cross-country Olympic World Cup | Men Elite | Mont-Sainte-Anne (21:15)
+#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivslumezzane" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Dolomiti Bellunesi_vs_Lumezzane.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/ddy6/premium462/mono.m3u8
+
+#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaningbowtaearlyrounds" tvg-name="Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)" tvg-logo="https://assets.stickpng.com/thumbs/62669d1e2c88722059d58717.png" group-title="Eventi Live",Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
+https://new.newkso.ru/ddy6/premium576/mono.m3u8
+
+#EXTINF:-1 tvg-id="xiangrandprixfinalafternoonsession" tvg-name="Snooker | Xi'An Grand Prix | Final | Afternoon Session (08:00)" tvg-logo="https://calendar.wincalendar.net/img/holiday/afl-grand-final-day.png" group-title="Eventi Live",Snooker | Xi'An Grand Prix | Final | Afternoon Session (08:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="top14stadetoulousainvsbordeauxbegles" tvg-name="Rugby Union | Top 14 : Stade Toulousain vs Bordeaux Begles (21:00)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Stade Toulousain_vs_Bordeaux Begles.png" group-title="Eventi Live",Rugby Union | Top 14 : Stade Toulousain vs Bordeaux Begles (21:00)
+#EXTINF:-1 tvg-id="xiangrandprixfinaleveningsession" tvg-name="Snooker | Xi'An Grand Prix | Final | Evening Session (14:00)" tvg-logo="https://calendar.wincalendar.net/img/holiday/afl-grand-final-day.png" group-title="Eventi Live",Snooker | Xi'An Grand Prix | Final | Evening Session (14:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/ddy6/premium462/mono.m3u8
+https://new.newkso.ru/wind/premium878/mono.m3u8
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
