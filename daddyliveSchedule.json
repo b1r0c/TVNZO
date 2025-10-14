@@ -1474,10 +1474,6 @@
                 "event": "World Cup Qualifying : Senegal vs Mauritania",
                 "channels": [
                     {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "160"
-                    },
-                    {
                         "channel_name": "ESPN 4 NL",
                         "channel_id": "21"
                     },
@@ -1491,10 +1487,6 @@
                 "time": "19:00",
                 "event": "World Cup Qualifying : Morocco vs Congo",
                 "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "161"
-                    },
                     {
                         "channel_name": "Arryadia HD 3",
                         "channel_id": "22"
@@ -1511,22 +1503,8 @@
             },
             {
                 "time": "19:00",
-                "event": "World Cup Qualifying : Gabon vs Burundi",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "162"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
                 "event": "World Cup Qualifying : C\u00f4te d'Ivoire vs Kenya",
                 "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "163"
-                    },
                     {
                         "channel_name": "Sportdigital FUSSBALL DE",
                         "channel_id": "571"
@@ -1542,16 +1520,6 @@
                     {
                         "channel_name": "SuperSport PSL",
                         "channel_id": "413"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "World Cup Qualifying : Congo DR vs Sudan",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "164"
                     }
                 ]
             },
