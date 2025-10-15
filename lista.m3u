@@ -1774,13 +1774,7 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="fifau20wcmoroccou20vsfranceu20" tvg-name="Soccer | FIFA U20 WC : Morocco U20 vs France U20 (22:00)" tvg-logo="https://www.lerugbynistere.fr/imgs/teams/france.png" group-title="Eventi Live",Soccer | FIFA U20 WC : Morocco U20 vs France U20 (22:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/ddy6/premium882/mono.m3u8
-
-#EXTINF:-1 tvg-id="seriea1womenagilvolleynovaravsfenerachieri" tvg-name="Volleyball | Serie A1 Women : Agil Volley Novara vs. Fenera Chieri (19:15)" tvg-logo="https://www.chieri76.it/wp-content/uploads/2024/09/Logo-RMFC76.png" group-title="Eventi Live",Volleyball | Serie A1 Women : Agil Volley Novara vs. Fenera Chieri (19:15)
+#EXTINF:-1 tvg-id="fifau20wcmoroccou20vsfranceu20" tvg-name="Soccer | FIFA U20 WC : Morocco U20 vs France U20 (22:00)" tvg-logo="https://assets-fr.imgfoot.com/media/cache/60x60/france.png" group-title="Eventi Live",Soccer | FIFA U20 WC : Morocco U20 vs France U20 (22:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
