@@ -1774,7 +1774,7 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaningbowtaearlyrounds" tvg-name="Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (11:30)" tvg-logo="https://static.flashscore.com/res/image/data/faYuGkkd-xAUiXkYc.png" group-title="Eventi Live",Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (11:30)
+#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaningbowtaearlyrounds" tvg-name="Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (11:30)" tvg-logo="https://assets.stickpng.com/thumbs/6266993f2c88722059d58711.png" group-title="Eventi Live",Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (11:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
@@ -1786,19 +1786,13 @@ https://new.newkso.ru/ddy6/premium576/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="moto2australiangrandprixfreepractice1" tvg-name="Motorsport | Moto2 : Australian Grand Prix, Free Practice 1 (01:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/yqvtrq1432309315.png" group-title="Eventi Live",Motorsport | Moto2 : Australian Grand Prix, Free Practice 1 (01:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/nfs/premium575/mono.m3u8
-
 #EXTINF:-1 tvg-id="motogpaustraliangrandprixfreepractice1" tvg-name="Motorsport | MotoGP : Australian Grand Prix, Free Practice 1 (01:35)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : Australian Grand Prix, Free Practice 1 (01:35)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="moto2australiangrandprixtraining" tvg-name="Motorsport | Moto2 : Australian Grand Prix, Training (04:10)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Motorsport | Moto2 : Australian Grand Prix, Training (04:10)
+#EXTINF:-1 tvg-id="moto2australiangrandprixtraining" tvg-name="Motorsport | Moto2 : Australian Grand Prix, Training (04:10)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/yqvtrq1432309315.png" group-title="Eventi Live",Motorsport | Moto2 : Australian Grand Prix, Training (04:10)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
