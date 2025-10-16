@@ -1024,13 +1024,13 @@ https://vavoo.to/play/996680722/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3107500995/index.m3u8
+https://vavoo.to/play/2749478718/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro",CANALE 8 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2749478718/index.m3u8
+https://vavoo.to/play/3107500995/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARINA TV" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro",CARINA TV
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1779,12 +1779,6 @@ https://example.com.m3u8
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/nfs/premium575/mono.m3u8
-
-#EXTINF:-1 tvg-id="tourofhollandstage2menettenleuritt15km" tvg-name="Cycling | Tour of Holland | Stage 2 Men | Etten-Leur (ITT, 15km) (13:45)" tvg-logo="https://mlermmvk3oie.i.optimole.com/cb:Eu6F.598f9/w:1024/h:460/q:mauto/ig:avif/https://hetiskoers.nl/wp-content/uploads/TourOfHOlland.png" group-title="Eventi Live",Cycling | Tour of Holland | Stage 2 Men | Etten-Leur (ITT, 15km) (13:45)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium878/mono.m3u8
 
 #EXTINF:-1 tvg-id="europeanchampionshipwomennetherlandswvsitalyw" tvg-name="Handball | European Championship Women : Netherlands W vs Italy W (19:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Netherlands W_vs_Italy W.png" group-title="Eventi Live",Handball | European Championship Women : Netherlands W vs Italy W (19:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
