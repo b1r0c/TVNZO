@@ -400,13 +400,13 @@ https://vavoo.to/play/558282118/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2881739927/index.m3u8
+https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3165086929/index.m3u8
+https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1774,34 +1774,34 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="bundesliga2hannover96vsschalke04" tvg-name="Soccer | Bundesliga 2 : Hannover 96 vs Schalke 04 (18:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Hannover 96_vs_Schalke 04.png" group-title="Eventi Live",Soccer | Bundesliga 2 : Hannover 96 vs Schalke 04 (18:30)
+#EXTINF:-1 tvg-id="bundesliga2hannover96vsschalke04" tvg-name="All Soccer Events | Bundesliga 2 : Hannover 96 vs Schalke 04 (18:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Hannover 96_vs_Schalke 04.png" group-title="Eventi Live",All Soccer Events | Bundesliga 2 : Hannover 96 vs Schalke 04 (18:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="italyseriebvirtusentellavssampdoria" tvg-name="Soccer | Italy - Serie B : Virtus Entella vs Sampdoria (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Virtus Entella_vs_Sampdoria.png" group-title="Eventi Live",Soccer | Italy - Serie B : Virtus Entella vs Sampdoria (20:30)
+#EXTINF:-1 tvg-id="italyseriebvirtusentellavssampdoria" tvg-name="All Soccer Events | Italy - Serie B : Virtus Entella vs Sampdoria (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Virtus Entella_vs_Sampdoria.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Virtus Entella vs Sampdoria (20:30)
 https://thedaddy.click/stream/stream-151.php
 
-#EXTINF:-1 tvg-id="italyseriecnovaravsunionarzignanochiampo" tvg-name="Soccer | Italy - Serie C : Novara vs Union ArzignanoChiampo (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Novara_vs_Union ArzignanoChiampo.png" group-title="Eventi Live",Soccer | Italy - Serie C : Novara vs Union ArzignanoChiampo (20:30)
+#EXTINF:-1 tvg-id="italyseriecnovaravsunionarzignanochiampo" tvg-name="All Soccer Events | Italy - Serie C : Novara vs Union ArzignanoChiampo (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Novara_vs_Union ArzignanoChiampo.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Novara vs Union ArzignanoChiampo (20:30)
 https://thedaddy.click/stream/stream-152.php
 
-#EXTINF:-1 tvg-id="italyseriecsassaritorresvsforlì" tvg-name="Soccer | Italy - Serie C : Sassari Torres vs Forlì (20:30)" tvg-logo="http://www.lega-pro.com/wp-content/themes/ascent/includes/images/squadre/2016/gironeB/forlì.png" group-title="Eventi Live",Soccer | Italy - Serie C : Sassari Torres vs Forlì (20:30)
+#EXTINF:-1 tvg-id="italyseriecsassaritorresvsforlì" tvg-name="All Soccer Events | Italy - Serie C : Sassari Torres vs Forlì (20:30)" tvg-logo="http://www.lega-pro.com/wp-content/themes/ascent/includes/images/squadre/2016/gironeB/forlì.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Sassari Torres vs Forlì (20:30)
 https://thedaddy.click/stream/stream-153.php
 
-#EXTINF:-1 tvg-id="italyseriecalcionevsinterii" tvg-name="Soccer | Italy - Serie C : Alcione vs Inter II (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Alcione_vs_Inter II.png" group-title="Eventi Live",Soccer | Italy - Serie C : Alcione vs Inter II (20:30)
+#EXTINF:-1 tvg-id="italyseriecalcionevsinterii" tvg-name="All Soccer Events | Italy - Serie C : Alcione vs Inter II (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Alcione_vs_Inter II.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Alcione vs Inter II (20:30)
 https://thedaddy.click/stream/stream-154.php
 
-#EXTINF:-1 tvg-id="italyseriecalcionevsinterii" tvg-name="Soccer | Italy - Serie C : Alcione vs Inter II (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Alcione_vs_Inter II.png" group-title="Eventi Live",Soccer | Italy - Serie C : Alcione vs Inter II (20:30)
+#EXTINF:-1 tvg-id="italyseriecalcionevsinterii" tvg-name="All Soccer Events | Italy - Serie C : Alcione vs Inter II (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Alcione_vs_Inter II.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Alcione vs Inter II (20:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="bundesligaunionberlinvsborussiamgladbach" tvg-name="Soccer | Bundesliga : Union Berlin vs Borussia M'gladbach (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Union Berlin_vs_Borussia M'gladbach.png" group-title="Eventi Live",Soccer | Bundesliga : Union Berlin vs Borussia M'gladbach (20:30)
+#EXTINF:-1 tvg-id="bundesligaunionberlinvsborussiamgladbach" tvg-name="All Soccer Events | Bundesliga : Union Berlin vs Borussia M'gladbach (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Union Berlin_vs_Borussia M'gladbach.png" group-title="Eventi Live",All Soccer Events | Bundesliga : Union Berlin vs Borussia M'gladbach (20:30)
 https://thedaddy.click/stream/stream-108.php
 
-#EXTINF:-1 tvg-id="franceligue1psgvsstrasbourg" tvg-name="Soccer | France - Ligue 1 : PSG vs Strasbourg (20:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/PSG_vs_Strasbourg.png" group-title="Eventi Live",Soccer | France - Ligue 1 : PSG vs Strasbourg (20:45)
+#EXTINF:-1 tvg-id="franceligue1psgvsstrasbourg" tvg-name="All Soccer Events | France - Ligue 1 : PSG vs Strasbourg (20:45)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/PSG_vs_Strasbourg.png" group-title="Eventi Live",All Soccer Events | France - Ligue 1 : PSG vs Strasbourg (20:45)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
@@ -1837,25 +1837,13 @@ https://new.newkso.ru/nfs/premium577/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="moto2australiangrandprixfreepractice2" tvg-name="Motorsport | Moto2 : Australian Grand Prix, Free Practice 2 (00:20)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/yqvtrq1432309315.png" group-title="Eventi Live",Motorsport | Moto2 : Australian Grand Prix, Free Practice 2 (00:20)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/nfs/premium575/mono.m3u8
-
-#EXTINF:-1 tvg-id="motogpaustraliangrandprixpractice2" tvg-name="Motorsport | MotoGP : Australian Grand Prix, Practice 2 (01:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : Australian Grand Prix, Practice 2 (01:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/nfs/premium575/mono.m3u8
-
 #EXTINF:-1 tvg-id="moto3australiangrandprixqualifying" tvg-name="Motorsport | Moto3 : Australian Grand Prix, Qualifying (03:45)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Motorsport | Moto3 : Australian Grand Prix, Qualifying (03:45)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="moto2australiangrandprixqualifying" tvg-name="Motorsport | Moto2 : Australian Grand Prix, Qualifying (04:40)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Motorsport | Moto2 : Australian Grand Prix, Qualifying (04:40)
+#EXTINF:-1 tvg-id="moto2australiangrandprixqualifying" tvg-name="Motorsport | Moto2 : Australian Grand Prix, Qualifying (04:40)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/yqvtrq1432309315.png" group-title="Eventi Live",Motorsport | Moto2 : Australian Grand Prix, Qualifying (04:40)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
@@ -1867,7 +1855,7 @@ https://new.newkso.ru/nfs/premium575/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="grandprixfrancewomensindividualshortprogram" tvg-name="Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.758da5c1-fc47-419f-9e58-bcd2ee6acccd/1/BOXART-16X9/en-US._UR1920,1080_SX500_FMpng_.png" group-title="Eventi Live",Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)
+#EXTINF:-1 tvg-id="grandprixfrancewomensindividualshortprogram" tvg-name="Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
