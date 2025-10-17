@@ -400,13 +400,13 @@ https://vavoo.to/play/558282118/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2881739927/index.m3u8
+https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3165086929/index.m3u8
+https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1786,7 +1786,7 @@ https://thedaddy.click/stream/stream-151.php
 #EXTINF:-1 tvg-id="italyseriecnovaravsunionarzignanochiampo" tvg-name="All Soccer Events | Italy - Serie C : Novara vs Union ArzignanoChiampo (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Novara_vs_Union ArzignanoChiampo.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Novara vs Union ArzignanoChiampo (20:30)
 https://thedaddy.click/stream/stream-152.php
 
-#EXTINF:-1 tvg-id="italyseriecsassaritorresvsforlì" tvg-name="All Soccer Events | Italy - Serie C : Sassari Torres vs Forlì (20:30)" tvg-logo="http://www.lega-pro.com/wp-content/themes/ascent/includes/images/squadre/2016/gironeB/forlì.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Sassari Torres vs Forlì (20:30)
+#EXTINF:-1 tvg-id="italyseriecsassaritorresvsforlì" tvg-name="All Soccer Events | Italy - Serie C : Sassari Torres vs Forlì (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Sassari Torres_vs_Forlì.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Sassari Torres vs Forlì (20:30)
 https://thedaddy.click/stream/stream-153.php
 
 #EXTINF:-1 tvg-id="italyseriecalcionevsinterii" tvg-name="All Soccer Events | Italy - Serie C : Alcione vs Inter II (20:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Alcione_vs_Inter II.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Alcione vs Inter II (20:30)
@@ -1831,7 +1831,7 @@ https://new.newkso.ru/nfs/premium577/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="tourofhollandstage3mensittardwatersley154km" tvg-name="Cycling | Tour of Holland | Stage 3 Men | Sittard – Watersley (154km) (13:45)" tvg-logo="https://www.procyclingstats.com/images/shirts/bx/eb/volkerwessels-cyclingteam-2025.png" group-title="Eventi Live",Cycling | Tour of Holland | Stage 3 Men | Sittard – Watersley (154km) (13:45)
+#EXTINF:-1 tvg-id="tourofhollandstage3mensittardwatersley154km" tvg-name="Cycling | Tour of Holland | Stage 3 Men | Sittard – Watersley (154km) (13:45)" tvg-logo="https://png.pngtree.com/png-clipart/20230805/original/pngtree-amsterdam-the-capital-of-holland-sign-tour-pictogram-vector-picture-image_9725402.png" group-title="Eventi Live",Cycling | Tour of Holland | Stage 3 Men | Sittard – Watersley (154km) (13:45)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
@@ -1849,7 +1849,7 @@ https://new.newkso.ru/ddy6/premium882/mono.m3u8
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/wind/premium879/mono.m3u8
 
-#EXTINF:-1 tvg-id="figureskatingfrenchgrandprixpairsshortprogram" tvg-name="Ice Skating | Figure Skating: French Grand Prix Pairs Short Program (20:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230811/original/pngtree-vector-illustration-of-a-speed-ice-skating-logo-featuring-text-space-for-your-slogan-or-tagline-vector-picture-image_10300771.png" group-title="Eventi Live",Ice Skating | Figure Skating: French Grand Prix Pairs Short Program (20:00)
+#EXTINF:-1 tvg-id="figureskatingfrenchgrandprixpairsshortprogram" tvg-name="Ice Skating | Figure Skating: French Grand Prix Pairs Short Program (20:00)" tvg-logo="https://www.usfigureskating.org/sites/default/files/styles/event_logo/public/media-library/2025 US Champs logo.png?itok=7ul1B5rr" group-title="Eventi Live",Ice Skating | Figure Skating: French Grand Prix Pairs Short Program (20:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
