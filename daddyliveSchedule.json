@@ -1,5 +1,127 @@
 {
     "Friday 17th Oct2025 - Schedule Time UK GMT": {
+        "PV Events</span>": [
+            {
+                "time": "18:30",
+                "event": "Grand Sumo Tournament",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "Porsche Sprint Challenge Lime Rock",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "2025 Dirt Track World Championship at Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "Super DIRTcar Series Brockville",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "2025 CARS Tour & SMART Modifieds at North Wilkesboro Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Short Track Super Series Octoberfest at Hagerstown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "World of Outlaws Sprint Cars Lincoln",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "107"
+                    }
+                ]
+            },
+            {
+                "time": "22:40",
+                "event": "2025 USAC AMSOIL National Sprint Cars at Dodge City Raceway Park",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 KKM Giveback Classic at Port City Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 Trophy Cup at Tulare Thunderbowl Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "2025 Kubota High Limit Racing All-In Championship at Texas Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "American Sprint Car Series Tulsa",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "156"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "19:00",
