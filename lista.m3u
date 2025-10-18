@@ -400,13 +400,13 @@ https://vavoo.to/play/558282118/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/3165086929/index.m3u8
+https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/2881739927/index.m3u8
+https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1180,13 +1180,13 @@ https://vavoo.to/play/2392139008/index.m3u8
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1200985239/index.m3u8
+https://vavoo.to/play/1565298794/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIA 3" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
 #EXTVLCOPT:http-referer="https://vavoo.to/"
 #EXTVLCOPT:http-header="Origin: https://vavoo.to"
-https://vavoo.to/play/1565298794/index.m3u8
+https://vavoo.to/play/1200985239/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
@@ -1798,7 +1798,7 @@ https://thedaddy.click/stream/stream-163.php
 #EXTINF:-1 tvg-id="italyseriecsorrentovscosenza" tvg-name="All Soccer Events | Italy - Serie C : Sorrento vs Cosenza (14:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Sorrento_vs_Cosenza.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Sorrento vs Cosenza (14:30)
 https://thedaddy.click/stream/stream-162.php
 
-#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsfoggia" tvg-name="All Soccer Events | Italy - Serie C : Virtus Casarano vs Foggia (14:30)" tvg-logo="https://img.datasport.it/img/logos/squadre/foggia.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Virtus Casarano vs Foggia (14:30)
+#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsfoggia" tvg-name="All Soccer Events | Italy - Serie C : Virtus Casarano vs Foggia (14:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Virtus Casarano_vs_Foggia.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Virtus Casarano vs Foggia (14:30)
 https://thedaddy.click/stream/stream-213.php
 
 #EXTINF:-1 tvg-id="italyserieccrotonevsmonopoli" tvg-name="All Soccer Events | Italy - Serie C : Crotone vs Monopoli (14:30)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Crotone_vs_Monopoli.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Crotone vs Monopoli (14:30)
@@ -1876,13 +1876,13 @@ https://new.newkso.ru/wind/premium870/mono.m3u8
 #EXTINF:-1 tvg-id="franceligue1olympiquemarseillevslehavre" tvg-name="All Soccer Events | France - Ligue 1 : Olympique Marseille vs Le Havre (21:05)" tvg-logo="https://raw.githubusercontent.com/b1r0c/TVNZO/main/logos/Olympique Marseille_vs_Le Havre.png" group-title="Eventi Live",All Soccer Events | France - Ligue 1 : Olympique Marseille vs Le Havre (21:05)
 https://thedaddy.click/stream/stream-164.php
 
-#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaningbowtaearlyrounds" tvg-name="Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)" tvg-logo="https://logodix.com/logo/760985.png" group-title="Eventi Live",Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)
+#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaningbowtaearlyrounds" tvg-name="Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)" tvg-logo="https://static3.tildacdn.com/tild6165-3938-4138-a438-336339313333/logo.png" group-title="Eventi Live",Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/ddy6/premium576/mono.m3u8
 
-#EXTINF:-1 tvg-id="formula1msccruisesunitedstatesgpsprint" tvg-name="Motorsport | Formula 1 : MSC Cruises United States GP - Sprint (19:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : MSC Cruises United States GP - Sprint (19:00)
+#EXTINF:-1 tvg-id="formula1msccruisesunitedstatesgpsprint" tvg-name="Motorsport | Formula 1 : MSC Cruises United States GP - Sprint (19:00)" tvg-logo="https://images.seeklogo.com/logo-png/33/2/formula-1-logo-png_seeklogo-330361.png" group-title="Eventi Live",Motorsport | Formula 1 : MSC Cruises United States GP - Sprint (19:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
@@ -1911,12 +1911,6 @@ https://new.newkso.ru/ddy6/premium462/mono.m3u8
 #EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
 #EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
 https://new.newkso.ru/ddy6/premium882/mono.m3u8
-
-#EXTINF:-1 tvg-id="t100triathlonworldtourwollongongmenandwomen" tvg-name="Triathlon | T100 Triathlon World Tour | Wollongong Men and Women (07:00)" tvg-logo="https://content.protriathletes.org/content/images/2024/09/b338e080-8dcf-4b6c-b649-d41bcae3d29c.png" group-title="Eventi Live",Triathlon | T100 Triathlon World Tour | Wollongong Men and Women (07:00)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-header="Origin: https://forcedtoplay.xyz"
-https://new.newkso.ru/wind/premium878/mono.m3u8
 
 #EXTINF:-1 tvg-id="skijumpingsummergrandprixinhinzenbach" tvg-name="Ski Jumping | Ski Jumping: Summer Grand Prix in Hinzenbach (14:00)" tvg-logo="https://usaskijumping.com/wp-content/uploads/2024/11/USASJlogo.png" group-title="Eventi Live",Ski Jumping | Ski Jumping: Summer Grand Prix in Hinzenbach (14:00)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
